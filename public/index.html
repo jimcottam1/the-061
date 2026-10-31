@@ -212,6 +212,8 @@
             const get = name => fetch(`${base}${name}.json`, { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null);
             const [warnings, weather, rivers, water, buses] = await Promise.all(['warnings', 'weather', 'rivers', 'water', 'buses'].map(get));
             const parts = [];
+            // All-clear items are dropped on phones, where the strip has little room
+            const calm = text => ({ text, calm: true });
 
             const w = weather?.counties?.limerick;
             if (w) parts.push(`<strong>${Math.round(w.temperature)}°C</strong> ${esc(w.description.toLowerCase())}, ${Math.round(w.todayMin)}–${Math.round(w.todayMax)}° today`);
@@ -221,18 +223,18 @@
                 const top = ['red', 'orange', 'yellow'].find(l => here.some(x => x.level === l));
                 parts.push(top
                     ? `<span class="warn ${top}">${esc(top[0].toUpperCase() + top.slice(1))} ${esc(here.find(x => x.level === top).type.toLowerCase())} warning</span>`
-                    : 'No weather warnings');
+                    : calm('No weather warnings'));
             }
 
             if (rivers) {
                 const gauges = rivers.stations.filter(s => s.county === 'limerick' && s.trend !== 'unknown');
                 const rising = gauges.filter(s => s.trend.startsWith('rising')).length;
-                if (gauges.length) parts.push(rising ? `<strong>${rising}</strong> river gauge${rising === 1 ? '' : 's'} rising` : 'Rivers steady');
+                if (gauges.length) parts.push(rising ? `<strong>${rising}</strong> river gauge${rising === 1 ? '' : 's'} rising` : calm('Rivers steady'));
             }
 
             if (water) {
                 const active = (water.notices || []).filter(n => n.county === 'limerick' && n.active).length;
-                parts.push(active ? `<strong>${active}</strong> water notice${active === 1 ? '' : 's'}` : 'No water notices');
+                parts.push(active ? `<strong>${active}</strong> water notice${active === 1 ? '' : 's'}` : calm('No water notices'));
             }
 
             if (buses) {
@@ -243,7 +245,7 @@
 
             if (!parts.length) return; // Ireland Now unavailable: leave the strip hidden
             const el = document.getElementById('today');
-            el.innerHTML = `<span class="today-label">Limerick now</span>${parts.map(p => `<span class="today-item">${p}</span>`).join('')}
+            el.innerHTML = `<span class="today-label">Limerick now</span>${parts.map(p => p.calm ? `<span class="today-item calm">${p.text}</span>` : `<span class="today-item">${p}</span>`).join('')}
                 <a class="today-more" href="/ireland-now/#county=limerick&show=water,buses">Live map &rarr;</a>`;
             el.hidden = false;
         }

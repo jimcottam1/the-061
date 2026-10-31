@@ -437,6 +437,21 @@ a:hover { color: var(--accent); }
     color: var(--accent);
 }
 
+/* Phones: label and map link on top, weather on its own line, the rest in two columns */
+@media (max-width: 600px) {
+    .today-strip {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 3px 14px;
+        padding: 8px 0;
+    }
+    .today-label { grid-row: 1; grid-column: 1; margin: 0 0 2px; }
+    .today-more { grid-row: 1; grid-column: 2; justify-self: end; margin: 0; }
+    .today-label + .today-item { grid-column: 1 / -1; }
+    .today-item + .today-item::before { content: none; }
+    .today-item.calm { display: none; }
+}
+
 /* ---------- GAA results and fixtures box ---------- */
 
 .fixtures {
