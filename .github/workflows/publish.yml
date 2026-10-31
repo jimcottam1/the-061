@@ -83,6 +83,17 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # Master may have moved on during the run (e.g. a hand edit to the store). Merge the store
+          # story by story, as a line-based rebase of the store conflicts, then commit on top of master.
+          git fetch -q origin master
+          if [ -f data/store.json ] && git cat-file -e origin/master:data/store.json 2>/dev/null \
+             && ! git diff --quiet HEAD origin/master -- data/store.json; then
+            git show HEAD:data/store.json > "$RUNNER_TEMP/base.json" 2>/dev/null || echo '{}' > "$RUNNER_TEMP/base.json"
+            git show origin/master:data/store.json > "$RUNNER_TEMP/theirs.json"
+            node scripts/merge-store.js "$RUNNER_TEMP/base.json" data/store.json "$RUNNER_TEMP/theirs.json"
+          fi
+          # Keeps this run's files in the working tree; only the data files below are committed
+          git reset -q origin/master
           # The store doesn't exist until the first scrape has run
           if [ -f data/store.json ]; then git add data/store.json; fi
           if [ -f data/gaa-fixtures.json ]; then git add data/gaa-fixtures.json; fi
@@ -90,7 +101,6 @@ jobs:
             echo "No changes to the article store"
           else
             git commit -m "chore: update article store [skip ci]"
-            git pull --rebase
             git push
           fi
 
