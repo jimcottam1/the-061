@@ -248,6 +248,8 @@ function articleHtml(article) {
 ${paragraphs}
             </div>
 
+            ${article.brief && original ? `<p class="read-full"><a href="${escapeHtml(original)}" target="_blank" rel="noopener noreferrer">Read the full story at ${escapeHtml(article.originalSource)} &rarr;</a></p>` : ''}
+
             <section class="boxed">
                 <h2>The Limerick connection</h2>
                 <p>${escapeHtml(article.localAngle)}</p>
@@ -256,7 +258,9 @@ ${paragraphs}
             ${shareBar(article, 'Share this story')}
 
             <section class="source-note">
-                <p>This story was rewritten by AI for The 061 from original reporting by <strong>${escapeHtml(article.originalSource)}</strong>${article.originalTitle ? `, &ldquo;${escapeHtml(article.originalTitle)}&rdquo;` : ''}.</p>
+                <p>${article.brief
+                    ? 'This brief was written by AI for The 061 from the headline and summary of'
+                    : 'This story was rewritten by AI for The 061 from original reporting by'} <strong>${escapeHtml(article.originalSource)}</strong>${article.originalTitle ? `, &ldquo;${escapeHtml(article.originalTitle)}&rdquo;` : ''}.</p>
                 ${original ? `<p><a href="${escapeHtml(original)}" target="_blank" rel="noopener noreferrer">Read the original article &rarr;</a></p>` : ''}
             </section>
         </main>
@@ -447,6 +451,8 @@ function buildSite() {
             slug, section, headline, originalSource, publishedAt,
             // Gemini's ratings, used to pick the lead and Top stories (missing on stories not yet rated)
             importance: article.importance || null,
+            // Only the headline and summary were available, so it shouldn't lead the paper
+            ...(article.brief && { brief: true }),
             positivity: article.positivity || null,
             originalLink: safeUrl(article.originalLink),
             sourceHome: safeUrl(article.sourceHome),

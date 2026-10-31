@@ -445,13 +445,15 @@
         }
 
         /**
-         * Lead: the best-scoring story with a photo from the last day (or two, or the week).
+         * Lead: the best-scoring full story (not a brief) with a photo from the last day (or two, or the week).
          * Top stories: the best of the last two days, at most one per section so one busy desk can't
          * fill the top of the paper, and always including any major (importance 5) story from today.
          */
         function chooseFront(articles) {
             const withPhoto = articles.filter(a => a.imageUrl);
-            const lead = [...recentPool(withPhoto.length ? withPhoto : articles, [24, 48, 24 * 7], 1)].sort(byScore)[0];
+            const fullWithPhoto = withPhoto.filter(a => !a.brief);
+            const candidates = fullWithPhoto.length ? fullWithPhoto : withPhoto.length ? withPhoto : articles;
+            const lead = [...recentPool(candidates, [24, 48, 24 * 7], 1)].sort(byScore)[0];
             const others = articles.filter(a => a !== lead);
             const pool = [...recentPool(others, [48, 24 * 7], TOP_STORIES)].sort(byScore);
 

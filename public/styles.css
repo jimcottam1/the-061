@@ -385,6 +385,13 @@ a:hover { color: var(--accent); }
 .source-note p { margin-bottom: 6px; }
 .source-note a { color: var(--accent); font-weight: 600; }
 
+/* A brief only has the headline and summary, so the original is the place to read it */
+.read-full {
+    margin: 4px 0 24px;
+    font-weight: 600;
+}
+.read-full a { color: var(--accent); }
+
 /* ---------- Footer ---------- */
 
 /* ---------- Limerick now strip ---------- */

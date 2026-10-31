@@ -108,12 +108,56 @@ Respond with ONLY "YES" or "NO"`;
 }
 
 /**
- * Rewrite article using AI
+ * Prompt for a short brief, used when the full article couldn't be fetched (the Limerick Leader
+ * blocks automated requests) and all we have is the title and the feed's one-line summary.
+ */
+function briefPrompt(originalArticle) {
+    return `You are a professional journalist writing for "The 061", a Limerick news site named after the local phone code.
+
+SOURCE ARTICLE (only the title and summary are available, not the full text):
+Title: ${originalArticle.title}
+Source: ${originalArticle.source}
+Published: ${originalArticle.pubDate}
+Summary: ${originalArticle.description}
+
+TASK: Write a short news brief for The 061 that points readers to the original article.
+
+REQUIREMENTS:
+1. The HEADLINE states what the article is about, using only the facts given. Under 15 words.
+   Different wording from the original.
+2. The SUMMARY is one plain sentence giving what is known.
+3. The STORY is ONE short paragraph of one or two sentences. Say only what the title and summary say.
+   Do NOT pad it out, restate the same point in other words, or add background, praise or
+   significance that isn't in the source. A short, honest brief is what is wanted.
+4. Only use facts from the title and summary. Do not invent details, quotes or outcomes.
+5. Be objective, balanced, and respectful.
+
+${SECTION_GUIDE}
+
+${RATING_GUIDE}
+
+RESPOND IN JSON:
+{
+  "headline": "<headline>",
+  "summary": "<one sentence>",
+  "story": "<one or two sentences>",
+  "localAngle": "<one sentence explaining the Limerick connection>",
+  "section": "<one of: ${SECTION_NAMES.join(', ')}>",
+  "importance": <1-5>,
+  "positivity": <1-5>
+}
+
+Return ONLY valid JSON, no additional text.`;
+}
+
+/**
+ * Rewrite article using AI. Without the full content it writes a short brief instead.
  */
 async function rewriteArticle(originalArticle, fullContent) {
-    console.log(`\n✍️  Rewriting: ${originalArticle.title.substring(0, 60)}...`);
+    const brief = !fullContent;
+    console.log(`\n✍️  ${brief ? 'Writing brief' : 'Rewriting'}: ${originalArticle.title.substring(0, 60)}...`);
 
-    const prompt = `You are a professional journalist writing for "The 061", a Limerick news site named after the local phone code.
+    const prompt = brief ? briefPrompt(originalArticle) : `You are a professional journalist writing for "The 061", a Limerick news site named after the local phone code.
 
 SOURCE ARTICLE:
 Title: ${originalArticle.title}
@@ -121,7 +165,8 @@ Source: ${originalArticle.source}
 Published: ${originalArticle.pubDate}
 Summary: ${originalArticle.description}
 
-${fullContent ? `FULL CONTENT:\n${fullContent}` : ''}
+FULL CONTENT:
+${fullContent}
 
 TASK: Rewrite this as an original news story for The 061.
 
@@ -186,6 +231,7 @@ Return ONLY valid JSON, no additional text.`;
 
         return {
             ...rewritten,
+            ...(brief && { brief: true }),
             originalTitle: originalArticle.title,
             originalSource: originalArticle.source,
             originalLink: originalArticle.link,
