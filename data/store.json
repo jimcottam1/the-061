@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-10-31T17:38:27.517Z",
-    "totalArticles": 22
+    "lastScrape": "2026-10-31T20:27:23.060Z",
+    "totalArticles": 21
   },
   "articles": {
     "9290418": {
@@ -807,6 +807,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/cs-0c27fb93-be34-47ec-8566-7a3d7ff851a7.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T15:54:37.383Z"
+    },
+    "9315010": {
+      "id": "9315010",
+      "title": "PICTURES: Limerick students take part in 'walk and talk' day",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-students-take-part-in-walk-and-talk-day-9315010",
+      "description": "Students and faculty of Coláiste Iósaef Kilmallock walk together to celebrate Narrative 4 Walk and Talk Day",
+      "pubDate": "Sat, 31 Oct 2026 18:00:05 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/58/ilim-Narrative-4-Walk-and-Talk-Day-Coliste-Isaef-Kilmallock-22-10-26-2.jpeg?width=1200&auto=webp&trim=118%2C0%2C118%2C0",
+      "imageCredit": "PICTURE: ADRIAN BUTLER",
+      "source": "limerickleader",
+      "scrapedAt": "2026-10-31T20:27:10.822Z"
     },
     "9315631": {
       "id": "9315631",
@@ -2231,6 +2243,26 @@
       "author": "David Raleigh",
       "source": "limerickpost",
       "scrapedAt": "2026-10-31T17:38:13.034Z"
+    },
+    "https://www.limerickpost.ie/?p=362661": {
+      "id": "https://www.limerickpost.ie/?p=362661",
+      "title": "Quick return to senior for Dromin-Athlacca",
+      "link": "https://www.limerickpost.ie/2026/10/31/quick-return-to-senior-for-dromin-athlacca/",
+      "description": "AFTER the briefest of stints, Dromin/Athlacca, DA, will return to Senior Hurling next season following a merited 2-18 (24) to 3-11 (20) defeat of neighbours Bruff in the Premier Intermediate Final at the Gaelic Grounds. Backed by the end of Storm Boelo, James Kennedy’s side were ten points (2-11 to 0-7) leaders at the interval. [&#8230;]\nThe post Quick return to senior for Dromin-Athlacca appeared first on Limerick Post.",
+      "pubDate": "Sat, 31 Oct 2026 18:00:20 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-10-31T20:27:10.469Z"
+    },
+    "https://limerickvoice.com/?p=53299": {
+      "id": "https://limerickvoice.com/?p=53299",
+      "title": "Munster Rugby defeated by The Sharks in frustrating clash",
+      "link": "https://limerickvoice.com/sport/munster-rugby-sharks-urc-result-lose/",
+      "description": "A frustrating evening for Munster sees The Sharks come away with a 15-3 victory in Thomond Park. AS FIREWORKS lit up the Limerick City skyline on Halloween night, it was far from fireworks from Munster on the hallowed Thomond Park turf.   It was an error-filled evening by both Munster and The Sharks as neither [&#8230;]\nThe post Munster Rugby defeated by The Sharks in frustrating clash appeared first on .",
+      "pubDate": "Sat, 31 Oct 2026 19:44:55 +0000",
+      "author": "Stephen Kelly",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-10-31T20:27:11.539Z"
     }
   },
   "rewritten": {
@@ -2893,6 +2925,11 @@
       "imageCredit": "INSTAGRAM",
       "rewrittenAt": "2026-10-27T15:21:48.500Z"
     },
+    "9312577": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
     "9312786": {
       "headline": "Limerick Man Sentenced for Role in Illegal 'Dodgy Box' Operation",
       "summary": "A Limerick man has been sentenced in court for his involvement in an illegal television streaming operation. The court heard he acted as a 'money mule' rather than the principal operator of the business.",
@@ -2929,6 +2966,23 @@
       "skipped": true,
       "duplicateOf": "9307939",
       "rewrittenAt": "2026-10-28T11:18:23.773Z"
+    },
+    "9313135": {
+      "headline": "Dr Paul O’Brien explores the local Quaker legacy and its impact",
+      "summary": "Columnist Dr Paul O’Brien has reflected on how a small group shaped local life for generations through business and benevolence.",
+      "story": "In a recent column, Dr Paul O’Brien examined the Quaker legacy of business and benevolence, reflecting on a small but significant group that shaped life for generations. Readers can find the full piece on the Limerick Leader website.",
+      "localAngle": "The column reflects on the historical impact of the Quaker community on local life in the area.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "IF WALLS COULD TALK: Business, benevolence and the Quaker legacy",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/opinion/if-walls-could-talk-paul-obrien/if-walls-could-talk-business-benevolence-and-the-quaker-legacy-in-limerick-9313135",
+      "publishedAt": "Fri, 30 Oct 2026 07:00:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/23/22/Untitled.png?width=1200&auto=webp&trim=735%2C0%2C139%2C0",
+      "imageCredit": "freelance",
+      "rewrittenAt": "2026-10-31T20:32:13.891Z"
     },
     "9313286": {
       "skipped": true,
@@ -2990,10 +3044,49 @@
       "duplicateOf": "9313581",
       "rewrittenAt": "2026-10-28T11:18:23.773Z"
     },
+    "9314861": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9315010": {
+      "headline": "Kilmallock Students and Faculty Participate in Narrative 4 Walk and Talk Day",
+      "summary": "Students and faculty at Coláiste Iósaef in Kilmallock recently came together for a 'walk and talk' event celebrating Narrative 4 Walk and Talk Day.",
+      "story": "Photos from the event show students and faculty of Coláiste Iósaef Kilmallock walking together to celebrate Narrative 4 Walk and Talk Day. Readers can view the pictures in the original article on the Limerick Leader.",
+      "localAngle": "The event took place at Coláiste Iósaef in Kilmallock, County Limerick.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick students take part in 'walk and talk' day",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-students-take-part-in-walk-and-talk-day-9315010",
+      "publishedAt": "Sat, 31 Oct 2026 18:00:05 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/58/ilim-Narrative-4-Walk-and-Talk-Day-Coliste-Isaef-Kilmallock-22-10-26-2.jpeg?width=1200&auto=webp&trim=118%2C0%2C118%2C0",
+      "imageCredit": "PICTURE: ADRIAN BUTLER",
+      "rewrittenAt": "2026-10-31T20:30:44.030Z"
+    },
     "9315631": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362563",
       "rewrittenAt": "2026-10-28T18:49:09.685Z"
+    },
+    "9315666": {
+      "headline": "Family Fun Abounds at Limerick's Halloween and Harvest Festivals",
+      "summary": "Limerick's Halloween and Harvest festivals have delivered family-friendly celebrations across the city.",
+      "story": "Events including the Limerick Home of Halloween and the Limerick Harvest Festival provided spooktacular fun for all the family, according to published photographs from the celebrations.",
+      "localAngle": "The festivities took place locally in Limerick, bringing Halloween and harvest events to the community.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick's Halloween festivities bring spooktacular fun for all the family",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limericks-halloween-festivities-bring-spooktacular-fun-for-all-the-family-9315666",
+      "publishedAt": "Fri, 30 Oct 2026 15:30:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/48/KRB-25-10-2026-LCCC-Home-of-Halloween-113-81b769b5.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: KIERAN RYAN-BENSON",
+      "rewrittenAt": "2026-10-31T20:31:47.018Z"
     },
     "9315676": {
       "skipped": true,
@@ -3005,6 +3098,16 @@
       "duplicateOf": "9316083",
       "rewrittenAt": "2026-10-31T15:16:00.660Z"
     },
+    "9315927": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362605",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9316083": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362695",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
     "9317045": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53174",
@@ -3015,15 +3118,145 @@
       "duplicateOf": "9317386",
       "rewrittenAt": "2026-10-29T16:07:49.216Z"
     },
+    "9317386": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
     "9317698": {
       "skipped": true,
       "duplicateOf": "9314966",
       "rewrittenAt": "2026-10-29T11:29:09.021Z"
     },
+    "9318168": {
+      "headline": "Junior Ryder Cup Qualification Details Announced for Limerick",
+      "summary": "The selection criteria for the Junior Ryder Cup event in Limerick have been made public.",
+      "story": "Details of the selection process for the Junior Ryder Cup in Limerick have been revealed, with past participants including golf stars Rory McIlroy, Nicolai Højgaard, Nicolas Colsaerts and Leona Maguire. The report was published by the Limerick Leader on October 29, 2026.",
+      "localAngle": "The selection process involves the Junior Ryder Cup event being held in Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Selection process for Junior Ryder Cup in Limerick revealed",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/ryder-cup/selection-process-for-junior-ryder-cup-in-limerick-revealed-9318168",
+      "publishedAt": "Thu, 29 Oct 2026 12:31:55 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/06/24/15/11/15874418-library.jpeg?width=1200&auto=webp&trim=6%2C0%2C7%2C0",
+      "imageCredit": "*",
+      "rewrittenAt": "2026-10-31T20:33:26.235Z"
+    },
+    "9318340": {
+      "skipped": true,
+      "duplicateOf": "9315666",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9318476": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
     "9318590": {
       "skipped": true,
       "duplicateOf": "9316083",
       "rewrittenAt": "2026-10-29T16:07:49.216Z"
+    },
+    "9318776": {
+      "headline": "Donnacha Hurley Appointed as New General Manager of The Limerick Strand Hotel",
+      "summary": "Donnacha Hurley takes over as general manager at The Limerick Strand Hotel following Stephen O'Connor's passing.",
+      "story": "Donnacha Hurley joins The Limerick Strand Hotel following a period of transition for the business, succeeding the late Stephen O’Connor.",
+      "localAngle": "The appointment directly affects management at a prominent Limerick city hotel.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Limerick Hotel announces its new general manager",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/business/limerick-hotel-announces-its-new-general-manager-9318776",
+      "publishedAt": "Thu, 29 Oct 2026 15:21:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/04/iconic-upload-2022_07_04-limerick-strand-hotel-1656929872044.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-10-31T20:33:17.123Z"
+    },
+    "9318843": {
+      "headline": "St Senans duo aim for consecutive promotions with Cork GAA club",
+      "summary": "Former Limerick footballer Ian Ryan and fellow St Senans clubman Jody O’Hanlon are part of the backroom team for Buttevant.",
+      "story": "Former Limerick footballer and selector Ian Ryan is part of the backroom team at Buttevant assembled by fellow St Senans clubman Jody O’Hanlon as they look to guide the Cork club to back-to-back promotions.",
+      "localAngle": "The coaching duo behind the Cork club's promotion bid both hail from the St Senans club in Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick duo looking to guide Cork club to back-to-back promotions",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/limerick-duo-looking-to-guide-cork-club-to-back-to-back-promotions-9318843",
+      "publishedAt": "Fri, 30 Oct 2026 08:30:45 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/15/33/1185584.jpeg?width=1200&auto=webp&trim=57%2C0%2C148%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-10-31T20:32:05.136Z"
+    },
+    "9318866": {
+      "headline": "Garda Commissioner: Mental Health Calls Drawing Forces From Frontline Policing",
+      "summary": "Commissioner Justin Kelly reports that gardaí are handling more mental health interventions than ever before.",
+      "story": "Commissioner Justin Kelly stated that these mental health interventions are taking gardaí away from frontline policing. Readers can view the original article on the Limerick Leader.",
+      "localAngle": "This report from the Limerick Leader highlights policing and health challenges relevant to the local area.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Gardaí ‘dealing with more mental health interventions than ever’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gardai-dealing-with-more-mental-health-interventions-than-ever-9318866",
+      "publishedAt": "Thu, 29 Oct 2026 15:40:55 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/15/cs-3474ef46-64f9-4856-9b35-d423722125c6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:33:08.404Z"
+    },
+    "9318972": {
+      "headline": "Dublin Home Features 'Dead Wedding' Halloween Display for Charity",
+      "summary": "A Dublin home has been transformed with a 'Dead Wedding' Halloween theme that is raising funds for Breast Cancer Ireland.",
+      "story": "The spooky display has been drawing scores of visitors to the area, including local schoolchildren, with this year's event supporting Breast Cancer Ireland.",
+      "localAngle": "While located in Dublin, this creative community fundraising effort for Breast Cancer Ireland may interest Limerick readers looking at seasonal displays.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘Dead wedding’ Halloween theme transforms Dublin home",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/dead-wedding-halloween-theme-transforms-dublin-home-9318972",
+      "publishedAt": "Thu, 29 Oct 2026 16:14:09 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/16/cs-5462080b-90d9-48c9-b497-cd2511363aa5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:33:01.061Z"
+    },
+    "9319032": {
+      "headline": "Commissioner Kelly Warns Drug Intimidation in Limerick is Only the Tip of the Iceberg",
+      "summary": "Garda Commissioner Justin Kelly has stated that reported drug-related intimidation is only the tip of the iceberg and has resulted in death.",
+      "story": "Speaking on the issue, Commissioner Justin Kelly noted that drug-related intimidation has been around for a long time and has ultimately led to death. Authorities indicate that the currently reported cases represent only a fraction of the wider problem.",
+      "localAngle": "This Garda warning on drug-related intimidation directly impacts local communities across the 061 area.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Gardaí say reported drug-related intimidation just ‘tip of the iceberg’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gardai-say-reported-drug-related-intimidation-just-tip-of-the-iceberg-9319032",
+      "publishedAt": "Thu, 29 Oct 2026 16:57:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/17/cs-801d095c-c1de-4188-8ae8-7676970e6fe0.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:32:50.380Z"
+    },
+    "9319206": {
+      "headline": "Sinn Féin TDs Interviewed By Police Regarding Garvaghy Road Protest",
+      "summary": "Sinn Féin TDs Pearse Doherty and Matt Carthy attended a Belfast police station for interviews on Thursday afternoon.",
+      "story": "Pearse Doherty and Matt Carthy attended a police station in Belfast on Thursday afternoon to be interviewed by police regarding the Garvaghy Road protest.",
+      "localAngle": "This national political story is reported here for Limerick readers following current affairs.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Sinn Féin TDs interviewed by police over Garvaghy Road protest",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/sinn-fein-tds-interviewed-by-police-over-garvaghy-road-protest-9319206",
+      "publishedAt": "Thu, 29 Oct 2026 17:06:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/17/cs-31e967b7-fa6c-4b9a-a5d8-40d285ed58cd.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:32:41.122Z"
     },
     "9319218": {
       "skipped": true,
@@ -3035,6 +3268,38 @@
       "duplicateOf": "9317996",
       "rewrittenAt": "2026-10-30T11:21:40.872Z"
     },
+    "9319379": {
+      "headline": "Commissioner Justin Kelly schedules meeting with Horkan family",
+      "summary": "Commissioner Justin Kelly has agreed to meet the relatives of the late Detective Garda Colm Horkan.",
+      "story": "Commissioner Justin Kelly has committed to meeting the family of murdered Detective Garda Colm Horkan, according to reports from the Limerick Leader.",
+      "localAngle": "The Limerick Leader reported on the upcoming meeting involving Commissioner Justin Kelly and the Horkan family.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Commissioner to meet Horkan family",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/commissioner-to-meet-horkan-family-9319379",
+      "publishedAt": "Thu, 29 Oct 2026 19:13:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/19/cs-e4f76a98-bc7c-4b0a-86e2-bb120bb1b675.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:32:32.030Z"
+    },
+    "9319472": {
+      "headline": "New Shoe Insole Aims to Relieve Foot Pain Caused by Epidermolysis Bullosa",
+      "summary": "A shoe insole is being developed to help people with the most common variant of epidermolysis bullosa who suffer from severe blisters on their feet after short walks.",
+      "story": "Individuals living with the most common variant of epidermolysis bullosa experience severe blisters on their feet even after short walks, but a new shoe insole could potentially ease this pain. Read the full story on the Limerick Leader.",
+      "localAngle": "This health innovation is reported by the Limerick Leader, serving readers across the 061 area.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Shoe insole could ease pain for those living with skin condition",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/shoe-insole-could-ease-pain-for-those-living-with-skin-condition-9319472",
+      "publishedAt": "Fri, 30 Oct 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/00/cs-81ea26d5-9cf1-4256-a1f3-27ea70f1d57b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:32:23.143Z"
+    },
     "9319781": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362605",
@@ -3045,10 +3310,138 @@
       "duplicateOf": "https://limerickvoice.com/?p=53291",
       "rewrittenAt": "2026-10-31T10:53:05.635Z"
     },
+    "9319940": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9320072": {
+      "headline": "Manager Declan Nash previews historic Limerick football final appearance",
+      "summary": "Manager Declan Nash has guided his club to the Limerick senior football championship final following a rise from Junior B in 2014.",
+      "story": "Excitement is building as the club prepares for the SFC final under manager Declan Nash, marking the furthest they have ever advanced in the championship. The team's journey has seen them rise from a Junior B club in 2014 to reach the summit of Limerick football with just one step remaining.",
+      "localAngle": "The story follows a local club's historic rise through the ranks of Limerick football ahead of the county championship final.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "'Fantastic time to be around': Excitement builds ahead of SFC final",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/fantastic-time-to-be-around-excitement-builds-ahead-of-sfc-final-9320072",
+      "publishedAt": "Fri, 30 Oct 2026 19:00:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/11/30/DSC_5644.jpeg?width=1200&auto=webp&trim=151%2C0%2C151%2C0",
+      "imageCredit": "PAT O'LEARY",
+      "rewrittenAt": "2026-10-31T20:31:20.640Z"
+    },
+    "9320262": {
+      "headline": "Department Attributes Delay in Homeless Figures to Industrial Action",
+      "summary": "Homeless statistics have not been published due to public sector industrial action.",
+      "story": "The Department stated that homeless figures were not published because public sector workers are engaged in a work-to-rule action and took part in a nationwide strike earlier this month. Readers can view the original report on the Limerick Leader website.",
+      "localAngle": "This department update concerns the reporting of local homelessness data that impacts the region.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Homeless figures not published because of industrial action – department",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/homeless-figures-not-published-because-of-industrial-action-department-9320262",
+      "publishedAt": "Fri, 30 Oct 2026 15:07:47 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/15/cs-586d476e-1170-49ae-bda6-1b0aa612c878.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:31:57.387Z"
+    },
+    "9320554": {
+      "skipped": true,
+      "duplicateOf": "9320262",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
     "9321219": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362529",
       "rewrittenAt": "2026-10-31T10:53:05.635Z"
+    },
+    "9321327": {
+      "headline": "Cork University Hospital Staffing Levels Prompt Call for Independent Review",
+      "summary": "Clinical directors at Cork University Hospital have asked Micheál Martin to commission an independent assessment of staffing needs following a significant workforce increase.",
+      "story": "Clinical directors at Cork University Hospital urged Micheál Martin to order an independent assessment of its staffing needs after a very significant increase in the workforce had to be tempered.",
+      "localAngle": "While based in Cork, decisions regarding national hospital staffing levels and funding requests made to the government are of interest to healthcare observers in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "‘Very significant’ increase in CUH workforce has to be ‘tempered’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/very-significant-increase-in-cuh-workforce-has-to-be-tempered-9321327",
+      "publishedAt": "Fri, 30 Oct 2026 16:37:22 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/16/cs-8ee7163d-5c7b-43a9-aadb-e25488243d6a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:31:38.087Z"
+    },
+    "9321394": {
+      "headline": "RTÉ Director General Kevin Bakhurst discusses Ireland's Eurovision future",
+      "summary": "RTÉ's head has stated that it will not be easy for Ireland to return to the Eurovision Song Contest and that removing Israel from the competition is unlikely.",
+      "story": "RTÉ boss Kevin Bakhurst recently addressed the broadcaster's future participation in the Eurovision Song Contest. He stated that a return would not be easy and expressed doubt that organisers would remove Israel from the event.",
+      "localAngle": "As Limerick residents and viewers tune in to the Eurovision each year, RTÉ's decisions regarding the contest impact national television audiences across the 061 region.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Not ‘going to be easy’ for Ireland to return to Eurovision, RTÉ boss says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/not-going-to-be-easy-for-ireland-to-return-to-eurovision-rte-boss-says-9321394",
+      "publishedAt": "Fri, 30 Oct 2026 17:21:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/17/cs-352d26f6-e1b3-47df-b60f-44a2df7721ac.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:31:29.160Z"
+    },
+    "9321991": {
+      "headline": "Fatal Attack Reported at Co Kerry Migrant Accommodation Centre",
+      "summary": "One man has died and another was injured following an incident in Tralee, leading to the arrest of a man in his 40s.",
+      "story": "A man has died and a second man sustained injuries during an attack at a migrant accommodation centre in Tralee, County Kerry, with a man in his 40s subsequently arrested by Gardaí.",
+      "localAngle": "While this national news story occurred outside the 061 region in Co Kerry, it involves a serious incident at an accommodation centre that will be of interest to readers across the country.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Man dies after attack at centre housing migrants in Ireland",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/man-dies-after-attack-at-centre-housing-migrants-in-ireland-9321991",
+      "publishedAt": "Sat, 31 Oct 2026 11:30:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/11/cs-794fefb2-e4cd-4887-9fda-cdafe9ce1fc7.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:31:10.948Z"
+    },
+    "9322041": {
+      "headline": "Independent group proposed for pay talks following stalemate and strike threats",
+      "summary": "An independent group has been called for to handle public sector pay talks following an impasse and threats of further strike action.",
+      "story": "The call for an independent group follows 10 days of intensive negotiations on public sector pay that reached an impasse, accompanied by threats of further strike action.",
+      "localAngle": "Public sector pay talks and potential strike action impact workers and public services locally in Limerick.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Call for independent group for pay talks after impasse reached",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/call-for-independent-group-for-pay-talks-after-impasse-reached-9322041",
+      "publishedAt": "Sat, 31 Oct 2026 12:58:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/13/cs-04461036-02f0-4df6-a919-b94f030ff4e9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:31:02.049Z"
+    },
+    "9322091": {
+      "headline": "Dublin Gardai Targeted With Suspected Firearm During Cyclist Pursuit",
+      "summary": "A suspected firearm was aimed at gardai in Dublin city centre during the early hours of Saturday morning while officers were pursuing a cyclist.",
+      "story": "The incident occurred in the early hours of Saturday during a Garda pursuit of a cyclist in Dublin city centre, at which point a firearm was aimed at the officers.",
+      "localAngle": "While this incident occurred in Dublin, breaking national news of this nature is regularly followed by readers in Limerick and across the country.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘Firearm’ aimed at gardai in Dublin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/firearm-aimed-at-gardai-in-dublin-9322091",
+      "publishedAt": "Sat, 31 Oct 2026 13:45:13 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/13/cs-0e2476cd-80f0-4454-acc7-3b6163ed6356.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-10-31T20:30:53.185Z"
+    },
+    "9322130": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53291",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -4268,6 +4661,27 @@
       "rewrittenAt": "2026-10-31T17:38:47.845Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/05/tingey-injury-law-firm-DZpc4UY8ZtY-unsplash.jpg",
       "imageCheckedAt": "2026-10-31T17:38:48.207Z"
+    },
+    "https://limerickvoice.com/?p=53299": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362695",
+      "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "https://www.limerickpost.ie/?p=362661": {
+      "headline": "Dromin-Athlacca Bounce Back to Senior Hurling with Final Win Over Bruff",
+      "summary": "Dromin-Athlacca secured an immediate return to senior hurling with a 2-18 to 3-11 victory over Bruff in the Premier Intermediate Final at the Gaelic Grounds. James Kennedy's side laid the foundations for the win with a commanding ten-point lead at half-time.",
+      "story": "Dromin-Athlacca made a swift return to senior hurling on Saturday, overcoming local rivals Bruff 2-18 to 3-11 in the Premier Intermediate Final at the Gaelic Grounds. \n\nBenefiting from the tail end of Storm Boelo, James Kennedy’s side stormed into a commanding ten-point lead by the interval, ahead 2-11 to 0-7. First-half goals from man of the match David Breen and Jack Fitzgibbon, alongside reliable scoring from David Reidy, put the team firmly in control during the opening 30 minutes.\n\nBruff mounted a spirited comeback in the second half with green flags from Paul Browne and Seán Finn, ensuring a tense finish, but Dromin-Athlacca successfully kept their opponents at arm's length to seal the title. Approaching their 75th Diamond Anniversary, the winning club will be led once again next season by Breen and Shane Scully.\n\nElsewhere across the weekend's county hurling deciders, Knockaderry claimed back-to-back titles with a 1-16 to 0-17 win over Bruree in the Intermediate Final. Doon captured the Premier Junior A crown by defeating Caherline 3-12 to 0-10, while Monagea swept past Killeedy 2-14 to 1-6 to take the Junior A title at Newcastle West. Additional silverware was collected by Patrickswell, Cappamore, Garryspillane, and Effin.",
+      "localAngle": "The Premier Intermediate Final at the Gaelic Grounds saw two neighboring Limerick clubs battle for a return to senior hurling ranks.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Quick return to senior for Dromin-Athlacca",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/10/31/quick-return-to-senior-for-dromin-athlacca/",
+      "publishedAt": "Sat, 31 Oct 2026 18:00:20 +0000",
+      "rewrittenAt": "2026-10-31T20:30:35.930Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/PIHC-1.jpg",
+      "imageCheckedAt": "2026-10-31T20:33:26.628Z"
     }
   }
 }
