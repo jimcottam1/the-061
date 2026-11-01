@@ -3,6 +3,7 @@
   "version": "2.0.0",
   "description": "The 061 - AI-curated local news for Limerick, published to GitHub Pages",
   "scripts": {
+    "test": "node --test test/*.test.js",
     "scrape": "node scripts/scrape-news.js",
     "dedupe": "node scripts/ai-deduplicate.js",
     "rewrite": "node scripts/rewrite-articles.js",

@@ -8,4 +8,5 @@ node_modules/
 site/
 
 # Claude Code
-.claude/
+.claude/worktrees/
+.claude/settings.local.json

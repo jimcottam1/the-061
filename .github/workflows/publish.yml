@@ -52,6 +52,11 @@ jobs:
 
       - run: npm ci
 
+      # Offline tests (no network, Gemini or NewsAPI). A failure stops the run here, before anything is
+      # scraped, committed or deployed, so the live site keeps its last good version.
+      - name: Test
+        run: npm test
+
       - name: Check secrets
         if: github.event_name != 'push'
         env:

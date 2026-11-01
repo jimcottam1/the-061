@@ -6,7 +6,7 @@ const fetch = require('node-fetch');
 // Limerick GAA posts club results and fixtures as lists ("Limerick GAA Monday Club Results:"). The
 // scraper skips them as stories; this turns them into a results-and-fixtures box for the Sport section.
 const FEED = 'https://limerickgaa.ie/feed/';
-const OUT = path.join(__dirname, '..', 'data', 'gaa-fixtures.json');
+const OUT = process.env.GAA_FIXTURES_PATH || path.join(__dirname, '..', 'data', 'gaa-fixtures.json');
 const RESULTS_DAYS = 7;
 const FIXTURES_DAYS = 3;
 const KEEP = 2; // posts of each kind
