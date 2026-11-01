@@ -1,9 +1,20 @@
 {
   "meta": {
-    "lastScrape": "2026-11-01T15:56:54.869Z",
-    "totalArticles": 20
+    "lastScrape": "2026-11-01T18:23:24.166Z",
+    "totalArticles": 24
   },
   "articles": {
+    "8353171": {
+      "id": "8353171",
+      "title": "Gerry Collins: The Limerick man's political story, told in his own words",
+      "link": "https://www.limerickleader.ie/news/politics/gerry-collins-the-limerick-mans-political-story-told-in-his-own-words-9323146",
+      "description": "A Limerick Leader interview with the late Gerry Collins from 2017, which looked back on his political life after 50 years, has been republished this Sunday after his sad passing",
+      "pubDate": "Sun, 01 Nov 2026 17:02:28 GMT",
+      "author": "Norma Prendiville",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/16/23/Untitled-design-(95).jpeg?width=1200&auto=webp&trim=48%2C0%2C113%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
     "9290418": {
       "id": "9290418",
       "title": "Adare residents' concerns over Ryder Cup ‘2km exclusion zone’",
@@ -1376,6 +1387,53 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-01T15:56:40.767Z"
     },
+    "9323114": {
+      "id": "9323114",
+      "title": "Irish Olympian Ciara Mageean was ‘a champion in every sense of the word’",
+      "link": "https://www.limerickleader.ie/national/irish-olympian-ciara-mageean-was-a-champion-in-every-sense-of-the-word-9323114",
+      "description": "Tributes have been paid to the middle distance runner who died at the age of 34 following a battle with cancer.",
+      "pubDate": "Sun, 01 Nov 2026 17:16:10 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/cs-fcd2f07e-7e94-4671-ae45-ae5a17ddfb52.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
+    "9323120": {
+      "id": "9323120",
+      "title": "Top Limerick gardai go from booking people to a booked-out gastropub",
+      "link": "https://www.limerickleader.ie/news/top-limerick-gardai-go-from-booking-people-to-a-booked-out-gastropub-9323120",
+      "description": "Retired chief superintendent and deputy commissioner with strong Limerick links open new venture in Laois",
+      "pubDate": "Sun, 01 Nov 2026 16:22:19 GMT",
+      "author": "Conor Ganly and Lynda Kiernan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/16/34/OConnells-opening-02.jpeg?width=1200&auto=webp&trim=0%2C85%2C0%2C123",
+      "imageCredit": "PICTURE: JULIE HARVEY",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
+    "9323147": {
+      "id": "9323147",
+      "title": "Fr Caseys hold on to claim first Limerick SFC title in 20 years",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/fr-caseys-hold-on-to-claim-first-limerick-sfc-title-in-20-years-9323147",
+      "description": "It means a ninth SFC crown for the Abbeyfeale side who claimed the Fr Casey Cup in front of a huge crowd of over 2,000 in Rathkeale",
+      "pubDate": "Sun, 01 Nov 2026 17:11:01 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/09/WhatsApp-Image-2026-11-01-at-17-06-26.jpeg?width=1200&auto=webp&trim=60%2C0%2C60%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
+    "9323186": {
+      "id": "9323186",
+      "title": "'Our town is all football': Quirke and Caseys thrilled with win",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/our-town-is-all-football-quirke-and-caseys-thrilled-with-win-9323186",
+      "description": "Ronan Quirke top-scored for the winners with 0-6 as Caseys won the SFC for the ninth time, defeating Kildimo-Pallaskenry by two points in a thrilling finish",
+      "pubDate": "Sun, 01 Nov 2026 17:52:37 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/52/FC.jpeg?width=1200&auto=webp&trim=82%2C0%2C38%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -2375,9 +2433,35 @@
       "author": "David Raleigh",
       "source": "limerickpost",
       "scrapedAt": "2026-11-01T15:56:40.147Z"
+    },
+    "https://www.limerickpost.ie/?p=362677": {
+      "id": "https://www.limerickpost.ie/?p=362677",
+      "title": "World Cup adventure for Limerick Pair",
+      "link": "https://www.limerickpost.ie/2026/11/01/world-cup-adventure-for-limerick-pair/",
+      "description": "LIMERICK pair James McCarthy of Clareview and Ballingarry’s Maurice Noonan will represent Ireland at the upcoming 2026 Wheelchair Rugby League World Cup in Australia. The sport is a fast, physical and highly tactical game played on a 40 m x 20 m court with five players per team using sports wheelchairs. Teams can also be [&#8230;]\nThe post World Cup adventure for Limerick Pair appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 18:00:59 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-01T18:23:12.328Z"
     }
   },
   "rewritten": {
+    "8353171": {
+      "headline": "Limerick Leader republishes 2017 interview reflecting on Gerry Collins' political career",
+      "summary": "A 2017 Limerick Leader interview reflecting on Gerry Collins' 50 years in politics has been republished following his passing.",
+      "story": "Following his sad passing, the Limerick Leader has republished a 2017 interview where the late Limerick man looked back on his political life after 50 years.",
+      "localAngle": "The article recounts the political career of late Limerick figure Gerry Collins.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Gerry Collins: The Limerick man's political story, told in his own words",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/politics/gerry-collins-the-limerick-mans-political-story-told-in-his-own-words-9323146",
+      "publishedAt": "Sun, 01 Nov 2026 17:02:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/16/23/Untitled-design-(95).jpeg?width=1200&auto=webp&trim=48%2C0%2C113%2C0",
+      "rewrittenAt": "2026-11-01T18:24:20.887Z"
+    },
     "9290418": {
       "headline": "Limerick Council Clarifies Adare Access Rules Amid Ryder Cup Exclusion Concerns",
       "summary": "Limerick City and County Council has moved to address local worries following reports of a proposed two-kilometre exclusion zone in Adare during the upcoming Ryder Cup. Officials are working to clarify how access restrictions will impact residents and businesses during the major golf tournament.",
@@ -3766,6 +3850,61 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-01T15:57:20.294Z"
     },
+    "9323114": {
+      "headline": "Tributes paid following death of Olympian Ciara Mageean at 34",
+      "summary": "Middle-distance runner Ciara Mageean has died at the age of 34 following a battle with cancer.",
+      "story": "Tributes have been paid to the Irish Olympian following her death at age 34 after battling cancer.",
+      "localAngle": "The Limerick Leader reported on the tributes paid to the late Olympian.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Irish Olympian Ciara Mageean was ‘a champion in every sense of the word’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-olympian-ciara-mageean-was-a-champion-in-every-sense-of-the-word-9323114",
+      "publishedAt": "Sun, 01 Nov 2026 17:16:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/cs-fcd2f07e-7e94-4671-ae45-ae5a17ddfb52.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-01T18:24:12.086Z"
+    },
+    "9323120": {
+      "headline": "Former Limerick Garda chiefs launch Laois gastropub venture",
+      "summary": "A retired chief superintendent and deputy commissioner with strong Limerick links have opened a new, booked-out gastropub in County Laois.",
+      "story": "Former high-ranking Garda officials with strong ties to Limerick have transitioned from law enforcement to the hospitality industry by opening a new gastropub in Laois, which is already booked out. The venture brings together a retired chief superintendent and a deputy commissioner in their new business.",
+      "localAngle": "The new business owners are former senior Garda figures who have strong ties to Limerick.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Top Limerick gardai go from booking people to a booked-out gastropub",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/top-limerick-gardai-go-from-booking-people-to-a-booked-out-gastropub-9323120",
+      "publishedAt": "Sun, 01 Nov 2026 16:22:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/16/34/OConnells-opening-02.jpeg?width=1200&auto=webp&trim=0%2C85%2C0%2C123",
+      "imageCredit": "PICTURE: JULIE HARVEY",
+      "rewrittenAt": "2026-11-01T18:24:30.027Z"
+    },
+    "9323147": {
+      "skipped": true,
+      "duplicateOf": "9323186",
+      "rewrittenAt": "2026-11-01T18:23:47.703Z"
+    },
+    "9323186": {
+      "headline": "Caseys Claim Ninth SFC Title After Defeating Kildimo-Pallaskenry",
+      "summary": "Caseys secured a two-point victory over Kildimo-Pallaskenry to win the SFC for the ninth time, with Ronan Quirke scoring 0-6.",
+      "story": "Ronan Quirke top-scored with 0-6 as Caseys clinched their ninth SFC title following a thrilling finish against Kildimo-Pallaskenry by two points. Read the full story on Limerick Leader.",
+      "localAngle": "This report covers local club football success within Limerick.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "'Our town is all football': Quirke and Caseys thrilled with win",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/our-town-is-all-football-quirke-and-caseys-thrilled-with-win-9323186",
+      "publishedAt": "Sun, 01 Nov 2026 17:52:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/52/FC.jpeg?width=1200&auto=webp&trim=82%2C0%2C38%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-01T18:24:03.048Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -5069,6 +5208,22 @@
       "rewrittenAt": "2026-11-01T15:57:30.149Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/image0.jpeg",
       "imageCheckedAt": "2026-11-01T15:57:31.173Z"
+    },
+    "https://www.limerickpost.ie/?p=362677": {
+      "headline": "Clareview’s James McCarthy and Ballingarry’s Maurice Noonan named in Ireland Wheelchair Rugby League World Cup squad",
+      "summary": "Two Limerick men will represent Ireland at the 2026 Wheelchair Rugby League World Cup in Australia. James McCarthy makes his second World Cup appearance, while Maurice Noonan features for the first time.",
+      "story": "Limerick men James McCarthy of Clareview and Ballingarry’s Maurice Noonan have been selected to represent Ireland at the upcoming 2026 Wheelchair Rugby League World Cup in Australia. \n\nWheelchair rugby league is a fast, physical, and tactical mixed-gender sport played on a 40m by 20m court with five players per team using sports wheelchairs. Ireland enters the tournament ranked third in the world behind England and France, following three consecutive Celtic Cup titles. \n\n\"To be honest, it’s a huge personal achievement,\" said Maurice Noonan. \"To represent one’s country at the highest possible level is surreal. It’s great that James is so close to me here in Limerick, and we have worked very well with the rest of the squad over the last while, and feel that we are in a good position heading Down Under.\" Both players have also recently featured for Munster, winning the Inter-provincial Wheelchair Hurling Championship.\n\nIreland has been drawn in a group alongside Wales, England, and the United States, with their opening match against the US scheduled at the WIN Entertainment Centre in Wollongong on Friday at 2am Irish Time. The eight-nation tournament concludes with semi-finals and finals in mid-November, and all fixtures will be broadcast live on Premier Sports.",
+      "localAngle": "Local sportsmen James McCarthy from Clareview and Maurice Noonan from Ballingarry have been selected to play for the Irish national team on the world stage.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "World Cup adventure for Limerick Pair",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/01/world-cup-adventure-for-limerick-pair/",
+      "publishedAt": "Sun, 01 Nov 2026 18:00:59 +0000",
+      "rewrittenAt": "2026-11-01T18:23:54.496Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Maurice.jpg",
+      "imageCheckedAt": "2026-11-01T18:24:30.392Z"
     }
   }
 }
