@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-01T11:47:56.180Z",
-    "totalArticles": 22
+    "lastScrape": "2026-11-01T15:56:54.869Z",
+    "totalArticles": 20
   },
   "articles": {
     "9290418": {
@@ -1364,6 +1364,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-01T11:47:43.772Z"
     },
+    "9322814": {
+      "id": "9322814",
+      "title": "Well-known faces named to key roles in GAA Regional Development Units",
+      "link": "https://www.limerickleader.ie/sport/gaa/well-known-faces-named-to-key-roles-in-gaa-regional-development-units-9322814",
+      "description": "The county board is now seeking Expression of Interest applications for the four remaining positions per unit",
+      "pubDate": "Sun, 01 Nov 2026 14:30:20 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/18/8/51/16774205-library.jpg?width=1200&auto=webp&trim=26%2C0%2C27%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T15:56:40.767Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -2343,6 +2355,26 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-01T11:47:43.001Z"
+    },
+    "https://www.limerickpost.ie/?p=362673": {
+      "id": "https://www.limerickpost.ie/?p=362673",
+      "title": "Throwing the switch on Christmas",
+      "link": "https://www.limerickpost.ie/2026/11/01/throwing-the-switch-on-christmas/",
+      "description": "IT&#8217;S OFFICIAL &#8211; Christmas will start with the return of Light Up Limerick and a Christmas lights switch-on ceremony, taking place on Saturday, 21 November. The city centre will come alive from 7pm with a festive Christmas procession produced by LUXE, departing from Brown Thomas and travelling along O&#8217;Connell Street. Featuring illuminated characters, live music, [&#8230;]\nThe post Throwing the switch on Christmas appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 15:00:08 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-01T15:56:40.147Z"
+    },
+    "https://www.limerickpost.ie/?p=362670": {
+      "id": "https://www.limerickpost.ie/?p=362670",
+      "title": "Triple transplant patient taking home swimming medals",
+      "link": "https://www.limerickpost.ie/2026/11/01/triple-transplant-patient-taking-home-swimming-medals/",
+      "description": "IN HIS 20&#8217;s, cystic fibrosis sufferer, Robert Sheahan, was given six weeks to live and required an almost impossible intervention: a double-lung and liver transplanting a single operation, which had never previously been performed in Ireland. Seven years on from receiving the historic first-ever triple transplant, Sheahan, from County Limerick, called for people to consider [&#8230;]\nThe post Triple transplant patient taking home swimming medals appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 12:00:50 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-01T15:56:40.147Z"
     }
   },
   "rewritten": {
@@ -3717,6 +3749,23 @@
       "duplicateOf": "9320072",
       "rewrittenAt": "2026-11-01T11:48:59.968Z"
     },
+    "9322814": {
+      "headline": "Prominent Figures Appointed to GAA Regional Development Unit Roles",
+      "summary": "The county board is currently accepting expressions of interest for the remaining positions in each of the four units.",
+      "story": "Well-known figures have been appointed to key roles within the GAA Regional Development Units, while the county board seeks expressions of interest for four remaining positions per unit.",
+      "localAngle": "This impacts the local GAA community in Limerick as the county board structures its regional development units.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Well-known faces named to key roles in GAA Regional Development Units",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/well-known-faces-named-to-key-roles-in-gaa-regional-development-units-9322814",
+      "publishedAt": "Sun, 01 Nov 2026 14:30:20 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/18/8/51/16774205-library.jpg?width=1200&auto=webp&trim=26%2C0%2C27%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-01T15:57:20.294Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -4988,6 +5037,38 @@
       "rewrittenAt": "2026-11-01T11:49:25.249Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/6986038e-a86d-4084-b186-03d49631c8f8.jpg",
       "imageCheckedAt": "2026-11-01T11:50:55.836Z"
+    },
+    "https://www.limerickpost.ie/?p=362673": {
+      "headline": "Light Up Limerick Christmas celebrations and fireworks display confirmed for November 21",
+      "summary": "Light Up Limerick will officially kick off the city's festive season on Saturday, November 21, featuring a procession by LUXE, live entertainment, and a fireworks display on O'Connell Street.",
+      "story": "Christmas in Limerick will officially begin on Saturday, November 21, with the return of the annual Light Up Limerick ceremony. The free public event will transform the city centre from 7pm with a festive procession produced by LUXE, departing from Brown Thomas and making its way along O'Connell Street.\n\n Spectators can expect illuminated characters, live music, street performances, and seasonal entertainment. The procession will guide crowds toward a specially constructed stage at the top of O'Connell Street, which will host live performances and special guests ahead of the official switch-on ceremony, culminating in a musical finale and fireworks display.\n\n Organizers advise attendees to gather along O'Connell Street between Brown Thomas and Lower Glentworth Street from 6.30pm to 7pm for the best views. The event marks the official launch of the Christmas in Limerick 2026 programme, with further details on seasonal events to be announced in the coming weeks.\n\n Mayor of Limerick John Moran said that the switch-on marks the true start of Christmas for many and offers a chance for people of all ages to celebrate in the heart of the city. \"From the spectacular procession and switch-on ceremony to the many events and experiences that will follow throughout the Christmas period, we look forward to welcoming residents and visitors alike to Limerick for what promises to be a memorable Christmas,\" he said.",
+      "localAngle": "The annual festive event marks the official start of the Christmas season in Limerick city centre.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Throwing the switch on Christmas",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/01/throwing-the-switch-on-christmas/",
+      "publishedAt": "Sun, 01 Nov 2026 15:00:08 +0000",
+      "rewrittenAt": "2026-11-01T15:57:11.552Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/18_Light-Up-Limerick_20251122.jpg",
+      "imageCheckedAt": "2026-11-01T15:57:30.510Z"
+    },
+    "https://www.limerickpost.ie/?p=362670": {
+      "headline": "Askeaton triple transplant survivor Robert Sheahan urges organ donation amid falling rates",
+      "summary": "Seven years after becoming the first person in Ireland to receive a historic double-lung and liver transplant, County Limerick man Robert Sheahan is calling on the public to consider becoming organ donors as donation numbers fall.",
+      "story": "Seven years after undergoing a historic, pioneering triple transplant at Dublin's Mater Hospital, Askeaton native Robert Sheahan is urging the public to consider organ donation as rates across the country experience a sharp decline.\n\nIn his 20s, the cystic fibrosis sufferer was given just six weeks to live before surgeons from Dublin’s Mater Hospital and St Vincent’s University Hospital joined forces in June 2019 to perform Ireland's first-ever double-lung and liver operation in a single procedure. Now 36 and working as a clerical officer at Limerick City and County Council, Sheahan is speaking out about the drop in available organs.\n\n\"There has been a real shortage of organ donations, so there is a real need for people to be organ donors,\" Sheahan said, adding that the decline is a major concern as transplant surgeries fall simply because fewer organs are being donated. Figures show that organ transplants dropped to 202 in 2025, down from 263 in 2024 and 265 in 2023.\n\nReflecting on his journey, Sheahan recalled the severe hurdles he faced before the surgery, including failing liver function and diminished lung capacity that left him dependent on insulin for Type 1 diabetes and needing an oxygen tank. Physical preparation through powerlifting at a Limerick city gym helped him build his strength while awaiting the historic call for surgery.",
+      "localAngle": "Askeaton native and Limerick City and County Council employee Robert Sheahan is highlighting falling organ donation rates seven years after his historic transplant.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Triple transplant patient taking home swimming medals",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/01/triple-transplant-patient-taking-home-swimming-medals/",
+      "publishedAt": "Sun, 01 Nov 2026 12:00:50 +0000",
+      "rewrittenAt": "2026-11-01T15:57:30.149Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/image0.jpeg",
+      "imageCheckedAt": "2026-11-01T15:57:31.173Z"
     }
   }
 }
