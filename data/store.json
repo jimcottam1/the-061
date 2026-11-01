@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-10-31T20:27:23.060Z",
-    "totalArticles": 21
+    "lastScrape": "2026-11-01T11:47:56.180Z",
+    "totalArticles": 22
   },
   "articles": {
     "9290418": {
@@ -597,6 +597,18 @@
       "imageCredit": "File photo",
       "source": "limerickleader",
       "scrapedAt": "2026-10-27T18:39:34.698Z"
+    },
+    "9311960": {
+      "id": "9311960",
+      "title": "Gym drops weights on ground to measure noise levels after complaint",
+      "link": "https://www.limerickleader.ie/news/gym-drops-weights-on-ground-to-measure-noise-levels-after-complaint-9311960",
+      "description": "The 24-hour gym’s original application received a formal objection regarding the potential noise it may cause throughout the night",
+      "pubDate": "Sun, 01 Nov 2026 10:00:39 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/15/9/01/32340289.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C126",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T11:47:43.773Z"
     },
     "9312014": {
       "id": "9312014",
@@ -1303,6 +1315,54 @@
       "imageCredit": "INSTAGRAM",
       "source": "limerickleader",
       "scrapedAt": "2026-10-31T15:15:17.795Z"
+    },
+    "9322586": {
+      "id": "9322586",
+      "title": "Poor day for Limerick sides in Round five of the All-Ireland League",
+      "link": "https://www.limerickleader.ie/sport/club-rugby/poor-day-for-limerick-sides-in-round-five-of-the-all-ireland-league-9322586",
+      "description": "Bruff were the only one of Limerick’s men’s teams to earn a win with UL Bohs also tasting victory in the Women’s AIL",
+      "pubDate": "Sat, 31 Oct 2026 21:30:56 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/20/16/3589284.jpeg?width=1200&auto=webp&trim=4%2C0%2C4%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T11:47:43.773Z"
+    },
+    "9322603": {
+      "id": "9322603",
+      "title": "Glory for Athea as they clinch Premier Junior 'A' football title ",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/glory-for-athea-as-they-clinch-premier-junior-a-football-title-9322603",
+      "description": "Athea have returned to the Intermediate grade after victory over Monagea in the Premier Junior ‘A’ final",
+      "pubDate": "Sat, 31 Oct 2026 22:30:21 GMT",
+      "author": "John Redington",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/21/02/DSC_5681.jpeg?width=1200&auto=webp&trim=544%2C0%2C2164%2C0",
+      "imageCredit": "Pat O'Leary",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T11:47:43.773Z"
+    },
+    "9322638": {
+      "id": "9322638",
+      "title": "Limerick SFC preview: Fr Caseys favourites to regain title",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/limerick-sfc-preview-fr-caseys-favourites-to-regain-title-9322638",
+      "description": "While the Abbeyfeale men are playing in the final for the 26th time, Kildimo-Pallaskenry are in their maiden decider",
+      "pubDate": "Sun, 01 Nov 2026 08:30:12 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/22/18/Limerick-SFC-semi-final-Fr-Caseys-v-Monaleen-1.jpeg?width=1200&auto=webp&trim=47%2C0%2C153%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T11:47:43.773Z"
+    },
+    "9322643": {
+      "id": "9322643",
+      "title": "Paths to the final: How the novel pairing came about",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/paths-to-the-final-how-the-novel-pairing-came-about-9322643",
+      "description": "Sunday’s Irish Wire Products Senior Football Championship final sees Fr Caseys put their 100% record on the line against Kildimo-Pallaskenry",
+      "pubDate": "Sun, 01 Nov 2026 11:30:15 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/22/21/Limerick-SFC-semi-final-Mungret-v-Kildimo-Pallaskenry-3.jpeg?width=1200&auto=webp&trim=70%2C0%2C130%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-01T11:47:43.772Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -2263,6 +2323,26 @@
       "author": "Stephen Kelly",
       "source": "limerickvoice",
       "scrapedAt": "2026-10-31T20:27:11.539Z"
+    },
+    "https://www.limerickpost.ie/?p=362667": {
+      "id": "https://www.limerickpost.ie/?p=362667",
+      "title": "Film Column – Infirmary",
+      "link": "https://www.limerickpost.ie/2026/11/01/film-column-infirmary/",
+      "description": "NEW to Shudder, Infirmary comes off like the conventional offspring of Backrooms and Hell House LLC. This, the progeny of the found footage sub-genre, shows some potential, but really should have tried harder, and paid more attention in class to make a real impression on weary horror fans who&#8217;ve seen it all before. Jaded from [&#8230;]\nThe post Film Column &#8211; Infirmary appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 10:30:55 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-01T11:47:43.001Z"
+    },
+    "https://www.limerickpost.ie/?p=362664": {
+      "id": "https://www.limerickpost.ie/?p=362664",
+      "title": "Sullivan crowned the best boy in all of Munster",
+      "link": "https://www.limerickpost.ie/2026/11/01/sullivan-crowned-the-best-boy-in-all-of-munster/",
+      "description": "A LIMERICK puppy has finally answered the age-old question: who&#8217;s the best boy? Sullivan, a Golden Retriever-Cocker Spaniel cross from Newcastle West has been crowned Munster winner at Petmania Puppy of the Year 2026. Owned by Marie Carr O&#8217;Kelly and her husband Patrick, Sullivan was one of 26 county finalists at the Grand Final, held [&#8230;]\nThe post Sullivan crowned the best boy in all of Munster appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 09:00:46 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-01T11:47:43.001Z"
     }
   },
   "rewritten": {
@@ -2529,6 +2609,23 @@
       "section": "News",
       "importance": 2,
       "positivity": 4
+    },
+    "9306943": {
+      "headline": "Limerick-Linked Crime Gang Targeted Museums in Daring Heists",
+      "summary": "Fourteen members of an organised crime group with ties to Limerick were sentenced to a combined 71 years in prison for plotting museum burglaries.",
+      "story": "Fourteen individuals involved in the organised crime group were charged and received combined sentences of 71 years’ imprisonment for their involvement in the burglaries. The group had plotted daring museum heists.",
+      "localAngle": "The organised crime group involved in the museum heist plots has documented links to Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Crime gang with Limerick links plotted daring museum heists",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/crime-gang-with-limerick-links-plotted-daring-museum-heists-9306943",
+      "publishedAt": "Wed, 28 Oct 2026 19:00:54 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/15/03/Rathkeale-rovers-The-gang-linked-to-international-rhino-horns-thefts.png?width=1200&auto=webp&trim=386%2C0%2C1550%2C0",
+      "imageCredit": "RTE",
+      "rewrittenAt": "2026-11-01T11:50:27.621Z"
     },
     "9307165": {
       "headline": "Minister Patrick O'Donovan Speaks Out on Representation for People with Disabilities",
@@ -2819,6 +2916,23 @@
       "importance": 4,
       "positivity": 4
     },
+    "9308583": {
+      "headline": "Simon Zebo to sign copies of new book in Limerick",
+      "summary": "Former Munster and Ireland international Simon Zebo is holding a signing for his new book, 'Zeebs', at O’Mahony’s Bookstore on O’Connell Street this Saturday, October 31 at 1pm.",
+      "story": "The former player will be at O’Mahony’s Bookstore on O’Connell Street this Saturday at 1pm to sign copies of his new book, titled ‘Zeebs’, as he aims to be himself as much as possible.",
+      "localAngle": "The book signing takes place at O’Mahony’s Bookstore on O’Connell Street in Limerick city centre.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "'I try to be myself as much as possible' - Simon Zebo on new book ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/simon-zebo-on-his-new-book-life-after-rugby-and-the-world-of-punditry-9308583",
+      "publishedAt": "Wed, 28 Oct 2026 14:30:06 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/25/18/28/2851187.jpeg?width=1200&auto=webp&trim=0%2C198%2C110%2C198",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-01T11:50:54.647Z"
+    },
     "9309556": {
       "headline": "Limerick Eagles Upset Table-Toppers Celtics in Super League Derby at UL Arena",
       "summary": "Limerick Eagles pulled off a major upset against league leaders Limerick Celtics in their Men’s Super League clash. The dramatic local derby took place at the UL Arena.",
@@ -2892,6 +3006,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/12/54/NATIONAL-NEWS-BANNER-TEMPLATE-(53).png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "File photo",
       "rewrittenAt": "2026-10-27T18:41:15.715Z"
+    },
+    "9311960": {
+      "headline": "Limerick 24-hour gym drops weights to test noise levels after complaint",
+      "summary": "A 24-hour gym has tested its noise levels by dropping weights on the ground following a formal objection to its original application.",
+      "story": "The gym's original planning application faced a formal objection concerning potential nighttime noise. In response, weights were dropped on the ground to measure the noise levels.",
+      "localAngle": "This planning and noise issue affects a local 24-hour gym in the 061 area.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Gym drops weights on ground to measure noise levels after complaint",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/gym-drops-weights-on-ground-to-measure-noise-levels-after-complaint-9311960",
+      "publishedAt": "Sun, 01 Nov 2026 10:00:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/15/9/01/32340289.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C126",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-01T11:49:15.502Z"
     },
     "9312014": {
       "headline": "Learning Limerick showcased at international UNESCO forum in Switzerland",
@@ -3039,6 +3170,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/09/cs-a296ac20-406c-4845-ae16-2cc2e4e1237b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-10-28T11:20:36.133Z"
     },
+    "9313655": {
+      "headline": "Free Jobs Expo Returns to Limerick This November",
+      "summary": "The Jobs Expo Limerick careers fair is taking place at The Greenhills Hotel on Saturday 7th November with free entry for attendees.",
+      "story": "Employers from healthcare, engineering, technology, hospitality, and the public sector will be recruiting at the event. Jobseekers can attend for free to meet with various organisations.",
+      "localAngle": "The careers fair is being held locally at The Greenhills Hotel in Limerick.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Hiring in the Mid-West: free careers fair comes to Limerick this November",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sponsored-content/hiring-in-the-mid-west-free-careers-fair-comes-to-limerick-this-november-9316697",
+      "publishedAt": "Wed, 28 Oct 2026 16:37:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/9/48/Jos-expo.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Jos expo",
+      "rewrittenAt": "2026-11-01T11:50:36.423Z"
+    },
     "9313665": {
       "skipped": true,
       "duplicateOf": "9313581",
@@ -3108,10 +3256,59 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=362695",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
     },
+    "9316213": {
+      "headline": "Sinn Féin TD Supports Ó Snodaigh Amid Charity Money Laundering Probe",
+      "summary": "A Sinn Féin TD has voiced support for Aengus Ó Snodaigh, who chairs a charity currently facing a money laundering investigation.",
+      "story": "Dublin TD Aengus Ó Snodaigh is not under criminal investigation, and there is no suggestion of wrongdoing on his behalf.",
+      "localAngle": "This national political development may be of interest to political observers in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Sinn Fein TD backs Ó Snodaigh who chairs charity in money laundering probe",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/sinn-fein-td-backs-o-snodaigh-who-chairs-charity-in-money-laundering-probe-9316213",
+      "publishedAt": "Wed, 28 Oct 2026 15:17:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/cs-79f49915-1c2d-4cb5-bafc-93649fdd60f6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-01T11:50:45.213Z"
+    },
+    "9316641": {
+      "headline": "Winter Festival Programme Announced for Limerick",
+      "summary": "The final lineup for Limerick's winter festival features a mix of celebrated Irish performers, international acts, and emerging talent.",
+      "story": "Organisers have confirmed the final programme for the upcoming Limerick winter festival, bringing together celebrated Irish performers, international favourites, and emerging talent.",
+      "localAngle": "The festival takes place in Limerick, offering local audiences a unique programme of international and domestic performers.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Final programme confirmed for Limerick winter festival 'unlike any other'",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/final-programme-confirmed-for-limerick-winter-festival-unlike-any-other-9316641",
+      "publishedAt": "Thu, 29 Oct 2026 10:00:26 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/09/14/36/The-Stunning-jpg-Clifden-Arts-Festival-2026-returns-to-Connemara-from-1727-September-2026-with-a-pro.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-01T11:50:09.343Z"
+    },
     "9317045": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53174",
       "rewrittenAt": "2026-10-29T11:29:09.022Z"
+    },
+    "9317250": {
+      "headline": "New Report Shows Over 25 Percent of Adults Face Sexual Violence",
+      "summary": "A new report reveals that more than a quarter of adults have experienced sexual violence, with women, younger adults, bisexual individuals, and gay men facing the highest risks.",
+      "story": "The findings show that most perpetrators are known to their victims, and that specific demographics face significantly higher risks of sexual violence.",
+      "localAngle": "This national report highlights an issue that impacts communities across Limerick and readers can read the full details on the Limerick Leader website.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "More than a quarter of adults have experienced sexual violence – report",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/more-than-a-quarter-of-adults-have-experienced-sexual-violence-report-9317250",
+      "publishedAt": "Thu, 29 Oct 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/00/cs-a617d0ce-b501-4759-b941-9ca79debf6da.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-01T11:50:18.274Z"
     },
     "9317345": {
       "skipped": true,
@@ -3123,10 +3320,43 @@
       "duplicateOf": "9320072",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
     },
+    "9317612": {
+      "headline": "Live Testing Underway as Limerick Prepares New Train Service",
+      "summary": "A test unit is now on the line for upcoming driver route training as a new Limerick train service nears completion.",
+      "story": "Live testing has begun on the new Limerick train service, with a test unit returning to the line regularly over the coming weeks to support driver route training.",
+      "localAngle": "This transport development directly affects rail infrastructure and services within Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "New Limerick train service nears completion as live testing begins",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/new-limerick-train-service-nears-completion-as-live-testing-begins-9317612",
+      "publishedAt": "Thu, 29 Oct 2026 10:15:26 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/10/58/Limerick-Foynes-Commissioning-1.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: IARNRÓD ÉIREANN",
+      "rewrittenAt": "2026-11-01T11:50:00.458Z"
+    },
     "9317698": {
       "skipped": true,
       "duplicateOf": "9314966",
       "rewrittenAt": "2026-10-29T11:29:09.021Z"
+    },
+    "9317996": {
+      "headline": "Harris Confirms Ireland Ready to Secure Upcoming Dublin EU Summits",
+      "summary": "Ireland has the capability and preparation to safeguard EU leaders during two major Dublin summits next month.",
+      "story": "Taoiseach Simon Harris stated that the country is capable and prepared to protect EU leaders at the upcoming Dublin summits, which will see the city host two major events in two days as part of Ireland’s presidency of the EU Council.",
+      "localAngle": "While the events take place in Dublin, the security preparations and EU Council presidency are matters of national importance monitored by readers across the 061 region.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Ireland is capable and prepared to protect EU leaders at Dublin summits – Harris",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/ireland-is-capable-and-prepared-to-protect-eu-leaders-at-dublin-summits-harris-9317996",
+      "publishedAt": "Thu, 29 Oct 2026 11:43:56 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/11/cs-52d514db-6515-4542-b06c-916293a05136.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-01T11:49:51.682Z"
     },
     "9318168": {
       "headline": "Junior Ryder Cup Qualification Details Announced for Limerick",
@@ -3442,6 +3672,50 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53291",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9322586": {
+      "headline": "Mixed fortunes for Limerick clubs in the All-Ireland League",
+      "summary": "Bruff and UL Bohs secure victories while other Limerick sides struggle in round five.",
+      "story": "Bruff emerged as the sole winner among Limerick's men's teams in round five of the All-Ireland League, while UL Bohs also claimed victory in the Women's AIL. Read the full report on the Limerick Leader.",
+      "localAngle": "The results impact local Limerick men's and women's rugby teams competing in the All-Ireland League.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Poor day for Limerick sides in Round five of the All-Ireland League",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/club-rugby/poor-day-for-limerick-sides-in-round-five-of-the-all-ireland-league-9322586",
+      "publishedAt": "Sat, 31 Oct 2026 21:30:56 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/20/16/3589284.jpeg?width=1200&auto=webp&trim=4%2C0%2C4%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-01T11:49:42.394Z"
+    },
+    "9322603": {
+      "headline": "Athea secure Premier Junior 'A' football championship victory",
+      "summary": "Athea defeated Monagea in the Premier Junior 'A' final to earn promotion back to the Intermediate grade.",
+      "story": "Athea have returned to the Intermediate grade following their victory over Monagea in the Premier Junior 'A' football final.",
+      "localAngle": "This GAA club victory impacts local sports fans and the Intermediate grade standings in Limerick.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Glory for Athea as they clinch Premier Junior 'A' football title ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/glory-for-athea-as-they-clinch-premier-junior-a-football-title-9322603",
+      "publishedAt": "Sat, 31 Oct 2026 22:30:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/31/21/02/DSC_5681.jpeg?width=1200&auto=webp&trim=544%2C0%2C2164%2C0",
+      "imageCredit": "Pat O'Leary",
+      "rewrittenAt": "2026-11-01T11:49:33.275Z"
+    },
+    "9322638": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-11-01T11:48:59.968Z"
+    },
+    "9322643": {
+      "skipped": true,
+      "duplicateOf": "9320072",
+      "rewrittenAt": "2026-11-01T11:48:59.968Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -4682,6 +4956,38 @@
       "rewrittenAt": "2026-10-31T20:30:35.930Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/PIHC-1.jpg",
       "imageCheckedAt": "2026-10-31T20:33:26.628Z"
+    },
+    "https://www.limerickpost.ie/?p=362667": {
+      "headline": "New Found Footage Horror Movie 'Infirmary' Lands on Shudder Streaming Service",
+      "summary": "Director Nicholas Pineda's new found-footage horror film, Infirmary, is now streaming on Shudder. The psychiatric hospital-set movie has received a two-out-of-five star review for relying too heavily on established genre tropes.",
+      "story": "Horror fans looking for a new scare on streaming services can now catch Infirmary, which has officially landed on the Shudder platform. Directed by Nicholas Pineda, the latest entry into the found-footage sub-genre takes place in the creepy corridors of an abandoned psychiatric hospital.\n\nDrawing comparisons to genre staples like Hell House LLC and The Backrooms, the film follows a point-and-shoot surveillance style featuring disquieting mannequins moving through darkened rooms. Reviewers note that while the production gets the heart racing with enthusiastic scares, it ultimately offers little that is original to veteran horror enthusiasts who have seen similar shaky-camera offerings before.\n\nCritics have awarded the movie a modest two out of five stars, suggesting that while it ticks all the right boxes for an atmospheric scare—complete with old psychiatric hospital settings and wandering mannequins—it leans too heavily on copying homework from brighter sparks in the supernatural found-footage genre.\n\nFor local film enthusiasts browsing the Shudder platform this week, Infirmary is available to watch now, offering a familiar brand of spooky surveillance thrills for those willing to brave the dark.",
+      "localAngle": "The new film release is available for streaming to horror film fans across Limerick via the Shudder platform.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Film Column – Infirmary",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/01/film-column-infirmary/",
+      "publishedAt": "Sun, 01 Nov 2026 10:30:55 +0000",
+      "rewrittenAt": "2026-11-01T11:49:07.439Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Infirmary-.jpg",
+      "imageCheckedAt": "2026-11-01T11:50:55.104Z"
+    },
+    "https://www.limerickpost.ie/?p=362664": {
+      "headline": "Newcastle West puppy crowned Munster winner at Petmania Puppy of the Year 2026",
+      "summary": "Sullivan, a Golden Retriever-Cocker Spaniel cross from Newcastle West, has taken the Munster title at the Petmania Puppy of the Year 2026 competition. He was chosen from 1,414 entries across Ireland after reaching the Grand Final in Dublin.",
+      "story": "A Limerick puppy has officially settled the debate on who is the best boy after being crowned the Munster winner at the Petmania Puppy of the Year 2026.\n\nSullivan, a Golden Retriever-Cocker Spaniel cross from Newcastle West, secured the regional title after making it through as one of 26 county finalists at the Grand Final. The event took place at the Pet Expo in the National Show Centre in Dublin earlier this month and was hosted by Eurovision winner and animal welfare advocate Linda Martin. The 11th annual competition drew 1,414 entries from across the country.\n\nOwned by Marie Carr O’Kelly and her husband Patrick, Sullivan is well known locally as the head bar manager in the Silver Dollar Bar, named after a loyal customer and friend. He also serves as a mascot for the Newcastle West Senior Camogie team.\n\n\"We entered a number of local dog competitions, which he thoroughly enjoyed, and when I saw the Petmania Puppy of the Year competition, I wasted no time and entered him!\" owner Marie Carr O’Kelly said. \"He is known and loved by all customers, Sullivan gives special individual time to everyone. When he hears car keys he sits at the front door and waits. No car leaves without him.\"",
+      "localAngle": "Sullivan is a local rescue and community favourite from Newcastle West who represented Limerick on the national stage.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "originalTitle": "Sullivan crowned the best boy in all of Munster",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/01/sullivan-crowned-the-best-boy-in-all-of-munster/",
+      "publishedAt": "Sun, 01 Nov 2026 09:00:46 +0000",
+      "rewrittenAt": "2026-11-01T11:49:25.249Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/6986038e-a86d-4084-b186-03d49631c8f8.jpg",
+      "imageCheckedAt": "2026-11-01T11:50:55.836Z"
     }
   }
 }
