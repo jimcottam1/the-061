@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-02T19:25:47.767Z",
-    "totalArticles": 30
+    "lastScrape": "2026-11-02T22:16:42.848Z",
+    "totalArticles": 29
   },
   "articles": {
     "8353171": {
@@ -1160,6 +1160,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T18:55:30.935Z"
     },
+    "9319091": {
+      "id": "9319091",
+      "title": "Man jailed for Limerick hit-and-run that is linked to 'very violent ongoing feud'",
+      "link": "https://www.limerickleader.ie/news/crime-courts/man-jailed-for-limerick-hit-and-run-that-is-linked-to-very-violent-ongoing-feud-9319091",
+      "description": "Prosecuting barrister John O’Sullivan said an altercation took place as traffic stood ‘at a standstill’ along Hyde Road",
+      "pubDate": "Mon, 02 Nov 2026 20:00:49 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/19/iconic-upload-GN4_DAT_9617235.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T22:16:31.857Z"
+    },
     "9319206": {
       "id": "9319206",
       "title": "Sinn Féin TDs interviewed by police over Garvaghy Road protest",
@@ -1539,6 +1550,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/cs-77c1284b-3b2b-4890-9570-893eaf59b78f.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T13:25:09.330Z"
+    },
+    "9324364": {
+      "id": "9324364",
+      "title": "PICTURES: Limerick graduates celebrate conferrings from TUS",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-graduates-celebrate-conferrings-from-tus-9324364",
+      "description": "The graduates were from the Technological University of the Shannon (TUS) Moylish Campus in Limerick",
+      "pubDate": "Mon, 02 Nov 2026 21:00:37 GMT",
+      "author": "Photographer Brian Arthur",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/25/TUS-Limerick-2026-Grads-120-535c14b4.jpeg?width=1200&auto=webp&trim=8%2C0%2C8%2C0",
+      "imageCredit": "Brian Arthur",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T22:16:31.857Z"
     },
     "9324445": {
       "id": "9324445",
@@ -2730,6 +2753,16 @@
       "author": "Staff Reporter",
       "source": "limerickpost",
       "scrapedAt": "2026-11-02T19:25:36.598Z"
+    },
+    "https://limerickvoice.com/?p=53327": {
+      "id": "https://limerickvoice.com/?p=53327",
+      "title": "Public sector strikes set to continue next week",
+      "link": "https://limerickvoice.com/news/public-sector-strikes-set-to-continue-next-week/",
+      "description": "Unions announce plans to strike next Thursday. ANOTHER day of the nationwide public sector strikes has been announced for Thursday, November 12.  Unions plan to continue their strikes after ongoing delays in agreeing a new pay deal.  More than 300,000 public sector workers, including teachers, nurses and civil servants, took part in industrial action on Wednesday, October [&#8230;]\nThe post Public sector strikes set to continue next week appeared first on .",
+      "pubDate": "Mon, 02 Nov 2026 21:36:26 +0000",
+      "author": "Dearbhla Parry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-02T22:16:32.590Z"
     }
   },
   "rewritten": {
@@ -3926,6 +3959,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/17/cs-801d095c-c1de-4188-8ae8-7676970e6fe0.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-10-31T20:32:50.380Z"
     },
+    "9319091": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362711",
+      "rewrittenAt": "2026-11-02T22:16:52.656Z"
+    },
     "9319206": {
       "headline": "Sinn Féin TDs Interviewed By Police Regarding Garvaghy Road Protest",
       "summary": "Sinn Féin TDs Pearse Doherty and Matt Carthy attended a Belfast police station for interviews on Thursday afternoon.",
@@ -4342,6 +4380,23 @@
       "publishedAt": "Mon, 02 Nov 2026 13:02:13 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/cs-77c1284b-3b2b-4890-9570-893eaf59b78f.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-02T13:26:27.586Z"
+    },
+    "9324364": {
+      "headline": "TUS Moylish Campus Graduates Celebrate Conferrings in Limerick",
+      "summary": "Students from the Technological University of the Shannon Moylish campus celebrated their graduation conferrings.",
+      "story": "Photographs capture Limerick graduates celebrating their recent conferrings from the Technological University of the Shannon (TUS) Moylish Campus.",
+      "localAngle": "The conferrings took place at the Technological University of the Shannon (TUS) Moylish Campus in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick graduates celebrate conferrings from TUS",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-graduates-celebrate-conferrings-from-tus-9324364",
+      "publishedAt": "Mon, 02 Nov 2026 21:00:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/25/TUS-Limerick-2026-Grads-120-535c14b4.jpeg?width=1200&auto=webp&trim=8%2C0%2C8%2C0",
+      "imageCredit": "Brian Arthur",
+      "rewrittenAt": "2026-11-02T22:16:58.347Z"
     },
     "9324445": {
       "headline": "TD Malcolm Byrne Faces Court on Drink Driving Charge",
@@ -5860,6 +5915,11 @@
       "rewrittenAt": "2026-11-02T19:27:29.066Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Souhtill-Hub-VHI-Health-and-Wellbeing-Southill-027-1.jpg",
       "imageCheckedAt": "2026-11-02T19:27:48.773Z"
+    },
+    "https://limerickvoice.com/?p=53327": {
+      "skipped": true,
+      "duplicateOf": "9324359",
+      "rewrittenAt": "2026-11-02T22:16:52.656Z"
     }
   }
 }
