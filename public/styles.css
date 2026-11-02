@@ -717,7 +717,31 @@ html { scroll-behavior: smooth; }
 .archive-entry .headline { font-size: 22px; margin-bottom: 4px; }
 .archive-entry .deck { font-size: 15px; margin-bottom: 6px; }
 
+/* ---------- What's On ---------- */
+
+.event-entry .headline { margin-bottom: 2px; overflow-wrap: anywhere; }
+.event-when { font-family: var(--label); font-size: 13px; font-weight: 700; color: var(--accent); }
+.event-meta { font-size: 15px; color: var(--ink-soft, var(--ink)); overflow-wrap: anywhere; }
+.event-credit { margin-top: 28px; font-size: 13.5px; font-style: italic; color: var(--ink-faint); }
+.event-credit a { text-decoration: underline; }
+
+.events-box {
+    margin-top: 28px;
+    padding: 14px 18px;
+    background: var(--paper-edge);
+}
+.events-head { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; border-bottom: 1px solid var(--rule); padding-bottom: 4px; margin-bottom: 4px; }
+.events-head h2 { font-family: var(--label); font-size: 12px; font-weight: 700; letter-spacing: 0.16em; text-transform: uppercase; }
+.events-head a { font-family: var(--label); font-size: 11px; font-weight: 700; letter-spacing: 0.12em; text-transform: uppercase; color: var(--accent); white-space: nowrap; }
+.events-box ul { list-style: none; }
+.events-box li { padding: 7px 0; border-bottom: 1px dotted var(--rule-light); }
+.events-box li:last-child { border-bottom: none; }
+.events-box li > a { font-family: var(--display); font-size: 17px; line-height: 1.25; overflow-wrap: anywhere; }
+.events-box li > a:hover { color: var(--accent); }
+.events-box .event-line { display: block; font-size: 13.5px; color: var(--ink-faint); overflow-wrap: anywhere; }
+
 @media (max-width: 600px) {
+    .events-box { padding: 12px 14px; }
     .archive-entry { grid-template-columns: 110px minmax(0, 1fr); gap: 12px; }
     .archive-entry .headline { font-size: 18px; }
     .section-head h1 { font-size: 30px; }

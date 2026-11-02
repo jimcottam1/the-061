@@ -4,6 +4,7 @@ const path = require('path');
 const crypto = require('crypto');
 const store = require('./lib/store');
 const { normaliseSection } = require('./lib/sections');
+const { GROUPS, groupEvents, whenText } = require('./lib/events');
 
 const ROOT = path.join(__dirname, '..');
 const PUBLIC_DIR = path.join(ROOT, 'public');
@@ -376,7 +377,76 @@ function archiveHtml(title, currentId, articles, sections) {
 `;
 }
 
-const NOT_FOUND_HTML = `<!DOCTYPE html>
+function eventEntryHtml(event, now) {
+    const url = safeUrl(event.url);
+    const title = escapeHtml(event.title);
+    const price = event.free ? 'Free' : event.price;
+    const meta = [event.place, price].filter(Boolean).map(escapeHtml).join(' &middot; ');
+    return `
+            <article class="archive-entry no-photo event-entry">
+                <div>
+                    <h3 class="headline">${url ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${title}</a>` : title}</h3>
+                    <p class="event-when">${escapeHtml(whenText(event, now))}</p>
+                    ${meta ? `<p class="event-meta">${meta}</p>` : ''}
+                </div>
+            </article>`;
+}
+
+/** The What's On page: listings from Limerick.ie, grouped by when they happen (in Irish time). */
+function eventsHtml(data, now = new Date()) {
+    const groups = groupEvents(Array.isArray(data?.events) ? data.events : [], now);
+    const days = GROUPS.filter(([key]) => groups[key].length).map(([key, heading]) => `
+        <section class="archive-day">
+            <h2 class="archive-date">${escapeHtml(heading)}</h2>
+            ${groups[key].map(e => eventEntryHtml(e, now)).join('')}
+        </section>`).join('');
+    const title = "What's On";
+    const description = 'Events in Limerick over the next two months, listed by Limerick City and County Council.';
+
+    return `<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>${escapeHtml(title)} - The 061</title>
+    <meta name="description" content="${escapeHtml(description)}">
+    ${shareTags({ title: `${title} - The 061`, description, url: `${SITE_URL}whats-on.html` })}
+    ${FONTS}
+    <link rel="stylesheet" href="styles.css?v=${STYLE_VERSION}">
+</head>
+<body>
+    <div class="paper">
+        <header class="masthead-compact">
+            <div class="masthead">
+                <p class="masthead-title"><a href="index.html"><span class="mast-the">The</span>061</a></p>
+            </div>
+            <div class="dateline">
+                <a href="index.html">&larr; Front page</a>
+                <span class="motto">All the news of the Treaty City</span>
+                <span>What's On</span>
+            </div>
+        </header>
+
+        <main class="archive">
+            <header class="section-head">
+                <h1>${escapeHtml(title)}</h1>
+                <span>Limerick &middot; next 60 days</span>
+            </header>
+            ${days || '<p class="notice">No events listed at the moment.</p>'}
+            <p class="event-credit">Event listings from <a href="https://www.limerick.ie/discover/whats-on" target="_blank" rel="noopener">Limerick.ie</a>, Limerick City and County Council. Check with the organiser before you go.</p>
+        </main>
+
+        <footer class="colophon">
+            <span class="masthead-small"><span class="mast-the">The</span>061</span>
+            Event listings are not written by The 061 &middot; each links to the council's page
+        </footer>
+    </div>
+</body>
+</html>
+`;
+}
+
+const NOT_FOUND_HTML =`<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -476,6 +546,16 @@ function buildSite() {
     // Limerick GAA club results and fixtures, for the box in the Sport section (see fetch-gaa-fixtures.js)
     const gaaFixtures = path.join(ROOT, 'data', 'gaa-fixtures.json');
     if (fs.existsSync(gaaFixtures)) fs.copyFileSync(gaaFixtures, path.join(SITE_DIR, 'data', 'gaa-fixtures.json'));
+
+    // What's On: listings from limerick.ie (see fetch-events.js). The page is always built; the data file
+    // only if there is one (the front page box hides itself without it). The "past" list is for the fetcher.
+    let events = null;
+    try {
+        events = JSON.parse(fs.readFileSync(process.env.EVENTS_PATH || path.join(ROOT, 'data', 'events.json'), 'utf8'));
+        const { past, ...publicEvents } = events;
+        fs.writeFileSync(path.join(SITE_DIR, 'data', 'events.json'), JSON.stringify(publicEvents));
+    } catch { /* no file, or unreadable: an empty What's On page */ }
+    fs.writeFileSync(path.join(SITE_DIR, 'whats-on.html'), eventsHtml(events, new Date(builtAt)));
 
     fs.writeFileSync(path.join(SITE_DIR, '404.html'), NOT_FOUND_HTML);
     fs.writeFileSync(path.join(SITE_DIR, '.nojekyll'), '');

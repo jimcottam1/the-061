@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0" xml:base="https://www.limerick.ie/">
+  <channel>
+    <title>discover › whats-on › browse</title>
+    <link>https://www.limerick.ie/</link>
+    <description/>
+    <language>en</language>
+
+    <item>
+  <title>PRIVATE: Area Briefing for Members</title>
+  <link>https://www.limerick.ie/council/whats-on/private-area-briefing-for-members-25</link>
+  <description>A briefing will be held on Tuesday, 3rd November, 2026 at 9.30am. Dates: Tuesday 3rd November @ 9.30am</description>
+  <pubDate>26/10/2026 - 14:54</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900001</guid>
+    </item>
+<item>
+  <title>Test</title>
+  <link>https://www.limerick.ie/discover/whats-on/community/test</link>
+  <description>Test. Dates: Monday 2nd November @ 9am</description>
+  <pubDate>26/10/2026 - 15:00</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900002</guid>
+    </item>
+<item>
+  <title>Quarterly Council Meeting</title>
+  <link>https://www.limerick.ie/council/whats-on/quarterly-council-meeting</link>
+  <description>Invented council meeting text. Dates: Thursday 5th November @ 6pm</description>
+  <pubDate>26/10/2026 - 15:10</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900003</guid>
+    </item>
+<item>
+  <title>Harvest Quiz &amp; Supper</title>
+  <link>https://www.limerick.ie/discover/whats-on/community/harvest-quiz-supper</link>
+  <description>INVENTED-DESCRIPTION-ONE should never be copied. Dates: Tuesday 20th October @ 7pm</description>
+  <pubDate>01/10/2026 - 10:00</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900004</guid>
+    </item>
+<item>
+  <title>Winter Folk Night &lt;Live&gt;</title>
+  <link>https://www.limerick.ie/discover/whats-on/music/winter-folk-night</link>
+  <description>INVENTED-DESCRIPTION-TWO should never be copied. Dates: Thursday 5th November @ 8pm</description>
+  <pubDate>20/10/2026 - 09:06</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900005</guid>
+    </item>
+<item>
+  <title>Lakeside Pictures: A Winter Exhibition</title>
+  <link>https://www.limerick.ie/discover/whats-on/art-exhibitions/lakeside-pictures</link>
+  <description>INVENTED-DESCRIPTION-THREE should never be copied. Dates: Tuesday 1st September - Sunday 10th January</description>
+  <pubDate>25/08/2026 - 11:12</pubDate>
+    <dc:creator>someone</dc:creator>
+    <guid isPermaLink="false">900006</guid>
+    </item>
+  </channel>
+</rss>

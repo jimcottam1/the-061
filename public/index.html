@@ -161,6 +161,7 @@
         // ---------- Limerick GAA club results and fixtures (Sport section) ----------
 
         let gaa = null;
+        let eventData = null;
 
         /** "Blackrock 1-20 Belville Gaels 1-14" -> both sides, with the winner in bold. */
         function resultHtml(line) {
@@ -202,6 +203,51 @@
                 <section class="fixtures" aria-label="Limerick GAA club results and fixtures">
                     ${column('Club results', gaa.results, resultHtml, 'No results this week yet.')}
                     ${column('Coming up', gaa.fixtures, fixtureHtml, 'No fixtures posted in the last few days.')}
+                </section>`;
+        }
+
+        // ---------- "What's on" box, from data/events.json (listings from Limerick.ie; see fetch-events.js) ----------
+
+        const IRISH = { timeZone: 'Europe/Dublin' };
+        const addDay = (key, n) => { const [y, m, d] = key.split('-').map(Number); return new Date(Date.UTC(y, m - 1, d + n)).toISOString().slice(0, 10); };
+
+        /** "8pm", "8.30pm" */
+        function irishClock(d) {
+            const [h, m] = new Intl.DateTimeFormat('en-GB', { ...IRISH, hour: '2-digit', minute: '2-digit', hourCycle: 'h23' }).format(d).split(':').map(Number);
+            return `${h % 12 || 12}${m ? '.' + String(m).padStart(2, '0') : ''}${h < 12 ? 'am' : 'pm'}`;
+        }
+
+        /** Up to 5 events starting on the coming Friday to Sunday (Irish time), else the next 5; null when there are none. */
+        function pickEvents(list, now) {
+            const today = irishDay(now);
+            const dow = new Date(today + 'T00:00:00Z').getUTCDay(); // 0 Sunday
+            const sunday = addDay(today, (7 - dow) % 7);
+            const from = dow === 0 || dow >= 5 ? today : addDay(today, 5 - dow);
+            const upcoming = (Array.isArray(list) ? list : [])
+                .filter(e => e && e.title && !Number.isNaN(Date.parse(e.start)))
+                // Only events still to come (or on today); ones already under way live on the What's On page
+                .filter(e => irishDay(new Date(e.start)) >= today)
+                .filter(e => !e.end || Date.parse(e.end) >= now.getTime())
+                .sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
+            const weekend = upcoming.filter(e => { const day = irishDay(new Date(e.start)); return day >= from && day <= sunday; });
+            if (weekend.length) return { heading: "What's on this weekend", events: weekend.slice(0, 5) };
+            return upcoming.length ? { heading: "What's on", events: upcoming.slice(0, 5) } : null;
+        }
+
+        function eventsBoxHtml() {
+            const picked = pickEvents(eventData && eventData.events, new Date());
+            if (!picked) return '';
+            const items = picked.events.map(e => {
+                const start = new Date(e.start);
+                const when = `${start.toLocaleDateString('en-IE', { ...IRISH, weekday: 'short', day: 'numeric', month: 'short' })}${e.allDay ? '' : ', ' + irishClock(start)}`;
+                const line = [when, e.place, e.free ? 'Free' : e.price].filter(Boolean).map(esc).join(' · ');
+                const title = /^https?:\/\//i.test(e.url || '') ? `<a href="${esc(e.url)}" target="_blank" rel="noopener">${esc(e.title)}</a>` : esc(e.title);
+                return `<li>${title}<span class="event-line">${line}</span></li>`;
+            }).join('');
+            return `
+                <section class="events-box" aria-label="${esc(picked.heading)}">
+                    <div class="events-head"><h2>${esc(picked.heading)}</h2><a href="whats-on.html">All events &rarr;</a></div>
+                    <ul>${items}</ul>
                 </section>`;
         }
 
@@ -421,7 +467,7 @@
         function renderSectionNav(sections) {
             const links = [`<a href="#top">Front Page</a>`]
                 .concat(sections.map(s => `<a href="#${sectionId(s.name)}">${esc(s.name)}</a>`))
-                .concat(`<a href="sections/all.html">Archive</a>`);
+                .concat(`<a href="whats-on.html">What's On</a>`, `<a href="sections/all.html">Archive</a>`);
             document.getElementById('sectionNav').innerHTML = links.join('');
         }
 
@@ -486,6 +532,7 @@
                 html += `<aside class="sidebar"><div class="sidebar-heading">Top stories</div>${seconds.map(secondHtml).join('')}</aside>`;
             }
             html += '</div>';
+            html += eventsBoxHtml();
             html += sections.map(sectionHtml).join('');
             document.getElementById('front').innerHTML = html;
             renderSectionNav(sections);
@@ -535,6 +582,8 @@
                 const data = await response.json();
                 // Optional: the GAA box just doesn't appear if this is missing
                 gaa = await fetch('data/gaa-fixtures.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null);
+                // Optional too: no What's On box without it
+                eventData = await fetch('data/events.json', { cache: 'no-cache' }).then(r => r.ok ? r.json() : null).catch(() => null);
                 // Newest first by the original publication date (undated stories last)
                 const time = a => new Date(a.publishedAt).getTime() || 0;
                 const articles = (data.articles || []).slice().sort((a, b) => time(b) - time(a));

@@ -10,6 +10,7 @@ Each step reads and writes `data/store.json` through `scripts/lib/store.js` (30-
 4. **sections** (`classify-sections.js`): catch-up call for stories missing a section, importance or positivity.
 5. **images** (`fetch-images.js`): the feed's photo, else the article page's og:image / twitter:image / JSON-LD thumbnail (not share cards).
 6. **gaa** (`fetch-gaa-fixtures.js`): Limerick GAA results and fixtures posts into `data/gaa-fixtures.json` for the Sport box. Never fails the run.
+6b. **events** (`fetch-events.js`): What's On. Reads limerick.ie's events RSS feed (the only source; honest `The061/1.0` User-Agent), drops `PRIVATE:`/`Test` items and anything outside `/discover/whats-on/`, and fetches each new event's page for JSON-LD dates plus Location and Price(s). Facts only (title, dates, place, price, link): never copy its descriptions or images. Caches by guid in `data/events.json` (at most 40 new pages a run, about 1 s apart; `past` lists finished events so they aren't refetched). Never fails the run; a bad feed keeps the last file. The builder makes `whats-on.html` (grouped in Irish time, shared logic in `scripts/lib/events.js`) and the front page has a weekend box.
 7. **build** (`build-site.js`): store to `site/`: front page data (`data/articles.json`, last 7 days, at least 12 stories), one page per story, section archives, 404.
 8. **deploy**: GitHub Pages. If master moved during a run, `merge-store.js` merges the store story by story before the commit.
 
