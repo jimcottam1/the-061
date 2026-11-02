@@ -135,5 +135,50 @@ test('the same file works as a plain browser script', () => {
     const window = {};
     vm.runInNewContext(fs.readFileSync(path.join(__dirname, '..', 'public', 'events-core.js'), 'utf8'), { window, Intl, URL, Date });
     assert.equal(typeof window.EventsCore.groupEvents, 'function');
-    assert.deepEqual(ids(window.EventsCore.pickWeekend(WINTER, at('2026-11-08T09:00:00.000Z')).events), ['sun']);
+    assert.deepEqual([...ids(window.EventsCore.pickWeekend(WINTER, at('2026-11-08T09:00:00.000Z')).events)], ['sun']); // spread: arrays made inside the vm belong to another realm
+});
+
+// The front page box spreads its 5 places across the weekend days, one day at a time, then lists them in time order.
+const fri = (id, h) => ev(id, `2026-11-06T${h}:00:00.000Z`);
+const sat = (id, h) => ev(id, `2026-11-07T${h}:00:00.000Z`);
+const sun = (id, h) => ev(id, `2026-11-08T${h}:00:00.000Z`);
+
+test('the box takes Friday, Saturday and Sunday in turn, then lists them in time order', () => {
+    const events = [fri('f6', '16'), fri('f5', '15'), fri('f4', '14'), fri('f3', '13'), fri('f2', '12'), fri('f1', '11'),
+        sat('s2', '15'), sat('s1', '09'), sun('u1', '20')];
+    // Round-robin picks f1, s1, u1, f2, s2
+    assert.deepEqual(box(events, '2026-11-04T12:00:00.000Z'), { heading: "What's on this weekend", ids: ['f1', 'f2', 's1', 's2', 'u1'] });
+});
+
+test('when the five places run out part-way through a round, Friday gets the earlier turn', () => {
+    const events = [fri('f1', '10'), fri('f2', '11'), fri('f3', '12'), sat('s1', '10'), sat('s2', '11'), sat('s3', '12'),
+        sun('u1', '10'), sun('u2', '11'), sun('u3', '12')];
+    // f1, s1, u1, f2, s2: Sunday's second event misses out
+    assert.deepEqual(box(events, '2026-11-04T12:00:00.000Z').ids, ['f1', 'f2', 's1', 's2', 'u1']);
+});
+
+test('on a Saturday the box shares its places between Saturday and Sunday only', () => {
+    const events = [fri('f1', '11'), sat('s1', '09'), sat('s2', '10'), sat('s3', '11'), sat('s4', '12'), sun('u1', '10'), sun('u2', '11')];
+    // s1, u1, s2, u2, s3 (Friday is gone), shown in time order
+    assert.deepEqual(box(events, '2026-11-07T08:00:00.000Z').ids, ['s1', 's2', 's3', 'u1', 'u2']);
+});
+
+test('when only Friday has events the box fills with Fridays, earliest first', () => {
+    const events = ['17', '12', '15', '11', '19', '10', '13'].map(h => fri(`f${h}`, h));
+    assert.deepEqual(box(events, '2026-11-04T12:00:00.000Z').ids, ['f10', 'f11', 'f12', 'f13', 'f15']);
+});
+
+test('a day with no events is skipped and the others fill its place', () => {
+    const events = [fri('f1', '10'), fri('f2', '11'), fri('f3', '12'), sun('u1', '10'), sun('u2', '11'), sun('u3', '12')];
+    assert.deepEqual(box(events, '2026-11-04T12:00:00.000Z').ids, ['f1', 'f2', 'f3', 'u1', 'u2']);
+});
+
+test('late on a summer Sunday (already Monday in Ireland) the box looks to next weekend', () => {
+    const now = '2026-07-05T23:30:00.000Z'; // Mon 6 July, 00:30 in Irish time
+    const events = [
+        ev('thisSun', '2026-07-05T12:00:00.000Z'),
+        ev('f1', '2026-07-10T18:00:00.000Z'), ev('s1', '2026-07-11T10:00:00.000Z'), ev('u1', '2026-07-12T10:00:00.000Z')
+    ];
+    assert.deepEqual(box(events, now), { heading: "What's on this weekend", ids: ['f1', 's1', 'u1'] });
+    assert.deepEqual(box([events[0]], now), null);
 });
