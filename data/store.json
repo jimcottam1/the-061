@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-01T18:23:24.166Z",
-    "totalArticles": 24
+    "lastScrape": "2026-11-02T13:25:22.168Z",
+    "totalArticles": 28
   },
   "articles": {
     "8353171": {
@@ -950,6 +950,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.423Z"
     },
+    "9317106": {
+      "id": "9317106",
+      "title": "'If we can help people, we will': Limerick motorcycle group doing good in community",
+      "link": "https://www.limerickleader.ie/news/features/if-we-can-help-people-we-will-limerick-motorcycle-group-doing-good-in-community-9317106",
+      "description": "Members of a motorcycling club meet monthly in the heart of Limerick - and there’s far more to them than tattoos, leather jackets and the need for speed",
+      "pubDate": "Sun, 01 Nov 2026 20:00:56 GMT",
+      "author": "Nick Rabbitts",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/19/20/ilim-Bikers-meeting-Little-Catherine-Street-16-10-26-5.jpeg?width=1200&auto=webp&trim=91%2C0%2C91%2C0",
+      "imageCredit": ".",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
     "9317250": {
       "id": "9317250",
       "title": "More than a quarter of adults have experienced sexual violence – report",
@@ -1422,6 +1434,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-01T18:23:12.966Z"
     },
+    "9323185": {
+      "id": "9323185",
+      "title": "PICTURES: Old Christians GAA Club launch fundraising dog night",
+      "link": "https://www.limerickleader.ie/sport/gaa/pictures-old-christians-gaa-club-launch-fundraising-dog-night-9323185",
+      "description": "The southside city GAA club were formed in 1962 and are raising funds to try and enhance their facilities in Rathbane",
+      "pubDate": "Sun, 01 Nov 2026 22:00:09 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/19/MixCollage-01-Nov-2026-05-42-PM-622.jpeg?width=1200&auto=webp&trim=60%2C0%2C60%2C0",
+      "imageCredit": "Sean O'Doherty",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
     "9323186": {
       "id": "9323186",
       "title": "'Our town is all football': Quirke and Caseys thrilled with win",
@@ -1433,6 +1457,86 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-11-01T18:23:12.966Z"
+    },
+    "9323231": {
+      "id": "9323231",
+      "title": "Three local sides advance to Munster Junior Cup open draw after wins",
+      "link": "https://www.limerickleader.ie/sport/soccer/junior-soccer/three-local-sides-advance-to-munster-junior-cup-open-draw-after-wins-9323231",
+      "description": "Pike, Janesboro and Kilmallock won in the Munster Junior Cup, while Geraldines beat Mungret Regional in the Premier League",
+      "pubDate": "Sun, 01 Nov 2026 20:30:59 GMT",
+      "author": "Pat Sheehan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/19/28/Geraldines-v-Mungret-Regional-2.jpeg?width=1200&auto=webp&trim=189%2C0%2C77%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
+    "9323457": {
+      "id": "9323457",
+      "title": "Ryanair to review pay freezes and AI use to counter jet fuel price surge",
+      "link": "https://www.limerickleader.ie/national/ryanair-to-review-pay-freezes-and-ai-use-to-counter-jet-fuel-price-surge-9323457",
+      "description": "The Dublin-based airliner said it was predicting a jump of roughly two billion euros in its fuel bill for the year to March 2028.",
+      "pubDate": "Mon, 02 Nov 2026 11:43:03 GMT",
+      "author": "Henry Saker-Clark and  Press Association Deputy Business Editor",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/11/cs-df90d7c8-47d4-47e4-8e82-d4a1f02f6479.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
+    "9323472": {
+      "id": "9323472",
+      "title": "All the winners after busy weekend of county football finals in Limerick",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/all-the-winners-after-busy-weekend-of-county-football-finals-in-limerick-9323472",
+      "description": "With Junior ‘C’ grades added to the Limerick GAA calendar in recent times, there have been more games than ever to accommodate with the vast majority of the local competitions now concluded",
+      "pubDate": "Mon, 02 Nov 2026 08:38:40 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/8/50/Na-Piarsaigh-v-Galbally-3.jpeg?width=1200&auto=webp&trim=82%2C0%2C184%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
+    "9323644": {
+      "id": "9323644",
+      "title": "How JP McManus caused a stir at event ahead of Melbourne Cup",
+      "link": "https://www.limerickleader.ie/sport/other-sport/how-jp-mcmanus-caused-a-stir-at-event-ahead-of-melbourne-cup-9323644",
+      "description": "The biggest race in the Australian calendar takes place in the early hours of Tuesday morning (Irish time) and McManus has made the trip as his horses Trustyourinstinct and Goodie Two Shoes are among the 24 contenders",
+      "pubDate": "Mon, 02 Nov 2026 11:30:23 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/9/20/3384706.jpeg?width=1200&auto=webp&trim=0%2C35%2C0%2C34",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.331Z"
+    },
+    "9324359": {
+      "id": "9324359",
+      "title": "Public sector unions plan work stoppage for major EU presidency event",
+      "link": "https://www.limerickleader.ie/national/public-sector-unions-plan-work-stoppage-for-major-eu-presidency-event-9324359",
+      "description": "Union officials are preparing a 24-hour work stoppage on the same day as the European Political Community meeting on November 12.",
+      "pubDate": "Mon, 02 Nov 2026 13:02:13 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/cs-77c1284b-3b2b-4890-9570-893eaf59b78f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.330Z"
+    },
+    "9324445": {
+      "id": "9324445",
+      "title": "Malcolm Byrne appears in court over drink driving charge",
+      "link": "https://www.limerickleader.ie/national/malcolm-byrne-appears-in-court-over-drink-driving-charge-9324445",
+      "description": "The Fianna Fáil TD for Wicklow-Wexford previously said he had been stopped at a mandatory garda checkpoint.",
+      "pubDate": "Mon, 02 Nov 2026 12:41:51 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/cs-3df83ac7-7acb-4e84-acda-dc9244610764.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.330Z"
+    },
+    "9324462": {
+      "id": "9324462",
+      "title": "'A people's man': Funeral arrangements for former Limerick politician Gerry Collins",
+      "link": "https://www.limerickleader.ie/deaths/a-peoples-man-funeral-arrangements-for-former-limerick-politician-gerry-collins-9324462",
+      "description": "Huge crowds of mourners will pay their respects at the former Limerick minister’s reposal and funeral in Abbeyfeale",
+      "pubDate": "Mon, 02 Nov 2026 12:48:36 GMT",
+      "author": "Donal O'Regan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/32/Untitled-design-(97).jpeg?width=1200&auto=webp&trim=16%2C0%2C145%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T13:25:09.330Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -2443,6 +2547,56 @@
       "author": "Mal Keaveney",
       "source": "limerickpost",
       "scrapedAt": "2026-11-01T18:23:12.328Z"
+    },
+    "https://www.limerickpost.ie/?p=362685": {
+      "id": "https://www.limerickpost.ie/?p=362685",
+      "title": "Lick of paint gives Limerick branch of Focus Ireland a new boost",
+      "link": "https://www.limerickpost.ie/2026/11/02/lick-of-paint-gives-limerick-branch-of-focus-ireland-a-new-boost/",
+      "description": "A LICK of paint has made the world of difference for the Limerick office of Focus Ireland in Castletroy. Employees from Speed Fibre Group, a specialised digital infrastructure investor, came together to source new paint and repaint the halls and rooms throughout the building. It&#8217;s part of the group&#8217;s ongoing support for Focus Ireland who [&#8230;]\nThe post Lick of paint gives Limerick branch of Focus Ireland a new boost appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 12:00:43 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T13:25:08.661Z"
+    },
+    "https://www.limerickpost.ie/?p=362683": {
+      "id": "https://www.limerickpost.ie/?p=362683",
+      "title": "Shannon wins Global Routes World Award",
+      "link": "https://www.limerickpost.ie/2026/11/02/shannon-wins-global-routes-world-award/",
+      "description": "SHANNON Airport has secured one of the aviation industry&#8217;s most prestigious honours after being named winner in the “Under 5 Million Passengers” category at the Routes World Awards 2026. The award, announced last night at Routes World 2026 in Frankfurt, saw Shannon Airport emerge as the only Irish winner among the airports recognised at this [&#8230;]\nThe post Shannon wins Global Routes World Award appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 10:30:03 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T13:25:08.662Z"
+    },
+    "https://www.limerickpost.ie/?p=362681": {
+      "id": "https://www.limerickpost.ie/?p=362681",
+      "title": "Training in farm safety for schools and young people",
+      "link": "https://www.limerickpost.ie/2026/11/02/training-in-farm-safety-for-schools-and-young-people-2/",
+      "description": "IN A YEAR where two people lost their lives in farm accidents in Limerick, local TD and Minister of State for Forestry, Farm Safety, and Horticulture, Niall Collins, welcomed the awarding of a tender to promote young persons&#8217; farm safety awareness in second level schools. Following a competitive process, Agri Aware was awarded the contract [&#8230;]\nThe post Training in farm safety for schools and young people appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 09:00:48 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T13:25:08.662Z"
+    },
+    "https://www.limerickpost.ie/?p=362713": {
+      "id": "https://www.limerickpost.ie/?p=362713",
+      "title": "Political world in mourning for late Limerick Minister Gerry Collins",
+      "link": "https://www.limerickpost.ie/2026/11/01/political-world-in-mourning-for-late-limerick-minister-gerry-collins/",
+      "description": "TRIBUTES have poured in for former Minister and MEP, Gerry Collins, (88), who died today (Sunday). Mr Collins, from Abbeyfeale, passed away peacefully at Tralee Hospice, Co Kerry, after a short illness. Mr Collins was a second generation of the titan Fianna Fáil Collins political dynasty, which is serving the people of West Limerick since [&#8230;]\nThe post Political world in mourning for late Limerick Minister Gerry Collins appeared first on Limerick Post.",
+      "pubDate": "Sun, 01 Nov 2026 18:26:52 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T13:25:08.662Z"
+    },
+    "https://limerickvoice.com/?p=53301": {
+      "id": "https://limerickvoice.com/?p=53301",
+      "title": "Tributes pour in for Irish sporting hero Ciara Mageean after tragic death",
+      "link": "https://limerickvoice.com/sport/tributes-pour-in-for-irish-sporting-hero-ciara-mageean-after-tragicdeath/",
+      "description": "Ciara Mageean has passed away at 34 years old following long battle with cancer. CIARA Mageean has died this morning (November 1), after a battle with stage four bowel cancer, which she announced in July 2025. The Portaferry-native is best known for her gold medal at the 2024 European Championships in Rome and representing Ireland [&#8230;]\nThe post Tributes pour in for Irish sporting hero Ciara Mageean after tragic death appeared first on .",
+      "pubDate": "Sun, 01 Nov 2026 18:48:21 +0000",
+      "author": "Oran O Hare Barry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-02T13:25:10.029Z"
     }
   },
   "rewritten": {
@@ -3410,6 +3564,23 @@
       "duplicateOf": "https://limerickvoice.com/?p=53174",
       "rewrittenAt": "2026-10-29T11:29:09.022Z"
     },
+    "9317106": {
+      "headline": "Limerick Motorcycle Club Focuses on Community Support",
+      "summary": "A Limerick motorcycling club meets monthly in the city to help people in the community.",
+      "story": "Members of the motorcycling club gather monthly in the heart of Limerick, demonstrating that there is far more to the group than tattoos, leather jackets, and speed.",
+      "localAngle": "The motorcycling group holds its monthly meetings in the heart of Limerick to help local people.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "'If we can help people, we will': Limerick motorcycle group doing good in community",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/features/if-we-can-help-people-we-will-limerick-motorcycle-group-doing-good-in-community-9317106",
+      "publishedAt": "Sun, 01 Nov 2026 20:00:56 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/19/20/ilim-Bikers-meeting-Little-Catherine-Street-16-10-26-5.jpeg?width=1200&auto=webp&trim=91%2C0%2C91%2C0",
+      "imageCredit": ".",
+      "rewrittenAt": "2026-11-02T13:27:59.362Z"
+    },
     "9317250": {
       "headline": "New Report Shows Over 25 Percent of Adults Face Sexual Violence",
       "summary": "A new report reveals that more than a quarter of adults have experienced sexual violence, with women, younger adults, bisexual individuals, and gay men facing the highest risks.",
@@ -3888,6 +4059,23 @@
       "duplicateOf": "9323186",
       "rewrittenAt": "2026-11-01T18:23:47.703Z"
     },
+    "9323185": {
+      "headline": "Old Christians GAA Club hold fundraiser dog night for Rathbane facilities",
+      "summary": "The southside city GAA club has launched a fundraising dog night to improve its Rathbane facilities.",
+      "story": "Formed in 1962, the southside city club is raising funds in an effort to enhance their grounds in Rathbane. Readers can view pictures of the launch on the Limerick Leader website.",
+      "localAngle": "The fundraiser directly supports the facilities of Old Christians GAA Club located in Rathbane on the southside of Limerick city.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Old Christians GAA Club launch fundraising dog night",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/pictures-old-christians-gaa-club-launch-fundraising-dog-night-9323185",
+      "publishedAt": "Sun, 01 Nov 2026 22:00:09 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/19/MixCollage-01-Nov-2026-05-42-PM-622.jpeg?width=1200&auto=webp&trim=60%2C0%2C60%2C0",
+      "imageCredit": "Sean O'Doherty",
+      "rewrittenAt": "2026-11-02T13:27:41.352Z"
+    },
     "9323186": {
       "headline": "Caseys Claim Ninth SFC Title After Defeating Kildimo-Pallaskenry",
       "summary": "Caseys secured a two-point victory over Kildimo-Pallaskenry to win the SFC for the ninth time, with Ronan Quirke scoring 0-6.",
@@ -3904,6 +4092,110 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/17/52/FC.jpeg?width=1200&auto=webp&trim=82%2C0%2C38%2C0",
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-01T18:24:03.048Z"
+    },
+    "9323231": {
+      "headline": "Pike, Janesboro, and Kilmallock Progress in Munster Junior Cup",
+      "summary": "Three Limerick sides advanced in the Munster Junior Cup following weekend victories, while Geraldines secured a Premier League win against Mungret Regional.",
+      "story": "Pike, Janesboro, and Kilmallock all secured wins to advance to the Munster Junior Cup open draw. Meanwhile, in the Premier League, Geraldines claimed a victory against Mungret Regional.",
+      "localAngle": "The matches involve local Limerick soccer clubs competing in provincial and league fixtures.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Three local sides advance to Munster Junior Cup open draw after wins",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/junior-soccer/three-local-sides-advance-to-munster-junior-cup-open-draw-after-wins-9323231",
+      "publishedAt": "Sun, 01 Nov 2026 20:30:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/01/19/28/Geraldines-v-Mungret-Regional-2.jpeg?width=1200&auto=webp&trim=189%2C0%2C77%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-02T13:27:50.340Z"
+    },
+    "9323457": {
+      "headline": "Ryanair Considers Artificial Intelligence and Pay Freezes Amid Fuel Cost Increase",
+      "summary": "Dublin-based airline Ryanair is reviewing pay freezes and artificial intelligence use to counter a predicted €2 billion jump in its fuel bill for the year to March 2028.",
+      "story": "The Dublin-based airliner announced it is predicting a fuel bill increase of roughly two billion euros for the year leading to March 2028. To counter this surge, the company said it was reviewing pay freezes and the use of AI.",
+      "localAngle": "As a major carrier operating in Ireland, any widespread operational changes at Ryanair could potentially impact passengers traveling through Irish airports.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Ryanair to review pay freezes and AI use to counter jet fuel price surge",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/ryanair-to-review-pay-freezes-and-ai-use-to-counter-jet-fuel-price-surge-9323457",
+      "publishedAt": "Mon, 02 Nov 2026 11:43:03 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/11/cs-df90d7c8-47d4-47e4-8e82-d4a1f02f6479.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-02T13:26:58.246Z"
+    },
+    "9323472": {
+      "headline": "Limerick County Football Finals Conclude After Busy Weekend",
+      "summary": "County football finals took place across Limerick over a busy weekend following the recent addition of Junior 'C' grades to the GAA calendar.",
+      "story": "The vast majority of local football competitions have now concluded after a busy weekend of county finals, accommodating a higher volume of games than ever before.",
+      "localAngle": "The article covers local Limerick GAA club football finals and the county's sporting calendar.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "All the winners after busy weekend of county football finals in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/all-the-winners-after-busy-weekend-of-county-football-finals-in-limerick-9323472",
+      "publishedAt": "Mon, 02 Nov 2026 08:38:40 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/8/50/Na-Piarsaigh-v-Galbally-3.jpeg?width=1200&auto=webp&trim=82%2C0%2C184%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-02T13:27:32.229Z"
+    },
+    "9323644": {
+      "headline": "JP McManus travels to Australia ahead of Melbourne Cup",
+      "summary": "JP McManus has traveled to Australia where his horses Trustyourinstinct and Goodie Two Shoes will compete in the Melbourne Cup.",
+      "story": "McManus made the trip as his horses are among the 24 contenders for the biggest race in the Australian calendar, which takes place in the early hours of Tuesday morning Irish time.",
+      "localAngle": "Limerick native JP McManus has travelled to Australia as his horses prepare to compete in the Melbourne Cup.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "How JP McManus caused a stir at event ahead of Melbourne Cup",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/how-jp-mcmanus-caused-a-stir-at-event-ahead-of-melbourne-cup-9323644",
+      "publishedAt": "Mon, 02 Nov 2026 11:30:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/9/20/3384706.jpeg?width=1200&auto=webp&trim=0%2C35%2C0%2C34",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-02T13:27:03.630Z"
+    },
+    "9324359": {
+      "headline": "Public Sector Unions Schedule 24-Hour Strike for EU Presidency Summit",
+      "summary": "Union officials have scheduled a 24-hour work stoppage to coincide with the European Political Community meeting on November 12.",
+      "story": "Union officials are preparing a 24-hour work stoppage on the same day as the European Political Community meeting on November 12, according to the Limerick Leader.",
+      "localAngle": "This national public sector dispute may impact services and travel arrangements locally in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Public sector unions plan work stoppage for major EU presidency event",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/public-sector-unions-plan-work-stoppage-for-major-eu-presidency-event-9324359",
+      "publishedAt": "Mon, 02 Nov 2026 13:02:13 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/cs-77c1284b-3b2b-4890-9570-893eaf59b78f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-02T13:26:27.586Z"
+    },
+    "9324445": {
+      "headline": "TD Malcolm Byrne Faces Court on Drink Driving Charge",
+      "summary": "Fianna Fáil TD Malcolm Byrne has appeared in court following a drink driving charge after previously being stopped at a mandatory garda checkpoint.",
+      "story": "The Fianna Fáil TD for Wicklow-Wexford appeared in court over a drink driving charge, having previously stated he was stopped at a mandatory garda checkpoint.",
+      "localAngle": "This national political figure's court appearance is of general interest to readers across Ireland, including those in Limerick.",
+      "section": "Courts",
+      "importance": 2,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Malcolm Byrne appears in court over drink driving charge",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/malcolm-byrne-appears-in-court-over-drink-driving-charge-9324445",
+      "publishedAt": "Mon, 02 Nov 2026 12:41:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/cs-3df83ac7-7acb-4e84-acda-dc9244610764.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-02T13:26:36.678Z"
+    },
+    "9324462": {
+      "skipped": true,
+      "duplicateOf": "8353171",
+      "rewrittenAt": "2026-11-02T13:26:21.902Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -5224,6 +5516,64 @@
       "rewrittenAt": "2026-11-01T18:23:54.496Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Maurice.jpg",
       "imageCheckedAt": "2026-11-01T18:24:30.392Z"
+    },
+    "https://limerickvoice.com/?p=53301": {
+      "skipped": true,
+      "duplicateOf": "9323114",
+      "rewrittenAt": "2026-11-02T13:26:21.902Z"
+    },
+    "https://www.limerickpost.ie/?p=362713": {
+      "skipped": true,
+      "duplicateOf": "8353171",
+      "rewrittenAt": "2026-11-02T13:26:21.902Z"
+    },
+    "https://www.limerickpost.ie/?p=362685": {
+      "headline": "Speed Fibre Group volunteers repaint Focus Ireland's Castletroy offices",
+      "summary": "Employees from Speed Fibre Group have given the Limerick branch of Focus Ireland a complete refresh, repainting the halls and rooms throughout the Castletroy building.",
+      "story": "The Limerick office of Focus Ireland in Castletroy has received a fresh coat of paint thanks to a team of volunteers from Speed Fibre Group. Staff from the digital infrastructure investor stepped in to source new paint and tackle the interior of the building, refreshing the halls and rooms used by the charity.\n\nThe makeover forms part of the company's ongoing support for Focus Ireland. Alongside the painting initiative, the group is also involved with the charity's annual Christmas Shoebox Appeal.\n\nFocus Ireland operates as a housing and homelessness charity, working locally and nationally to prevent people from becoming, remaining, or returning to homelessness. The organization provides a range of quality services, supported housing, research, and advocacy.",
+      "localAngle": "The volunteer effort directly benefits the Castletroy-based branch of Focus Ireland, which provides vital housing and homelessness services to the Limerick community.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Lick of paint gives Limerick branch of Focus Ireland a new boost",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/lick-of-paint-gives-limerick-branch-of-focus-ireland-a-new-boost/",
+      "publishedAt": "Mon, 02 Nov 2026 12:00:43 +0000",
+      "rewrittenAt": "2026-11-02T13:26:46.222Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Focus-Ireland.jpg",
+      "imageCheckedAt": "2026-11-02T13:27:59.650Z"
+    },
+    "https://www.limerickpost.ie/?p=362683": {
+      "headline": "Shannon Airport Named Best Under-5-Million Passenger Airport at Global Routes Awards",
+      "summary": "Shannon Airport has won the 'Under 5 Million Passengers' category at the Routes World Awards 2026 in Frankfurt, emerging as the sole Irish winner.",
+      "story": "Shannon Airport has secured a major international accolade after being named the winner in the “Under 5 Million Passengers” category at the Routes World Awards 2026. Announced in Frankfurt, the airport was the only Irish facility recognised at this year's event.\n\nShannon triumphed over a shortlist that included Bratislava Airport, Cardiff Airport, Cork Airport, and Canada's Halifax Stanfield International Airport. The global award honours excellence in route development, aviation marketing, and airline partnerships, with winners determined by airlines themselves.\n\nThe airport's winning submission highlighted a 12 per cent surge in passenger numbers during the first half of 2026 and the expansion of its network to 40 services—the highest number operated from Shannon in 17 years. Recent additions include new routes to Rome, Madrid, Warsaw, Poznań, and Frankfurt, alongside an upcoming Air Canada service to Toronto slated for Summer 2027.\n\nRay O’Driscoll, CEO of The Shannon Airport Group, said the recognition reflected the strength and potential of the region. Declan Power, Head of Aviation Development at the airport, added that the award serves as a strong endorsement of the collaborative approach taken with airline partners to deliver for both carriers and passengers.",
+      "localAngle": "The global aviation award highlights Shannon Airport's growth and its direct economic and tourism benefits for the local region.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Shannon wins Global Routes World Award",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/shannon-wins-global-routes-world-award/",
+      "publishedAt": "Mon, 02 Nov 2026 10:30:03 +0000",
+      "rewrittenAt": "2026-11-02T13:27:17.562Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Shannon-Airport-Exterior-1280x1280-1.jpg",
+      "imageCheckedAt": "2026-11-02T13:28:00.249Z"
+    },
+    "https://www.limerickpost.ie/?p=362681": {
+      "headline": "Agri Aware Wins State Contract to Deliver Farm Safety Program in Secondary Schools",
+      "summary": "Following a competitive tender process, Agri Aware has been awarded a contract to run the Farm Safety First Programme in second-level schools across the country. The initiative comes after two fatal farm accidents occurred in Limerick over the past year.",
+      "story": "Agri Aware has secured the contract to promote farm safety awareness in second-level schools following a competitive tender process. The educational initiative, known as the Farm Safety First Programme, includes an option to extend the agreement annually up to 2031.\n\nThe announcement comes during a year that has seen two people lose their lives in farm accidents in Limerick. Across the country, figures show that eight people under the age of 18 have died on Irish farms over the past decade, with every single one of those fatalities involving farm vehicles.\n\nMinister of State for Forestry, Farm Safety, and Horticulture, Niall Collins, welcomed the funding. He noted that the program will assist secondary teachers in educating students about the hazards associated with agriculture and urged schools to embrace the training.\n\nAgri Aware Chair Shay Galvin highlighted that while farming is a rewarding environment, it carries distinct risks. He explained that the Farm Safety First programme provides classroom resources alongside practical elements, including in-person workshops and farm visits, to promote best practices and reduce future accidents.",
+      "localAngle": "The rollout of the national farm safety school program follows a year in which two people lost their lives in farm accidents within Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 3,
+      "originalTitle": "Training in farm safety for schools and young people",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/training-in-farm-safety-for-schools-and-young-people-2/",
+      "publishedAt": "Mon, 02 Nov 2026 09:00:48 +0000",
+      "rewrittenAt": "2026-11-02T13:27:24.545Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/10/Farmer-support-120-word-brief.webp",
+      "imageCheckedAt": "2026-11-02T13:28:00.588Z"
     }
   }
 }
