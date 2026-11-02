@@ -173,6 +173,13 @@ test('a day with no events is skipped and the others fill its place', () => {
     assert.deepEqual(box(events, '2026-11-04T12:00:00.000Z').ids, ['f1', 'f2', 'f3', 'u1', 'u2']);
 });
 
+test('the box counts days in Irish time: 00:30 on a summer Saturday is a Saturday event, not a Friday one', () => {
+    const events = ['18', '19', '20', '21', '22'].map(h => ev(`f${h}`, `2026-07-10T${h}:00:00.000Z`));
+    events.push(ev('late', '2026-07-10T23:30:00.000Z')); // 00:30 on Saturday 11 July in Irish time
+    // Fri f18, Sat late, then f19, f20, f21; f22 misses out. By UTC date, late would count as Friday and miss out.
+    assert.deepEqual(box(events, '2026-07-08T12:00:00.000Z').ids, ['f18', 'f19', 'f20', 'f21', 'late']);
+});
+
 test('late on a summer Sunday (already Monday in Ireland) the box looks to next weekend', () => {
     const now = '2026-07-05T23:30:00.000Z'; // Mon 6 July, 00:30 in Irish time
     const events = [
