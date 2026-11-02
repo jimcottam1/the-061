@@ -4,7 +4,7 @@ const path = require('path');
 const crypto = require('crypto');
 const store = require('./lib/store');
 const { normaliseSection } = require('./lib/sections');
-const { GROUPS, groupEvents, whenText } = require('./lib/events');
+const EventsCore = require('./lib/events');
 
 const ROOT = path.join(__dirname, '..');
 const PUBLIC_DIR = path.join(ROOT, 'public');
@@ -17,6 +17,7 @@ const FRONT_PAGE_MIN = 12;
 
 // GitHub Pages lets browsers cache files for 10 minutes, so a returning reader could get a new page
 // with the old stylesheet. Versioning the stylesheet URL by its content makes every change load fresh.
+const CORE_VERSION = crypto.createHash('sha1').update(fs.readFileSync(path.join(PUBLIC_DIR, 'events-core.js'))).digest('hex').slice(0, 8);
 const STYLE_VERSION = crypto.createHash('sha1').update(fs.readFileSync(path.join(PUBLIC_DIR, 'styles.css'))).digest('hex').slice(0, 8);
 
 function escapeHtml(value) {
@@ -377,31 +378,10 @@ function archiveHtml(title, currentId, articles, sections) {
 `;
 }
 
-function eventEntryHtml(event, now) {
-    const url = safeUrl(event.url);
-    const title = escapeHtml(event.title);
-    const price = event.free ? 'Free' : event.price;
-    const meta = [event.place, price].filter(Boolean).map(escapeHtml).join(' &middot; ');
-    return `
-            <article class="archive-entry no-photo event-entry">
-                <div>
-                    <h3 class="headline">${url ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener">${title}</a>` : title}</h3>
-                    <p class="event-when">${escapeHtml(whenText(event, now))}</p>
-                    ${meta ? `<p class="event-meta">${meta}</p>` : ''}
-                </div>
-            </article>`;
-}
-
-/** The What's On page: listings from Limerick.ie, grouped by when they happen (in Irish time). */
+/** The What's On page: listings from Limerick.ie grouped by when they happen (in Irish time). The script regroups them in the reader's browser, so the page isn't stale between builds. */
 function eventsHtml(data, now = new Date()) {
-    const groups = groupEvents(Array.isArray(data?.events) ? data.events : [], now);
-    const days = GROUPS.filter(([key]) => groups[key].length).map(([key, heading]) => `
-        <section class="archive-day">
-            <h2 class="archive-date">${escapeHtml(heading)}</h2>
-            ${groups[key].map(e => eventEntryHtml(e, now)).join('')}
-        </section>`).join('');
     const title = "What's On";
-    const description = 'Events in Limerick over the next two months, listed by Limerick City and County Council.';
+    const description = 'Events coming up in Limerick, listed by Limerick City and County Council.';
 
     return `<!DOCTYPE html>
 <html lang="en">
@@ -430,9 +410,9 @@ function eventsHtml(data, now = new Date()) {
         <main class="archive">
             <header class="section-head">
                 <h1>${escapeHtml(title)}</h1>
-                <span>Limerick &middot; next 60 days</span>
+                <span>Limerick &middot; coming up</span>
             </header>
-            ${days || '<p class="notice">No events listed at the moment.</p>'}
+            <div id="events-list">${EventsCore.listHtml(Array.isArray(data?.events) ? data.events : [], now)}</div>
             <p class="event-credit">Event listings from <a href="https://www.limerick.ie/discover/whats-on" target="_blank" rel="noopener">Limerick.ie</a>, Limerick City and County Council. Check with the organiser before you go.</p>
         </main>
 
@@ -441,6 +421,13 @@ function eventsHtml(data, now = new Date()) {
             Event listings are not written by The 061 &middot; each links to the council's page
         </footer>
     </div>
+    <script src="events-core.js?v=${CORE_VERSION}"></script>
+    <script>
+    // The list above was built when the site was last published; sort it again for today
+    fetch('data/events.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; }).then(function (data) {
+        if (data && Array.isArray(data.events) && window.EventsCore) document.getElementById('events-list').innerHTML = EventsCore.listHtml(data.events, new Date());
+    }).catch(function () {});
+    </script>
 </body>
 </html>
 `;
@@ -489,6 +476,7 @@ function buildSite() {
     });
     fs.writeFileSync(indexPath, fs.readFileSync(indexPath, 'utf8')
         .replace('href="styles.css"', `href="styles.css?v=${STYLE_VERSION}"`)
+        .replace('src="events-core.js"', `src="events-core.js?v=${CORE_VERSION}"`)
         .replace('</title>', `</title>\n    ${frontTags}`));
 
     const articles = collectArticles();
@@ -552,7 +540,7 @@ function buildSite() {
     let events = null;
     try {
         events = JSON.parse(fs.readFileSync(process.env.EVENTS_PATH || path.join(ROOT, 'data', 'events.json'), 'utf8'));
-        const { past, ...publicEvents } = events;
+        const { past, failed, ...publicEvents } = events; // the fetcher's own notes
         fs.writeFileSync(path.join(SITE_DIR, 'data', 'events.json'), JSON.stringify(publicEvents));
     } catch { /* no file, or unreadable: an empty What's On page */ }
     fs.writeFileSync(path.join(SITE_DIR, 'whats-on.html'), eventsHtml(events, new Date(builtAt)));

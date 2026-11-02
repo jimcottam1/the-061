@@ -136,6 +136,33 @@ test('the front page script still compiles (a clashing name once broke the whole
     for (const code of scripts) new (require('vm').Script)(code);
 });
 
+test('the page does not promise more than the feed holds', t => {
+    const { page } = build(t, EVENTS);
+    assert.match(page, /<span>Limerick &middot; coming up<\/span>/);
+    assert.match(page, /<meta name="description" content="Events coming up in Limerick, listed by Limerick City and County Council\.">/);
+    assert.doesNotMatch(page, /next 60 days|two months/);
+});
+
+test('the built page is the no-script fallback; its script regroups it from data/events.json with the shared code', t => {
+    const { page, site } = build(t, EVENTS);
+    assert.match(page, /<div id="events-list">[\s\S]*Today Quiz/);
+    assert.match(page, /<script src="events-core\.js\?v=[0-9a-f]{8}"><\/script>/);
+    assert.match(page, /fetch\('data\/events\.json'/);
+    assert.match(page, /EventsCore\.listHtml\(data\.events, new Date\(\)\)/);
+    assert.ok(fs.existsSync(path.join(site, 'events-core.js')));
+});
+
+test('the front page loads events on their own, so they never hold up the stories', t => {
+    const { read } = build(t, EVENTS);
+    const index = read('index.html');
+    assert.match(index, /<script src="events-core\.js\?v=[0-9a-f]{8}"><\/script>/);
+    assert.match(index, /<div id="eventsSlot"><\/div>/);
+    assert.doesNotMatch(index, /await\s+fetch\(['"]data\/events/);
+    assert.doesNotMatch(index, /await\s+loadEvents/);
+    assert.match(index, /function loadEvents\(\) \{\s*fetch\('data\/events\.json'/);
+    assert.match(index, /EventsCore\.boxHtml/);
+});
+
 test('the front page links to What\'s On and holds the weekend box', t => {
     const { read } = build(t, EVENTS);
     const index = read('index.html');
