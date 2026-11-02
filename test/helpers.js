@@ -14,6 +14,8 @@ for (const name of ['GEMINI_API_KEY', 'NEWSAPI_KEY', 'RSS_FEEDS', 'LIMERICK_KEYW
     process.env[name] = '';
 }
 process.env.GAA_FIXTURES_PATH = path.join(TMP, 'gaa-fixtures.json');
+process.env.EVENTS_PATH = path.join(TMP, 'events.json');
+process.env.EVENTS_PAUSE_MS = '0'; // no waiting between event pages
 
 const fixture = name => fs.readFileSync(path.join(__dirname, 'fixtures', name), 'utf8');
 

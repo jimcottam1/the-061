@@ -44,6 +44,7 @@
         </footer>
     </div>
 
+    <script src="events-core.js"></script>
     <script>
         // Escape text before putting it into innerHTML (article text comes from an AI rewrite of scraped pages)
         function esc(value) {
@@ -161,6 +162,7 @@
         // ---------- Limerick GAA club results and fixtures (Sport section) ----------
 
         let gaa = null;
+        let eventData = null;
 
         /** "Blackrock 1-20 Belville Gaels 1-14" -> both sides, with the winner in bold. */
         function resultHtml(line) {
@@ -203,6 +205,23 @@
                     ${column('Club results', gaa.results, resultHtml, 'No results this week yet.')}
                     ${column('Coming up', gaa.fixtures, fixtureHtml, 'No fixtures posted in the last few days.')}
                 </section>`;
+        }
+
+        // ---------- "What's on" box, from data/events.json (listings from Limerick.ie; see fetch-events.js) ----------
+        // Loaded on its own and filled in whenever both it and the page are ready, so a slow or missing
+        // events file never holds up or breaks the stories. The picking and wording are in events-core.js.
+
+        function fillEventsBox() {
+            const slot = document.getElementById('eventsSlot');
+            if (!slot || !eventData || !window.EventsCore) return;
+            try { slot.innerHTML = EventsCore.boxHtml(eventData.events, new Date()); } catch (error) { console.error('Events box:', error); }
+        }
+
+        function loadEvents() {
+            fetch('data/events.json', { cache: 'no-cache' })
+                .then(r => r.ok ? r.json() : null)
+                .then(data => { eventData = data; fillEventsBox(); })
+                .catch(() => {});
         }
 
         // ---------- "Limerick today" strip, from Ireland Now's live data (same site, so no keys) ----------
@@ -421,7 +440,7 @@
         function renderSectionNav(sections) {
             const links = [`<a href="#top">Front Page</a>`]
                 .concat(sections.map(s => `<a href="#${sectionId(s.name)}">${esc(s.name)}</a>`))
-                .concat(`<a href="sections/all.html">Archive</a>`);
+                .concat(`<a href="whats-on.html">What's On</a>`, `<a href="sections/all.html">Archive</a>`);
             document.getElementById('sectionNav').innerHTML = links.join('');
         }
 
@@ -486,8 +505,10 @@
                 html += `<aside class="sidebar"><div class="sidebar-heading">Top stories</div>${seconds.map(secondHtml).join('')}</aside>`;
             }
             html += '</div>';
+            html += '<div id="eventsSlot"></div>';
             html += sections.map(sectionHtml).join('');
             document.getElementById('front').innerHTML = html;
+            fillEventsBox();
             renderSectionNav(sections);
         }
 
@@ -525,6 +546,7 @@
 
         // Load the article list published by the daily build (relative path so it works under /the-061/)
         async function loadArticles() {
+            loadEvents(); // in parallel with the stories; see fillEventsBox
             const front = document.getElementById('front');
             try {
                 const response = await fetch('data/articles.json', { cache: 'no-cache' });

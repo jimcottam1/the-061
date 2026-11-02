@@ -83,6 +83,7 @@ jobs:
           npm run sections
           npm run images
           npm run gaa
+          npm run events
 
       - name: Commit updated article store
         run: |
@@ -102,6 +103,7 @@ jobs:
           # The store doesn't exist until the first scrape has run
           if [ -f data/store.json ]; then git add data/store.json; fi
           if [ -f data/gaa-fixtures.json ]; then git add data/gaa-fixtures.json; fi
+          if [ -f data/events.json ]; then git add data/events.json; fi
           if git diff --cached --quiet; then
             echo "No changes to the article store"
           else

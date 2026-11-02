@@ -10,8 +10,9 @@
     "images": "node scripts/fetch-images.js",
     "sections": "node scripts/classify-sections.js",
     "gaa": "node scripts/fetch-gaa-fixtures.js",
-    "build": "node scripts/build-site.js",
-    "update": "npm run scrape && npm run dedupe && npm run rewrite && npm run sections && npm run images && npm run gaa && npm run build",
+    "events": "node scripts/fetch-events.js",
+    "build":"node scripts/build-site.js",
+    "update": "npm run scrape && npm run dedupe && npm run rewrite && npm run sections && npm run images && npm run gaa && npm run events && npm run build",
     "clear-rewrites": "node scripts/clear-rewrites.js",
     "preview": "npx --yes serve site"
   },
