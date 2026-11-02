@@ -145,7 +145,7 @@
         return days || '<p class="notice">No events listed at the moment.</p>';
     }
 
-    /** Up to 5 events starting on the coming Friday to Sunday, else the next 5; null when there are none. */
+    /** Up to 5 events starting on the coming Friday to Sunday, spread across the days, else the next 5; null when there are none. */
     function pickWeekend(events, now = new Date()) {
         const today = dayKey(now);
         const dow = weekday(today);
@@ -156,7 +156,20 @@
             .filter(e => dayKey(new Date(e.start)) >= today) // ones already under way are on the What's On page
             .sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
         const weekend = upcoming.filter(e => { const day = dayKey(new Date(e.start)); return day >= from && day <= sunday; });
-        if (weekend.length) return { heading: "What's on this weekend", events: weekend.slice(0, BOX_SIZE) };
+        if (weekend.length) {
+            // One day at a time (Fri, Sat, Sun, Fri...) so the box isn't all one day; then back into time order.
+            const days = [];
+            for (const e of weekend) {
+                const day = dayKey(new Date(e.start));
+                (days.find(d => d.day === day) || days[days.push({ day, list: [] }) - 1]).list.push(e);
+            }
+            const picked = [];
+            for (let round = 0; picked.length < BOX_SIZE && days.some(d => d.list[round]); round++) {
+                for (const d of days) if (d.list[round] && picked.length < BOX_SIZE) picked.push(d.list[round]);
+            }
+            picked.sort((a, b) => Date.parse(a.start) - Date.parse(b.start));
+            return { heading: "What's on this weekend", events: picked };
+        }
         return upcoming.length ? { heading: "What's on", events: upcoming.slice(0, BOX_SIZE) } : null;
     }
 
