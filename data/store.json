@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-02T13:25:22.168Z",
-    "totalArticles": 28
+    "lastScrape": "2026-11-02T19:25:47.767Z",
+    "totalArticles": 30
   },
   "articles": {
     "8353171": {
@@ -657,6 +657,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T18:32:44.956Z"
     },
+    "9312585": {
+      "id": "9312585",
+      "title": "End of an era for Limerick town as postman retires after four decades",
+      "link": "https://www.limerickleader.ie/community/end-of-an-era-for-limerick-town-as-postman-retires-after-four-decades-9312585",
+      "description": "Kilmallock postman Sean Burchill chatted with Limerick Live to reflect, and look forward to a new chapter in his life - retirement.",
+      "pubDate": "Mon, 02 Nov 2026 17:00:51 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/16/11/ilim-Sean-Burchill-Kilmallock-postman-who-is-retiring-23-10-26-1.jpeg?width=1200&auto=webp&trim=51%2C187%2C540%2C441",
+      "imageCredit": "PICTURE: ADRIAN BUTLER",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
     "9312786": {
       "id": "9312786",
       "title": "Limerick man sentenced for his role in ‘dodgy box’ operation",
@@ -937,6 +949,18 @@
       "imageCredit": "LL",
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.422Z"
+    },
+    "9317031": {
+      "id": "9317031",
+      "title": "Four inmates to be sentenced after 'riot' breaks out at Limerick Prison",
+      "link": "https://www.limerickleader.ie/news/crime-courts/four-inmates-to-be-sentenced-after-riot-breaks-out-at-limerick-prison-9317031",
+      "description": "Limerick Circuit Court was informed that all of the defendants have since made amends with the injured party in this case",
+      "pubDate": "Mon, 02 Nov 2026 14:00:44 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/01/01/iconic-upload-GN4_DAT_8446681.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
     "9317045": {
       "id": "9317045",
@@ -1537,6 +1561,75 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/12/32/Untitled-design-(97).jpeg?width=1200&auto=webp&trim=16%2C0%2C145%2C0",
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T13:25:09.330Z"
+    },
+    "9324636": {
+      "id": "9324636",
+      "title": "Basketball: Limerick Celtics go top of Super League table",
+      "link": "https://www.limerickleader.ie/sport/other-sport/basketball-limerick-celtics-go-top-of-super-league-table-9324636",
+      "description": "Limerick Celtics were 88-69 winners against Garvey’s Tralee Warriors while Limerick Eagles suffered a 90-77 defeat to UCD Marian",
+      "pubDate": "Mon, 02 Nov 2026 14:30:56 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/58/IMG_1350.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "BASKETBALL IRELAND",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9324881": {
+      "id": "9324881",
+      "title": "SuperValu forced to remove food from 13 stores in Ireland following cyberattack",
+      "link": "https://www.limerickleader.ie/national/supervalu-forced-to-remove-food-from-13-stores-in-ireland-following-cyberattack-9324881",
+      "description": "An investigation has been launched as 13 Supervalu’s impacted by a suspected cyberattack affecting refrigeration systems",
+      "pubDate": "Mon, 02 Nov 2026 15:15:12 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/58/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-02T143608-441.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9325121": {
+      "id": "9325121",
+      "title": "Stormont chamber unites in sadness at loss of Olympian Ciara Mageean",
+      "link": "https://www.limerickleader.ie/national/stormont-chamber-unites-in-sadness-at-loss-of-olympian-ciara-mageean-9325121",
+      "description": "The European gold medal winning runner and twice Olympian died at the age of 34 following a battle with cancer.",
+      "pubDate": "Mon, 02 Nov 2026 15:18:55 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/15/cs-d773788a-34f9-4dd8-aab7-388797adb21a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9325207": {
+      "id": "9325207",
+      "title": "'Fantastic day for Limerick sport' as two local jockeys win top prizes",
+      "link": "https://www.limerickleader.ie/sport/other-sport/fantastic-day-for-limerick-sport-as-two-local-jockeys-win-top-prizes-9325207",
+      "description": "Billy Lee, a native of Ballingarry, secured his first Irish Flat Jockeys’ Championship, capping off an outstanding season with 99 winners",
+      "pubDate": "Mon, 02 Nov 2026 15:32:36 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/15/20/Billy-Lee.jpeg?width=1200&auto=webp&trim=216%2C0%2C284%2C0",
+      "imageCredit": "TOM RUDDLE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9325323": {
+      "id": "9325323",
+      "title": "Moves to advance Irish unity debate ‘scorched’ by SF actions on parade dispute",
+      "link": "https://www.limerickleader.ie/national/moves-to-advance-irish-unity-debate-scorched-by-sf-actions-on-parade-dispute-9325323",
+      "description": "DUP leader Gavin Robinson made the comments ahead of the publication of a Fine Gael ‘blueprint’ on unification.",
+      "pubDate": "Mon, 02 Nov 2026 15:48:57 GMT",
+      "author": "David Young, Claudia Savage and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/15/cs-b1c4701a-c338-4328-91da-1bd67ceeb08a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9325521": {
+      "id": "9325521",
+      "title": "New public sector strike ‘extremely regrettable’, Minister says",
+      "link": "https://www.limerickleader.ie/national/new-public-sector-strike-extremely-regrettable-minister-says-9325521",
+      "description": "Public sector unions are preparing for a 24-hour national strike on the same day as a major EU presidency event.",
+      "pubDate": "Mon, 02 Nov 2026 16:33:15 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/cs-06ba1fdc-238c-4aba-a73d-bdf3eb472c10.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -2597,6 +2690,46 @@
       "author": "Oran O Hare Barry",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-02T13:25:10.029Z"
+    },
+    "https://www.limerickpost.ie/?p=362692": {
+      "id": "https://www.limerickpost.ie/?p=362692",
+      "title": "Local interest in Melbourne Cup",
+      "link": "https://www.limerickpost.ie/2026/11/02/local-interest-in-melbourne-cup/",
+      "description": "THERE is a significant local interest in the A$10 million (€9 million) Melbourne Cup &#8211; the race that stops a nation &#8211; at Flemington Racecourse in the early hours of Tuesday morning (4am). It is courtesy of Trustyourinstinct, owned by JP McManus and bred by his wife Noreen of Martinstown Stud. He is sired by [&#8230;]\nThe post Local interest in Melbourne Cup appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 18:00:12 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T19:25:36.598Z"
+    },
+    "https://www.limerickpost.ie/?p=362731": {
+      "id": "https://www.limerickpost.ie/?p=362731",
+      "title": "Record demand for beds in UHL while 60 beds lie empty in nearby facility",
+      "link": "https://www.limerickpost.ie/2026/11/02/record-demand-for-beds-in-uhl-while-60-beds-lie-empty-in-nearby-facility/",
+      "description": "&#160; MORE than 2,370 more patient attendances have been sought at the already persistently overcrowded University Hospital Limerick, compared to this time last year, while 60 healthcare beds lie empty 1.8km away from the hospital. The stark figure was released Sunday by the HSE Mid West, but despite the capacity crisis, 60 state of the [&#8230;]\nThe post Record demand for beds in UHL while 60 beds lie empty in nearby facility appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 16:58:31 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T19:25:36.598Z"
+    },
+    "https://www.limerickpost.ie/?p=362717": {
+      "id": "https://www.limerickpost.ie/?p=362717",
+      "title": "Mayor cooks up a full Irish for Moyross kids",
+      "link": "https://www.limerickpost.ie/2026/11/02/mayor-cooks-up-a-full-irish-for-moyross-kids/",
+      "description": "MAYOR of Limerick, John Moran, has responded to an appeal for help from St. Munchin&#8217;s Community Centre by committing €10,000 from the Mayoral Fund to keep its school breakfast and food programme running for the coming year, subject to the necessary funding approvals. The centre&#8217;s breakfast club opens at 8am each day and feeds more [&#8230;]\nThe post Mayor cooks up a full Irish for Moyross kids appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 16:30:03 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T19:25:36.598Z"
+    },
+    "https://www.limerickpost.ie/?p=362688": {
+      "id": "https://www.limerickpost.ie/?p=362688",
+      "title": "Southill Hub receive boost from VHI fund",
+      "link": "https://www.limerickpost.ie/2026/11/02/southill-hub-receive-boost-from-vhi-fund/",
+      "description": "THE Southill Hub in Limerick City was among the beneficiaries of this year’s VHI Health and Wellbeing Fund, which saw €85,000 awarded to nine youth organisations and community groups across Ireland. The funding will support Southill Hub’s ‘Nurture Through Nutrition’ programme that provides interactive health cooking and nutrition workshops for young people aged 12 to [&#8230;]\nThe post Southill Hub receive boost from VHI fund appeared first on Limerick Post.",
+      "pubDate": "Mon, 02 Nov 2026 15:00:31 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-02T19:25:36.598Z"
     }
   },
   "rewritten": {
@@ -3331,6 +3464,23 @@
       "duplicateOf": "9320072",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
     },
+    "9312585": {
+      "headline": "Kilmallock postman Sean Burchill hangs up his mailbag after forty years",
+      "summary": "Sean Burchill has retired after serving as a postman in Kilmallock for four decades.",
+      "story": "After four decades on the job, Kilmallock postman Sean Burchill has retired and spoke to Limerick Live about reflecting on his career and looking forward to his next chapter.",
+      "localAngle": "The retirement marks the end of an era for the Co Limerick town of Kilmallock after four decades of local service.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "End of an era for Limerick town as postman retires after four decades",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/end-of-an-era-for-limerick-town-as-postman-retires-after-four-decades-9312585",
+      "publishedAt": "Mon, 02 Nov 2026 17:00:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/16/11/ilim-Sean-Burchill-Kilmallock-postman-who-is-retiring-23-10-26-1.jpeg?width=1200&auto=webp&trim=51%2C187%2C540%2C441",
+      "imageCredit": "PICTURE: ADRIAN BUTLER",
+      "rewrittenAt": "2026-11-02T19:26:43.723Z"
+    },
     "9312786": {
       "headline": "Limerick Man Sentenced for Role in Illegal 'Dodgy Box' Operation",
       "summary": "A Limerick man has been sentenced in court for his involvement in an illegal television streaming operation. The court heard he acted as a 'money mule' rather than the principal operator of the business.",
@@ -3558,6 +3708,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/09/14/36/The-Stunning-jpg-Clifden-Arts-Festival-2026-returns-to-Connemara-from-1727-September-2026-with-a-pro.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-01T11:50:09.343Z"
+    },
+    "9317031": {
+      "headline": "Four Inmates Face Sentencing Following Limerick Prison Riot",
+      "summary": "Limerick Circuit Court heard that four defendants awaiting sentencing for a prison riot have made amends with the injured party.",
+      "story": "Four inmates are set to be sentenced following a riot at Limerick Prison, with the court informed that all defendants have since made amends with the injured party.",
+      "localAngle": "The case involves an incident at Limerick Prison and is proceeding through Limerick Circuit Court.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Four inmates to be sentenced after 'riot' breaks out at Limerick Prison",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/four-inmates-to-be-sentenced-after-riot-breaks-out-at-limerick-prison-9317031",
+      "publishedAt": "Mon, 02 Nov 2026 14:00:44 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/01/01/iconic-upload-GN4_DAT_8446681.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-02T19:27:46.660Z"
     },
     "9317045": {
       "skipped": true,
@@ -4196,6 +4363,72 @@
       "skipped": true,
       "duplicateOf": "8353171",
       "rewrittenAt": "2026-11-02T13:26:21.902Z"
+    },
+    "9324636": {
+      "headline": "Limerick Celtics Claim Top Spot as Eagles Fall to Defeat",
+      "summary": "Limerick Celtics defeated Garvey's Tralee Warriors 88-69 to move to the top of the Super League table, while Limerick Eagles lost 90-77 to UCD Marian.",
+      "story": "Limerick Celtics secured an 88-69 victory over Garvey's Tralee Warriors to go top of the Super League table, while fellow Limerick side Limerick Eagles were defeated 90-77 by UCD Marian.",
+      "localAngle": "The update covers the latest Super League results and league standings for Limerick's basketball teams.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Basketball: Limerick Celtics go top of Super League table",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/basketball-limerick-celtics-go-top-of-super-league-table-9324636",
+      "publishedAt": "Mon, 02 Nov 2026 14:30:56 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/13/58/IMG_1350.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "BASKETBALL IRELAND",
+      "rewrittenAt": "2026-11-02T19:27:37.756Z"
+    },
+    "9324881": {
+      "headline": "Cyberattack forces food removal at 13 SuperValu stores across Ireland",
+      "summary": "An investigation is underway after a suspected cyberattack impacted refrigeration systems at 13 SuperValu locations.",
+      "story": "Thirteen SuperValu stores in Ireland were forced to remove food following a suspected cyberattack that affected their refrigeration systems, prompting an investigation.",
+      "localAngle": "SuperValu stores operate widely across Limerick and the Mid-West, though specific affected locations have not yet been detailed.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "SuperValu forced to remove food from 13 stores in Ireland following cyberattack",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/supervalu-forced-to-remove-food-from-13-stores-in-ireland-following-cyberattack-9324881",
+      "publishedAt": "Mon, 02 Nov 2026 15:15:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/58/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-02T143608-441.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "rewrittenAt": "2026-11-02T19:27:19.783Z"
+    },
+    "9325121": {
+      "skipped": true,
+      "duplicateOf": "9323114",
+      "rewrittenAt": "2026-11-02T19:26:37.945Z"
+    },
+    "9325207": {
+      "headline": "Ballintarry native Billy Lee claims first Irish Flat Jockeys’ Championship",
+      "summary": "Billy Lee from Ballingarry won his first Irish Flat Jockeys’ Championship with 99 winners.",
+      "story": "Billy Lee, a native of Ballingarry, secured his first Irish Flat Jockeys’ Championship after finishing an outstanding season with 99 winners.",
+      "localAngle": "Jockey Billy Lee is a native of Ballingarry in County Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "'Fantastic day for Limerick sport' as two local jockeys win top prizes",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/fantastic-day-for-limerick-sport-as-two-local-jockeys-win-top-prizes-9325207",
+      "publishedAt": "Mon, 02 Nov 2026 15:32:36 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/15/20/Billy-Lee.jpeg?width=1200&auto=webp&trim=216%2C0%2C284%2C0",
+      "imageCredit": "TOM RUDDLE",
+      "rewrittenAt": "2026-11-02T19:27:10.563Z"
+    },
+    "9325323": {
+      "skipped": true,
+      "duplicateOf": "9319206",
+      "rewrittenAt": "2026-11-02T19:26:37.945Z"
+    },
+    "9325521": {
+      "skipped": true,
+      "duplicateOf": "9324359",
+      "rewrittenAt": "2026-11-02T19:26:37.945Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -5574,6 +5807,59 @@
       "rewrittenAt": "2026-11-02T13:27:24.545Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/10/Farmer-support-120-word-brief.webp",
       "imageCheckedAt": "2026-11-02T13:28:00.588Z"
+    },
+    "https://www.limerickpost.ie/?p=362692": {
+      "skipped": true,
+      "duplicateOf": "9323644",
+      "rewrittenAt": "2026-11-02T19:26:37.945Z"
+    },
+    "https://www.limerickpost.ie/?p=362731": {
+      "headline": "Sixty beds sit empty near overcrowded UHL as patient demand surges",
+      "summary": "University Hospital Limerick has seen over 2,370 additional patient attendances this year, while 60 state-of-the-art intermediary care beds remain vacant just 1.8km away at Raheen Lodge due to ongoing contract delays with the HSE.",
+      "story": "University Hospital Limerick is facing a severe capacity crunch as patient attendances rise by more than 2,370 compared to last year. Meanwhile, 60 en-suite beds lie empty just 1.8 kilometres away at the privately owned Raheen Lodge facility in Limerick, awaiting a contract agreement with the HSE.\n\nBuilt by Bartra Healthcare at a cost of €20 million, the 80-bed unit opened last May and currently has only 20 beds in use. Chief Executive Angela Ring expressed frustration that the facility's on-site doctor, nurses, therapists, and ambulance transport are sitting ready with up to 30 staff on standby while bureaucratic delays drag on. The beds are intended to serve as a vital step-down release valve for five regional hospitals, including UHL, St John's, and Croom.\n\nAccording to Bartra's analysis of HSE figures, an average of 38 acute beds across the mid-west were occupied daily this year by patients medically approved for discharge, including 25 at UHL alone. This bottleneck has created knock-on effects that leave over 8,000 adult patients waiting on average each month for appointments across the region.\n\nThe HSE Mid West acknowledged the profound capacity crisis in a recent statement, noting that hospital staff are working under unprecedented pressure and that rising demand has significantly reduced the system's ability to accommodate new patients. However, the health service declined to specifically address questions regarding the facility or the sudden cancellation of a March tender for transitional care beds.",
+      "localAngle": "The ongoing overcrowding crisis directly impacts patients across Limerick and the wider mid-west region attending University Hospital Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 2,
+      "originalTitle": "Record demand for beds in UHL while 60 beds lie empty in nearby facility",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/record-demand-for-beds-in-uhl-while-60-beds-lie-empty-in-nearby-facility/",
+      "publishedAt": "Mon, 02 Nov 2026 16:58:31 +0000",
+      "rewrittenAt": "2026-11-02T19:26:54.388Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/05/USE-WEB-UHL-emergency-department-ED-overcrowding-May-1-2024-4.jpg",
+      "imageCheckedAt": "2026-11-02T19:27:47.132Z"
+    },
+    "https://www.limerickpost.ie/?p=362717": {
+      "headline": "Mayor John Moran commits €10,000 to save Moyross school breakfast club",
+      "summary": "Limerick Mayor John Moran has allocated €10,000 from the Mayoral Fund to St. Munchin’s Community Centre, securing its school breakfast programme for over 200 children for the coming year.",
+      "story": "Mayor of Limerick John Moran has stepped in to rescue a Moyross school food programme by committing €10,000 from the Mayoral Fund, subject to necessary funding approvals. The vital funding will keep St. Munchin’s Community Centre's breakfast club running for the next 12 months.\n\nThe centre’s breakfast club opens at 8am each day, feeding more than 200 children before school in partnership with local primary schools, including Corpus Christi Primary School. For many of the participating children, the freshly cooked meal provided by qualified chefs is their main meal of the day. \n\nLinda Ledger, CEO of St. Munchin’s Community Centre, had alerted the Mayor that the service faced immediate closure after Halloween due to severe financial pressures and shortfalls in government funding. The centre had previously covered the funding gaps from its own resources.\n\nMayor Moran stated that children cannot learn on an empty stomach and that school meals are a health equity issue. \"This money gives schools and families certainty now and gives us time to work on a lasting solution with the centre and its partners,\" he said.",
+      "localAngle": "The funding directly protects a crucial daily breakfast service for more than 200 children attending local primary schools in Moyross.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Mayor cooks up a full Irish for Moyross kids",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/mayor-cooks-up-a-full-irish-for-moyross-kids/",
+      "publishedAt": "Mon, 02 Nov 2026 16:30:03 +0000",
+      "rewrittenAt": "2026-11-02T19:27:03.210Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/6ae481381d53a717dba.jpeg",
+      "imageCheckedAt": "2026-11-02T19:27:48.084Z"
+    },
+    "https://www.limerickpost.ie/?p=362688": {
+      "headline": "Southill Hub Secures Vhi Funding for Youth Nutrition Programme",
+      "summary": "The Limerick community organisation has received funding from the Vhi Health and Wellbeing Fund 2026. The money will support interactive cooking workshops for young people.",
+      "story": "Southill Hub in Limerick City has been announced as one of the beneficiaries of this year’s Vhi Health and Wellbeing Fund. The local organisation was among nine youth groups and community organisations across Ireland to share a total of €85,000 in funding.\n\nThe financial boost will directly support the hub’s ‘Nurture Through Nutrition’ programme. The initiative delivers interactive health cooking and nutrition workshops tailored for young people aged 12 to 25.\n\nOrganisers designed the programme to help participants develop practical food skills and make informed dietary choices, while also addressing food poverty in the area. Representatives from Southill Hub recently celebrated the funding announcement alongside corporate representatives from Vhi.",
+      "localAngle": "The funding directly supports a youth programme based at the Southill Hub in Limerick City.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Southill Hub receive boost from VHI fund",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/02/southill-hub-receive-boost-from-vhi-fund/",
+      "publishedAt": "Mon, 02 Nov 2026 15:00:31 +0000",
+      "rewrittenAt": "2026-11-02T19:27:29.066Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Souhtill-Hub-VHI-Health-and-Wellbeing-Southill-027-1.jpg",
+      "imageCheckedAt": "2026-11-02T19:27:48.773Z"
     }
   }
 }
