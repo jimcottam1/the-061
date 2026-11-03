@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-03T16:57:57.834Z",
-    "totalArticles": 36
+    "lastScrape": "2026-11-03T20:02:59.531Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -1872,6 +1872,28 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-03T16:57:44.094Z"
     },
+    "9328572": {
+      "id": "9328572",
+      "title": "Expected UK-EU deal on agri-goods prompts familiar divisions",
+      "link": "https://www.limerickleader.ie/national/expected-uk-eu-deal-on-agri-goods-prompts-familiar-divisions-9328572",
+      "description": "DUP leader Gavin Robinson criticised a ‘lack of ambition’ on the part of the UK Government over the proposed deal.",
+      "pubDate": "Tue, 03 Nov 2026 17:42:41 GMT",
+      "author": "David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/17/cs-65a39934-c063-423a-9804-417639a43f77.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T20:02:49.549Z"
+    },
+    "9328737": {
+      "id": "9328737",
+      "title": "Fiosrú asked to investigate holster used by murdered garda",
+      "link": "https://www.limerickleader.ie/national/fiosru-asked-to-investigate-holster-used-by-murdered-garda-9328737",
+      "description": "The garda watchdog has been asked to investigate the suitability of a holster issued to a garda who was murdered with his own gun.",
+      "pubDate": "Tue, 03 Nov 2026 19:40:28 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/19/cs-02941b9b-a730-4cd6-8a32-da718bd8332d.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T20:02:49.549Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -3111,6 +3133,26 @@
       "author": "Connor Hayes",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-03T16:57:45.076Z"
+    },
+    "https://www.limerickpost.ie/?p=362720": {
+      "id": "https://www.limerickpost.ie/?p=362720",
+      "title": "Limerick FC prepares for heritage season",
+      "link": "https://www.limerickpost.ie/2026/11/03/limerick-fc-prepares-for-heritage-season/",
+      "description": "A NEW microsite providing information ahead of the return of Limerick FC next season has been unveiled. The temporary website &#8211; www.limerickfcheritage.com &#8211;  will serve as a central information hub ahead of the launch of the club’s main website later this year. Next year marks 90 years since Limerick FC’s foundation in 1937. The Heritage [&#8230;]\nThe post Limerick FC prepares for heritage season appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 18:00:58 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T20:02:49.306Z"
+    },
+    "https://limerickvoice.com/?p=53439": {
+      "id": "https://limerickvoice.com/?p=53439",
+      "title": "Local councillor speaks on AI advertising dominating Limerick’s businesses",
+      "link": "https://limerickvoice.com/arts-and-culture/local-councillor-speaks-on-ai-advertising-dominating-limericks-businesses/",
+      "description": "Cllr Hickey-O&#8217;Mara calls for new AI policy in response to tourism video. THE LIMERICK County Council&#8217;s use of Artificial Intelligence in an online tourism video has raised the question of whether Limerick businesses and organisations are becoming over-reliant on using AI.  The video was posted a month ago on the official Limerick Festivals and Events social media, promoting Christmas [&#8230;]\nThe post Local councillor speaks on AI advertising dominating Limerick&#8217;s businesses appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 19:04:22 +0000",
+      "author": "Paul Hough",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T20:02:50.085Z"
     }
   },
   "rewritten": {
@@ -5068,6 +5110,27 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/21/09/iconic-upload-2026_05_19-Child_Sexual_Abuse_Survivors_Bill_Sonya_Stokes_ILIL_180526-1779203122990_1779203167.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-03T16:59:19.023Z"
     },
+    "9328572": {
+      "skipped": true,
+      "duplicateOf": "9326695",
+      "rewrittenAt": "2026-11-03T20:03:13.837Z"
+    },
+    "9328737": {
+      "headline": "Garda watchdog asked to examine holster of murdered officer",
+      "summary": "Fiosrú has been requested to probe the suitability of the holster issued to a garda who was killed using his own firearm.",
+      "story": "The garda watchdog has received a request to investigate the holster issued to an officer who was murdered with his own gun. Further details regarding the investigation have not yet been provided.",
+      "localAngle": "This developing national story involving An Garda Síochána is being followed closely by readers across Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Fiosrú asked to investigate holster used by murdered garda",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/fiosru-asked-to-investigate-holster-used-by-murdered-garda-9328737",
+      "publishedAt": "Tue, 03 Nov 2026 19:40:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/19/cs-02941b9b-a730-4cd6-8a32-da718bd8332d.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-03T20:03:20.311Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -6689,6 +6752,38 @@
       "rewrittenAt": "2026-11-03T17:00:13.409Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/08/stock-teen-mental-health-depression-eric-ward-akT1bnnuMMk-unsplash.jpg",
       "imageCheckedAt": "2026-11-03T17:00:33.798Z"
+    },
+    "https://limerickvoice.com/?p=53439": {
+      "headline": "Cllr Hickey-O’Mara Calls for Council AI Policy Following €4,000 Christmas Video",
+      "summary": "Limerick County Council faces criticism from councillors and students after paying a German company €4,000 for an AI-generated Christmas tourism video, prompting calls for a strict artificial intelligence policy.",
+      "story": "Limerick County Council is facing fresh pressure to establish a formal artificial intelligence policy following the release of an AI-generated promotional video for Christmas in Limerick. \n\nThe video, posted a month ago on the official Limerick Festivals and Events social media accounts, was produced by German firm Render Vision at a cost of €4,000. While the Council disabled the comments section on the post, public backlash and criticism from sitting councillors quickly followed.\n\nCllr Shane Hickey-O’Mara has led the calls for accountability, telling the Limerick Voice that the priority is to introduce clear guidelines on whether and when AI content can be used by the local authority. He noted the frustration of funding an overseas tech company at a time when local arts and culture initiatives struggle to secure council support for Limerick-based artists.\n\nLocal students have also weighed in on the growing reliance on AI by public bodies and businesses across the city. University of Limerick student Brian Kelly expressed concern that such technology displaces opportunities for creative media students, adding that AI content often lacks the viewer retention of human-made work. The Limerick County Council is currently preparing a statement in response to the backlash.",
+      "localAngle": "The controversy centres on how Limerick County Council spends public funds and promotes local tourism and creative talent.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Local councillor speaks on AI advertising dominating Limerick’s businesses",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/local-councillor-speaks-on-ai-advertising-dominating-limericks-businesses/",
+      "publishedAt": "Tue, 03 Nov 2026 19:04:22 +0000",
+      "rewrittenAt": "2026-11-03T20:03:29.567Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Untitled-Design-17.png",
+      "imageCheckedAt": "2026-11-03T20:03:38.468Z"
+    },
+    "https://www.limerickpost.ie/?p=362720": {
+      "headline": "Limerick FC launches heritage website ahead of club's 90th anniversary",
+      "summary": "A new temporary microsite has been launched as Limerick FC prepares for its return next season, marking 90 years since the club's foundation in 1937. The hub will provide information and partnership opportunities ahead of a main website launch later this year.",
+      "story": "A new online hub has been unveiled to provide information ahead of the return of Limerick FC next season. The temporary website, www.limerickfcheritage.com, will serve as a central information point before the club launches its main website later this year.\n\nNext year marks 90 years since Limerick FC was founded in 1937. The upcoming Heritage Season aims to celebrate local football traditions, recognize Limerick FC's history, acknowledge Treaty United's contribution to senior football in the region, and honour those who have kept the Limerick FC legacy alive.\n\nIan McMahon, Managing Director of Treaty United, said the new site will help keep supporters and the wider community informed during the transition. \"There is a great deal to look forward to as we prepare to play as Limerick FC in 2027, and we want everyone to feel informed and part of that journey,\" he said.\n\nThe microsite also features historic photographs, club news, ticketing details, merchandise links, and partnership opportunities for the 2027 season. These packages span jersey sponsorship, pitch-side advertising, matchday hospitality, academy partnerships, and community initiatives.",
+      "localAngle": "The website prepares local supporters for the return of Limerick FC and celebrates the region's rich soccer heritage ahead of its 90th anniversary.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Limerick FC prepares for heritage season",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/limerick-fc-prepares-for-heritage-season/",
+      "publishedAt": "Tue, 03 Nov 2026 18:00:58 +0000",
+      "rewrittenAt": "2026-11-03T20:03:38.143Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/07/sport-worn-soccer-ball-stock-jonathan-greenaway-JcMsZVHnWo4-unsplash.jpg",
+      "imageCheckedAt": "2026-11-03T20:03:38.885Z"
     }
   }
 }
