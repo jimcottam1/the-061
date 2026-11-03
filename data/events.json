@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T12:47:50.923Z",
+  "updatedAt": "2026-11-03T17:00:36.608Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -63,7 +63,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "id": "112018",
@@ -74,7 +74,7 @@
       "place": "Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "id": "109315",
@@ -85,7 +85,7 @@
       "place": "Limerick City Library",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "id": "111133",
@@ -95,7 +95,7 @@
       "end": "2026-11-04T20:15:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€8",
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "id": "110016",
@@ -105,7 +105,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €27",
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "id": "107879",
@@ -113,10 +113,9 @@
       "url": "https://www.limerick.ie/discover/whats-on/festivals/polish-arts-festival-2026",
       "start": "2026-11-05T09:00:00.000Z",
       "end": "2026-11-08T22:00:00.000Z",
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "111914",
       "title": "A Talk on Financial Literacy",
       "url": "https://www.limerick.ie/discover/whats-on/free/a-talk-on-financial-literacy",
@@ -124,10 +123,10 @@
       "end": "2026-11-05T14:00:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "107606",
       "title": "Storytime for young Children",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-160",
@@ -135,19 +134,19 @@
       "end": "2026-11-05T16:30:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "106837",
       "title": "Wickham Way",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/wickham-way-228",
       "start": "2026-11-05T16:00:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
-      "place": "Wickham Way, Limerick City"
+      "place": "Wickham Way, Limerick City",
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "112082",
       "title": "Alt-West/Alt-Thiar: Christina Bennett Presentation",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/alt-west-alt-thiar-christina-bennett-presentation",
@@ -155,7 +154,8 @@
       "end": "2026-11-05T19:00:00.000Z",
       "place": "Ormston House, Limerick City",
       "price": "FREE",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-03T17:00:36.608Z"
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -485,6 +485,16 @@
       "place": "Wickham Way, Limerick City"
     },
     {
+      "id": "112276",
+      "title": "A Masterclass with Dr. Natasha Campbell McBride",
+      "url": "https://www.limerick.ie/discover/whats-on/reading-lectures/a-masterclass-with-dr-natasha-campbell-mcbride",
+      "start": "2026-11-12T18:00:00.000Z",
+      "end": "2026-11-12T20:00:00.000Z",
+      "place": "The Urban Co-op, Limerick City",
+      "price": "€40",
+      "checkedAt": "2026-11-03T17:00:36.608Z"
+    },
+    {
       "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "111843",
       "title": "William Keohane Book Launch",
@@ -697,22 +707,16 @@
       "price": "Adult €5"
     },
     {
+      "checkedAt": "2026-11-03T12:47:50.923Z",
       "id": "111916",
       "title": "Santa's Magical Cabin",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/santas-magical-cabin",
       "start": "2026-11-14T12:00:00.000Z",
       "end": "2026-12-23T13:00:00.000Z",
       "place": "Jetland Shopping Centre, Limerick City",
-      "price": "Adult €7",
-      "checkedAt": "2026-11-03T12:47:50.923Z"
+      "price": "Adult €7"
     }
   ],
-  "past": [
-    {
-      "id": "111655",
-      "title": "Limerick Milk Market",
-      "checkedAt": "2026-11-02T21:54:10.690Z"
-    }
-  ],
+  "past": [],
   "failed": []
 }

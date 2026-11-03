@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-03T12:44:19.506Z",
-    "totalArticles": 38
+    "lastScrape": "2026-11-03T16:57:57.834Z",
+    "totalArticles": 36
   },
   "articles": {
     "8353171": {
@@ -1713,6 +1713,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-03T12:44:07.358Z"
     },
+    "9326390": {
+      "id": "9326390",
+      "title": "PICTURES: Limerick Panto Society launches Alice in Wonderland",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-panto-society-launches-alice-in-wonderland-9326390",
+      "description": "Limerick Panto Society officially launched its highly anticipated Christmas production of Alice in Wonderland at the Limerick City Hotel, marking a very special milestone as the society celebrates 40 years of bringing pantomine magic to Limerick",
+      "pubDate": "Tue, 03 Nov 2026 13:00:52 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/20/14/ilim-Alice-in-Wonderland-by-Limerick-Panto-Society-launch-2-11-26-4-1fefb9bf.jpeg?width=1200&auto=webp&trim=12%2C0%2C13%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
     "9326478": {
       "id": "9326478",
       "title": "Limerick team take home impressive haul from martial arts championship",
@@ -1780,6 +1792,85 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/12/cs-795ba642-185e-4326-a662-78e32a800548.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9327543": {
+      "id": "9327543",
+      "title": "Unbeaten year made county football title 'extra special' for Fr Caseys",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/unbeaten-year-made-county-football-title-extra-special-for-fr-caseys-9327543",
+      "description": "Just like Kilmallock in the senior hurling seven days earlier, Fr Caseys completed a perfect year when they held on for a two-point win over Kildimo-Pallaskenry in Mick Neville Park",
+      "pubDate": "Tue, 03 Nov 2026 14:30:52 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/13/07/Fr-Caseys-v-Kildimo-Pallaskenry-5-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9327711": {
+      "id": "9327711",
+      "title": "'It cannot go ahead' - community fury at Limerick wind farm planning approval",
+      "link": "https://www.limerickleader.ie/news/it-cannot-go-ahead-community-fury-at-limerick-wind-farm-planning-approval-9327711",
+      "description": "An Coimisiún Pleanála has approved planning for Ballinee Wind Farm near Bruff and Dromin/Athlacca in Limerick",
+      "pubDate": "Tue, 03 Nov 2026 14:30:20 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/9/35/chrome_vgaA7KFxwo.jpeg?width=1200&auto=webp&trim=0%2C32%2C0%2C32",
+      "imageCredit": "Iconic",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9327857": {
+      "id": "9327857",
+      "title": "Man arrested on suspicion of murder after disappearance of Limerick woman",
+      "link": "https://www.limerickleader.ie/national/man-arrested-on-suspicion-of-murder-after-disappearance-of-limerick-woman-9327857",
+      "description": "The PSNI said Carrie Mullane, 39, is known to have travelled to Enniskillen on October 10 but has not been seen since.",
+      "pubDate": "Tue, 03 Nov 2026 14:57:39 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/15/cs-47742afb-0b86-4bc3-bfdb-38c976d04d17.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9327989": {
+      "id": "9327989",
+      "title": "Troubles Bill debate ‘toxic’ and pitted veterans against victims – commissioner",
+      "link": "https://www.limerickleader.ie/national/troubles-bill-debate-toxic-and-pitted-veterans-against-victims-commissioner-9327989",
+      "description": "Joe McVey also said people affected by the Troubles have been ‘betrayed’ and ‘forgotten’ by successive governments.",
+      "pubDate": "Tue, 03 Nov 2026 15:29:11 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/15/cs-1965e3b6-1d9b-4c38-a14a-6c3c537e8bf8.png?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9328186": {
+      "id": "9328186",
+      "title": "Funeral of Ciara Mageean hears of memorable wedding shortly before her death",
+      "link": "https://www.limerickleader.ie/national/funeral-of-ciara-mageean-hears-of-memorable-wedding-shortly-before-her-death-9328186",
+      "description": "Hundreds of mourners paid a final farewell to the Irish Olympic athletic at a requiem mass in her home town of Portaferry in Co Down.",
+      "pubDate": "Tue, 03 Nov 2026 16:05:15 GMT",
+      "author": "Claudia Savage and David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/16/cs-beec02f7-8eb4-4230-b517-1d6157295f95.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9328205": {
+      "id": "9328205",
+      "title": "Opposition TDs take aim at Taoiseach over public sector pay",
+      "link": "https://www.limerickleader.ie/national/opposition-tds-take-aim-at-taoiseach-over-public-sector-pay-9328205",
+      "description": "Unions have announced a strike on November 12, the day of the largest event of Ireland’s presidency of the Council of the European Union.",
+      "pubDate": "Tue, 03 Nov 2026 16:06:11 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/16/cs-97d5eb83-0172-465e-8745-790b77dfbd29.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
+    },
+    "9328248": {
+      "id": "9328248",
+      "title": "Sexual violence bill is for 'the next little girl, the next survivor' - Limerick woman says",
+      "link": "https://www.limerickleader.ie/news/sexual-violence-bill-is-for-the-next-little-girl-the-next-survivor-limerick-woman-says-9328248",
+      "description": "The sexual violence civil protection order will protect abuse survivors in the future, Limerick survivor Leona O’Callaghan says",
+      "pubDate": "Tue, 03 Nov 2026 16:22:20 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/21/09/iconic-upload-2026_05_19-Child_Sexual_Abuse_Survivors_Bill_Sonya_Stokes_ILIL_180526-1779203122990_1779203167.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T16:57:44.094Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -2950,6 +3041,76 @@
       "author": "Kerry Sheehan",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-03T12:44:08.009Z"
+    },
+    "https://www.limerickpost.ie/?p=362738": {
+      "id": "https://www.limerickpost.ie/?p=362738",
+      "title": "Tributes to new Champions",
+      "link": "https://www.limerickpost.ie/2026/11/03/tributes-to-new-champions/",
+      "description": "LIMERICK City and County Council has offered its congratulations to both Billy Lee and Paddy Harnett, who at the Curragh on Sunday secured the Flat and Apprentice Jockey Championship titles, respectively. Príomh Chomhairleoir of Limerick, Cllr Tom Ruddle, a keen racing fan from Newcastle West, attended the Curragh and congratulated both jockeys on their achievements. [&#8230;]\nThe post Tributes to new Champions appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 16:30:06 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T16:57:43.459Z"
+    },
+    "https://www.limerickpost.ie/?p=362746": {
+      "id": "https://www.limerickpost.ie/?p=362746",
+      "title": "Man arrested on suspicion of murder following disappearance of Limerick woman",
+      "link": "https://www.limerickpost.ie/2026/11/03/man-arrested-on-suspicion-of-murder-following-disappearance-of-limerick-woman/",
+      "description": "A MAN has been arrested in Northern Ireland on suspicion of murder following the disappearance of a Limerick woman, and a murder investigation has been launched. 39-year-old Limerick woman Carrie Mullane (Noonan) is known to have travelled to Enniskillen, Co Fermanagh on October 10. Since then, there have been no confirmed sightings of her, nor [&#8230;]\nThe post Man arrested on suspicion of murder following disappearance of Limerick woman appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 15:27:31 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T16:57:43.459Z"
+    },
+    "https://www.limerickpost.ie/?p=362744": {
+      "id": "https://www.limerickpost.ie/?p=362744",
+      "title": "Grandmother died trying to defend herself jury told",
+      "link": "https://www.limerickpost.ie/2026/11/03/grandmother-died-trying-to-defend-herself-jury-told/",
+      "description": "MID WEST grandmother, Josie Ray, died trying to defend herself as her killer was strangling her in her bed, a court heard, Tuesday. The 89-year old from St Joseph’s Park, Nenagh, suffered two broken neck bones as well as 44 bruises to her head, neck, face, shoulders, chest, arms and legs, it was heard. African [&#8230;]\nThe post Grandmother died trying to defend herself jury told appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 15:20:05 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T16:57:43.459Z"
+    },
+    "https://www.limerickpost.ie/?p=362728": {
+      "id": "https://www.limerickpost.ie/?p=362728",
+      "title": "Mental health peer support group resume meetings",
+      "link": "https://www.limerickpost.ie/2026/11/03/mental-health-peer-support-group-resume-meetings/",
+      "description": "THE Limerick branch of a voluntary mental health organisation has launched a regular peer support group. Aware provides support and information for people who experience depression or bipolar disorder and their loved ones. The Support and Self Care Groups offer a supportive, confidential and proactive environment where people can talk openly about depression, other related [&#8230;]\nThe post Mental health peer support group resume meetings appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 15:00:39 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T16:57:43.459Z"
+    },
+    "https://limerickvoice.com/?p=53429": {
+      "id": "https://limerickvoice.com/?p=53429",
+      "title": "Changes made to learner permit renewal for drivers",
+      "link": "https://limerickvoice.com/news/changes-made-to-learner-permit-renewal-for-drivers/",
+      "description": "New regulations introduced for learner drivers. STRICTER regulations for learner drivers came into effect on November 1.  This means people are now limited to two learner permits before taking their driving test. To renew a third or fourth permit, proof of a previous driving test within the last 2 years is essential.   After seven [&#8230;]\nThe post Changes made to learner permit renewal for drivers appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 16:53:37 +0000",
+      "author": "Fionn Murtagh",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T16:57:45.076Z"
+    },
+    "https://limerickvoice.com/?p=53426": {
+      "id": "https://limerickvoice.com/?p=53426",
+      "title": "‘We need a Centre of Excellence’ – Corbally United AFC",
+      "link": "https://limerickvoice.com/sport/we-need-a-centre-of-excellence-corbally-united-afc/",
+      "description": "Corbally United AFC is calling for a Centre of Excellence to develop Grassroots Limerick Club. ONE month on from the announcement of the Community Sports Facilities Fund (CSFF), officers and secretaries are discussing how the funds can assist their local grassroots clubs.  Corbally United AFC Club Secretary, Colm McLoughlin, said that the club is investigating the feasibility of [&#8230;]\nThe post &#8216;We need a Centre of Excellence&#8217; &#8211; Corbally United AFC appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 15:30:47 +0000",
+      "author": "Oran O Hare Barry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T16:57:45.076Z"
+    },
+    "https://limerickvoice.com/?p=53423": {
+      "id": "https://limerickvoice.com/?p=53423",
+      "title": "UL alum confirmed to take over as Leinster head coach",
+      "link": "https://limerickvoice.com/sport/ul-alum-confirmed-to-take-over-as-leinster-head-coach/",
+      "description": "Noel McNamara has been confirmed as Leinster’s next head coach for the 2027/28 season.  THE 43-YEAR-OLD, who is currently the attack coach for European champions Union Bordeaux-Bègles, is set to take over from Leo Cullen at the end of the season.   The move could mark a notable change in tactical approach for Leinster. With Cullen [&#8230;]\nThe post UL alum confirmed to take over as Leinster head coach appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 15:16:15 +0000",
+      "author": "Connor Hayes",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T16:57:45.076Z"
     }
   },
   "rewritten": {
@@ -4745,6 +4906,23 @@
       "imageCredit": "Iconic Media Group",
       "rewrittenAt": "2026-11-03T12:47:05.334Z"
     },
+    "9326390": {
+      "headline": "Limerick Panto Society Unveils Alice in Wonderland for 40th Anniversary",
+      "summary": "The Limerick Panto Society has launched its Christmas production of Alice in Wonderland at the Limerick City Hotel.",
+      "story": "The launch marks a special milestone as the society celebrates 40 years of bringing panto magic to Limerick. Photos from the event at the Limerick City Hotel have been published by the Limerick Leader.",
+      "localAngle": "The Limerick Panto Society is celebrating 40 years of pantomime productions in Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick Panto Society launches Alice in Wonderland",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-panto-society-launches-alice-in-wonderland-9326390",
+      "publishedAt": "Tue, 03 Nov 2026 13:00:52 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/20/14/ilim-Alice-in-Wonderland-by-Limerick-Panto-Society-launch-2-11-26-4-1fefb9bf.jpeg?width=1200&auto=webp&trim=12%2C0%2C13%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-03T17:00:31.046Z"
+    },
     "9326478": {
       "headline": "Limerick martial arts squad secures 19 medals at championship",
       "summary": "A Limerick martial arts team has returned home with a total of 19 medals from a recent championship.",
@@ -4820,6 +4998,75 @@
       "publishedAt": "Tue, 03 Nov 2026 12:05:58 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/12/cs-795ba642-185e-4326-a662-78e32a800548.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-03T12:45:51.721Z"
+    },
+    "9327543": {
+      "skipped": true,
+      "duplicateOf": "9323186",
+      "rewrittenAt": "2026-11-03T16:59:02.742Z"
+    },
+    "9327711": {
+      "headline": "Community backlash erupts over approved Limerick wind farm",
+      "summary": "An Coimisiún Pleanála has approved planning permission for the Ballinee Wind Farm near Bruff and Dromin/Athlacca.",
+      "story": "Residents have expressed fury over the decision, stating that the project cannot go ahead following the planning approval from An Coimisiún Pleanála.",
+      "localAngle": "The approved wind farm project is located near Bruff and Dromin/Athlacca in County Limerick.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "'It cannot go ahead' - community fury at Limerick wind farm planning approval",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/it-cannot-go-ahead-community-fury-at-limerick-wind-farm-planning-approval-9327711",
+      "publishedAt": "Tue, 03 Nov 2026 14:30:20 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/9/35/chrome_vgaA7KFxwo.jpeg?width=1200&auto=webp&trim=0%2C32%2C0%2C32",
+      "imageCredit": "Iconic",
+      "rewrittenAt": "2026-11-03T17:00:23.320Z"
+    },
+    "9327857": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362746",
+      "rewrittenAt": "2026-11-03T16:59:02.742Z"
+    },
+    "9327989": {
+      "headline": "Commissioner Claims Troubles Legislation Debate Was Toxic",
+      "summary": "Joe McVey stated that the Troubles Bill debate created division between veterans and victims while leaving those affected feeling betrayed.",
+      "story": "Speaking on the legislation, commissioner Joe McVey described the debate as toxic and accused successive governments of forgetting and betraying people affected by the Troubles.",
+      "localAngle": "This national political debate on the legacy of the Troubles is of interest to readers across Ireland, including in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Troubles Bill debate ‘toxic’ and pitted veterans against victims – commissioner",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/troubles-bill-debate-toxic-and-pitted-veterans-against-victims-commissioner-9327989",
+      "publishedAt": "Tue, 03 Nov 2026 15:29:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/15/cs-1965e3b6-1d9b-4c38-a14a-6c3c537e8bf8.png?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-03T16:59:37.924Z"
+    },
+    "9328186": {
+      "skipped": true,
+      "duplicateOf": "9323114",
+      "rewrittenAt": "2026-11-03T16:59:02.742Z"
+    },
+    "9328205": {
+      "skipped": true,
+      "duplicateOf": "9324359",
+      "rewrittenAt": "2026-11-03T16:59:02.742Z"
+    },
+    "9328248": {
+      "headline": "Limerick Survivor Praises Sexual Violence Civil Protection Order",
+      "summary": "Limerick survivor Leona O’Callaghan states that the new sexual violence civil protection order is designed to safeguard future survivors.",
+      "story": "Speaking about the legislation, Limerick survivor Leona O’Callaghan highlighted that the sexual violence civil protection order will serve to protect abuse survivors in the future.",
+      "localAngle": "The article features local survivor Leona O’Callaghan sharing her perspective on the legislation from Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Sexual violence bill is for 'the next little girl, the next survivor' - Limerick woman says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/sexual-violence-bill-is-for-the-next-little-girl-the-next-survivor-limerick-woman-says-9328248",
+      "publishedAt": "Tue, 03 Nov 2026 16:22:20 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/21/09/iconic-upload-2026_05_19-Child_Sexual_Abuse_Survivors_Bill_Sonya_Stokes_ILIL_180526-1779203122990_1779203167.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-03T16:59:19.023Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -6341,6 +6588,107 @@
       "rewrittenAt": "2026-11-03T12:47:14.977Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/05/Strand-Hotel.jpg",
       "imageCheckedAt": "2026-11-03T12:47:49.203Z"
+    },
+    "https://www.limerickpost.ie/?p=362738": {
+      "skipped": true,
+      "duplicateOf": "9325207",
+      "rewrittenAt": "2026-11-03T16:59:02.742Z"
+    },
+    "https://limerickvoice.com/?p=53429": {
+      "headline": "New Learner Permit Rules Limit Drivers to Two Permits Before Test",
+      "summary": "Stricter regulations introduced on November 1 restrict learner drivers to two permits before taking their driving test. Motorists seeking a third or fourth permit must now provide proof of a test taken within the last two years.",
+      "story": "Stricter regulations for learner drivers came into effect on November 1, limiting motorists to a maximum of two learner permits before they must take their driving test. Under the new rules, anyone applying to renew a third or fourth permit must provide proof that they have sat a driving test within the past two years. Furthermore, drivers who fail to pass their test after seven years will no longer be able to renew their learner permits and must restart the licensing process from the very beginning.\n\nJames Dillon, a driving instructor with Adare Drive Wise School of Motoring, told the Limerick Voice that the changes place greater pressure on learner drivers to progress through the system. Noting that there has been an excessive number of learner permit holders over the past 15 years, Dillon said the update tackles an area where motorists previously stalled. “This is an area where learner permit holders weren’t bothering. They’re now being forced to do it,” he said.\n\nWhile the regulations aim to push drivers through the licensing process, learner drivers must still pass their theory test before receiving a permit and complete 12 Essential Driver Training (EDT) lessons prior to applying for a test. Meanwhile, waiting lists remain prolonged, with Category B test applicants currently facing estimated invitation dates as late as the end of January.",
+      "localAngle": "Local driving instructors in Limerick report that the stricter regulations will increase pressure on motorists across the county to progress through the licensing system.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Changes made to learner permit renewal for drivers",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/changes-made-to-learner-permit-renewal-for-drivers/",
+      "publishedAt": "Tue, 03 Nov 2026 16:53:37 +0000",
+      "rewrittenAt": "2026-11-03T16:59:10.555Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/pexels-mikhail-nilov-8943323_Fionn-Murtagh-1-scaled.jpg",
+      "imageCheckedAt": "2026-11-03T17:00:31.523Z"
+    },
+    "https://limerickvoice.com/?p=53426": {
+      "headline": "Corbally United AFC Calls for New Limerick Centre of Excellence",
+      "summary": "Corbally United AFC is pushing for a new Centre of Excellence in Limerick to address a shortage of all-weather pitches. As clubs weigh up options for the Community Sports Facilities Fund, officials say grassroots football needs shared multi-pitch facilities to survive winter weather.",
+      "story": "Corbally United AFC is urging authorities to develop a dedicated Centre of Excellence for Limerick football to solve a chronic shortage of all-weather training facilities. One month after the opening of the Community Sports Facilities Fund (CSFF), club officials are weighing how to spend potential grants, with Corbally currently investigating the feasibility of installing a full-size astroturf pitch.\n\nClub Secretary Colm McLoughlin said grassroots football across the city cannot rely on rented university spaces or existing grass pitches, which are heavily worn down by winter weather. Pointing out that there are only three astroturf pitches currently in the city, McLoughlin argued that long-term planning is essential for the next generation of players.\n\nTo ease the pressure on individual clubs, McLoughlin has proposed a central facility featuring four to five pitches, combining both astroturf and grass surfaces. He noted that while Limerick District League Junior Football uses Jackman Park, the Limerick District Schoolchildren League currently lacks a permanent home of its own.\n\nApplications for the CSFF remain open until February 26, 2027. Minister for Culture, Communications and Sport Patrick O’Donovan TD previously noted that the funding includes a €750,000 tier specifically designed for larger, shared facilities involving local authorities and national governing bodies.",
+      "localAngle": "The proposed Centre of Excellence would directly serve Limerick District League and Schoolchildren League clubs struggling with a lack of all-weather pitches in the city.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "‘We need a Centre of Excellence’ – Corbally United AFC",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/we-need-a-centre-of-excellence-corbally-united-afc/",
+      "publishedAt": "Tue, 03 Nov 2026 15:30:47 +0000",
+      "rewrittenAt": "2026-11-03T16:59:31.162Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_92311_Oran-OHare-scaled.jpg",
+      "imageCheckedAt": "2026-11-03T17:00:32.349Z"
+    },
+    "https://www.limerickpost.ie/?p=362746": {
+      "headline": "Limerick Woman Murder Investigation Launched After Enniskillen Disappearance",
+      "summary": "A 35-year-old man has been arrested in Northern Ireland on suspicion of murder following the disappearance of 39-year-old Carrie Mullane (Noonan) from Limerick. She was last seen in Enniskillen on October 10.",
+      "story": "A murder investigation has been launched by the Police Service of Northern Ireland (PSNI) following the disappearance of 39-year-old Limerick woman Carrie Mullane (Noonan), with a 35-year-old man arrested on suspicion of murder.\n\nMs Mullane travelled to Enniskillen, Co Fermanagh, by bus on October 10 alongside a man known to her. The pair took a taxi from the Wellington Road bus depot to an address in Trasna Park. Her last confirmed sighting was at approximately 9pm that Saturday, and there have been no confirmed sightings or contact with family since. An Garda Síochána reported concerns for her wellbeing to the PSNI on October 29, prompting an intensive missing person search involving CCTV trawls and house-to-house inquiries.\n\nDetective Superintendent Richard Thornton of the Serious Crime Branch stated that her disappearance is highly out of character, noting that she was usually in daily contact with her loved ones. \"These enquiries to date have not established her whereabouts and have led us to hold serious concern that Carrie may have been the victim of a violent crime and may in fact have been murdered sometime after her arrival in Northern Ireland,\" he said. PSNI Family Liaison Officers have travelled to Limerick to support Ms Mullane's family.\n\nInvestigators are urging anyone with information regarding Ms Mullane's movements on the weekend of October 10 or afterwards to contact the PSNI's Major Investigation Team on 101, quoting reference number 272 29/10/26.",
+      "localAngle": "The missing woman is a 39-year-old from Limerick, and PSNI family liaison officers have travelled to the city to support her relatives.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Man arrested on suspicion of murder following disappearance of Limerick woman",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/man-arrested-on-suspicion-of-murder-following-disappearance-of-limerick-woman/",
+      "publishedAt": "Tue, 03 Nov 2026 15:27:31 +0000",
+      "rewrittenAt": "2026-11-03T16:59:47.064Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Carrie-Mullane-Noonan-crop.jpg",
+      "imageCheckedAt": "2026-11-03T17:00:32.516Z"
+    },
+    "https://www.limerickpost.ie/?p=362744": {
+      "headline": "Trial hears 89-year-old Josie Ray fought back before being strangled to death in bed",
+      "summary": "The Central Criminal Court heard closing arguments in the murder trial of Hasan Ali Gori, who is accused of killing 89-year-old Josie Ray in Nenagh in August 2024. The prosecution told the jury that the grandmother suffered 44 bruises and two broken neck bones while trying to defend herself.",
+      "story": "The Central Criminal Court heard on Tuesday that 89-year-old grandmother Josie Ray died trying to defend herself as she was being strangled in her bed. Closing the prosecution's case, senior counsel Lorcan Connolly told the jury of nine men and three women that the \"only appropriate verdict is guilty\" for 52-year-old Hasan Ali Gori, who denies murdering Ms Ray on August 4, 2024.\n\nMr Connolly detailed the extent of the victim's injuries, noting that the Nenagh pensioner suffered two broken neck bones alongside 44 bruises across her head, neck, face, shoulders, chest, arms, and legs. The court heard that tensions had escalated in the St Joseph’s Park home after Mr Gori moved in with Ms Ray and her daughter Mary, a vulnerable adult with an intellectual disability. Prosecutors argued that Mr Gori had both motive and opportunity, pointing to financial gains and friction over his status as a tenant in the local authority-owned property.\n\nDespite her age, the prosecution argued that \"Josie Ray didn’t go down without a fight,\" citing defensive bruising on her arms and DNA evidence recovered under her fingernails. Defence arguments noted that DNA transfer could occur in shared accommodation without direct contact. The trial before the Central Criminal Court in Limerick continues as the jury considers its verdict.",
+      "localAngle": "The high-profile murder trial is being heard at the Central Criminal Court sitting in Limerick.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Grandmother died trying to defend herself jury told",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/grandmother-died-trying-to-defend-herself-jury-told/",
+      "publishedAt": "Tue, 03 Nov 2026 15:20:05 +0000",
+      "rewrittenAt": "2026-11-03T16:59:56.739Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/08/Josephine-Josie-Ray-e1723104368174.png",
+      "imageCheckedAt": "2026-11-03T17:00:33.169Z"
+    },
+    "https://limerickvoice.com/?p=53423": {
+      "headline": "University of Limerick graduate Noel McNamara appointed new Leinster head coach",
+      "summary": "UL alumnus Noel McNamara will take over as Leinster head coach ahead of the 2027/28 season, replacing Leo Cullen. The 43-year-old Clare native currently serves as attack coach for European champions Union Bordeaux-Bègles.",
+      "story": "University of Limerick graduate Noel McNamara has been confirmed as Leinster’s next head coach, taking over the role from Leo Cullen for the 2027/28 season. The 43-year-old is currently the attack coach for European champions Union Bordeaux-Bègles.\n\nMcNamara, a native of O’Callaghan’s Mills in Clare, studied Maths and PE at the University of Limerick before embarking on a teaching career at Glenstal Abbey and Clongowes Wood College. During his career, he has held coaching roles with Leinster Rugby, UCD, and the IRFU, alongside serving as Ireland Under-20s head coach from 2017 to 2021—winning a Grand Slam in 2019—and Leinster’s academy manager.\n\nHis appointment at Leinster is expected to bring a shift towards a more attacking style of play, succeeding Cullen and senior coach Jacques Nienaber. Since joining Bordeaux in 2023, McNamara has helped the club secure back-to-back European titles in 2025 and 2026, which included a 41-19 victory over Leinster in the 2026 final and a record-breaking 163 tries last season.\n\nIRFU Performance Director David Humphreys led the recruitment process over recent months. McNamara's success following his departure from Ireland echoes the trajectories of Felix Jones and Ronan O’Gara, leaving some Munster supporters frustrated that such coaching talent has not been secured by their home province.",
+      "localAngle": "The newly appointed Leinster head coach is a graduate of the University of Limerick, where he studied Maths and PE.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "UL alum confirmed to take over as Leinster head coach",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/ul-alum-confirmed-to-take-over-as-leinster-head-coach/",
+      "publishedAt": "Tue, 03 Nov 2026 15:16:15 +0000",
+      "rewrittenAt": "2026-11-03T17:00:05.044Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Screenshot-2026-11-03-at-12.17.33_Connor-Hayes-1024x683.png",
+      "imageCheckedAt": "2026-11-03T17:00:33.518Z"
+    },
+    "https://www.limerickpost.ie/?p=362728": {
+      "headline": "Aware launches weekly mental health peer support meetings at Mary Immaculate College",
+      "summary": "The Limerick branch of Aware has launched regular support and self-care meetings for people experiencing depression or bipolar disorder. The confidential sessions take place on the first three Tuesdays of every month at Mary Immaculate College.",
+      "story": "A voluntary mental health organisation has resumed regular face-to-face meetings in Limerick to provide support for individuals experiencing depression or bipolar disorder, as well as their loved ones.\n\nAware is running its Support and Self Care Groups to offer a confidential and proactive environment where attendees can talk openly about mood conditions and their impact. During the sessions, participants share personal experiences, understanding, and practical techniques for building resilience and managing self-care.\n\nThe Limerick branch meetings take place on the first three Tuesdays of every month. Sessions are held at 7pm on the ground floor in Room G08 of the Foundation Building at Mary Immaculate College.",
+      "localAngle": "The weekly support groups provide an accessible, local resource for Limerick residents dealing with depression or bipolar disorder.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Mental health peer support group resume meetings",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/mental-health-peer-support-group-resume-meetings/",
+      "publishedAt": "Tue, 03 Nov 2026 15:00:39 +0000",
+      "rewrittenAt": "2026-11-03T17:00:13.409Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/08/stock-teen-mental-health-depression-eric-ward-akT1bnnuMMk-unsplash.jpg",
+      "imageCheckedAt": "2026-11-03T17:00:33.798Z"
     }
   }
 }
