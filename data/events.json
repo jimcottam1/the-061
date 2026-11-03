@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-02T22:17:00.273Z",
+  "updatedAt": "2026-11-03T12:47:50.923Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -63,7 +63,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-02T22:17:00.273Z"
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
       "id": "112018",
@@ -74,7 +74,7 @@
       "place": "Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-02T22:17:00.273Z"
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
       "id": "109315",
@@ -85,7 +85,7 @@
       "place": "Limerick City Library",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-02T22:17:00.273Z"
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
       "id": "111133",
@@ -95,7 +95,7 @@
       "end": "2026-11-04T20:15:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€8",
-      "checkedAt": "2026-11-02T22:17:00.273Z"
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
       "id": "110016",
@@ -105,15 +105,15 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €27",
-      "checkedAt": "2026-11-02T22:17:00.273Z"
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "107879",
       "title": "Polish Arts Festival 2026",
       "url": "https://www.limerick.ie/discover/whats-on/festivals/polish-arts-festival-2026",
       "start": "2026-11-05T09:00:00.000Z",
-      "end": "2026-11-08T22:00:00.000Z"
+      "end": "2026-11-08T22:00:00.000Z",
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -695,17 +695,22 @@
       "end": "2026-11-15T18:00:00.000Z",
       "place": "Limerick Racecourse",
       "price": "Adult €5"
+    },
+    {
+      "id": "111916",
+      "title": "Santa's Magical Cabin",
+      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/santas-magical-cabin",
+      "start": "2026-11-14T12:00:00.000Z",
+      "end": "2026-12-23T13:00:00.000Z",
+      "place": "Jetland Shopping Centre, Limerick City",
+      "price": "Adult €7",
+      "checkedAt": "2026-11-03T12:47:50.923Z"
     }
   ],
   "past": [
     {
       "id": "111655",
       "title": "Limerick Milk Market",
-      "checkedAt": "2026-11-02T21:54:10.690Z"
-    },
-    {
-      "id": "111101",
-      "title": "Juste Une Illusion",
       "checkedAt": "2026-11-02T21:54:10.690Z"
     }
   ],

@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-02T22:16:42.848Z",
-    "totalArticles": 29
+    "lastScrape": "2026-11-03T12:44:19.506Z",
+    "totalArticles": 38
   },
   "articles": {
     "8353171": {
@@ -1540,6 +1540,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T13:25:09.331Z"
     },
+    "9323714": {
+      "id": "9323714",
+      "title": "One last graduation handshake for president of Limerick university",
+      "link": "https://www.limerickleader.ie/news/education/one-last-graduation-handshake-for-president-of-limerick-university-9323714",
+      "description": "Professor Vincent Cunnane, who is retiring next year, reflects on the ‘magic’ of graduations after personally conferring an estimated 35,000 students",
+      "pubDate": "Tue, 03 Nov 2026 11:00:23 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/9/35/James-and-Vincent-2.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: BRIAN ARTHUR PHOTOGRAPHY",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
     "9324359": {
       "id": "9324359",
       "title": "Public sector unions plan work stoppage for major EU presidency event",
@@ -1643,6 +1655,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
+    "9325467": {
+      "id": "9325467",
+      "title": "Limerick creche becomes first childcare facility in Ireland certified as a great place to work",
+      "link": "https://www.limerickleader.ie/news/limerick-creche-becomes-first-childcare-facility-in-ireland-certified-as-a-great-place-to-work-9325467",
+      "description": "Roxboro LEDP Family Tree Creche becomes first childcare facility in Ireland to gain Great Place to Work Certification",
+      "pubDate": "Tue, 03 Nov 2026 09:00:35 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/18/Staff-at-Family-Tree-Creche-1.jpeg?width=1200&auto=webp&trim=154%2C0%2C154%2C0",
+      "imageCredit": "Arthur Ellis",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
     "9325521": {
       "id": "9325521",
       "title": "New public sector strike ‘extremely regrettable’, Minister says",
@@ -1653,6 +1677,109 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/cs-06ba1fdc-238c-4aba-a73d-bdf3eb472c10.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T19:25:37.090Z"
+    },
+    "9325548": {
+      "id": "9325548",
+      "title": "New Limerick clinic will 'put patients at the centre of stroke prevention'",
+      "link": "https://www.limerickleader.ie/news/health/new-limerick-clinic-will-put-patients-at-the-centre-of-stroke-prevention-9325548",
+      "description": "The clinic aligns with the goals of the National Stroke Strategy to standardise post-discharge secondary prevention",
+      "pubDate": "Tue, 03 Nov 2026 07:00:44 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/34/World-Stroke-Day-2.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: KEITH WISEMAN",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326107": {
+      "id": "9326107",
+      "title": "Funeral to be held for Irish Olympic star Ciara Mageean",
+      "link": "https://www.limerickleader.ie/national/funeral-to-be-held-for-irish-olympic-star-ciara-mageean-9326107",
+      "description": "Praise for Mageean’s sporting achievements as well as sadness at her untimely passing has come from across the island of Ireland.",
+      "pubDate": "Tue, 03 Nov 2026 06:52:15 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/06/cs-ee8f1ee9-7879-4e40-987a-bba037f5ed6c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326372": {
+      "id": "9326372",
+      "title": "Firefighters battle blaze at Limerick house for hours",
+      "link": "https://www.limerickleader.ie/news/firefighters-battle-blaze-at-limerick-house-for-hours-9326372",
+      "description": "Five units of the fire service from Cappamore and Tipperary attended the house fire in Pallasgreen, Limerick",
+      "pubDate": "Tue, 03 Nov 2026 09:41:15 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/06/iconic-upload-GN4_DAT_10347701.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326478": {
+      "id": "9326478",
+      "title": "Limerick team take home impressive haul from martial arts championship",
+      "link": "https://www.limerickleader.ie/sport/other-sport/limerick-team-take-home-impressive-haul-from-martial-arts-championship-9326478",
+      "description": "The Limerick team came home with an impressive 19 medals - the team winning eight gold, five silver and six bronze",
+      "pubDate": "Tue, 03 Nov 2026 11:30:55 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/9/42/IMG-20261024-WA0009.jpeg?width=1200&auto=webp&trim=0%2C0%2C132%2C0",
+      "imageCredit": "MUNSTER MARTIAL ARTS",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326508": {
+      "id": "9326508",
+      "title": "Irish renters face bleak reality as just 12 properties found within HAP limits in September",
+      "link": "https://www.limerickleader.ie/national/irish-renters-face-bleak-reality-as-just-12-properties-found-within-hap-limits-9326508",
+      "description": "A new report from the Simon Community also revealed that 11 of the 16 areas surveyed had no rental properties available within HAP limits",
+      "pubDate": "Tue, 03 Nov 2026 10:15:55 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/10/23/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-03T100404-516.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326562": {
+      "id": "9326562",
+      "title": "Cybersecurity ‘constant danger’ and ‘big threat’ to Ireland – Micheal Martin",
+      "link": "https://www.limerickleader.ie/national/cybersecurity-constant-danger-and-big-threat-to-ireland-micheal-martin-9326562",
+      "description": "The Taoiseach was speaking after a suspected cyber attack affected refrigeration systems in 13 SuperValu stores throughout Ireland.",
+      "pubDate": "Tue, 03 Nov 2026 11:00:25 GMT",
+      "author": "Cillian Sherlock and Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/11/cs-46ee1a01-bf29-47bc-9044-cf6c51d5254e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326695": {
+      "id": "9326695",
+      "title": "UK-EU agri-deal demonstrates ‘lack of ambition’ from Government, DUP claims",
+      "link": "https://www.limerickleader.ie/national/uk-eu-agri-deal-demonstrates-lack-of-ambition-from-government-dup-claims-9326695",
+      "description": "Party leader Gavin Robinson said Northern Ireland would continue to be treated differently from the rest of the UK in many other ways despite a deal.",
+      "pubDate": "Tue, 03 Nov 2026 11:47:19 GMT",
+      "author": "David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/11/cs-3bc00988-7211-4410-b758-158e7fdc4263.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9326759": {
+      "id": "9326759",
+      "title": "Taoiseach says Government not responsible for actions of unions as strike looms",
+      "link": "https://www.limerickleader.ie/national/taoiseach-says-government-not-responsible-for-actions-of-unions-as-strike-looms-9326759",
+      "description": "Public sector workers are preparing for a 24-hour national walkout on the same day as a major EU presidency event.",
+      "pubDate": "Tue, 03 Nov 2026 10:53:22 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/10/cs-53d48d53-d9e0-4cee-a6c9-4d7ced7d2185.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
+    },
+    "9327156": {
+      "id": "9327156",
+      "title": "Aengus Ó Snodaigh seeks to make Dáil statement on charity under investigation",
+      "link": "https://www.limerickleader.ie/national/aengus-o-snodaigh-seeks-to-make-dail-statement-on-charity-under-investigation-9327156",
+      "description": "Sinn Féin said the TD has written to Ceann Comhairle Verona Murphy and is in continued engagement with her on the matter.",
+      "pubDate": "Tue, 03 Nov 2026 12:05:58 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/12/cs-795ba642-185e-4326-a662-78e32a800548.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-03T12:44:07.358Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -2763,6 +2890,66 @@
       "author": "Dearbhla Parry",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-02T22:16:32.590Z"
+    },
+    "https://www.limerickpost.ie/?p=362726": {
+      "id": "https://www.limerickpost.ie/?p=362726",
+      "title": "Over homes in Newcastle West can now avail of high-speed broadband",
+      "link": "https://www.limerickpost.ie/2026/11/03/over-homes-in-newcastle-west-can-now-avail-of-high-speed-broadband/",
+      "description": "OVER 800 homes and businesses in Newcastle West can now avail of high-speed fibre broadband. Announced by National Broadband Ireland (NBI) on behalf of the government, the decision will help those based in Glensharrold, Fleanmore, Loughill and Kilmoylan. The completion of works near Newcastle West means that 21,937 premises that can now pre-order or order [&#8230;]\nThe post Over homes in Newcastle West can now avail of high-speed broadband appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 12:00:34 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T12:44:07.079Z"
+    },
+    "https://www.limerickpost.ie/?p=362724": {
+      "id": "https://www.limerickpost.ie/?p=362724",
+      "title": "McSweeney calls for improved pedestrian crossings in Patrickswell",
+      "link": "https://www.limerickpost.ie/2026/11/03/mcsweeney-calls-for-improved-pedestrian-crossings-in-patrickswell/",
+      "description": "FINE Gael councillor Dan McSweeney has called on Limerick City and County Council (LCCC) to seek funding for improved pedestrian crossing facilities at two locations in Patrickswell. At the October meeting of the Metropolitan District, Cllr McSweeney formally proposed a motion that the Council consider submitting a grant funding application to provide improved pedestrian crossing [&#8230;]\nThe post McSweeney calls for improved pedestrian crossings in Patrickswell appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 10:30:38 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T12:44:07.080Z"
+    },
+    "https://www.limerickpost.ie/?p=362722": {
+      "id": "https://www.limerickpost.ie/?p=362722",
+      "title": "Hurley takes the reins at Strand Hotel",
+      "link": "https://www.limerickpost.ie/2026/11/03/hurley-takes-the-reins-at-strand-hotel/",
+      "description": "THE LIMERICK Strand Hotel, part of the MHL Hotel Collection, is has announced the appointment of Donnacha Hurley as General Manager. A highly respected figure in hospitality and business leadership, Donnacha brings more than 25 years of industry experience to the role, having held positions in Ireland, the UK and Switzerland, most recently serving as [&#8230;]\nThe post Hurley takes the reins at Strand Hotel appeared first on Limerick Post.",
+      "pubDate": "Tue, 03 Nov 2026 09:00:47 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-03T12:44:07.080Z"
+    },
+    "https://limerickvoice.com/?p=53396": {
+      "id": "https://limerickvoice.com/?p=53396",
+      "title": "A mixed start for Limerick’s AIL clubs",
+      "link": "https://limerickvoice.com/sport/a-mixed-start-for-limericks-ail-clubs/",
+      "description": "Limerick clubs will be anxious to get points on the board ahead of a two-week break. FIVE rounds into the All-Ireland League (AIL), Limerick’s clubs have found things difficult so far this season.  Limerick’s sole Division 1A club, Young Munster, have had a mixed start to the season. Having secured an impressive win away at Terenure [&#8230;]\nThe post A mixed start for Limerick’s AIL clubs appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 12:43:02 +0000",
+      "author": "Connor Hayes",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T12:44:08.009Z"
+    },
+    "https://limerickvoice.com/?p=53393": {
+      "id": "https://limerickvoice.com/?p=53393",
+      "title": "BREAKING: Homelessness rising at an ‘alarming rate’",
+      "link": "https://limerickvoice.com/news/breaking-homelessness-rising-at-an-alarming-rate/",
+      "description": "NOVAS shares that homelessness pressures are rising as Limerick faces winter challenges. HOMELESSNESS services across the Mid-West are facing increasing pressure as winter approaches, with NOVAS, a registered charity, saying, “The current statistics are rising nationally at an alarming rate.&#8221; Figures from the Department of Housing show that the number of adults accessing state-funded emergency [&#8230;]\nThe post BREAKING: Homelessness rising at an &#8216;alarming rate&#8217; appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 12:25:11 +0000",
+      "author": "Christina O&#039;Mahony",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T12:44:08.009Z"
+    },
+    "https://limerickvoice.com/?p=53385": {
+      "id": "https://limerickvoice.com/?p=53385",
+      "title": "CCTV footage activity increases by 85% in Limerick as funding remains uncertain",
+      "link": "https://limerickvoice.com/news/cctv-footage-activity-increases-by-85-in-limerick-as-funding-remains-uncertain/",
+      "description": "Over 488 hours of CCTV footage activity were recorded in August, as questions continue about Limerick City’s monitoring network.  CCTV footage activity across Limerick City has increased by 85% compared to 2025, according to data presented to Limerick City and County Council.  During a special meeting of Limerick City and County Council on September 15, it was found that over [&#8230;]\nThe post CCTV footage activity increases by 85% in Limerick as funding remains uncertain appeared first on .",
+      "pubDate": "Tue, 03 Nov 2026 12:00:09 +0000",
+      "author": "Kerry Sheehan",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-03T12:44:08.009Z"
     }
   },
   "rewritten": {
@@ -4365,6 +4552,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-02T13:27:03.630Z"
     },
+    "9323714": {
+      "headline": "Retiring Limerick University President Reflects on Final Graduation Ceremonies",
+      "summary": "Professor Vincent Cunnane has shared his thoughts on the magic of graduations as he prepares to step down next year after conferring an estimated 35,000 students.",
+      "story": "As he approaches his retirement next year, the university president has reflected on personally handing out degrees to approximately 35,000 students over his tenure.",
+      "localAngle": "The story concerns the head of a major higher education institution based in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "One last graduation handshake for president of Limerick university",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/education/one-last-graduation-handshake-for-president-of-limerick-university-9323714",
+      "publishedAt": "Tue, 03 Nov 2026 11:00:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/9/35/James-and-Vincent-2.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: BRIAN ARTHUR PHOTOGRAPHY",
+      "rewrittenAt": "2026-11-03T12:46:36.360Z"
+    },
     "9324359": {
       "headline": "Public Sector Unions Schedule 24-Hour Strike for EU Presidency Summit",
       "summary": "Union officials have scheduled a 24-hour work stoppage to coincide with the European Political Community meeting on November 12.",
@@ -4480,10 +4684,142 @@
       "duplicateOf": "9319206",
       "rewrittenAt": "2026-11-02T19:26:37.945Z"
     },
+    "9325467": {
+      "headline": "Roxboro Creche Achieves National Workplace Certification",
+      "summary": "The Roxboro LEDP Family Tree Creche has become the first childcare facility in Ireland to earn Great Place to Work Certification.",
+      "story": "The Limerick facility secured the recognition, making history as the first childcare provider in the country to receive the certification.",
+      "localAngle": "The achievement was earned by the Roxboro LEDP Family Tree Creche located in Limerick.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick creche becomes first childcare facility in Ireland certified as a great place to work",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-creche-becomes-first-childcare-facility-in-ireland-certified-as-a-great-place-to-work-9325467",
+      "publishedAt": "Tue, 03 Nov 2026 09:00:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/18/Staff-at-Family-Tree-Creche-1.jpeg?width=1200&auto=webp&trim=154%2C0%2C154%2C0",
+      "imageCredit": "Arthur Ellis",
+      "rewrittenAt": "2026-11-03T12:47:25.471Z"
+    },
     "9325521": {
       "skipped": true,
       "duplicateOf": "9324359",
       "rewrittenAt": "2026-11-02T19:26:37.945Z"
+    },
+    "9325548": {
+      "headline": "New Limerick Health Facility Focuses on Stroke Prevention Care",
+      "summary": "A new clinic in Limerick is set to standardise post-discharge secondary prevention in line with the National Stroke Strategy.",
+      "story": "The newly announced Limerick clinic aims to put patients at the centre of stroke prevention. Its operations align directly with the goals of the National Stroke Strategy to standardise post-discharge secondary prevention.",
+      "localAngle": "The new stroke prevention clinic is being established locally in Limerick.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "New Limerick clinic will 'put patients at the centre of stroke prevention'",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/health/new-limerick-clinic-will-put-patients-at-the-centre-of-stroke-prevention-9325548",
+      "publishedAt": "Tue, 03 Nov 2026 07:00:44 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/34/World-Stroke-Day-2.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: KEITH WISEMAN",
+      "rewrittenAt": "2026-11-03T12:47:46.649Z"
+    },
+    "9326107": {
+      "skipped": true,
+      "duplicateOf": "9323114",
+      "rewrittenAt": "2026-11-03T12:45:35.883Z"
+    },
+    "9326372": {
+      "headline": "Pallasgreen House Fire Prompts Multi-Unit Emergency Response",
+      "summary": "Five fire service units from Cappamore and Tipperary spent hours battling a house fire in Pallasgreen.",
+      "story": "Five units from the Cappamore and Tipperary fire services responded to a house fire in Pallasgreen, Limerick, spending hours at the scene to battle the blaze. Further details regarding the incident have not yet been released. Read the full story on the Limerick Leader.",
+      "localAngle": "The incident occurred at a residential property in Pallasgreen, County Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Firefighters battle blaze at Limerick house for hours",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/firefighters-battle-blaze-at-limerick-house-for-hours-9326372",
+      "publishedAt": "Tue, 03 Nov 2026 09:41:15 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/06/iconic-upload-GN4_DAT_10347701.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-03T12:47:05.334Z"
+    },
+    "9326478": {
+      "headline": "Limerick martial arts squad secures 19 medals at championship",
+      "summary": "A Limerick martial arts team has returned home with a total of 19 medals from a recent championship.",
+      "story": "The team successfully captured eight gold, five silver, and six bronze medals at the event, according to the Limerick Leader. Read the full story on the Limerick Leader website.",
+      "localAngle": "The competing martial arts team represents Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick team take home impressive haul from martial arts championship",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/limerick-team-take-home-impressive-haul-from-martial-arts-championship-9326478",
+      "publishedAt": "Tue, 03 Nov 2026 11:30:55 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/9/42/IMG-20261024-WA0009.jpeg?width=1200&auto=webp&trim=0%2C0%2C132%2C0",
+      "imageCredit": "MUNSTER MARTIAL ARTS",
+      "rewrittenAt": "2026-11-03T12:46:27.177Z"
+    },
+    "9326508": {
+      "headline": "Only 12 properties available nationwide within HAP limits in September",
+      "summary": "A Simon Community report reveals severe rental shortages for HAP recipients across surveyed areas.",
+      "story": "A new report from the Simon Community found that only 12 properties were available within HAP limits across 16 areas in September, with 11 of those areas recording zero properties. Readers can find the original article on the Limerick Leader website.",
+      "localAngle": "This housing report highlights rental market pressures relevant to renters in Limerick and across the country.",
+      "section": "Business",
+      "importance": 5,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Irish renters face bleak reality as just 12 properties found within HAP limits in September",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-renters-face-bleak-reality-as-just-12-properties-found-within-hap-limits-9326508",
+      "publishedAt": "Tue, 03 Nov 2026 10:15:55 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/10/23/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-03T100404-516.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "rewrittenAt": "2026-11-03T12:46:56.253Z"
+    },
+    "9326562": {
+      "skipped": true,
+      "duplicateOf": "9324881",
+      "rewrittenAt": "2026-11-03T12:45:35.883Z"
+    },
+    "9326695": {
+      "headline": "DUP Criticises UK-EU Agri-Deal for Lacking Government Ambition",
+      "summary": "DUP leader Gavin Robinson claims the UK-EU agri-deal shows a lack of ambition from the Government and leaves Northern Ireland treated differently from the rest of the UK.",
+      "story": "Party leader Gavin Robinson stated that despite the new UK-вніш agri-deal, Northern Ireland will continue to be treated differently from the rest of the UK in many other ways. The DUP claims the arrangement demonstrates a lack of ambition from the Government.",
+      "localAngle": "Readers interested in national political reactions to international trade deals can read the original article on the Limerick Leader website.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "UK-EU agri-deal demonstrates ‘lack of ambition’ from Government, DUP claims",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/uk-eu-agri-deal-demonstrates-lack-of-ambition-from-government-dup-claims-9326695",
+      "publishedAt": "Tue, 03 Nov 2026 11:47:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/11/cs-3bc00988-7211-4410-b758-158e7fdc4263.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-03T12:46:18.510Z"
+    },
+    "9326759": {
+      "skipped": true,
+      "duplicateOf": "9324359",
+      "rewrittenAt": "2026-11-03T12:45:35.883Z"
+    },
+    "9327156": {
+      "headline": "Sinn Féin TD Aengus Ó Snodaigh seeks Dáil time over charity probe",
+      "summary": "Sinn Féin has confirmed that TD Aengus Ó Snodaigh has written to Ceann Comhairle Verona Murphy regarding a charity under investigation.",
+      "story": "Sinn Féin stated that the TD has written to Ceann Comhairle Verona Murphy and remains in continued engagement with her on the matter. Readers can view the original article on the Limerick Leader website.",
+      "localAngle": "This national political development was reported by the Limerick Leader.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Aengus Ó Snodaigh seeks to make Dáil statement on charity under investigation",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/aengus-o-snodaigh-seeks-to-make-dail-statement-on-charity-under-investigation-9327156",
+      "publishedAt": "Tue, 03 Nov 2026 12:05:58 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/12/cs-795ba642-185e-4326-a662-78e32a800548.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-03T12:45:51.721Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -5920,6 +6256,91 @@
       "skipped": true,
       "duplicateOf": "9324359",
       "rewrittenAt": "2026-11-02T22:16:52.656Z"
+    },
+    "https://limerickvoice.com/?p=53396": {
+      "skipped": true,
+      "duplicateOf": "9322586",
+      "rewrittenAt": "2026-11-03T12:45:35.883Z"
+    },
+    "https://limerickvoice.com/?p=53393": {
+      "headline": "Mid-West Homeless Figures Surge by 34% as NOVAS Issues Winter Warning",
+      "summary": "Department of Housing figures show adult emergency accommodation in the Mid-West rose to 807 in August 2026, while homeless families increased by 50.3%. Charity NOVAS warns services are facing extreme pressure as winter approaches.",
+      "story": "Homelessness services across the Mid-West are facing unprecedented pressure as winter approaches, with charity provider NOVAS reporting that national and regional statistics are rising at an alarming rate. Department of Housing figures reveal that the number of adults accessing state-funded emergency accommodation in the region jumped by 34.3%, climbing from 601 in August 2025 to 807 in August 2026. Over the same period, the number of homeless families surged by 50.3%, rising from 153 to 230.\n\nNOVAS stressed that these figures fail to capture the full extent of the crisis, excluding rough sleepers, people sofa-surfing, and those experiencing hidden homelessness. The charity highlighted a growing cohort of employed individuals who are unable to secure affordable housing due to rising living costs and housing insecurity. \"Employment should provide a route to housing security, but having a job does not necessarily mean someone can find accommodation they can afford,\" NOVAS stated.\n\nAs temperatures drop, demand for local services—particularly the evening street outreach on Upper William Street—is expected to grow. Operating every evening at 7pm, the outreach team provides hot meals, basic first aid, sleeping bags, and toiletries. However, the charity warned that significant gaps remain in emergency accommodation despite winter support initiatives run in collaboration with the Limerick Homeless Action Team at Limerick City and County Council.\n\nIn response to the mounting crisis, NOVAS is appealing to the Limerick public for financial donations and essential items. The charity's current winter appeal is seeking new and unused toiletries, women's clothing, sleeping bags, and treats, alongside support for its upcoming annual 'Christmas Sleep Out' in December.",
+      "localAngle": "The surge in Mid-West homelessness and the ongoing operations of local outreach services directly impact vulnerable individuals and community support networks across Limerick City and County.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 2,
+      "originalTitle": "BREAKING: Homelessness rising at an ‘alarming rate’",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/breaking-homelessness-rising-at-an-alarming-rate/",
+      "publishedAt": "Tue, 03 Nov 2026 12:25:11 +0000",
+      "rewrittenAt": "2026-11-03T12:45:43.272Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/12459375745_59f83701fe_c_Christina-OMahony.jpg",
+      "imageCheckedAt": "2026-11-03T12:47:47.119Z"
+    },
+    "https://www.limerickpost.ie/?p=362726": {
+      "headline": "Over 800 homes and businesses in Newcastle West connected to high-speed broadband",
+      "summary": "National Broadband Ireland has completed works bringing high-speed fibre broadband to more than 800 premises in the Newcastle West area, including Glensharrold, Fleanmore, Loughill, and Kilmoylan.",
+      "story": "More than 800 homes and businesses in Newcastle West can now access high-speed fibre broadband following the completion of the latest rollout phase by National Broadband Ireland (NBI). \n\nAnnounced on behalf of the government, the newly completed works directly benefit residents and businesses based in the rural areas of Glensharrold, Fleanmore, Loughill, and Kilmoylan. \n\nThis latest milestone brings the total number of premises able to pre-order or order high-speed, reliable broadband across County Limerick to 21,937. To date, 7,229 connections have been successfully made.\n\nNBI confirmed that construction works have already been finished in several other rural parts of the county, including Abbeyfeale and Newport. Residents across Limerick are being encouraged to check their Eircodes on the NBI website to confirm if their premises are ready to connect.",
+      "localAngle": "The rollout directly impacts rural communities across County Limerick, improving digital connectivity for over 800 premises in the Newcastle West area.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Over homes in Newcastle West can now avail of high-speed broadband",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/over-homes-in-newcastle-west-can-now-avail-of-high-speed-broadband/",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:34 +0000",
+      "rewrittenAt": "2026-11-03T12:46:01.114Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/NBI-Image.jpg",
+      "imageCheckedAt": "2026-11-03T12:47:47.904Z"
+    },
+    "https://limerickvoice.com/?p=53385": {
+      "headline": "Limerick CCTV usage jumps 85% as council faces €660,000 funding shortfall for 2027",
+      "summary": "CCTV footage activity across Limerick increased by 85% this year, with over 488 hours recorded in August alone. However, the network faces a projected shortfall of approximately €660,000 for next year.",
+      "story": "CCTV footage activity across Limerick City has surged by 85% compared to the same period in 2025, according to data presented to Limerick City and County Council.\n\nDuring a special council meeting on September 15, figures revealed that over 488 hours of footage were recorded in August following 36 requests. Limerick City accounted for the vast majority with 395 hours, while County Limerick recorded 92 hours. Council officials noted that the data reflects an increase in recorded activity rather than a rise in crime or footage requests.\n\nThe figures come amid ongoing uncertainty regarding the future of the monitoring service, which costs an estimated €1.21 million annually to operate. With funding for 2027 currently standing at €550,105, the network faces a projected shortfall of roughly €660,000. The issue was raised in Dáil Éireann on October 7 by Sinn Féin TD Maurice Quinlivan, who questioned government funding and raised concerns about staff at the Moyross monitoring centre being placed on protective leave.\n\nSocial Democrats Councillor Shane Hickey O’Mara stressed that continued funding for the system must be ringfenced by central government rather than local authorities. \"It is not the mayor’s job to fund this network; it is the role of the government to listen and for our local TDs to advocate for this with their colleagues who hold the purse strings,\" he said, warning that relying on local mayoral funds would cause other initiatives to suffer.",
+      "localAngle": "The story directly impacts Limerick residents and communities relying on the city and county's CCTV monitoring network for public safety.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "CCTV footage activity increases by 85% in Limerick as funding remains uncertain",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/cctv-footage-activity-increases-by-85-in-limerick-as-funding-remains-uncertain/",
+      "publishedAt": "Tue, 03 Nov 2026 12:00:09 +0000",
+      "rewrittenAt": "2026-11-03T12:46:11.162Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/elasticcomputefarm-cctv-1144371_Kerry-Sheehan-scaled.jpg",
+      "imageCheckedAt": "2026-11-03T12:47:48.631Z"
+    },
+    "https://www.limerickpost.ie/?p=362724": {
+      "headline": "McSweeney seeks council funding for Patrickswell pedestrian crossings",
+      "summary": "Fine Gael Councillor Dan McSweeney has called on Limerick City and County Council to apply for grant funding to install improved pedestrian crossings at two busy locations in Patrickswell. In response, the local authority's Active Travel team will examine the feasibility of a 2027 application.",
+      "story": "Fine Gael councillor Dan McSweeney has asked Limerick City and County Council (LCCC) to seek grant funding for improved pedestrian crossing facilities at two key locations in Patrickswell. \n\nDuring the October meeting of the Metropolitan District, Cllr McSweeney tabled a formal motion proposing that the Council apply for funding to install better crossing facilities, along with appropriate signage and road markings. The specific spots identified are the bus stop near the Well Done Chinese Takeaway and the Patrickswell Community Centre on Main Street.\n\nHighlighting the need for the upgrades, Cllr McSweeney pointed to rising traffic volumes moving through the village. “Both of these locations experience significant pedestrian activity, particularly around the bus stop and Patrickswell Community Centre, and I believe there is a strong case for providing improved crossing facilities at these locations,” he said.\n\nIn response to the motion, the Council’s Active Travel team stated it will consult with the Operations and Maintenance Team regarding the requirements for the sites. The local authority will also look into the feasibility of submitting a funding application under the Towns and Villages scheme for 2027.",
+      "localAngle": "The proposed infrastructure upgrades directly impact pedestrian safety and traffic management for residents and visitors traveling through Patrickswell village.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "McSweeney calls for improved pedestrian crossings in Patrickswell",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/mcsweeney-calls-for-improved-pedestrian-crossings-in-patrickswell/",
+      "publishedAt": "Tue, 03 Nov 2026 10:30:38 +0000",
+      "rewrittenAt": "2026-11-03T12:46:47.810Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/11/Dan-McSweeney-scaled.jpg",
+      "imageCheckedAt": "2026-11-03T12:47:48.863Z"
+    },
+    "https://www.limerickpost.ie/?p=362722": {
+      "headline": "Former Limerick Chamber CEO Donnacha Hurley appointed General Manager of Strand Hotel",
+      "summary": "Ballykeeffe native Donnacha Hurley has taken over as General Manager of the four-star Limerick Strand Hotel, succeeding the late Stephen O'Connor. Hurley brings over 25 years of hospitality experience to the MHL Hotel Collection property.",
+      "story": "The Limerick Strand Hotel has announced the appointment of Donnacha Hurley as its new General Manager. Hurley takes over the role at the four-star riverside hotel following a 17-year tenure leading the Absolute Hotel Limerick and a recent stint as Chief Executive of Limerick Chamber.\n\nHe succeeds the late Stephen O'Connor, whose leadership left a lasting legacy at the property. Appointed by MHL Hotel Collection partners John Lally and Paul Higgins, Hurley will oversee all hotel operations, including the River Bar & Restaurant, conference facilities, and the Energize Health Club.\n\nA native of Ballykeeffe and a graduate of the Shannon College of Hotel Management, Hurley has held hospitality roles across Ireland, the UK, and Switzerland. His career includes management positions in Manchester and London, alongside leadership roles with the Irish Hotels Federation and Discover Limerick DAC.\n\nSpeaking on his appointment, Hurley said: \"My time with Limerick Chamber was a privilege, but leading The Limerick Strand Hotel felt like coming home. With significant investment in Limerick and the Ryder Cup at Adare Manor on the horizon, there are exciting opportunities ahead for both the hotel and the region.\"",
+      "localAngle": "A native of Ballykeeffe, local hospitality veteran Donnacha Hurley returns to hotel management in Limerick after serving as Chief Executive of Limerick Chamber.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Hurley takes the reins at Strand Hotel",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/03/hurley-takes-the-reins-at-strand-hotel/",
+      "publishedAt": "Tue, 03 Nov 2026 09:00:47 +0000",
+      "rewrittenAt": "2026-11-03T12:47:14.977Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/05/Strand-Hotel.jpg",
+      "imageCheckedAt": "2026-11-03T12:47:49.203Z"
     }
   }
 }
