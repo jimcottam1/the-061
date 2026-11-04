@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-03T20:03:40.367Z",
+  "updatedAt": "2026-11-04T13:09:53.392Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -55,17 +55,6 @@
       "free": true
     },
     {
-      "id": "109315",
-      "title": "Toddler Storytime",
-      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/toddler-storytime-28",
-      "start": "2026-11-04T10:30:00.000Z",
-      "end": "2026-11-04T11:30:00.000Z",
-      "place": "Limerick City Library",
-      "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
-    },
-    {
       "id": "111133",
       "title": "Rediscovering Margit Wagner",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/rediscovering-margit-wagner",
@@ -73,7 +62,7 @@
       "end": "2026-11-04T20:15:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€8",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "110016",
@@ -83,7 +72,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €27",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "107879",
@@ -91,7 +80,7 @@
       "url": "https://www.limerick.ie/discover/whats-on/festivals/polish-arts-festival-2026",
       "start": "2026-11-05T09:00:00.000Z",
       "end": "2026-11-08T22:00:00.000Z",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111914",
@@ -102,7 +91,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "107606",
@@ -113,7 +102,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "106837",
@@ -122,7 +111,7 @@
       "start": "2026-11-05T16:00:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
       "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "112082",
@@ -133,7 +122,7 @@
       "place": "Ormston House, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111883",
@@ -144,7 +133,7 @@
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111702",
@@ -155,7 +144,7 @@
       "place": "Longcourt House Hotel, Newcastle West",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111102",
@@ -165,7 +154,7 @@
       "end": "2026-11-05T21:30:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€38",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111996",
@@ -176,7 +165,7 @@
       "place": "Castleconnell",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "109541",
@@ -186,7 +175,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€25",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "111167",
@@ -196,7 +185,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolans Upstairs, Limerick City",
       "price": "€22",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "id": "112026",
@@ -207,19 +196,18 @@
       "place": "Mary Immaculate College, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "112176",
       "title": "Kilfinane Christmas Craft and Artisan Market",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/kilfinane-christmas-craft-and-artisan-market",
       "start": "2026-11-06T09:00:00.000Z",
       "end": "2026-12-18T17:00:00.000Z",
-      "place": "Kilfinane"
+      "place": "Kilfinane",
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "107710",
       "title": "Parent & Toddler Morning",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/parent-toddler-morning-134",
@@ -227,16 +215,17 @@
       "end": "2026-11-06T12:00:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "106668",
       "title": "Limerick Milk Market",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/limerick-milk-market-128",
       "start": "2026-11-06T11:00:00.000Z",
       "end": "2026-11-08T15:00:00.000Z",
-      "place": "Limerick Milk Market, Limerick City"
+      "place": "Limerick Milk Market, Limerick City",
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -693,18 +682,32 @@
       "end": "2026-12-23T13:00:00.000Z",
       "place": "Jetland Shopping Centre, Limerick City",
       "price": "Adult €7"
+    },
+    {
+      "id": "110288",
+      "title": "Disco Drag Brunch with Mockie Ah",
+      "url": "https://www.limerick.ie/discover/whats-on/food-drink/disco-drag-brunch-with-mockie-ah",
+      "start": "2026-11-14T13:00:00.000Z",
+      "end": "2026-11-14T15:00:00.000Z",
+      "place": "101 O'Connell Street, Limerick City",
+      "price": "€49.24",
+      "checkedAt": "2026-11-04T13:09:53.392Z"
+    },
+    {
+      "id": "111565",
+      "title": "Bell X1 Album Launch Performance",
+      "url": "https://www.limerick.ie/discover/whats-on/music/bell-x1-album-launch-performance",
+      "start": "2026-11-14T17:00:00.000Z",
+      "end": "2026-11-14T18:00:00.000Z",
+      "place": "Steamboat - Instruments, Records & Comics, Limerick City",
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     }
   ],
   "past": [
     {
-      "id": "111770",
-      "title": "Digital Makers Hub – Photo Editing with Affinity",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
-    },
-    {
-      "id": "112018",
-      "title": "The Fionn Folklore Database: Creating Connections to Irish Cultural Heritage at Home and in the Diaspora",
-      "checkedAt": "2026-11-03T20:03:40.367Z"
+      "id": "109315",
+      "title": "Toddler Storytime",
+      "checkedAt": "2026-11-04T13:09:53.392Z"
     }
   ],
   "failed": []
