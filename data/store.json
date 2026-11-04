@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-04T12:55:58.805Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-04T17:02:17.787Z",
+    "totalArticles": 40
   },
   "articles": {
     "8353171": {
@@ -1044,6 +1044,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.422Z"
     },
+    "9317720": {
+      "id": "9317720",
+      "title": "Five LEGO sets the whole family will enjoy on a cosy Winter evening (aff)",
+      "link": "https://www.limerickleader.ie/recommended/five-lego-sets-the-whole-family-will-enjoy-on-a-cosy-winter-evening-aff-9317720",
+      "description": "LEGO is a toy suitable for all ages, with these five sets recommended for the whole family to take part in",
+      "pubDate": "Wed, 04 Nov 2026 14:57:50 GMT",
+      "author": "Jayde Maher",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/11/06/LEGO.png?width=1200&auto=webp&trim=0%2C29%2C0%2C29",
+      "imageCredit": "LEGO",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
     "9317996": {
       "id": "9317996",
       "title": "Ireland is capable and prepared to protect EU leaders at Dublin summits – Harris",
@@ -2043,6 +2055,108 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/11/cs-9a96c8b4-7954-4be2-9e9b-e99b11908dad.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T12:55:47.298Z"
+    },
+    "9329995": {
+      "id": "9329995",
+      "title": "Public urged to be vigilant after car thefts in Limerick town",
+      "link": "https://www.limerickleader.ie/news/crime-courts/public-urged-to-be-vigilant-after-car-thefts-in-limerick-town-9329995",
+      "description": "‘It is a timely reminder that we need to be security conscious, even when we are at home and particularly overnight’",
+      "pubDate": "Wed, 04 Nov 2026 15:15:10 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/12/43/NCW-Car-theft.png?width=1200&auto=webp&trim=0%2C51%2C0%2C157",
+      "imageCredit": "Social Media",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330123": {
+      "id": "9330123",
+      "title": "Aengus Ó Snodaigh bid for Dáil statement not accepted, Sinn Féin says",
+      "link": "https://www.limerickleader.ie/national/aengus-o-snodaigh-bid-for-dail-statement-not-accepted-sinn-fein-says-9330123",
+      "description": "The party said Aengus Ó Snodaigh wrote to Ceann Comhairle Verona Murphy on Monday evening to request to make a statement.",
+      "pubDate": "Wed, 04 Nov 2026 13:35:09 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/13/cs-13366518-6957-4136-9174-d95252679528.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330148": {
+      "id": "9330148",
+      "title": "‘Weak and defensive’ Martin blasted over issues at Cork University Hospital",
+      "link": "https://www.limerickleader.ie/national/weak-and-defensive-martin-blasted-over-issues-at-cork-university-hospital-9330148",
+      "description": "Clinical directors at CUH have urged the Taoiseach to have an independent assessment of staffing needs at the hospital.",
+      "pubDate": "Wed, 04 Nov 2026 13:42:36 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/13/cs-ac8ae56b-0d73-4fc8-8b79-b487f5e27e4b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330162": {
+      "id": "9330162",
+      "title": "Ombudsman to investigate if holster worn by murdered detective was defective",
+      "link": "https://www.limerickleader.ie/national/ombudsman-to-investigate-if-holster-worn-by-murdered-detective-was-defective-9330162",
+      "description": "Detective Garda Horkan was aged 49 when he was shot with his own gun while on duty in Co Roscommon in 2020.",
+      "pubDate": "Wed, 04 Nov 2026 13:47:29 GMT",
+      "author": "David Young and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/13/cs-a8c7ca3a-36b8-4b4c-984a-25a51d2069cc.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330247": {
+      "id": "9330247",
+      "title": "Two Munster Rugby players to start against Argentina in Nation's Championship",
+      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/two-munster-rugby-players-to-start-against-argentina-in-nations-championship-9330247",
+      "description": "Craig Casey and Tadhg Beirne named in starting line-up for clash against Argentina at the Aviva Stadium",
+      "pubDate": "Wed, 04 Nov 2026 14:14:19 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/11/12/37/3507409.jpeg?width=1200&auto=webp&trim=85%2C0%2C1462%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330269": {
+      "id": "9330269",
+      "title": "UPDATE: Murder probe into missing Limerick woman ‘continuing at pace’",
+      "link": "https://www.limerickleader.ie/news/crime-courts/update-murder-probe-into-missing-limerick-woman-continuing-at-pace-9330269",
+      "description": "39-year-old Carrie, who is from Limerick, is known to have travelled to Enniskillen, Co Fermanagh on Saturday, October 10",
+      "pubDate": "Wed, 04 Nov 2026 14:52:58 GMT",
+      "author": "Conor Curran and Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/webimg/b25lY21zOmQxYmRlYjViLTdkZjYtNDFlYS1iY2IwLWQ5ODEyM2Q5MzZlMTo5MjRmYjBkZC0xNDk5LTQyYzAtOWViOS0yODRiYTZjNWM2ZDI=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "PSNI",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330360": {
+      "id": "9330360",
+      "title": "Peacekeepers in Lebanon put ‘at risk’ by EU mission debate, minister says",
+      "link": "https://www.limerickleader.ie/national/peacekeepers-in-lebanon-put-at-risk-by-eu-mission-debate-minister-says-9330360",
+      "description": "Irish peacekeepers in Lebanon are ‘concerned’ about a ‘ridiculous narrative’ that they will be sent to fight alongside the Israel Defence Forces.",
+      "pubDate": "Wed, 04 Nov 2026 14:39:41 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/14/cs-29907a01-375b-43d0-9bc6-79a3b879ec0c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330610": {
+      "id": "9330610",
+      "title": "RTÉ informed of funding cut hours before Budget, committee told",
+      "link": "https://www.limerickleader.ie/national/rte-informed-of-funding-cut-hours-before-budget-committee-told-9330610",
+      "description": "A number of the broadcaster’s executives appeared before the Arts, Media, Communications, Culture and Sport Committee on Wednesday.",
+      "pubDate": "Wed, 04 Nov 2026 15:36:18 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/15/cs-0bae56ff-9df9-4aa1-bed6-41d86398b7d6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330784": {
+      "id": "9330784",
+      "title": "Government announces two million euro funding for LGBTIQ+ community",
+      "link": "https://www.limerickleader.ie/national/government-announces-two-million-euro-funding-for-lgbtiq-community-9330784",
+      "description": "Applications can be made for funding up to 100,000 euro as part of the Government’s National LGBTIQ+ Inclusion Strategy.",
+      "pubDate": "Wed, 04 Nov 2026 16:15:36 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/cs-29116571-55e1-49c2-a4a6-9daba9350831.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -3413,6 +3527,78 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-04T12:55:47.804Z"
+    },
+    "https://www.limerickpost.ie/?p=362760": {
+      "id": "https://www.limerickpost.ie/?p=362760",
+      "title": "Calls for council to provide copies of wind-farm noise surveys",
+      "link": "https://www.limerickpost.ie/2026/11/04/calls-for-council-to-provide-copies-of-wind-farm-noise-surveys/",
+      "description": "INDEPENDENT Ireland councillor John O&#8217;Donoghue has called on the Council to provide copies of completed wind-farm noise surveys and monitoring reports and to publish these reports on the their website. Alternatively, he asked for them to be made readily available to members of the public on request, as environmental records. Cllr O&#8217;Donoghue was informed that [&#8230;]\nThe post Calls for council to provide copies of wind-farm noise surveys appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 16:30:47 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T17:02:05.493Z"
+    },
+    "https://www.limerickpost.ie/?p=362838": {
+      "id": "https://www.limerickpost.ie/?p=362838",
+      "title": "Jury retire to consider verdict in pensioner murder trial",
+      "link": "https://www.limerickpost.ie/2026/11/04/jury-retire-to-consider-verdict-in-pensioner-murder-trial/",
+      "description": "THE JURY in the trial of a man accused of murdering an 89-year old great grandmother has retired to consider its verdict. The jury retired just after 3pm this afternoon after hearing three weeks evidence at the Central Criminal Court, Limerick. The victim, Josephine “Josie” Ray, died trying to “fight off” her killer as she [&#8230;]\nThe post Jury retire to consider verdict in pensioner murder trial appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 15:22:26 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T17:02:05.494Z"
+    },
+    "https://www.limerickpost.ie/?p=362757": {
+      "id": "https://www.limerickpost.ie/?p=362757",
+      "title": "Over 2.5 million steps clocked up for Limerick school",
+      "link": "https://www.limerickpost.ie/2026/11/04/over-2-5-million-steps-clocked-up-for-limerick-school/",
+      "description": "FIRST Choice Financial Services committed to and completed an ambitious team challenge, targeting a collective 2.5 million steps and raising over €2,500 for two local schools, Limerick Community Special School and The Aspect Unit SOS Kilkenny. The Aspect Unit SOS Kilkenny and Limerick Community Special School specialise in providing support services and personalised environments tailored [&#8230;]\nThe post Over 2.5 million steps clocked up for Limerick school appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 15:00:06 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T17:02:05.494Z"
+    },
+    "https://www.limerickpost.ie/?p=362812": {
+      "id": "https://www.limerickpost.ie/?p=362812",
+      "title": "New cancer care centre opens in Moyross",
+      "link": "https://www.limerickpost.ie/2026/11/04/new-cancer-care-centre-opens-in-moyross/",
+      "description": "WHITEBOX ​has completed and handed ​over a new 30,000 sq. ​ft. oncology centre at ​Ballygrennan, Moyross, marking a ​significant milestone ​in the ​development of ​an integrated health, ​residential ​and ​employment-led ​campus for ​Limerick ​and ​the ​wider Mid-West. Delivered ​on ​time ​and on budget ​following an ​18-month ​construction programme, the facility ​has ​been handed ​over ​to ​Aedfica, a Belgian-listed ​property investment ​company specialising in ​healthcare ​real ​estate ​across Europe. Once ​fitted out, it ​will be ​run by CROAL, ​a ​UPMC and Bon Secours ​joint venture ​for ​the delivery of ​cancer-treatment services. The ​completion of ​the construction of ​the ​Limerick Cancer Centre ​represents [&#8230;]\nThe post New cancer care centre opens in Moyross appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 13:38:15 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T17:02:05.494Z"
+    },
+    "https://www.limerickpost.ie/?p=362755": {
+      "id": "https://www.limerickpost.ie/?p=362755",
+      "title": "Annual Remembrance Service by UMHL this weekend",
+      "link": "https://www.limerickpost.ie/2026/11/04/annual-remembrance-service-by-umhl-this-weekend/",
+      "description": "UNIVERSITY Maternity Hospital Limerick (UMHL) will host its annual Remembrance Service at The Church of the Holy Rosary, Ennis Road, Limerick, on Sunday November 8 at 3pm. The service, organised by the Bereavement &#38; Support team at UMHL, will be held in memory of babies lost through ectopic pregnancy, miscarriage, stillbirth and neonatal death. Hospital [&#8230;]\nThe post Annual Remembrance Service by UMHL this weekend appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 12:00:02 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T17:02:05.494Z"
+    },
+    "/node/9324731": {
+      "id": "/node/9324731",
+      "title": "Artist awarded commission for BDO Limerick city office",
+      "link": "https://www.limerickleader.ie/node/9324731",
+      "description": "The Boher native has been commissioned by BDO, a global accountancy and business advisory firm, to create a large painting for the organisation's Limerick city office",
+      "pubDate": "Wed, 04 Nov 2026 14:02:46 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/33/Capture-m.JPG?width=1200&auto=webp&trim=0%2C42%2C0%2C41",
+      "imageCredit": "Mark Bourke",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "https://limerickvoice.com/?p=53467": {
+      "id": "https://limerickvoice.com/?p=53467",
+      "title": "UL student shares Erasmus experience amid French nationwide protests",
+      "link": "https://limerickvoice.com/features/ul-student-shares-erasmus-experience-amid-french-nationwide-protests/",
+      "description": "Tara Cusack shares her unconventional experience of life in France during the protests.  WIDESPREAD protests have taken place across France since mid-September as high school and university students have rallied against the country’s education system and rising living costs.   For University of Limerick student Tara Cusack, this was not the Erasmus experience that she was [&#8230;]\nThe post UL student shares Erasmus experience amid French nationwide protests appeared first on .",
+      "pubDate": "Wed, 04 Nov 2026 15:00:16 +0000",
+      "author": "Tara Lowth",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-04T17:02:06.804Z"
     }
   },
   "rewritten": {
@@ -4478,6 +4664,23 @@
       "skipped": true,
       "duplicateOf": "9314966",
       "rewrittenAt": "2026-10-29T11:29:09.021Z"
+    },
+    "9317720": {
+      "headline": "Five family-friendly LEGO sets recommended for winter evenings",
+      "summary": "Five LEGO sets have been recommended as suitable for all ages to enjoy together on a cosy winter evening.",
+      "story": "The Limerick Leader has published a list of five LEGO sets intended for the whole family to take part in.",
+      "localAngle": "This lifestyle recommendation was reported by the Limerick Leader for local readers.",
+      "section": "Arts & Culture",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Five LEGO sets the whole family will enjoy on a cosy Winter evening (aff)",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/five-lego-sets-the-whole-family-will-enjoy-on-a-cosy-winter-evening-aff-9317720",
+      "publishedAt": "Wed, 04 Nov 2026 14:57:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/11/06/LEGO.png?width=1200&auto=webp&trim=0%2C29%2C0%2C29",
+      "imageCredit": "LEGO",
+      "rewrittenAt": "2026-11-04T17:16:01.576Z"
     },
     "9317996": {
       "headline": "Harris Confirms Ireland Ready to Secure Upcoming Dublin EU Summits",
@@ -5571,6 +5774,108 @@
       "publishedAt": "Wed, 04 Nov 2026 11:33:30 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/11/cs-9a96c8b4-7954-4be2-9e9b-e99b11908dad.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-04T12:59:47.178Z"
+    },
+    "9329995": {
+      "headline": "Limerick residents warned to secure vehicles following recent thefts",
+      "summary": "Authorities are urging the public to remain vigilant after a series of car thefts in a Limerick town.",
+      "story": "Following recent vehicle thefts in a Limerick town, officials have issued a timely reminder to stay security conscious at home, particularly overnight. Readers can view the original article on the Limerick Leader website.",
+      "localAngle": "The incident affects residents within a Limerick town, prompting local safety reminders.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Public urged to be vigilant after car thefts in Limerick town",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/public-urged-to-be-vigilant-after-car-thefts-in-limerick-town-9329995",
+      "publishedAt": "Wed, 04 Nov 2026 15:15:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/12/43/NCW-Car-theft.png?width=1200&auto=webp&trim=0%2C51%2C0%2C157",
+      "imageCredit": "Social Media",
+      "rewrittenAt": "2026-11-04T17:14:20.152Z"
+    },
+    "9330123": {
+      "skipped": true,
+      "duplicateOf": "9327156",
+      "rewrittenAt": "2026-11-04T17:11:31.503Z"
+    },
+    "9330148": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362731",
+      "rewrittenAt": "2026-11-04T17:11:31.503Z"
+    },
+    "9330162": {
+      "skipped": true,
+      "duplicateOf": "9328737",
+      "rewrittenAt": "2026-11-04T17:11:31.503Z"
+    },
+    "9330247": {
+      "headline": "Two Munster Rugby Players Named to Start Against Argentina",
+      "summary": "Craig Casey and Tadhg Beirne have been selected in the starting line-up for the upcoming match against Argentina at the Aviva Stadium.",
+      "story": "Munster Rugby players Craig Casey and Tadhg Beirne are set to start in the upcoming clash against Argentina in the Nation's Championship at the Aviva Stadium.",
+      "localAngle": "The inclusion of two Munster Rugby players in the national starting line-up highlights the strong representation of the province's squad in the international side.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Two Munster Rugby players to start against Argentina in Nation's Championship",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/two-munster-rugby-players-to-start-against-argentina-in-nations-championship-9330247",
+      "publishedAt": "Wed, 04 Nov 2026 14:14:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/11/12/37/3507409.jpeg?width=1200&auto=webp&trim=85%2C0%2C1462%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-04T17:17:15.451Z"
+    },
+    "9330269": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362746",
+      "rewrittenAt": "2026-11-04T17:11:31.503Z"
+    },
+    "9330360": {
+      "headline": "Minister warns EU mission debate puts Irish peacekeepers in Lebanon at risk",
+      "summary": "Irish peacekeepers in Lebanon have expressed concern over a narrative suggesting they will fight alongside the IDF.",
+      "story": "A government minister has stated that Irish peacekeepers in Lebanon are being put at risk by a 'ridiculous narrative' concerning a potential EU mission. The peacekeepers are reportedly concerned about claims that they will be sent to fight alongside the Israel Defence Forces.",
+      "localAngle": "As many Irish Defence Forces personnel deployed overseas have strong ties to Limerick and the surrounding region, local families and communities closely monitor the safety and well-being of peacekeepers abroad.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Peacekeepers in Lebanon put ‘at risk’ by EU mission debate, minister says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/peacekeepers-in-lebanon-put-at-risk-by-eu-mission-debate-minister-says-9330360",
+      "publishedAt": "Wed, 04 Nov 2026 14:39:41 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/14/cs-29907a01-375b-43d0-9bc6-79a3b879ec0c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-04T17:16:40.201Z"
+    },
+    "9330610": {
+      "headline": "RTÉ Executives Testify Regarding Budget Funding Reduction Notice",
+      "summary": "Broadcaster officials addressed an Oireachtas committee regarding the timing of a funding cut notification.",
+      "story": "Several executives from RTÉ appeared before the Arts, Media, Communications, Culture and Sport Committee on Wednesday to discuss being informed of a funding cut hours before the Budget.",
+      "localAngle": "This national broadcasting funding issue is of interest to Limerick readers following national media developments.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "RTÉ informed of funding cut hours before Budget, committee told",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/rte-informed-of-funding-cut-hours-before-budget-committee-told-9330610",
+      "publishedAt": "Wed, 04 Nov 2026 15:36:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/15/cs-0bae56ff-9df9-4aa1-bed6-41d86398b7d6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-04T17:13:47.708Z"
+    },
+    "9330784": {
+      "headline": "Government Allocates €2M for National LGBTIQ+ Inclusion Strategy",
+      "summary": "Grants of up to €100,000 are now available for applications under the Government's LGBTIQ+ funding initiative.",
+      "story": "The Government has announced a two million euro funding package as part of its National LGBTIQ+ Inclusion Strategy, with individual applications open for up to 100,000 euro.",
+      "localAngle": "This national funding opportunity is open to eligible applicants and groups within Limerick and across the country.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Government announces two million euro funding for LGBTIQ+ community",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/government-announces-two-million-euro-funding-for-lgbtiq-community-9330784",
+      "publishedAt": "Wed, 04 Nov 2026 16:15:36 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/cs-29116571-55e1-49c2-a4a6-9daba9350831.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-04T17:13:04.744Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -7380,6 +7685,108 @@
       "rewrittenAt": "2026-11-04T13:07:04.661Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Cllr-Padraig-Reale-6-scaled-e1786444581436.jpeg",
       "imageCheckedAt": "2026-11-04T13:09:51.715Z"
+    },
+    "https://www.limerickpost.ie/?p=362838": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362744",
+      "rewrittenAt": "2026-11-04T17:11:31.503Z"
+    },
+    "https://www.limerickpost.ie/?p=362760": {
+      "headline": "Cllr John O'Donoghue calls for public access to Limerick wind-farm noise surveys",
+      "summary": "Independent Ireland councillor John O'Donoghue has urged Limerick City and County Council to publish wind-farm noise monitoring reports online or make them available upon request. The local authority rejected the request, citing legal and privacy risks associated with individual household complaints.",
+      "story": "Independent Ireland councillor John O'Donoghue has called on Limerick City and County Council to provide public access to completed wind-farm noise surveys and monitoring reports. During the Adare-Rathkeale area meeting, Cllr O'Donoghue asked that these environmental records be published directly on the council's website or made readily available to the public upon request.\n\nIn response, council officials informed members that releasing the documents presents legal and privacy risks that distinguish them from standard noise compliance reports. The local authority stated that the surveys and investigation reports directly pertain to individual citizen complaints lodged at specific household locations.\n\nFurthermore, the council cautioned that making complaint-related investigation reports publicly available could interfere with ongoing or potentially pending civil litigation. Officials also noted that open publication of these specific documents risks unfairly singling out individual wind farm operators.",
+      "localAngle": "The issue was raised at the Adare-Rathkeale area meeting regarding wind-farm noise monitoring within Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Calls for council to provide copies of wind-farm noise surveys",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/04/calls-for-council-to-provide-copies-of-wind-farm-noise-surveys/",
+      "publishedAt": "Wed, 04 Nov 2026 16:30:47 +0000",
+      "rewrittenAt": "2026-11-04T17:12:08.074Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/03/273189295_246728460978529_2920942518538389785_n-e1709570403806.jpg",
+      "imageCheckedAt": "2026-11-04T17:18:19.249Z"
+    },
+    "https://limerickvoice.com/?p=53467": {
+      "headline": "UL student Tara Cusack trapped by violent nationwide protests in Paris",
+      "summary": "University of Limerick student Tara Cusack faced barricades, cancelled in-person classes, and street violence during nationwide protests in France over education and living costs.",
+      "story": "University of Limerick student Tara Cusack experienced an unexpected Erasmus semester as widespread protests and riots swept across France, shutting down university campuses and bringing violence to the streets of Paris.\n\nThe demonstrations began in mid-September when high school students rallied against staffing shortages, quickly spreading to universities including Cusack's host institution, the Université Paris Cité. Protesters and staff demonstrated over the country's economic climate, overcrowded classrooms, and crumbling infrastructure. Cusack recalled being locked inside her university building during the initial demonstrations, noting that blockades forced all her classes online after three weeks.\n\nTensions escalated on October 17 during a National Day of Protest called by union parties, which saw mass looting, storefronts ransacked, and police deploying strict curfews and security crackdowns. Cusack avoided the city centre during subsequent large-scale marches, including a major demonstration on October 24, as authorities battled ongoing civil unrest.",
+      "localAngle": "The story follows a University of Limerick student experiencing unexpected disruption during her studies abroad in Paris.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "UL student shares Erasmus experience amid French nationwide protests",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/features/ul-student-shares-erasmus-experience-amid-french-nationwide-protests/",
+      "publishedAt": "Wed, 04 Nov 2026 15:00:16 +0000",
+      "rewrittenAt": "2026-11-04T17:14:47.914Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-04-at-10.53.42-e1793802312394.jpeg",
+      "imageCheckedAt": "2026-11-04T17:18:19.839Z"
+    },
+    "https://www.limerickpost.ie/?p=362757": {
+      "headline": "First Choice Financial Services team raises over €2,500 with 2.5m step challenge",
+      "summary": "FIRST Choice Financial Services staff completed a team challenge of 2.5 million steps, raising more than €2,500 for Limerick Community Special School and The Aspect Unit SOS Kilkenny.",
+      "story": "Staff at FIRST Choice Financial Services have successfully completed a team step challenge, hitting a collective target of 2.5 million steps to raise over €2,500 for two special schools.\n\nThe funds will directly benefit the Limerick Community Special School and The Aspect Unit SOS Kilkenny. Both institutions specialise in providing support services and personalised environments tailored to the specific needs, preferences, and sensory profiles of their students.\n\nThe money raised from the challenge will be used to support the expansion and capacity of the schools' service provision. In particular, the funds will go toward financing activities and treatments for the children, as well as providing support for the families who rely on the schools' services.",
+      "localAngle": "The funds raised directly benefit Limerick Community Special School, supporting its local service provision and families in the area.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Over 2.5 million steps clocked up for Limerick school",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/04/over-2-5-million-steps-clocked-up-for-limerick-school/",
+      "publishedAt": "Wed, 04 Nov 2026 15:00:06 +0000",
+      "rewrittenAt": "2026-11-04T17:15:09.770Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/First-steps-Limerick-Community-Special-School.jpeg",
+      "imageCheckedAt": "2026-11-04T17:18:20.453Z"
+    },
+    "/node/9324731": {
+      "headline": "Boher Artist Commissioned for BDO Limerick City Office",
+      "summary": "A local artist from Boher has been selected by global firm BDO to create a large painting for their Limerick office.",
+      "story": "Global accountancy and business advisory firm BDO has commissioned the Boher native to produce a large painting for its Limerick city office.",
+      "localAngle": "The commission involves a local artist from Boher creating a major artwork for a business office located in Limerick city.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Artist awarded commission for BDO Limerick city office",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/node/9324731",
+      "publishedAt": "Wed, 04 Nov 2026 14:02:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/33/Capture-m.JPG?width=1200&auto=webp&trim=0%2C42%2C0%2C41",
+      "imageCredit": "Mark Bourke",
+      "rewrittenAt": "2026-11-04T17:17:39.399Z"
+    },
+    "https://www.limerickpost.ie/?p=362812": {
+      "headline": "Whitebox completes construction of new 30,000 sq ft cancer care centre in Moyross",
+      "summary": "An 18-month construction project has delivered a new oncology facility at Ballygrennan, marking the first major private-sector investment in the Moyross regeneration area.",
+      "story": "Whitebox has officially finished and handed over a new 30,000 sq ft oncology centre at Ballygrennan in Moyross. Completed on time and within budget following an 18-month construction programme, the facility has been transferred to European healthcare real estate firm Aedfica.\n\nOnce internal fit-outs are complete, the centre will be operated by CROAL, a joint venture between UPMC and Bon Secours providing cancer-treatment services. The development represents the first significant private investment in the Moyross regeneration area and unlocks the site surrounding the new Coonagh to Knockalisheen Northern Distributor Road scheme.\n\nMartin White, Chief Executive of Whitebox, said the project demonstrates that healthcare infrastructure can be delivered efficiently in the region while boosting vital cancer care services. Further phases are planned for the campus, including a 90-bed nursing home operated by the Mowlam Group, a primary care centre, and 115 new homes built in partnership with Limerick City and County Council and Clúid.",
+      "localAngle": "The new oncology facility and integrated health campus bring crucial cancer care services and housing infrastructure directly to Limerick and the wider Mid-West.",
+      "section": "Business",
+      "importance": 5,
+      "positivity": 4,
+      "originalTitle": "New cancer care centre opens in Moyross",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/04/new-cancer-care-centre-opens-in-moyross/",
+      "publishedAt": "Wed, 04 Nov 2026 13:38:15 +0000",
+      "rewrittenAt": "2026-11-04T17:18:03.310Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Y7A2816.jpeg",
+      "imageCheckedAt": "2026-11-04T17:18:20.903Z"
+    },
+    "https://www.limerickpost.ie/?p=362755": {
+      "headline": "UMHL to host annual remembrance service for bereaved families this Sunday",
+      "summary": "University Maternity Hospital Limerick will hold its annual remembrance service at the Church of the Holy Rosary on Ennis Road this Sunday, November 8, at 3pm for families grieving the loss of a baby.",
+      "story": "University Maternity Hospital Limerick (UMHL) is set to host its annual Remembrance Service this Sunday, November 8, at 3pm. The service will take place at The Church of the Holy Rosary on the Ennis Road.\n\nOrganised by the Bereavement and Support team at UMHL, the gathering is held in memory of babies lost through ectopic pregnancy, miscarriage, stillbirth, and neonatal death. Hospital staff will unite with bereaved families to remember babies who have passed away, whether recently or many years ago.\n\nFor those who are unable to attend the service in person on the Ennis Road, it will also be streamed live via the parish website's webcam. \n\nAnyone seeking further information regarding the service can contact the Bereavement and Support team at UMHL directly at 061 483196.",
+      "localAngle": "The annual service provides a local space for Limerick families and hospital staff to remember babies lost through pregnancy and infancy.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Annual Remembrance Service by UMHL this weekend",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/04/annual-remembrance-service-by-umhl-this-weekend/",
+      "publishedAt": "Wed, 04 Nov 2026 12:00:02 +0000",
+      "rewrittenAt": "2026-11-04T17:18:18.960Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/07/University-Maternity-Hospital-Limerick-scaled.jpg",
+      "imageCheckedAt": "2026-11-04T17:18:21.142Z"
     }
   }
 }
