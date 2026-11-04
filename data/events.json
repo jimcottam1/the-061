@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-04T17:18:23.940Z",
+  "updatedAt": "2026-11-04T20:24:22.377Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -55,16 +55,6 @@
       "free": true
     },
     {
-      "id": "111133",
-      "title": "Rediscovering Margit Wagner",
-      "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/rediscovering-margit-wagner",
-      "start": "2026-11-04T18:15:00.000Z",
-      "end": "2026-11-04T20:15:00.000Z",
-      "place": "Belltable, Limerick City",
-      "price": "€8",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
-    },
-    {
       "id": "110016",
       "title": "The Ferryman",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/the-ferryman",
@@ -72,7 +62,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €27",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "107879",
@@ -80,7 +70,7 @@
       "url": "https://www.limerick.ie/discover/whats-on/festivals/polish-arts-festival-2026",
       "start": "2026-11-05T09:00:00.000Z",
       "end": "2026-11-08T22:00:00.000Z",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111914",
@@ -91,7 +81,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "107606",
@@ -102,7 +92,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "106837",
@@ -111,7 +101,7 @@
       "start": "2026-11-05T16:00:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
       "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "112082",
@@ -122,7 +112,7 @@
       "place": "Ormston House, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111883",
@@ -133,7 +123,7 @@
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111702",
@@ -144,7 +134,7 @@
       "place": "Longcourt House Hotel, Newcastle West",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111102",
@@ -154,7 +144,7 @@
       "end": "2026-11-05T21:30:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€38",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111996",
@@ -165,7 +155,7 @@
       "place": "Castleconnell",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "109541",
@@ -175,7 +165,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€25",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "111167",
@@ -185,7 +175,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolans Upstairs, Limerick City",
       "price": "€22",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "112026",
@@ -196,7 +186,7 @@
       "place": "Mary Immaculate College, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "112176",
@@ -205,7 +195,7 @@
       "start": "2026-11-06T09:00:00.000Z",
       "end": "2026-12-18T17:00:00.000Z",
       "place": "Kilfinane",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "107710",
@@ -216,7 +206,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "id": "106668",
@@ -225,37 +215,37 @@
       "start": "2026-11-06T11:00:00.000Z",
       "end": "2026-11-08T15:00:00.000Z",
       "place": "Limerick Milk Market, Limerick City",
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "109120",
       "title": "Rock Rising – The Supreme Classic Rock Show",
       "url": "https://www.limerick.ie/discover/whats-on/music/rock-rising-the-supreme-classic-rock-show-0",
       "start": "2026-11-06T20:00:00.000Z",
       "end": "2026-11-06T22:00:00.000Z",
       "place": "University Concert Hall, Limerick City",
-      "price": "€32.50"
+      "price": "€32.50",
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "110142",
       "title": "Bloody Kisses",
       "url": "https://www.limerick.ie/discover/whats-on/music/bloody-kisses",
       "start": "2026-11-06T20:00:00.000Z",
       "end": "2026-11-06T23:55:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
-      "price": "€19"
+      "price": "€19",
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
-      "checkedAt": "2026-11-02T21:35:21.428Z",
       "id": "110959",
       "title": "The Fógues",
       "url": "https://www.limerick.ie/discover/whats-on/music/the-fogues",
       "start": "2026-11-06T20:00:00.000Z",
       "end": "2026-11-06T22:00:00.000Z",
       "place": "Friars Gate Theatre, Kilmallock",
-      "price": "€20.50"
+      "price": "€20.50",
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -299,6 +289,7 @@
       "free": true
     },
     {
+      "checkedAt": "2026-11-04T17:18:23.940Z",
       "id": "112305",
       "title": "Banríon Debut Album Release",
       "url": "https://www.limerick.ie/discover/whats-on/music/banrion-debut-album-release",
@@ -306,8 +297,7 @@
       "end": "2026-11-07T16:00:00.000Z",
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-04T17:18:23.940Z"
+      "free": true
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -710,6 +700,11 @@
       "id": "109315",
       "title": "Toddler Storytime",
       "checkedAt": "2026-11-04T13:09:53.392Z"
+    },
+    {
+      "id": "111133",
+      "title": "Rediscovering Margit Wagner",
+      "checkedAt": "2026-11-04T20:24:22.377Z"
     }
   ],
   "failed": []

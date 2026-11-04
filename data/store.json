@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-04T17:02:17.787Z",
-    "totalArticles": 40
+    "lastScrape": "2026-11-04T20:23:03.724Z",
+    "totalArticles": 41
   },
   "articles": {
     "8353171": {
@@ -1669,6 +1669,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T12:55:47.298Z"
     },
+    "9325027": {
+      "id": "9325027",
+      "title": "PICTURES: Limerick GAA stars show their support to GAA club's walkathon",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-gaa-stars-show-their-support-to-gaa-clubs-walkathon-9325027",
+      "description": "Limerick and Doon GAA stars Adam English, Darragh O'Donovan, Eddie Stokes, Richie English, Barry Murphy, Pat Ryan, and county minor hurlers Diarmuid Crowe, Tom Murphy, and all current and former players helped and gave support to Doon GAA's 24-hour walkathon at the weekend to improve the club's facilities for one and all.",
+      "pubDate": "Wed, 04 Nov 2026 18:00:32 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/37/cover-2-c6603abb.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": ".",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
+    },
     "9325121": {
       "id": "9325121",
       "title": "Stormont chamber unites in sadness at loss of Olympian Ciara Mageean",
@@ -2136,6 +2148,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T17:02:06.173Z"
     },
+    "9330568": {
+      "id": "9330568",
+      "title": "Ryanair announces new route from Shannon to popular European destination ",
+      "link": "https://www.limerickleader.ie/news/ryanair-announces-new-route-from-shannon-to-popular-european-destination-9330568",
+      "description": "Commencing on March 28 2027, the service between Shannon and Milan Bergamo will operate twice weekly",
+      "pubDate": "Wed, 04 Nov 2026 17:00:27 GMT",
+      "author": "David Hurley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/15/51/SNNAirport_Ryanair-Milan-Bergamo.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stephen O'Malley",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
+    },
     "9330610": {
       "id": "9330610",
       "title": "RTÉ informed of funding cut hours before Budget, committee told",
@@ -2157,6 +2181,51 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/cs-29116571-55e1-49c2-a4a6-9daba9350831.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T17:02:06.173Z"
+    },
+    "9330832": {
+      "id": "9330832",
+      "title": "John the Baptist bow out of Harty Cup after loss to St Flannan's",
+      "link": "https://www.limerickleader.ie/sport/hurling/john-the-baptist-bow-out-of-harty-cup-after-loss-to-st-flannans-9330832",
+      "description": "St Flannan’s were too strong a challenge for John the Baptist, Hospital during their Harty Cup Round 2 clash",
+      "pubDate": "Wed, 04 Nov 2026 17:30:47 GMT",
+      "author": "Tom Clancy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/36/John-the-Baptist-Hospital-v-St-Flannans-1.jpeg?width=1200&auto=webp&trim=558%2C0%2C1253%2C965",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
+    },
+    "9331130": {
+      "id": "9331130",
+      "title": "Aengus Ó Snodaigh says letter contained ‘apparently forged’ signature",
+      "link": "https://www.limerickleader.ie/national/aengus-o-snodaigh-says-letter-contained-apparently-forged-signature-9331130",
+      "description": "The Sinn Féin sought to make a personal statement to the Dáil in relation to his role at a charity at the centre of a money-laundering investigation.",
+      "pubDate": "Wed, 04 Nov 2026 18:24:03 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/18/cs-8c713079-d138-4a60-bb6f-89bb5e316132.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
+    },
+    "9331137": {
+      "id": "9331137",
+      "title": "Spending up 6.7 billion euro as Irish Government in 3.1 billion euro of deficit",
+      "link": "https://www.limerickleader.ie/national/spending-up-67-billion-euro-as-irish-government-in-31-billion-euro-of-deficit-9331137",
+      "description": "The Fiscal Monitor revealed a 3.1 billion euro Exchequer deficit in the first 10 months of the year, up from 0.9 billion euro this time last year.",
+      "pubDate": "Wed, 04 Nov 2026 18:28:29 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/18/cs-2f06da16-8217-4c11-8e4f-ad431d15ba74.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
+    },
+    "9331186": {
+      "id": "9331186",
+      "title": "Family of murdered Garda ‘extremely let down’ by Justice Minister O’Callaghan",
+      "link": "https://www.limerickleader.ie/national/family-of-murdered-garda-extremely-let-down-by-justice-minister-ocallaghan-9331186",
+      "description": "The Garda watchdog, Fiosrú, has opened an investigation into the suitability of a holster issued to the detective, who was murdered with his own gun.",
+      "pubDate": "Wed, 04 Nov 2026 19:49:09 GMT",
+      "author": "David Young and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/19/cs-d571b396-77cf-4cbf-9ae5-d1e5b22a5d8f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-04T20:22:51.430Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -3599,6 +3668,26 @@
       "author": "Tara Lowth",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-04T17:02:06.804Z"
+    },
+    "https://www.limerickpost.ie/?p=362762": {
+      "id": "https://www.limerickpost.ie/?p=362762",
+      "title": "New Consultant Neonatologist for UMHL",
+      "link": "https://www.limerickpost.ie/2026/11/04/new-consultant-neonatologist-for-umhl/",
+      "description": "HSE Mid West announced the appointment of Dr Rachel Mullaly as Consultant Neonatalogist at University Maternity Hospital Limerick (UMHL). Her appointment brings the number of consultant neonatologists in the Mid West region to seven. Dr Mullaly’s appointment will strengthen specialist care offerings for newborn babies and their families. She regularly presents her work in these [&#8230;]\nThe post New Consultant Neonatologist for UMHL appeared first on Limerick Post.",
+      "pubDate": "Wed, 04 Nov 2026 18:00:10 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-04T20:22:50.925Z"
+    },
+    "https://limerickvoice.com/?p=53485": {
+      "id": "https://limerickvoice.com/?p=53485",
+      "title": "UL Student Life Executive writes to Dáil to address housing crisis",
+      "link": "https://limerickvoice.com/politics/ul-student-life-executive-writes-to-dail-to-address-housing-crisis/",
+      "description": "Accommodation crisis and advocacy brought up at recent Student Forum THE UNIVERSITY of Limerick’s Student Life Executive hosted their Autumn 2026 Student Forum on October 21, providing updated agendas, advocacy and support for the student population. At a time of increasing accommodation uncertainty, the Student Life Executive established their aims and advocacy in helping students [&#8230;]\nThe post UL Student Life Executive writes to Dáil to address housing crisis appeared first on .",
+      "pubDate": "Wed, 04 Nov 2026 19:00:31 +0000",
+      "author": "Liam Croshaw",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-04T20:22:51.972Z"
     }
   },
   "rewritten": {
@@ -5374,6 +5463,23 @@
       "imageCredit": "PICTURE: MID WESTERN CANCER FOUNDATION",
       "rewrittenAt": "2026-11-04T13:06:16.033Z"
     },
+    "9325027": {
+      "headline": "Limerick and Doon GAA Stars Back Club's 24-Hour Walkathon",
+      "summary": "Senior and minor Limerick hurling stars turned out over the weekend to support Doon GAA's 24-hour walkathon aimed at improving club facilities.",
+      "story": "Limerick and Doon GAA players including Adam English, Darragh O'Donovan, Eddie Stokes, Richie English, Barry Murphy, Pat Ryan, along with county minor hurlers Diarmuid Crowe and Tom Murphy, lent their support to the club's weekend fundraiser. Current and former players also participated in the 24-hour event to help upgrade facilities for everyone.",
+      "localAngle": "The event brought together county and club players in Doon to support local GAA facility improvements.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick GAA stars show their support to GAA club's walkathon",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-gaa-stars-show-their-support-to-gaa-clubs-walkathon-9325027",
+      "publishedAt": "Wed, 04 Nov 2026 18:00:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/37/cover-2-c6603abb.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": ".",
+      "rewrittenAt": "2026-11-04T20:24:00.431Z"
+    },
     "9325121": {
       "skipped": true,
       "duplicateOf": "9323114",
@@ -5845,6 +5951,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/14/cs-29907a01-375b-43d0-9bc6-79a3b879ec0c.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-04T17:16:40.201Z"
     },
+    "9330568": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362804",
+      "rewrittenAt": "2026-11-04T20:23:35.977Z"
+    },
     "9330610": {
       "headline": "RTÉ Executives Testify Regarding Budget Funding Reduction Notice",
       "summary": "Broadcaster officials addressed an Oireachtas committee regarding the timing of a funding cut notification.",
@@ -5876,6 +5987,49 @@
       "publishedAt": "Wed, 04 Nov 2026 16:15:36 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/cs-29116571-55e1-49c2-a4a6-9daba9350831.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-04T17:13:04.744Z"
+    },
+    "9330832": {
+      "headline": "John the Baptist Eliminated from Harty Cup Following Defeat to St Flannan's",
+      "summary": "John the Baptist, Hospital exited the Harty Cup after a Round 2 loss to St Flannan's.",
+      "story": "John the Baptist, Hospital bowed out of the Harty Cup following a Round 2 clash where St Flannan's proved too strong of a challenge.",
+      "localAngle": "The match involved John the Baptist from Hospital in County Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "John the Baptist bow out of Harty Cup after loss to St Flannan's",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/john-the-baptist-bow-out-of-harty-cup-after-loss-to-st-flannans-9330832",
+      "publishedAt": "Wed, 04 Nov 2026 17:30:47 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/16/36/John-the-Baptist-Hospital-v-St-Flannans-1.jpeg?width=1200&auto=webp&trim=558%2C0%2C1253%2C965",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-04T20:24:18.421Z"
+    },
+    "9331130": {
+      "skipped": true,
+      "duplicateOf": "9327156",
+      "rewrittenAt": "2026-11-04T20:23:35.977Z"
+    },
+    "9331137": {
+      "headline": "Irish Exchequer posts 3.1 billion euro deficit as spending rises",
+      "summary": "The Fiscal Monitor shows an Exchequer deficit of 3.1 billion euro for the first 10 months of the year, alongside a rise in spending to 6.7 billion euro.",
+      "story": "Government spending has increased by 6.7 billion euro, leading to an Exchequer deficit of 3.1 billion euro in the first 10 months of the year compared to 0.9 billion euro during the same period last year. Readers can view the full report on the Limerick Leader website.",
+      "localAngle": "This national fiscal update affects public finances and economic conditions relevant to taxpayers and residents in Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Spending up 6.7 billion euro as Irish Government in 3.1 billion euro of deficit",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/spending-up-67-billion-euro-as-irish-government-in-31-billion-euro-of-deficit-9331137",
+      "publishedAt": "Wed, 04 Nov 2026 18:28:29 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/18/cs-2f06da16-8217-4c11-8e4f-ad431d15ba74.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-04T20:23:51.430Z"
+    },
+    "9331186": {
+      "skipped": true,
+      "duplicateOf": "9328737",
+      "rewrittenAt": "2026-11-04T20:23:35.977Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -7787,6 +7941,38 @@
       "rewrittenAt": "2026-11-04T17:18:18.960Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/07/University-Maternity-Hospital-Limerick-scaled.jpg",
       "imageCheckedAt": "2026-11-04T17:18:21.142Z"
+    },
+    "https://limerickvoice.com/?p=53485": {
+      "headline": "UL Student Life Executive Writes Open Letter to Dáil Over Housing Crisis",
+      "summary": "The University of Limerick's Student Life Executive has brought the ongoing accommodation crisis directly to national decision-makers through an open letter to Dáil Éireann, media appearances, and protests following their Autumn Student Forum on October 21.",
+      "story": "The University of Limerick’s Student Life Executive has escalated its campaign against the student accommodation crisis by writing an open letter to Dáil Éireann. The move followed the executive's Autumn 2026 Student Forum on October 21, where student representatives established their core advocacy aims and held preliminary discussions with UL’s Governing Authority Chancellor regarding housing concerns.\n\nStudent Union President Eva McCormack said the executive has taken student grievances directly to national figures. Alongside the letter to the Dáil, representatives lobbied at the Fund Our Future protest and raised the accommodation shortage across national radio and television interviews. McCormack noted that the team has focused heavily on the welfare, financial stability, and personal rights of the student body.\n\nBeyond housing, the executive addressed academic systems by supporting the rollout of the Academic Transformation of Operating Model (ATOM), a project designed to streamline and standardise university operations. The team also reported involvement in broader social advocacy, including demonstrations concerning student fees, LGBTQ+ rights, and Palestinian emancipation, alongside the implementation of an updated Boycott, Divestment, Sanctions list and a preferred name system on campus.",
+      "localAngle": "The story directly impacts University of Limerick students and the wider Limerick housing and academic community.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "UL Student Life Executive writes to Dáil to address housing crisis",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/politics/ul-student-life-executive-writes-to-dail-to-address-housing-crisis/",
+      "publishedAt": "Wed, 04 Nov 2026 19:00:31 +0000",
+      "rewrittenAt": "2026-11-04T20:23:43.218Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_1957_Dearbhla-Parry-scaled.jpg",
+      "imageCheckedAt": "2026-11-04T20:24:18.731Z"
+    },
+    "https://www.limerickpost.ie/?p=362762": {
+      "headline": "Dr Rachel Mullaly Appointed Consultant Neonatologist at University Maternity Hospital Limerick",
+      "summary": "HSE Mid West has appointed Dr Rachel Mullaly as a Consultant Neonatologist at University Maternity Hospital Limerick, bringing the regional total to seven specialists. The role will enhance neonatal care following last year's €9.7 million upgrade to the facility's intensive care unit.",
+      "story": "University Maternity Hospital Limerick (UMHL) has welcomed Dr Rachel Mullaly as its newest Consultant Neonatologist, bolstering specialist care for newborn babies and their families across the region.\n\nHer appointment brings the total number of consultant neonatologists operating across the Mid West to seven. Dr Mullaly is an active researcher who regularly presents her clinical work at national and international medical meetings.\n\nThe appointment follows a major €9.7 million investment in Limerick's neonatal facilities, which saw the completion of a two-storey extension and comprehensive refurbishment at the hospital's Neonatal Intensive Care Unit in 2025.",
+      "localAngle": "The appointment directly expands specialist newborn healthcare services at University Maternity Hospital Limerick for families across the Mid West region.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "New Consultant Neonatologist for UMHL",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/04/new-consultant-neonatologist-for-umhl/",
+      "publishedAt": "Wed, 04 Nov 2026 18:00:10 +0000",
+      "rewrittenAt": "2026-11-04T20:24:09.813Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Dr-Rachel-Mullaly.png",
+      "imageCheckedAt": "2026-11-04T20:24:19.438Z"
     }
   }
 }
