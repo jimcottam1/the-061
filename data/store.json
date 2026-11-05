@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastScrape": "2026-11-05T17:18:18.806Z",
+    "lastScrape": "2026-11-05T20:36:08.391Z",
     "totalArticles": 40
   },
   "articles": {
@@ -1692,6 +1692,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
+    "9324774": {
+      "id": "9324774",
+      "title": "New book explores history of Limerick Greenway",
+      "link": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/new-book-explores-history-of-limerick-greenway-9324774",
+      "description": "The book is an account of a 678-kilometre walk from the Dingle Peninsula in Kerry to Burr Point in Co. Down and an exploration of the history of land access and ownership in Ireland",
+      "pubDate": "Thu, 05 Nov 2026 19:00:38 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/23/02.jpg?width=1200&auto=webp&trim=522%2C0%2C774%2C0",
+      "imageCredit": "Tim Hannigan",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T20:35:55.182Z"
+    },
     "9324881": {
       "id": "9324881",
       "title": "SuperValu forced to remove food from 13 stores in Ireland following cyberattack",
@@ -2429,6 +2441,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
+    "9332001": {
+      "id": "9332001",
+      "title": "PICTURES: Mungret Regional and Geraldines lock horns in LDL clash",
+      "link": "https://www.limerickleader.ie/sport/soccer/junior-soccer/pictures-mungret-regional-and-geraldines-lock-horns-in-ldl-clash-9332001",
+      "description": "There was just the single Premier League tie over the weekend when Geraldines took  on Mungret Regional in Garryowen",
+      "pubDate": "Thu, 05 Nov 2026 20:30:29 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/11/06/MixCollage-05-Nov-2026-11-19-AM-8865.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T20:35:55.182Z"
+    },
     "9332188": {
       "id": "9332188",
       "title": "Harris hopes for de-escalation as Trump accepts Iran war’s role in midterms loss",
@@ -2473,6 +2497,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T17:18:07.369Z"
     },
+    "9332939": {
+      "id": "9332939",
+      "title": "PICTURES: Leading political figures attend funeral of Limerick's Gerry Collins",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-leading-political-figures-attend-funeral-of-limericks-gerry-collins-9332939",
+      "description": "Political leaders and local mourners gathered at The Church of The Assumption in Abbeyfeale to bid farewell to Limerick's Gerry Collins",
+      "pubDate": "Thu, 05 Nov 2026 18:00:28 GMT",
+      "author": "Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/15/05/MixCollage-05-Nov-2026-02-59-PM-1169-69dd2a14.jpeg?width=1200&auto=webp&trim=60%2C0%2C60%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T20:35:55.182Z"
+    },
+    "9332966": {
+      "id": "9332966",
+      "title": "Calls for minister to intervene with funding for Limerick CCTV centre",
+      "link": "https://www.limerickleader.ie/news/calls-for-minister-to-intervene-with-funding-for-limerick-cctv-centre-9332966",
+      "description": "The CCTV monitoring centre in Moyross, Limerick will close before Christmas if funding is not secured",
+      "pubDate": "Thu, 05 Nov 2026 17:30:06 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/01/17/39/ilim-Moyross-Community-Enterprise-Centre-19-3-26-2.jpeg?width=1200&auto=webp&trim=0%2C51%2C0%2C51",
+      "imageCredit": ".",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T20:35:55.182Z"
+    },
     "9333377": {
       "id": "9333377",
       "title": "Man offered to give up dialysis to instead fund therapy for non-verbal grandson",
@@ -2483,6 +2531,17 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/cs-7cabeb21-372e-4892-93a7-b2a9e2d81fa9.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T17:18:07.368Z"
+    },
+    "9333567": {
+      "id": "9333567",
+      "title": "Defence Minister ‘extremely concerned’ over bomb hoaxes ahead of EU meeting",
+      "link": "https://www.limerickleader.ie/national/defence-minister-extremely-concerned-over-bomb-hoaxes-ahead-of-eu-meeting-9333567",
+      "description": "Next week will see the largest policing and security operation in Ireland’s history as it hosts around 55 heads of state.",
+      "pubDate": "Thu, 05 Nov 2026 18:23:16 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/18/cs-ff77844d-06d8-4ada-b240-567b84ff0654.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T20:35:55.182Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4085,6 +4144,46 @@
       "author": "Staff Reporter",
       "source": "limerickpost",
       "scrapedAt": "2026-11-05T17:18:07.009Z"
+    },
+    "https://www.limerickpost.ie/?p=362834": {
+      "id": "https://www.limerickpost.ie/?p=362834",
+      "title": "New novel from Limerick author launched",
+      "link": "https://www.limerickpost.ie/2026/11/05/new-novel-from-limerick-author-launched/",
+      "description": "A NEW novel by County Limerick author Pat McLoughlin was launched at the Longcourt House Hotel in Newcastle West, by Culture Minister Patrick O’Donovan. The Minister addressed a packed house at the launch, which saw an enthusiastic turnout for McLoughlin. The new novel Retribution – When Justice is Not Enough – casts a quizzical eye [&#8230;]\nThe post New novel from Limerick author launched appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 18:00:56 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T20:35:54.457Z"
+    },
+    "https://www.limerickpost.ie/?p=362876": {
+      "id": "https://www.limerickpost.ie/?p=362876",
+      "title": "Huge crowd turn out to bid farewell to political giant",
+      "link": "https://www.limerickpost.ie/2026/11/05/huge-crowd-turn-out-to-bid-farewell-to-political-giant/",
+      "description": "THE CHURCH in Abbeyfeale was packed this morning as the much loved Gerard &#8220;Gerry&#8221; Collins was laid to rest. Taoiseach Michael Martin was among the many dignitaries who attended the concelebrated Mass in the Church of the Assumption to offer condolences to the late TD and MEP&#8217;s family. The huge gathering was told by chief [&#8230;]\nThe post Huge crowd turn out to bid farewell to political giant appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 17:36:25 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T20:35:54.457Z"
+    },
+    "https://limerickvoice.com/?p=53490": {
+      "id": "https://limerickvoice.com/?p=53490",
+      "title": "BREAKING: Man arrested on suspicion of Moyross murder",
+      "link": "https://limerickvoice.com/news/man-arrested-on-suspicion-of-moyross-murder/",
+      "description": "Community of Moyross rally around family of missing Limerick woman. A MAN was yesterday confirmed to have been arrested for the suspected murder of Carrie Mullane (39).  The 39-year-old mother of four was last seen travelling to Enniskillen, County Fermanagh, on October 10.   In a statement on November 3, the PSNI confirmed that a 35-year-old man [&#8230;]\nThe post BREAKING: Man arrested on suspicion of Moyross murder appeared first on .",
+      "pubDate": "Thu, 05 Nov 2026 18:37:14 +0000",
+      "author": "Khushi Verma",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-05T20:35:56.025Z"
+    },
+    "https://limerickvoice.com/?p=53495": {
+      "id": "https://limerickvoice.com/?p=53495",
+      "title": "UL Journalism student to release third single with metal band",
+      "link": "https://limerickvoice.com/features/ul-journalism-student-to-release-third-single-with-metal-band/",
+      "description": "Local band Misery Goblin to release third single this Friday, November 3.  FIRST Year Journalism and Digital Communications student Danny Lysaght is set to release third studio single with their heavy metal band, Misery Goblin. The single, titled ‘Crossroads of Time,’ will release tomorrow, November 3, on all streaming platforms, with a music video release [&#8230;]\nThe post UL Journalism student to release third single with metal band appeared first on .",
+      "pubDate": "Thu, 05 Nov 2026 18:00:08 +0000",
+      "author": "Rohan Coleman",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-05T20:35:56.025Z"
     }
   },
   "rewritten": {
@@ -5893,6 +5992,23 @@
       "imageCredit": "BASKETBALL IRELAND",
       "rewrittenAt": "2026-11-02T19:27:37.756Z"
     },
+    "9324774": {
+      "headline": "New publication delves into Limerick Greenway history",
+      "summary": "A newly released book examines the history of the Limerick Greenway alongside a 678-kilometre walk across Ireland.",
+      "story": "The Limerick Leader reports that a new book explores the history of the Limerick Greenway as part of an account of a 678-kilometre walk from the Dingle Peninsula in Kerry to Burr Point in Co. Down, while also exploring the history of land access and ownership in Ireland.",
+      "localAngle": "The book features an exploration of the history of the Limerick Greenway.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "New book explores history of Limerick Greenway",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/new-book-explores-history-of-limerick-greenway-9324774",
+      "publishedAt": "Thu, 05 Nov 2026 19:00:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/23/02.jpg?width=1200&auto=webp&trim=522%2C0%2C774%2C0",
+      "imageCredit": "Tim Hannigan",
+      "rewrittenAt": "2026-11-05T20:37:01.189Z"
+    },
     "9324881": {
       "headline": "Cyberattack forces food removal at 13 SuperValu stores across Ireland",
       "summary": "An investigation is underway after a suspected cyberattack impacted refrigeration systems at 13 SuperValu locations.",
@@ -6656,6 +6772,23 @@
       "duplicateOf": "9328770",
       "rewrittenAt": "2026-11-05T13:12:46.340Z"
     },
+    "9332001": {
+      "headline": "Mungret Regional face Geraldines in Limerick District League action",
+      "summary": "Mungret Regional and Geraldines met in the sole Premier League fixture over the weekend.",
+      "story": "Photographs capture the action from the recent Limerick District League clash between Mungret Regional and Geraldines in Garryowen.",
+      "localAngle": "The match took place locally in Garryowen as part of the Limerick District League.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "PICTURES: Mungret Regional and Geraldines lock horns in LDL clash",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/junior-soccer/pictures-mungret-regional-and-geraldines-lock-horns-in-ldl-clash-9332001",
+      "publishedAt": "Thu, 05 Nov 2026 20:30:29 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/11/06/MixCollage-05-Nov-2026-11-19-AM-8865.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-05T20:36:51.139Z"
+    },
     "9332188": {
       "headline": "Tánaiste Seeks De-escalation After Trump Acknowledges Iran War Impact on Midterms",
       "summary": "The Tánaiste commented as Donald Trump accepted that the Iran war played a role in the Republicans' midterm defeat, which was described as being at the outer limits of White House expectations.",
@@ -6698,6 +6831,28 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/14/cs-427668c9-dd64-4f88-ad4c-bacc4b1116b9.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-05T17:20:22.199Z"
     },
+    "9332939": {
+      "skipped": true,
+      "duplicateOf": "9330751",
+      "rewrittenAt": "2026-11-05T20:36:45.371Z"
+    },
+    "9332966": {
+      "headline": "Moyross CCTV centre faces Christmas closure without urgent funding",
+      "summary": "Calls are being made for a minister to intervene and provide funding to prevent the closure of the Moyross CCTV monitoring centre before Christmas.",
+      "story": "The CCTV monitoring centre in Moyross faces closure before Christmas unless funding is secured, prompting calls for ministerial intervention. Readers can view the original article on the Limerick Leader website.",
+      "localAngle": "The impending closure directly impacts the Moyross area and CCTV monitoring operations within Limerick.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Calls for minister to intervene with funding for Limerick CCTV centre",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/calls-for-minister-to-intervene-with-funding-for-limerick-cctv-centre-9332966",
+      "publishedAt": "Thu, 05 Nov 2026 17:30:06 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/01/17/39/ilim-Moyross-Community-Enterprise-Centre-19-3-26-2.jpeg?width=1200&auto=webp&trim=0%2C51%2C0%2C51",
+      "imageCredit": ".",
+      "rewrittenAt": "2026-11-05T20:38:23.084Z"
+    },
     "9333377": {
       "headline": "Grandfather considered stopping dialysis to pay for non-verbal grandson's therapy",
       "summary": "Sinn Féin TD Pearse Doherty shared a letter from a man willing to sacrifice his life-saving treatment to fund his grandson's therapy.",
@@ -6713,6 +6868,11 @@
       "publishedAt": "Thu, 05 Nov 2026 16:49:11 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/cs-7cabeb21-372e-4892-93a7-b2a9e2d81fa9.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-05T17:19:55.172Z"
+    },
+    "9333567": {
+      "skipped": true,
+      "duplicateOf": "9328770",
+      "rewrittenAt": "2026-11-05T20:36:45.370Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -8836,6 +8996,59 @@
       "rewrittenAt": "2026-11-05T17:21:02.032Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-14.26.20.png",
       "imageCheckedAt": "2026-11-05T17:21:03.425Z"
+    },
+    "https://www.limerickpost.ie/?p=362876": {
+      "skipped": true,
+      "duplicateOf": "9330751",
+      "rewrittenAt": "2026-11-05T20:36:45.371Z"
+    },
+    "https://limerickvoice.com/?p=53490": {
+      "headline": "Moyross Man Arrested as Missing Person Probe Becomes Murder Investigation",
+      "summary": "A 35-year-old man remains in custody in Northern Ireland following his arrest over the suspected murder of missing Limerick mother-of-four Carrie Mullane. The 39-year-old was last seen travelling to Enniskillen on October 10.",
+      "story": "A 35-year-old man has been arrested on suspicion of the murder of Carrie Mullane, a 39-year-old mother of four from Moyross who was reported missing nearly four weeks ago. Detectives questioning the suspect were granted an additional 36 hours by a court to continue their inquiries.\n\nMs Mullane was last seen on October 10 while travelling to Enniskillen, County Fermanagh. Police in Northern Ireland confirmed the arrest following a shift in the investigation from a missing-person case to a suspected murder inquiry. Detective Superintendent Richard Thornton from the PSNI’s Serious Crime Branch noted that her disappearance was \"extremely out of character,\" as she was accustomed to being in daily contact with family and friends.\n\nMuddying the tragedy for her relatives, Ms Mullane's sister Sandra travelled to Northern Ireland to liaise with police, while her son Jayden shared a public plea online. The Moyross community rallied around the family on Tuesday evening, November 3, holding a vigil to show solidarity.\n\nGardaí are appealing to anyone with CCTV or dashcam footage from the Wellington Road or Trasna Park areas between 8.30pm and 10pm on October 10 to contact emergency services on 999 or 112.",
+      "localAngle": "The victim is a mother of four from Moyross whose disappearance and suspected murder has deeply impacted the local Limerick community.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "BREAKING: Man arrested on suspicion of Moyross murder",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/man-arrested-on-suspicion-of-moyross-murder/",
+      "publishedAt": "Thu, 05 Nov 2026 18:37:14 +0000",
+      "rewrittenAt": "2026-11-05T20:37:10.093Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/image-by-PSNI_Khushi-Verma.jpg",
+      "imageCheckedAt": "2026-11-05T20:38:23.605Z"
+    },
+    "https://www.limerickpost.ie/?p=362834": {
+      "headline": "Culture Minister Patrick O’Donovan launches Pat McLoughlin's new novel in Newcastle West",
+      "summary": "County Limerick author Pat McLoughlin has launched his new crime novel, Retribution – When Justice is Not Enough, at the Longcourt House Hotel. All profits from the book will be donated to Friends of St Ita’s Hospital.",
+      "story": "County Limerick author Pat McLoughlin launched his latest novel to a packed house at the Longcourt House Hotel in Newcastle West. Minister for Culture Patrick O’Donovan officially launched the book at the well-attended local event.\n\nTitled Retribution – When Justice is Not Enough, the new novel explores the themes of crime and punishment in Ireland. The launch event featured a dynamic reading of the book’s opening chapter delivered by actor Johnny Corkery.\n\nAll profits generated from the sale of the new novel will be donated directly to Friends of St Ita’s Hospital in Newcastle West.",
+      "localAngle": "The book was launched in Newcastle West by local TD and Culture Minister Patrick O’Donovan, with all proceeds benefiting Friends of St Ita’s Hospital.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "New novel from Limerick author launched",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/05/new-novel-from-limerick-author-launched/",
+      "publishedAt": "Thu, 05 Nov 2026 18:00:56 +0000",
+      "rewrittenAt": "2026-11-05T20:37:28.676Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/New-novel-Minister-Patrick-ODonovan.jpg",
+      "imageCheckedAt": "2026-11-05T20:38:24.721Z"
+    },
+    "https://limerickvoice.com/?p=53495": {
+      "headline": "UL Student and Metal Band Misery Goblin Release Third Single",
+      "summary": "First-year UL journalism student Danny Lysaght has released a new heavy metal single titled 'Crossroads of Time' with their band Misery Goblin, alongside plans for future demo recordings and studio work.",
+      "story": "A first-year Journalism and Digital Communications student at the University of Limerick has released their third studio single with local heavy metal band Misery Goblin.\n\nFronted by vocalist Danny Lysaght alongside bandmates Luke O’Donovan on guitar, Ollie McFall on bass, and Lucy Fitzgibbon on drums, the group dropped their latest track, 'Crossroads of Time,' across all streaming platforms accompanied by a music video. The single was produced by Anthony Monahan and Richard Dowling. Since settling into their current lineup and sound in February 2026, Lysaght says the band has moved away from sprawling, ten-minute tracks like 2025's 'Tentacles of Doom' in favor of snappier death metal arrangements. “The main thing that I’ve taken to heart is the importance of conciseness in writing,” Lysaght said, noting how their UL studies have influenced the band's tighter new material.\n\nFollowing the release, Misery Goblin plans to record an album of raw demo tracks during rehearsal sessions to capture their live sound, alongside upcoming studio sessions to record earlier material from the band's formative era. The group also expects to return to live performances soon.\n\nIn addition to fronting the band, Lysaght recently released a solo album titled 'Gelatinous Chemical Sludge' under the moniker QBL, exploring a musical vision free from genre constraints.",
+      "localAngle": "The band features local Limerick musicians, with the frontman studying journalism at the University of Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "UL Journalism student to release third single with metal band",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/features/ul-journalism-student-to-release-third-single-with-metal-band/",
+      "publishedAt": "Thu, 05 Nov 2026 18:00:08 +0000",
+      "rewrittenAt": "2026-11-05T20:37:38.099Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/55583431187_01152ac79f_b_ULStudentROHAN.COLEM_.jpg",
+      "imageCheckedAt": "2026-11-05T20:38:25.302Z"
     }
   }
 }
