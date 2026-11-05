@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-05T13:27:15.295Z",
+  "updatedAt": "2026-11-05T17:21:05.586Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -62,7 +62,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €27",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "107879",
@@ -70,29 +70,7 @@
       "url": "https://www.limerick.ie/discover/whats-on/festivals/polish-arts-festival-2026",
       "start": "2026-11-05T09:00:00.000Z",
       "end": "2026-11-08T22:00:00.000Z",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
-    },
-    {
-      "id": "111914",
-      "title": "A Talk on Financial Literacy",
-      "url": "https://www.limerick.ie/discover/whats-on/free/a-talk-on-financial-literacy",
-      "start": "2026-11-05T13:00:00.000Z",
-      "end": "2026-11-05T14:00:00.000Z",
-      "place": "Watch House Cross Community Library, Limerick City",
-      "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
-    },
-    {
-      "id": "107606",
-      "title": "Storytime for young Children",
-      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-160",
-      "start": "2026-11-05T15:30:00.000Z",
-      "end": "2026-11-05T16:30:00.000Z",
-      "place": "Watch House Cross Community Library, Limerick City",
-      "price": "Free",
-      "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "106837",
@@ -101,7 +79,7 @@
       "start": "2026-11-05T16:00:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
       "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "112082",
@@ -112,7 +90,7 @@
       "place": "Ormston House, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111883",
@@ -123,7 +101,7 @@
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111102",
@@ -133,7 +111,7 @@
       "end": "2026-11-05T21:30:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€38",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111996",
@@ -144,7 +122,7 @@
       "place": "Castleconnell",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "109541",
@@ -154,7 +132,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€25",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111167",
@@ -164,7 +142,7 @@
       "end": "2026-11-05T23:30:00.000Z",
       "place": "Dolans Upstairs, Limerick City",
       "price": "€22",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "112026",
@@ -175,7 +153,7 @@
       "place": "Mary Immaculate College, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "112176",
@@ -184,7 +162,7 @@
       "start": "2026-11-06T09:00:00.000Z",
       "end": "2026-12-18T17:00:00.000Z",
       "place": "Kilfinane",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "107710",
@@ -195,7 +173,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "106668",
@@ -204,7 +182,7 @@
       "start": "2026-11-06T11:00:00.000Z",
       "end": "2026-11-08T15:00:00.000Z",
       "place": "Limerick Milk Market, Limerick City",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "109120",
@@ -214,7 +192,7 @@
       "end": "2026-11-06T22:00:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€32.50",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "110142",
@@ -224,7 +202,7 @@
       "end": "2026-11-06T23:55:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€19",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "110959",
@@ -234,7 +212,7 @@
       "end": "2026-11-06T22:00:00.000Z",
       "place": "Friars Gate Theatre, Kilmallock",
       "price": "€20.50",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "107303",
@@ -243,7 +221,7 @@
       "start": "2026-11-07T10:30:00.000Z",
       "end": "2026-11-08T12:30:00.000Z",
       "place": "Weekend Popup Gallery, Limerick City",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "107515",
@@ -254,7 +232,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111246",
@@ -264,7 +242,7 @@
       "end": "2026-11-07T15:00:00.000Z",
       "place": "Castle Oaks House Hotel, Castleconnell",
       "price": "€16.95",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "id": "111816",
@@ -275,10 +253,9 @@
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
-      "checkedAt": "2026-11-04T17:18:23.940Z",
       "id": "112305",
       "title": "Banríon Debut Album Release",
       "url": "https://www.limerick.ie/discover/whats-on/music/banrion-debut-album-release",
@@ -286,7 +263,8 @@
       "end": "2026-11-07T16:00:00.000Z",
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-05T17:21:05.586Z"
     },
     {
       "checkedAt": "2026-11-02T21:35:21.428Z",
@@ -684,6 +662,7 @@
       "price": "€49.24"
     },
     {
+      "checkedAt": "2026-11-05T13:27:15.295Z",
       "id": "112306",
       "title": "Rua Rí Debut Album Release",
       "url": "https://www.limerick.ie/discover/whats-on/music/rua-ri-debut-album-release",
@@ -691,20 +670,29 @@
       "end": "2026-11-14T16:00:00.000Z",
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "free": true
     },
     {
+      "checkedAt": "2026-11-05T13:27:15.295Z",
       "id": "111565",
       "title": "Bell X1 Album Launch Performance",
       "url": "https://www.limerick.ie/discover/whats-on/music/bell-x1-album-launch-performance",
       "start": "2026-11-14T17:00:00.000Z",
       "end": "2026-11-14T18:00:00.000Z",
-      "place": "Steamboat - Instruments, Records & Comics, Limerick City",
-      "checkedAt": "2026-11-05T13:27:15.295Z"
+      "place": "Steamboat - Instruments, Records & Comics, Limerick City"
     }
   ],
   "past": [
+    {
+      "id": "111914",
+      "title": "A Talk on Financial Literacy",
+      "checkedAt": "2026-11-05T17:21:05.586Z"
+    },
+    {
+      "id": "107606",
+      "title": "Storytime for young Children",
+      "checkedAt": "2026-11-05T17:21:05.586Z"
+    },
     {
       "id": "111702",
       "title": "Mind Yourself: Mens Mental Health Evening",

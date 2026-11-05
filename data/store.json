@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-05T13:06:48.273Z",
-    "totalArticles": 46
+    "lastScrape": "2026-11-05T17:18:18.806Z",
+    "totalArticles": 40
   },
   "articles": {
     "8353171": {
@@ -1138,6 +1138,17 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T15:48:10.072Z"
+    },
+    "9318583": {
+      "id": "9318583",
+      "title": "Burglar couldn't fit in Limerick rugby experience window so got woman on street to do it",
+      "link": "https://www.limerickleader.ie/news/crime-courts/burglar-couldnt-fit-in-limerick-rugby-experience-window-so-got-woman-on-street-to-do-it-9318583",
+      "description": "Kenneth Sheehan is also charged with robbery of a ‘vulnerable’ man who had autism and Asperger’s syndrome",
+      "pubDate": "Thu, 05 Nov 2026 17:00:54 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/22/15/iconic-upload-2024_04_16-ilim_International_Rugby_Experience_16-4-24_2-1713277886404.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T17:18:07.368Z"
     },
     "9318590": {
       "id": "9318590",
@@ -2382,6 +2393,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
+    "9331813": {
+      "id": "9331813",
+      "title": "Councillors condemn 'vile' comments slating Limerick minister Patrick O'Donovan",
+      "link": "https://www.limerickleader.ie/news/politics/councillors-condemn-vile-comments-slating-limerick-minister-patrick-odonovan-9331813",
+      "description": "Limerick councillors have condemned 'vile' comments made about Minister Patrick O'Donovan on social media, with one councillor saying he knows what it's like to not be in the best of health and 'politics just doesn't come into it'",
+      "pubDate": "Thu, 05 Nov 2026 15:11:03 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/23/9/15/KRB-14-09-2026-Castleconnell-Boat-Club-1031.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Kieran Ryan-Benson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T17:18:07.369Z"
+    },
     "9331899": {
       "id": "9331899",
       "title": "'Come home': Son of Limerick woman feared murdered makes emotional appeal",
@@ -2427,6 +2450,39 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/21/10/iconic-upload-2026_05_15-scarlett_faulkner_4_ilim_31-03-26-1778849546788_1778849576.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
+    },
+    "9332388": {
+      "id": "9332388",
+      "title": "Shannon Airport operating 'as normal' as bomb threats ground planes across Europe",
+      "link": "https://www.limerickleader.ie/news/shannon-airport-operating-as-normal-as-bomb-threats-ground-planes-across-europe-9332388",
+      "description": "One of the flights affected was travelling from Dublin to Rome when it was diverted to an airfield in northern France",
+      "pubDate": "Thu, 05 Nov 2026 13:45:57 GMT",
+      "author": "David Hurley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/01/19/32/Shannon-Airport.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T17:18:07.369Z"
+    },
+    "9332832": {
+      "id": "9332832",
+      "title": "World facing ‘moment of deep crisis’, warns Micheal Martin",
+      "link": "https://www.limerickleader.ie/national/world-facing-moment-of-deep-crisis-warns-micheal-martin-9332832",
+      "description": "The Taoiseach made the comments as he addressed the Business Post Economic Outlook Forum 2026 in Dublin.",
+      "pubDate": "Thu, 05 Nov 2026 14:53:12 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/14/cs-427668c9-dd64-4f88-ad4c-bacc4b1116b9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T17:18:07.369Z"
+    },
+    "9333377": {
+      "id": "9333377",
+      "title": "Man offered to give up dialysis to instead fund therapy for non-verbal grandson",
+      "link": "https://www.limerickleader.ie/national/man-offered-to-give-up-dialysis-to-instead-fund-therapy-for-non-verbal-grandson-9333377",
+      "description": "Sinn Féin TD Pearse Doherty revealed the contents of a letter from a man who was willing to end his own life-saving treatment.",
+      "pubDate": "Thu, 05 Nov 2026 16:49:11 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/cs-7cabeb21-372e-4892-93a7-b2a9e2d81fa9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-05T17:18:07.368Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -3989,6 +4045,46 @@
       "author": "Tara Lowth",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-05T13:06:35.084Z"
+    },
+    "https://www.limerickpost.ie/?p=362832": {
+      "id": "https://www.limerickpost.ie/?p=362832",
+      "title": "Limerick pharmacies recognised at national awards",
+      "link": "https://www.limerickpost.ie/2026/11/05/limerick-pharmacies-recognised-at-national-awards/",
+      "description": "LIMERICK pharmacies will be recognised for their work at the Irish Pharmacy Excellence Awards 2026. The finalists have been announced after more than 250 entries were submitted. A number of CarePlus Pharmacies across Limerick including in Dooradoyle and beyond were nominated across various categories for their work. The awards recognise the contribution of pharmacists, pharmacy [&#8230;]\nThe post Limerick pharmacies recognised at national awards appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 16:30:50 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T17:18:07.008Z"
+    },
+    "https://www.limerickpost.ie/?p=362830": {
+      "id": "https://www.limerickpost.ie/?p=362830",
+      "title": "Proposed road speed survey considered for Rathbane",
+      "link": "https://www.limerickpost.ie/2026/11/05/proposed-road-speed-survey-considered-for-rathbane/",
+      "description": "FIANNA Fáil councillor Catherine Slattery has quizzed the Council on a proposed road speed survey in Rathbane to inform future traffic calming measures. In response to Cllr Slattery at this month’s Metropolitan District meeting, the Council revealed that the traffic speed survey is scheduled to be completed in late October 2026. “Upon completion, the results [&#8230;]\nThe post Proposed road speed survey considered for Rathbane appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 15:00:54 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T17:18:07.008Z"
+    },
+    "https://www.limerickpost.ie/?p=362871": {
+      "id": "https://www.limerickpost.ie/?p=362871",
+      "title": "Banríon to play instore at Steamboat Music this Saturday to mark release of her debut album",
+      "link": "https://www.limerickpost.ie/2026/11/05/banrion-to-play-instore-at-steamboat-music-this-saturday-to-mark-release-of-her-debut-album/",
+      "description": "Banríon, aka Róisín Ní Haicéid, will perform a live instore set at Steamboat Music this Saturday November 7 at 3pm, playing music from her debut album ‘untarnishing’. Róisín has just very recently relocated to Limerick, a move inspired by the city’s independent music scene. Ní Haicéid and her band featured on the TG4 series Buille [&#8230;]\nThe post Banríon to play instore at Steamboat Music this Saturday to mark release of her debut album appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 14:52:01 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T17:18:07.009Z"
+    },
+    "https://www.limerickpost.ie/?p=362857": {
+      "id": "https://www.limerickpost.ie/?p=362857",
+      "title": "Kilmartin Educational Services Celebrates Double Win at National Business Awards",
+      "link": "https://www.limerickpost.ie/2026/11/05/kilmartin-educational-services-celebrates-double-win-at-national-business-awards/",
+      "description": "Kilmartin Educational Services is celebrating a double achievement after winning Micro Lean Business of the Year 2026 and the Sustainability Award 2026 at the Lean Business Ireland Excellence Awards, held at the Johnstown Estate, County Meath, on Thursday, 22 October 2026. The awards brought together businesses and organisations from across Ireland to recognise excellence in [&#8230;]\nThe post Kilmartin Educational Services Celebrates Double Win at National Business Awards appeared first on Limerick Post.",
+      "pubDate": "Thu, 05 Nov 2026 14:29:32 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-05T17:18:07.009Z"
     }
   },
   "rewritten": {
@@ -5165,6 +5261,22 @@
       "skipped": true,
       "duplicateOf": "9320072",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9318583": {
+      "headline": "Kenneth Sheehan charged after using pedestrian to enter Limerick rugby experience",
+      "summary": "Kenneth Sheehan faces charges including the robbery of a vulnerable man with autism and Asperger’s syndrome, and enlisting a woman on the street to enter a Limerick rugby experience window.",
+      "story": "Kenneth Sheehan is charged with robbing a vulnerable man who had autism and Asperger’s syndrome, as well as enlisting a woman on the street to climb through a Limerick rugby experience window after he could not fit.",
+      "localAngle": "The incident involves a Limerick rugby experience location and local court charges.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Burglar couldn't fit in Limerick rugby experience window so got woman on street to do it",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/burglar-couldnt-fit-in-limerick-rugby-experience-window-so-got-woman-on-street-to-do-it-9318583",
+      "publishedAt": "Thu, 05 Nov 2026 17:00:54 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/22/15/iconic-upload-2024_04_16-ilim_International_Rugby_Experience_16-4-24_2-1713277886404.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-05T17:19:16.707Z"
     },
     "9318590": {
       "skipped": true,
@@ -6529,6 +6641,11 @@
       "imageCredit": "FILE PHOTO",
       "rewrittenAt": "2026-11-05T13:18:07.018Z"
     },
+    "9331813": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53458",
+      "rewrittenAt": "2026-11-05T17:19:08.561Z"
+    },
     "9331899": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362746",
@@ -6559,6 +6676,43 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362746",
       "rewrittenAt": "2026-11-05T13:12:46.340Z"
+    },
+    "9332388": {
+      "skipped": true,
+      "duplicateOf": "9328770",
+      "rewrittenAt": "2026-11-05T17:19:08.561Z"
+    },
+    "9332832": {
+      "headline": "Taoiseach Micheál Martin Warns of Global Deep Crisis in Dublin Address",
+      "summary": "Taoiseach Micheál Martin has stated that the world is facing a moment of deep crisis while speaking in Dublin.",
+      "story": "The Taoiseach delivered the warning during his address at the Business Post Economic Outlook Forum 2026. Further details of his remarks were reported by the Limerick Leader.",
+      "localAngle": "The story is reported by the Limerick Leader, keeping readers in the 061 area informed on national political commentary.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "World facing ‘moment of deep crisis’, warns Micheal Martin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/world-facing-moment-of-deep-crisis-warns-micheal-martin-9332832",
+      "publishedAt": "Thu, 05 Nov 2026 14:53:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/14/cs-427668c9-dd64-4f88-ad4c-bacc4b1116b9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-05T17:20:22.199Z"
+    },
+    "9333377": {
+      "headline": "Grandfather considered stopping dialysis to pay for non-verbal grandson's therapy",
+      "summary": "Sinn Féin TD Pearse Doherty shared a letter from a man willing to sacrifice his life-saving treatment to fund his grandson's therapy.",
+      "story": "Sinn Féin TD Pearse Doherty revealed the contents of a letter from a man who was willing to end his own life-saving dialysis treatment to instead fund therapy for his non-verbal grandson.",
+      "localAngle": "The story was reported by the Limerick Leader, connecting national political disclosures to local readership.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Man offered to give up dialysis to instead fund therapy for non-verbal grandson",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/man-offered-to-give-up-dialysis-to-instead-fund-therapy-for-non-verbal-grandson-9333377",
+      "publishedAt": "Thu, 05 Nov 2026 16:49:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/cs-7cabeb21-372e-4892-93a7-b2a9e2d81fa9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-05T17:19:55.172Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -8618,6 +8772,70 @@
       "rewrittenAt": "2026-11-05T13:24:39.608Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/03/Maurice-Quinlivan.jpg",
       "imageCheckedAt": "2026-11-05T13:27:11.244Z"
+    },
+    "https://www.limerickpost.ie/?p=362832": {
+      "headline": "Limerick pharmacies secure finalist spots in Irish Pharmacy Excellence Awards",
+      "summary": "Several Limerick pharmacies, including branches in Dooradoyle, have reached the final stage of the Irish Pharmacy Excellence Awards 2026 following a competitive selection process involving over 250 entries.",
+      "story": "A number of pharmacies across Limerick have been named as finalists for the Irish Pharmacy Excellence Awards 2026. The shortlist was announced following a high volume of entries, with more than 250 submissions received across the various categories.\n\nAmong the nominees are CarePlus Pharmacies located in Dooradoyle and other areas throughout the county. The national awards program is designed to acknowledge the work carried out by pharmacists, pharmacy technicians, pharmacy assistants, and wider teams operating within community pharmacies, hospitals, and other healthcare settings across the Republic of Ireland.\n\nFollowing the announcement of the finalists, the overall winners will be revealed later this month. A black-tie ceremony is scheduled to take place at the Dublin Royal Convention Centre on Saturday, November 21, 2026, where the successful candidates across all categories will be officially announced.",
+      "localAngle": "Local pharmacies across Limerick have been shortlisted for national recognition at the upcoming Irish Pharmacy Excellence Awards.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick pharmacies recognised at national awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/05/limerick-pharmacies-recognised-at-national-awards/",
+      "publishedAt": "Thu, 05 Nov 2026 16:30:50 +0000",
+      "rewrittenAt": "2026-11-05T17:20:04.951Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2017/03/vet-meds.jpg",
+      "imageCheckedAt": "2026-11-05T17:21:02.334Z"
+    },
+    "https://www.limerickpost.ie/?p=362830": {
+      "headline": "Rathbane Road Speed Survey Scheduled to Inform Traffic Calming Measures",
+      "summary": "Limerick City and County Council has confirmed a traffic speed survey in Rathbane following queries from Cllr Catherine Slattery, with results expected to determine future road safety measures.",
+      "story": "A road speed survey in Rathbane is set to pave the way for potential traffic calming measures in the area, following a query from Fianna Fáil councillor Catherine Slattery at this month's Metropolitan District meeting.\n\nIn response to Cllr Slattery, the Council revealed that the traffic speed survey is scheduled to be completed in late October 2026. The findings will then be assessed to establish whether traffic calming or other road safety interventions are required at the location.\n\nSubject to the results of the survey, the local authority will develop appropriate design proposals and explore funding opportunities to implement any necessary measures in line with the Council's Traffic Calming Policy.",
+      "localAngle": "The proposed survey addresses local road safety concerns raised by a public representative for the Limerick Metropolitan District.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Proposed road speed survey considered for Rathbane",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/05/proposed-road-speed-survey-considered-for-rathbane/",
+      "publishedAt": "Thu, 05 Nov 2026 15:00:54 +0000",
+      "rewrittenAt": "2026-11-05T17:20:14.051Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/01/Yellow-box-scaled-e1705916344958.jpg",
+      "imageCheckedAt": "2026-11-05T17:21:03.031Z"
+    },
+    "https://www.limerickpost.ie/?p=362871": {
+      "headline": "Banríon to play live in-store set at Steamboat Music this Saturday",
+      "summary": "Indie-rock project banríon will perform live at Steamboat Music this Saturday, November 7, at 3pm to celebrate the release of her debut album, 'untarnishing'. Róisín Ní Haicéid recently relocated to Limerick, drawing inspiration from the city's independent music scene.",
+      "story": "Indie-rock artist Róisín Ní Haicéid, performing under the moniker banríon, is set to play a live in-store set at Steamboat Music this Saturday, November 7, at 3pm. The performance marks the release of her debut nine-track album, 'untarnishing'.\n\nNí Haicéid recently relocated to Limerick, a move directly inspired by her experiences attending Féile na Gréine since 2022. She is already building a new band in the city and has rehearsals underway. \"The DIY scene here is amazing, and there are so many talented musicians, but there’s also this ethos of helping each other out and supporting each other that I think is really special,\" she said.\n\nThe debut album captures her musical journey from 2022 to 2024 and explores themes of love, loss, belonging, and self-forgiveness. It follows her earlier work with two EPs and support slots for bands such as NewDad, Lime Garden, and Pillow Queens, alongside a 2023 appearance on the TG4 series Buille, which was filmed in Dolans.",
+      "localAngle": "The artist recently relocated to Limerick after being drawn to the city's independent music scene through her involvement with Féile na Gréine.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Banríon to play instore at Steamboat Music this Saturday to mark release of her debut album",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/05/banrion-to-play-instore-at-steamboat-music-this-saturday-to-mark-release-of-her-debut-album/",
+      "publishedAt": "Thu, 05 Nov 2026 14:52:01 +0000",
+      "rewrittenAt": "2026-11-05T17:20:37.012Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/banrion.jpg",
+      "imageCheckedAt": "2026-11-05T17:21:03.219Z"
+    },
+    "https://www.limerickpost.ie/?p=362857": {
+      "headline": "Limerick's Kilmartin Educational Services wins two national Lean business awards",
+      "summary": "Kilmartin Educational Services has won Micro Lean Business of the Year and the Sustainability Award at the Lean Business Ireland Excellence Awards in County Meath.",
+      "story": "Limerick-based Kilmartin Educational Services is celebrating a double win after picking up two accolades at the Lean Business Ireland Excellence Awards held at the Johnstown Estate in County Meath on Thursday, 22 October.\n\nThe local educational provider took home both the Micro Lean Business of the Year Award and the Sustainability Award. The annual event brings together organisations from across Ireland to recognise excellence in continuous improvement, operational efficiency, innovation, and sustainability, with other notable participants including Tirlán and Europcar.\n\nPrincipal Julie Kilmartin expressed delight at the double win, noting that the business has always focused on identifying areas for improvement and finding better ways of working. \"Our focus remains on providing high-quality educational support while making our business as efficient and sustainable as possible,\" she said.\n\nBased in Limerick, Kilmartin Educational Services offers tuition, supervised study, examination preparation, and study skills development, alongside online learning services that extend its reach beyond the local area. The awards highlight the integration of Lean principles and environmental practices into the company's daily operations.",
+      "localAngle": "The award-winning educational services provider is based in Limerick, offering local tuition, supervised study, and exam preparation.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Kilmartin Educational Services Celebrates Double Win at National Business Awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/05/kilmartin-educational-services-celebrates-double-win-at-national-business-awards/",
+      "publishedAt": "Thu, 05 Nov 2026 14:29:32 +0000",
+      "rewrittenAt": "2026-11-05T17:21:02.032Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Screenshot-2026-11-05-at-14.26.20.png",
+      "imageCheckedAt": "2026-11-05T17:21:03.425Z"
     }
   }
 }
