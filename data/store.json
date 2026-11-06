@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-06T16:42:15.865Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-06T19:55:46.752Z",
+    "totalArticles": 38
   },
   "articles": {
     "8353171": {
@@ -2489,6 +2489,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T20:35:55.182Z"
     },
+    "9332081": {
+      "id": "9332081",
+      "title": "PICTURES: John the Baptist take on St Flannan's in Harty Cup clash",
+      "link": "https://www.limerickleader.ie/sport/gaa/hurling/pictures-john-the-baptist-take-on-st-flannans-in-harty-cup-clash-9332081",
+      "description": "St Flannan’s were too strong a challenge for John the Baptist, Hospital during their Harty Cup Round 2 clash",
+      "pubDate": "Fri, 06 Nov 2026 19:30:35 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/11/19/MixCollage-05-Nov-2026-11-37-AM-4221.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.567Z"
+    },
     "9332188": {
       "id": "9332188",
       "title": "Harris hopes for de-escalation as Trump accepts Iran war’s role in midterms loss",
@@ -2739,6 +2751,62 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/cs-f1e0b347-e3b5-4284-a84f-fdc999ef366a.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
+    "9335935": {
+      "id": "9335935",
+      "title": "PICTURES: Take a look at the incredible luxury items seized by CAB going under the hammer",
+      "link": "https://www.limerickleader.ie/national/pictures-take-a-look-at-the-incredible-luxury-items-seized-by-cab-going-under-the-hammer-9335935",
+      "description": "Rolex watches worth thousands, designer jewellery and gold bars are among the luxury items set to go under the hammer later this month",
+      "pubDate": "Fri, 06 Nov 2026 18:15:30 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/14/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-06T164321-573.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Wilsons Auctions",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.568Z"
+    },
+    "9336025": {
+      "id": "9336025",
+      "title": "Martin: Sinn Fein could do more to urge Catholics to join police north of border",
+      "link": "https://www.limerickleader.ie/national/martin-sinn-fein-could-do-more-to-urge-catholics-to-join-police-north-of-border-9336025",
+      "description": "Micheál Martin became the first Irish premier to attend a passing out ceremony for PSNI recruits on Friday.",
+      "pubDate": "Fri, 06 Nov 2026 17:24:40 GMT",
+      "author": "David Young and Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/cs-158a2089-9bc5-42bf-8045-5cc97f73bcbc.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.568Z"
+    },
+    "9336102": {
+      "id": "9336102",
+      "title": "Northern Ireland risks becoming used to abnormal politics, says Bryant",
+      "link": "https://www.limerickleader.ie/national/northern-ireland-risks-becoming-used-to-abnormal-politics-says-bryant-9336102",
+      "description": "Under the powersharing structures, the largest nationalist and unionist parties both have the ability to effectively collapse the ruling executive.",
+      "pubDate": "Fri, 06 Nov 2026 17:47:08 GMT",
+      "author": "David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/cs-04ee4649-b73e-4072-ac26-8f75a57148f0.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.568Z"
+    },
+    "9336106": {
+      "id": "9336106",
+      "title": "Tánaiste to examine report questioning State funding for greyhound racing",
+      "link": "https://www.limerickleader.ie/national/tanaiste-to-examine-report-questioning-state-funding-for-greyhound-racing-9336106",
+      "description": "The Tánaiste has committed to examining a report which questioned the rationale for greyhound State support of greyhound racing.",
+      "pubDate": "Fri, 06 Nov 2026 17:48:55 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/cs-14f88ce0-ffb2-4e45-84e2-ab8d672844f5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.568Z"
+    },
+    "9336127": {
+      "id": "9336127",
+      "title": "There can be ‘no shift’ from UK-Ireland legacy framework, Helen McEntee says",
+      "link": "https://www.limerickleader.ie/national/there-can-be-no-shift-from-uk-ireland-legacy-framework-helen-mcentee-says-9336127",
+      "description": "Asked if she would raise objections with her London counterparts, the minister said there was continued engagement with the UK Government.",
+      "pubDate": "Fri, 06 Nov 2026 17:58:27 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/18/cs-261e70b9-27b7-4ebd-8d44-afc56830b04f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T19:55:35.568Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4491,6 +4559,36 @@
       "author": "David Raleigh",
       "source": "limerickpost",
       "scrapedAt": "2026-11-06T16:41:57.152Z"
+    },
+    "https://www.limerickpost.ie/?p=362864": {
+      "id": "https://www.limerickpost.ie/?p=362864",
+      "title": "New link road in Abbeyfeale completed",
+      "link": "https://www.limerickpost.ie/2026/11/06/new-link-road-in-abbeyfeale-completed/",
+      "description": "A NEW link road in Abbeyfeale, creating a link between the N21 National Road and the car park at Grove Crescent has been completed. It marks a significant milestone in the delivery of the Abbeyfeale Traffic Management Plan and wider public realm enhancement programme. The new link road provides a direct connection between the N21 [&#8230;]\nThe post New link road in Abbeyfeale completed appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 18:00:39 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T19:55:35.228Z"
+    },
+    "https://www.limerickpost.ie/?p=362922": {
+      "id": "https://www.limerickpost.ie/?p=362922",
+      "title": "Limerick groups celebrated at 2026 Pride of Place Awards",
+      "link": "https://www.limerickpost.ie/2026/11/06/limerick-groups-celebrated-at-2026-pride-of-place-awards/",
+      "description": "FIVE Limerick groups proudly represented their county at the 2026 IPB Pride of Place Awards, with three groups securing national honours. The IPB Pride of Place Awards, organised by Co-operation Ireland and supported by IPB Insurance, recognise and celebrate the exceptional work being carried out by community groups throughout Ireland. The awards acknowledge the dedication [&#8230;]\nThe post Limerick groups celebrated at 2026 Pride of Place Awards appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 17:00:35 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T19:55:35.228Z"
+    },
+    "https://limerickvoice.com/?p=53560": {
+      "id": "https://limerickvoice.com/?p=53560",
+      "title": "BREAKING: Minister Patrick O’Donovan returns to hospital",
+      "link": "https://limerickvoice.com/news/minister-patrick-odonovan-returns-to-hospital/",
+      "description": "The Fine Gael TD was rushed to hospital for the second time this month. MINISTER Patrick O’Donovan has been admitted to hospital once again.  It is understood that the Communications Minister and Limerick TD was taken to University Hospital Limerick (UHL) last night (Thursday, November 5) after falling ill at his home.  This is the [&#8230;]\nThe post BREAKING: Minister Patrick O’Donovan returns to hospital appeared first on .",
+      "pubDate": "Fri, 06 Nov 2026 18:09:22 +0000",
+      "author": "Dearbhla Parry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-06T19:55:36.097Z"
     }
   },
   "rewritten": {
@@ -7147,6 +7245,11 @@
       "imageCredit": "Brendan Gleeson",
       "rewrittenAt": "2026-11-05T20:36:51.139Z"
     },
+    "9332081": {
+      "skipped": true,
+      "duplicateOf": "9330832",
+      "rewrittenAt": "2026-11-06T19:56:24.281Z"
+    },
     "9332188": {
       "headline": "Tánaiste Seeks De-escalation After Trump Acknowledges Iran War Impact on Midterms",
       "summary": "The Tánaiste commented as Donald Trump accepted that the Iran war played a role in the Republicans' midterm defeat, which was described as being at the outer limits of White House expectations.",
@@ -7405,6 +7508,76 @@
       "publishedAt": "Fri, 06 Nov 2026 15:58:23 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/cs-f1e0b347-e3b5-4284-a84f-fdc999ef366a.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-06T16:43:07.568Z"
+    },
+    "9335935": {
+      "headline": "CAB to auction seized Rolex watches, designer jewellery and gold bars",
+      "summary": "Luxury items seized by the Criminal Assets Bureau, including gold bars and Rolex watches, are scheduled for auction later this month.",
+      "story": "Rolex watches worth thousands, designer jewellery, and gold bars are among the luxury items set to go under the hammer later this month, according to the Limerick Leader.",
+      "localAngle": "The auction features high-value assets seized by the Criminal Assets Bureau, drawing interest from readers across Limerick and beyond.",
+      "section": "Courts",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "PICTURES: Take a look at the incredible luxury items seized by CAB going under the hammer",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/pictures-take-a-look-at-the-incredible-luxury-items-seized-by-cab-going-under-the-hammer-9335935",
+      "publishedAt": "Fri, 06 Nov 2026 18:15:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/14/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-06T164321-573.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Wilsons Auctions",
+      "rewrittenAt": "2026-11-06T19:56:32.334Z"
+    },
+    "9336025": {
+      "skipped": true,
+      "duplicateOf": "9334914",
+      "rewrittenAt": "2026-11-06T19:56:24.281Z"
+    },
+    "9336102": {
+      "headline": "Bryant Warns Northern Ireland May Grow Used to Abnormal Politics",
+      "summary": "Powersharing structures in Northern Ireland give the largest nationalist and unionist parties the power to collapse the ruling executive.",
+      "story": "Bryant has stated that Northern Ireland risks becoming used to abnormal politics under current powersharing rules. The warning comes as both the largest nationalist and unionist parties retain the ability to effectively collapse the ruling executive.",
+      "localAngle": "While this political development is based in Northern Ireland, it is being followed by readers across the country via the Limerick Leader.",
+      "section": "Council",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Northern Ireland risks becoming used to abnormal politics, says Bryant",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/northern-ireland-risks-becoming-used-to-abnormal-politics-says-bryant-9336102",
+      "publishedAt": "Fri, 06 Nov 2026 17:47:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/cs-04ee4649-b73e-4072-ac26-8f75a57148f0.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-06T19:57:06.055Z"
+    },
+    "9336106": {
+      "headline": "Tánaiste pledges to review report questioning greyhound funding",
+      "summary": "The Tánaiste has agreed to look at a newly published report that questions the reasoning behind State support for greyhound racing.",
+      "story": "The Tánaiste has committed to examining a report which questioned the rationale for greyhound State support of greyhound racing, following its publication on Friday. No further details on the report's findings or potential policy changes have been confirmed.",
+      "localAngle": "Greyhound racing is a prominent sport and industry across County Limerick, making State funding a matter of local interest.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tánaiste to examine report questioning State funding for greyhound racing",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tanaiste-to-examine-report-questioning-state-funding-for-greyhound-racing-9336106",
+      "publishedAt": "Fri, 06 Nov 2026 17:48:55 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/cs-14f88ce0-ffb2-4e45-84e2-ab8d672844f5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-06T19:56:58.531Z"
+    },
+    "9336127": {
+      "headline": "Helen McEntee Affirms Position on UK-Ireland Legacy Framework",
+      "summary": "Minister Helen McEntee states that there can be no shift from the UK-Ireland legacy framework amid ongoing engagement with the UK Government.",
+      "story": "When asked if she would raise objections with her London counterparts, Minister Helen McEntee stated that there is continued engagement with the UK Government regarding the legacy framework.",
+      "localAngle": "This national political development is of interest to Limerick readers following cross-border relations and government policy.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "There can be ‘no shift’ from UK-Ireland legacy framework, Helen McEntee says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/there-can-be-no-shift-from-uk-ireland-legacy-framework-helen-mcentee-says-9336127",
+      "publishedAt": "Fri, 06 Nov 2026 17:58:27 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/18/cs-261e70b9-27b7-4ebd-8d44-afc56830b04f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-06T19:56:48.418Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -9746,6 +9919,32 @@
       "rewrittenAt": "2026-11-06T16:44:11.339Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/New-novel-Minister-Patrick-ODonovan.jpg",
       "imageCheckedAt": "2026-11-06T16:44:21.343Z"
+    },
+    "https://limerickvoice.com/?p=53560": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362915",
+      "rewrittenAt": "2026-11-06T19:56:24.281Z"
+    },
+    "https://www.limerickpost.ie/?p=362922": {
+      "skipped": true,
+      "duplicateOf": "9332907",
+      "rewrittenAt": "2026-11-06T19:56:24.281Z"
+    },
+    "https://www.limerickpost.ie/?p=362864": {
+      "headline": "Abbeyfeale welcomes new N21 link road and 21 parking spaces on former bar site",
+      "summary": "A new link road connecting the N21 National Road to the Grove Crescent car park in Abbeyfeale has been completed. The project also delivers 21 new on-street parking spaces on the former site of O'Riordan's Bar.",
+      "story": "A new link road connecting the N21 National Road directly to the Grove Crescent car park in Abbeyfeale has officially been completed. \n\nThe infrastructure project marks a significant milestone in the delivery of the Abbeyfeale Traffic Management Plan and the town's wider public realm enhancement programme. Alongside the new roadway, the development provides 21 new on-street parking spaces for motorists.\n\nThe project has completely transformed the site, which was formerly occupied by O’Riordan’s Bar, into an integral piece of town centre infrastructure. Local motorists and pedestrians can now benefit from improved access, parking, connectivity, and traffic circulation throughout the town centre.",
+      "localAngle": "The project directly improves traffic flow and parking infrastructure in the West Limerick town of Abbeyfeale.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "New link road in Abbeyfeale completed",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/new-link-road-in-abbeyfeale-completed/",
+      "publishedAt": "Fri, 06 Nov 2026 18:00:39 +0000",
+      "rewrittenAt": "2026-11-06T19:56:40.843Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2015/09/Adare-traffic.jpg",
+      "imageCheckedAt": "2026-11-06T19:57:06.529Z"
     }
   }
 }
