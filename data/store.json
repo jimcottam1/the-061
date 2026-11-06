@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-06T12:53:02.600Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-06T16:42:15.865Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -2405,6 +2405,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
+    "9331447": {
+      "id": "9331447",
+      "title": "Solar farm on the Limerick-Kerry border progresses despite protests",
+      "link": "https://www.limerickleader.ie/news/eco-live/solar-farm-on-the-limerick-kerry-border-progresses-despite-protests-9331447",
+      "description": "The solar farm project proposed for the south-east of Tarbert has 75% of its on site located in Kerry, with the remaining 25% across the border in Limerick",
+      "pubDate": "Fri, 06 Nov 2026 14:00:32 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/06/Circal.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: FENNELL PHOTOGRAPHY",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
     "9331554": {
       "id": "9331554",
       "title": "The young Limerick doctor who went to war as Ireland changed",
@@ -2648,6 +2660,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T12:52:51.734Z"
     },
+    "9334342": {
+      "id": "9334342",
+      "title": "Five athletes awarded prestigious MIC Sports Scholarship for 2026/27",
+      "link": "https://www.limerickleader.ie/sport/gaa/five-athletes-awarded-prestigious-mic-sports-scholarship-for-202627-9334342",
+      "description": "Mary Immaculate College (MIC) has announced the five recipients of its 2026/27 Elite Sports Scholarship Scheme, recognising their outstanding achievements at inter-county, national and international levels.",
+      "pubDate": "Fri, 06 Nov 2026 15:30:40 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/10/13/L-R-Moya-Knowles-Joe-Caesar-Celine-Guinan-Eoghan-Mulleady-Euan-Murray.jpeg?width=1200&auto=webp&trim=0%2C15%2C0%2C15",
+      "imageCredit": "MIC",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
+    "9334666": {
+      "id": "9334666",
+      "title": "Former University of Limerick journalism lecturer exposed over fake doctorate claim",
+      "link": "https://www.limerickleader.ie/news/former-university-of-limerick-journalism-lecturer-exposed-over-fake-doctorate-claim-9334666",
+      "description": "Former journalism lecturer at University of Limerick and associate professor in University of Galway Tom Felle has been exposed by RTE as claiming to have a PhD qualification",
+      "pubDate": "Fri, 06 Nov 2026 14:45:53 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/13/56/1000019695.jpeg?width=1200&auto=webp&trim=132%2C0%2C986%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
     "9334840": {
       "id": "9334840",
       "title": "RTÉ boss says evacuation may last hours as authorities investigate bomb threat",
@@ -2658,6 +2694,51 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/12/cs-e3df84e4-cbd4-4424-92e3-6a5a795ccf25.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T12:52:51.734Z"
+    },
+    "9334914": {
+      "id": "9334914",
+      "title": "Taoiseach attends PSNI passing out event in historic first for an Irish premier",
+      "link": "https://www.limerickleader.ie/national/taoiseach-attends-psni-passing-out-event-in-historic-first-for-an-irish-premier-9334914",
+      "description": "Micheál Martin was at an attestation ceremony for 36 new officers at the police training college in east Belfast.",
+      "pubDate": "Fri, 06 Nov 2026 12:46:52 GMT",
+      "author": "David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/12/cs-ac85fa0d-0808-431d-8038-baaa6ce12244.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
+    "9335052": {
+      "id": "9335052",
+      "title": "RTÉ staff return to buildings as Irish police probe bomb threat",
+      "link": "https://www.limerickleader.ie/national/rte-staff-return-to-buildings-as-irish-police-probe-bomb-threat-9335052",
+      "description": "Other media organisations in Ireland were also sent ‘very serious’ threats on Friday morning, the Irish Government said.",
+      "pubDate": "Fri, 06 Nov 2026 16:34:07 GMT",
+      "author": "Cate McCurry, David Young and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/cs-be0aff79-59c3-4151-bcb7-5f0cd95b2acc.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
+    "9335435": {
+      "id": "9335435",
+      "title": "Boat and campervan may provide 'crucial clues' in case of Limerick woman feared murdered",
+      "link": "https://www.limerickleader.ie/news/crime-courts/boat-and-campervan-may-provide-crucial-clues-in-case-of-limerick-woman-feared-murdered-9335435",
+      "description": "Detectives believe that is very likely Carrie came to harm shortly after her arrival in Northern Ireland",
+      "pubDate": "Fri, 06 Nov 2026 16:00:26 GMT",
+      "author": "Abigail Hayden and Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/03/16/44/Untitled-design-(33).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: PSNI",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
+    },
+    "9335708": {
+      "id": "9335708",
+      "title": "Tánaiste ‘confident’ two major EU presidency events will go ahead despite strike",
+      "link": "https://www.limerickleader.ie/national/tanaiste-confident-two-major-eu-presidency-events-will-go-ahead-despite-strike-9335708",
+      "description": "Union members are preparing for a 24-hour national walkout on the same day as a major EU presidency event.",
+      "pubDate": "Fri, 06 Nov 2026 15:58:23 GMT",
+      "author": "Cate McCurry and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/cs-f1e0b347-e3b5-4284-a84f-fdc999ef366a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-06T16:41:57.700Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4370,6 +4451,46 @@
       "author": "Aaliyah Popoola",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-06T12:52:52.120Z"
+    },
+    "https://www.limerickpost.ie/?p=362928": {
+      "id": "https://www.limerickpost.ie/?p=362928",
+      "title": "Ultimate Health Clinic introduces Visagé Define Pro with free trials",
+      "link": "https://www.limerickpost.ie/2026/11/06/ultimate-health-clinic-introduces-visage-define-pro-with-free-trials/",
+      "description": "Ultimate Health Clinic on George’s Quay, Limerick, is celebrating the arrival of Visagé Define Pro, saying it is the first clinic in Ireland to introduce the treatment. To mark the launch, the clinic is offering free 15-minute trials, alongside 20% off for the first 20 clients, giving people an opportunity to experience the treatment and discuss their [&#8230;]\nThe post Ultimate Health Clinic introduces Visagé Define Pro with free trials appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 15:45:04 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T16:41:57.151Z"
+    },
+    "https://www.limerickpost.ie/?p=362862": {
+      "id": "https://www.limerickpost.ie/?p=362862",
+      "title": "Works to commence on long-awaited bus shelter in Clarina",
+      "link": "https://www.limerickpost.ie/2026/11/06/works-to-commence-on-long-awaited-bus-shelter-in-clarina/",
+      "description": "FINE Gael councillor Dan McSweeney has welcomed confirmation that works on a long-awaited bus shelter in Clarina are expected to commence shortly. Cllr McSweeney told the Limerick Post that a land agreement is now in place, allowing the project to progress. &#8220;I am delighted that an agreement has now been reached, and I want to [&#8230;]\nThe post Works to commence on long-awaited bus shelter in Clarina appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 15:00:22 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T16:41:57.151Z"
+    },
+    "https://www.limerickpost.ie/?p=362919": {
+      "id": "https://www.limerickpost.ie/?p=362919",
+      "title": "Applications for cost-rental homes open",
+      "link": "https://www.limerickpost.ie/2026/11/06/applications-for-cost-rental-homes-open/",
+      "description": "APPLICATIONS are now open for 12 cost rental apartments in Co Limerick. The properties in Knockhill are available for rent at least 25 per cent below the market average for the area and have been delivered by Clúid, one of Ireland&#8217;s leading housing associations. Applications for 12 new Cost Rental two-bed apartments in Amharc Abhann opened [&#8230;]\nThe post Applications for cost-rental homes open appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 14:00:33 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T16:41:57.152Z"
+    },
+    "https://www.limerickpost.ie/?p=362915": {
+      "id": "https://www.limerickpost.ie/?p=362915",
+      "title": "Minister Patrick O’Donovan back in hospital",
+      "link": "https://www.limerickpost.ie/2026/11/06/minister-patrick-odonovan-back-in-hospital/",
+      "description": "THE MINISTER for Communications, Media, Arts, Culture and Sport, Patrick O&#8217;Donovan, has been returned to hospital after falling ill at his home. The Limerick Fine Gael TD who previously served as a Minister of State at the departments of finance, public expenditure, reform, and tourism, was being treated at a high dependency unit at University [&#8230;]\nThe post Minister Patrick O&#8217;Donovan back in hospital appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 13:54:40 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-06T16:41:57.152Z"
     }
   },
   "rewritten": {
@@ -6943,6 +7064,23 @@
       "duplicateOf": "9327989",
       "rewrittenAt": "2026-11-05T13:12:46.340Z"
     },
+    "9331447": {
+      "headline": "Cross-Border Solar Farm Plans Near Limerick Move Ahead Despite Local Protests",
+      "summary": "A planned solar farm situated primarily in Kerry with a quarter of its site in Limerick is moving forward despite local opposition.",
+      "story": "A proposed solar farm located southeast of Tarbert is continuing to progress despite facing protests from the community. While 75 percent of the site is situated in Kerry, the remaining 25 percent extends across the border into Limerick.",
+      "localAngle": "One-quarter of the solar farm's site is located across the border in Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Solar farm on the Limerick-Kerry border progresses despite protests",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/eco-live/solar-farm-on-the-limerick-kerry-border-progresses-despite-protests-9331447",
+      "publishedAt": "Fri, 06 Nov 2026 14:00:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/06/Circal.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: FENNELL PHOTOGRAPHY",
+      "rewrittenAt": "2026-11-06T16:44:01.541Z"
+    },
     "9331554": {
       "headline": "Limerick descendant shares great-grandfather's wartime medical history ahead of Armistice Day",
       "summary": "Ahead of Armistice Day on November 11, Brían McNamara has shared recently unearthed family history about his great-grandfather, a young Limerick doctor who went to war.",
@@ -7187,10 +7325,86 @@
       "duplicateOf": "https://limerickvoice.com/?p=53556",
       "rewrittenAt": "2026-11-06T12:54:16.064Z"
     },
+    "9334342": {
+      "headline": "Five Athletes Receive Elite Sports Scholarships at Mary Immaculate College",
+      "summary": "Mary Immaculate College has named five recipients for its 2026/27 Elite Sports Scholarship Scheme.",
+      "story": "The scholarship scheme recognises the outstanding achievements of the five athletes at inter-county, national and international levels. Read the full story on the Limerick Leader.",
+      "localAngle": "The scholarships are awarded at Mary Immaculate College, highlighting local student-athletes achieving success at various sporting levels.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Five athletes awarded prestigious MIC Sports Scholarship for 2026/27",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/five-athletes-awarded-prestigious-mic-sports-scholarship-for-202627-9334342",
+      "publishedAt": "Fri, 06 Nov 2026 15:30:40 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/10/13/L-R-Moya-Knowles-Joe-Caesar-Celine-Guinan-Eoghan-Mulleady-Euan-Murray.jpeg?width=1200&auto=webp&trim=0%2C15%2C0%2C15",
+      "imageCredit": "MIC",
+      "rewrittenAt": "2026-11-06T16:43:25.399Z"
+    },
+    "9334666": {
+      "headline": "Ex-UL journalism lecturer Tom Felle exposed over false PhD claims",
+      "summary": "An RTÉ investigation has revealed that former University of Limerick journalism lecturer Tom Felle claimed to hold a PhD qualification.",
+      "story": "Tom Felle, a former journalism lecturer at the University of Limerick and associate professor in the University of Galway, has been exposed by RTÉ for claiming to have a PhD qualification.",
+      "localAngle": "The story involves a former lecturer who previously taught at the University of Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Former University of Limerick journalism lecturer exposed over fake doctorate claim",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/former-university-of-limerick-journalism-lecturer-exposed-over-fake-doctorate-claim-9334666",
+      "publishedAt": "Fri, 06 Nov 2026 14:45:53 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/13/56/1000019695.jpeg?width=1200&auto=webp&trim=132%2C0%2C986%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-06T16:43:43.937Z"
+    },
     "9334840": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53556",
       "rewrittenAt": "2026-11-06T12:54:16.064Z"
+    },
+    "9334914": {
+      "headline": "Micheál Martin Makes History at PSNI Passing Out Ceremony",
+      "summary": "Taoiseach Micheál Martin has attended an attestation ceremony for 36 new officers at the police training college in east Belfast in a historic first for an Irish premier.",
+      "story": "Micheál Martin was present at the police training college in east Belfast for the attestation ceremony welcoming 36 new officers. This event marks the first time an Irish premier has attended a PSNI passing out parade.",
+      "localAngle": "While this national political event involves the Taoiseach, there is no direct local Limerick connection mentioned in the source material.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Taoiseach attends PSNI passing out event in historic first for an Irish premier",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/taoiseach-attends-psni-passing-out-event-in-historic-first-for-an-irish-premier-9334914",
+      "publishedAt": "Fri, 06 Nov 2026 12:46:52 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/12/cs-ac85fa0d-0808-431d-8038-baaa6ce12244.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-06T16:44:19.477Z"
+    },
+    "9335052": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53556",
+      "rewrittenAt": "2026-11-06T16:43:01.716Z"
+    },
+    "9335435": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53490",
+      "rewrittenAt": "2026-11-06T16:43:01.717Z"
+    },
+    "9335708": {
+      "headline": "Tánaiste Expects EU Presidency Events to Proceed Despite Planned Strike",
+      "summary": "Union members are preparing for a 24-hour national walkout on the same day as a major EU presidency event, though the Tánaiste is confident the events will go ahead.",
+      "story": "The Tánaiste has expressed confidence that two major EU presidency events will proceed as planned despite union members preparing for a 24-hour national walkout on the same day.",
+      "localAngle": "This national strike and EU presidency event timing affects local planning and disruption awareness in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tánaiste ‘confident’ two major EU presidency events will go ahead despite strike",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tanaiste-confident-two-major-eu-presidency-events-will-go-ahead-despite-strike-9335708",
+      "publishedAt": "Fri, 06 Nov 2026 15:58:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/16/cs-f1e0b347-e3b5-4284-a84f-fdc999ef366a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-06T16:43:07.568Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -9468,6 +9682,70 @@
       "rewrittenAt": "2026-11-06T12:55:26.559Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Wasps-vs-Humans-press-2.jpg",
       "imageCheckedAt": "2026-11-06T12:56:14.303Z"
+    },
+    "https://www.limerickpost.ie/?p=362928": {
+      "headline": "George’s Quay Clinic Becomes First in Ireland to Launch Visagé Define Pro",
+      "summary": "Ultimate Health Clinic in Limerick is marking the nationwide debut of the Visagé Define Pro treatment by offering free 15-minute trials and 20% off for its first 20 clients.",
+      "story": "Ultimate Health Clinic on George’s Quay has become the first clinic in Ireland to introduce the Visagé Define Pro treatment. To celebrate the launch, the Limerick facility is offering free 15-minute trial sessions alongside a 20 per cent discount for the first 20 clients, giving locals an opportunity to experience the procedure and discuss their personal wellness goals with the team.\n\nThe non-invasive treatment combines electromagnetic muscle stimulation with radiofrequency technology, designed to support muscle conditioning and improve skin firmness. While electromagnetic pulses trigger repeated muscle contractions, the warmth from the radiofrequency is intended to aid collagen production. Target areas for the procedure include the abdomen, glutes, thighs, and arms, subject to an individual assessment of suitability.\n\nClinic representatives noted that maintaining muscle mass and skin firmness can be a particular concern for individuals experiencing changes in body shape following weight loss. A personalised assessment is emphasized, and a course of treatments may be recommended depending on each client's specific goals. The complimentary trials are intended to provide an opportunity for clients to ask questions and determine if the treatment suits their needs before committing to further sessions. Interested individuals can contact the clinic directly at 061 315785.",
+      "localAngle": "The nationwide debut of the Visagé Define Pro treatment is taking place exclusively at the Ultimate Health Clinic on George’s Quay in Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Ultimate Health Clinic introduces Visagé Define Pro with free trials",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/ultimate-health-clinic-introduces-visage-define-pro-with-free-trials/",
+      "publishedAt": "Fri, 06 Nov 2026 15:45:04 +0000",
+      "rewrittenAt": "2026-11-06T16:43:17.762Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Screenshot-2026-11-06-at-15.42.00.png",
+      "imageCheckedAt": "2026-11-06T16:44:19.947Z"
+    },
+    "https://www.limerickpost.ie/?p=362862": {
+      "headline": "Works on long-awaited Clarina bus shelter to begin shortly",
+      "summary": "Construction on a new bus shelter in Clarina is set to begin in the coming days following the finalisation of a land agreement.",
+      "story": "Construction work on a new bus shelter in Clarina is expected to get underway in the coming days after a crucial land agreement was finalised.\n\nFine Gael councillor Dan McSweeney confirmed that the project can now progress following successful negotiations with a local landowner. Cllr McSweeney thanked the landowner for their positive engagement, stating that it helped make the infrastructure project a reality.\n\n\"The local community has waited far too long for this simple piece of essential infrastructure,\" Cllr McSweeney said, adding that he is pleased to see the project finally moving forward.",
+      "localAngle": "The new bus shelter provides essential transport infrastructure for commuters in the Clarina area of County Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Works to commence on long-awaited bus shelter in Clarina",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/works-to-commence-on-long-awaited-bus-shelter-in-clarina/",
+      "publishedAt": "Fri, 06 Nov 2026 15:00:22 +0000",
+      "rewrittenAt": "2026-11-06T16:43:34.805Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/11/Dan-McSweeney-scaled.jpg",
+      "imageCheckedAt": "2026-11-06T16:44:20.601Z"
+    },
+    "https://www.limerickpost.ie/?p=362919": {
+      "headline": "Clúid opens applications for 12 new cost-rental apartments in Knockhill",
+      "summary": "Applications are now open for 12 two-bedroom cost-rental apartments in Knockhill, Co Limerick, with rents set at €1,594 per month. The A-rated homes are priced at least 25 per cent below the local market average.",
+      "story": "Applications officially opened on Wednesday, November 4, for 12 brand new, A-rated two-bedroom apartments in the Amharc Abhann development located in the Knockhill suburb. Delivered by housing association Clúid, the properties are being offered at €1,594 per month, sitting at least 25 per cent below the average market rent for the area.\n\nAlongside the reduced rates, successful applicants will secure life-long tenancies with responsive management and maintenance support. The development is situated close to local amenities including schools, shops, and health centres, and benefits from regular bus connections into Limerick city centre.\n\nClúid CEO Averil Power noted that high demand is expected due to the location, build quality, and reduced rents. Interested applicants must complete their submissions online via the Clúid website before 5pm on Wednesday, November 18, to be included in the allocation lottery.\n\nThe Knockhill scheme was delivered by Clúid in partnership with Limerick City and County Council, with support from the Department of Housing, Heritage and Local Government, The Housing Agency, and the Housing Finance Agency. Formation Homes served as the developer, while Occu is partnering on the allocation and onboarding process.",
+      "localAngle": "The development provides secure, below-market housing options for households in the Limerick area close to local amenities and the city centre.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Applications for cost-rental homes open",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/applications-for-cost-rental-homes-open/",
+      "publishedAt": "Fri, 06 Nov 2026 14:00:33 +0000",
+      "rewrittenAt": "2026-11-06T16:43:53.467Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Applications-for-cost-rental-in-Knockhill-open.png",
+      "imageCheckedAt": "2026-11-06T16:44:20.986Z"
+    },
+    "https://www.limerickpost.ie/?p=362915": {
+      "headline": "Minister Patrick O'Donovan hospitalized at UHL following illness at home",
+      "summary": "Cabinet Minister Patrick O'Donovan has been admitted to the high dependency unit at University Hospital Limerick after falling ill at his home on Thursday night. It is the second time in less than a month that the Limerick TD has been rushed to the hospital following medical emergencies related to his epilepsy diagnosis.",
+      "story": "Minister for Communications, Media, Arts, Culture and Sport Patrick O'Donovan was rushed to University Hospital Limerick (UHL) on Thursday night after falling ill at his home. The 49-year-old Fine Gael TD is currently being treated in the hospital's high dependency unit.\n\nThis marks the second time in less than a month that the Limerick politician has been admitted to UHL following a medical emergency. On October 13, he was rushed to the hospital's Intensive Care Unit after taking seriously ill while hosting a meeting of European Union Telecommunications Ministers at the University of Limerick. Following that incident, Enterprise Minister Peter Burke took over Mr O'Donovan's ministerial duties on a temporary basis.\n\nMr O'Donovan has previously spoken publicly about his diagnosis of deep frontal lobe epilepsy, which was confirmed after he collapsed in the Dáil in June 2023. He has shared that he initially kept the condition private before deciding to speak openly about his health.\n\nEarlier this week, local representatives in the Newcastle West Municipal District agreed to send a letter of support to the Minister. Meanwhile, his department has stated that any return to work will be guided strictly by medical advice.",
+      "localAngle": "The Limerick TD and former local councillor has been receiving ongoing treatment at University Hospital Limerick following medical emergencies in the county.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Minister Patrick O’Donovan back in hospital",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/minister-patrick-odonovan-back-in-hospital/",
+      "publishedAt": "Fri, 06 Nov 2026 13:54:40 +0000",
+      "rewrittenAt": "2026-11-06T16:44:11.339Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/New-novel-Minister-Patrick-ODonovan.jpg",
+      "imageCheckedAt": "2026-11-06T16:44:21.343Z"
     }
   }
 }
