@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-07T11:40:30.982Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-07T15:36:29.361Z",
+    "totalArticles": 34
   },
   "articles": {
     "8353171": {
@@ -2188,6 +2188,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T12:55:47.298Z"
     },
+    "9329283": {
+      "id": "9329283",
+      "title": "PICTURES: South Court Hotel host 2026 Irish Open Draughts Championship",
+      "link": "https://www.limerickleader.ie/sport/other-sport/pictures-south-court-hotel-host-2026-irish-open-draughts-championship-9329283",
+      "description": "The HDS Irish Open Draughts Championships 2026 were held at the South Court Hotel in Limerick City over the October bank holiday weekend from Saturday, October 24 to Monday, October 26",
+      "pubDate": "Sat, 07 Nov 2026 14:30:48 GMT",
+      "author": "Photographers Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/9/24/MixCollage-04-Nov-2026-09-57-AM-9690.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T15:36:16.561Z"
+    },
     "9329533": {
       "id": "9329533",
       "title": "Limerick drivers honoured at Bus Éireann GEM awards ",
@@ -2887,6 +2899,29 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/11/cs-c9716328-b664-49b9-a78f-97ac98d9939b.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-07T11:40:19.593Z"
+    },
+    "9336578": {
+      "id": "9336578",
+      "title": "Russia link to Irish bomb threats cannot be ruled out, minister says",
+      "link": "https://www.limerickleader.ie/national/russia-link-to-irish-bomb-threats-cannot-be-ruled-out-minister-says-9336578",
+      "description": "Several Irish media outlets received hoax bomb threats on Friday in a week that saw airlines across Europe also targeted with hoax bomb alerts.",
+      "pubDate": "Sat, 07 Nov 2026 13:17:30 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/13/cs-571f7234-1ed1-4c96-bd45-734176134516.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T15:36:16.561Z"
+    },
+    "9336584": {
+      "id": "9336584",
+      "title": "Man appears in court charged with murder of Limerick woman Carrie Mullane ",
+      "link": "https://www.limerickleader.ie/news/man-appears-in-court-charged-with-murder-of-limerick-woman-carrie-mullane-9336584",
+      "description": "Carrie Mullane (Noonan), 39, from Moyross, has been missing since her arrival in Enniskillen from Limerick on October 10",
+      "pubDate": "Sat, 07 Nov 2026 13:30:28 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/13/51/Carrie-Mullane-(Noonan).jpeg?width=1200&auto=webp&trim=31%2C0%2C317%2C0",
+      "imageCredit": "PICTURE: PSNI",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T15:36:16.561Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4709,6 +4744,56 @@
       "author": "Tara Lowth",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-07T11:40:20.136Z"
+    },
+    "https://www.limerickpost.ie/?p=362893": {
+      "id": "https://www.limerickpost.ie/?p=362893",
+      "title": "Calls for extended winter opening hours across public parks",
+      "link": "https://www.limerickpost.ie/2026/11/07/calls-for-extended-winter-opening-hours-across-public-parks/",
+      "description": "SOCIAL Democrats councillor Elisa O’Donovan has called for winter opening hours in public parks across the city to be extended, particularly those with sports and recreational facilities. She also asked the Council at this month’s Metropolitan District meeting to consider improved lighting where required to allow for greater and safer use during winter evenings. In response [&#8230;]\nThe post Calls for extended winter opening hours across public parks appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 15:00:34 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T15:36:16.213Z"
+    },
+    "https://www.limerickpost.ie/?p=362925": {
+      "id": "https://www.limerickpost.ie/?p=362925",
+      "title": "Cup action in Basketball",
+      "link": "https://www.limerickpost.ie/2026/11/07/cup-action-in-basketball/",
+      "description": "LIMERICK Celtics entertain Tralee Warriors in the opening round of the Men’s National Cup at Crescent College this Sunday, 3.15pm. Celtics currently sit atop the Super League, with only one loss to their name in the opening six games. Sebastian Cole leads the scoring charts for Celtics, while Tiras Morton leads the league in assists, [&#8230;]\nThe post Cup action in Basketball appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 13:30:42 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T15:36:16.213Z"
+    },
+    "https://www.limerickpost.ie/?p=362891": {
+      "id": "https://www.limerickpost.ie/?p=362891",
+      "title": "Airport on runway for Public Enterprise Awards",
+      "link": "https://www.limerickpost.ie/2026/11/07/airport-on-runway-for-public-enterprise-awards/",
+      "description": "THE SHANNON Airport Group has been shortlisted for Public Enterprise of the Year at the 2026 Business &#38; Finance Awards, marking its second consecutive year as a finalist in the category. The Group joins fellow nominees An Post, Fáilte Ireland and Údarás na Gaeltachta in the Public Enterprise of the Year category, which highlights excellence [&#8230;]\nThe post Airport on runway for Public Enterprise Awards appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 12:00:45 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T15:36:16.213Z"
+    },
+    "https://limerickvoice.com/?p=53564": {
+      "id": "https://limerickvoice.com/?p=53564",
+      "title": "Limerick GAA honour the past in 2027 kit release",
+      "link": "https://limerickvoice.com/sport/limerick-gaa-new-jersey-kit-realese-oneills/",
+      "description": "In conjunction with O’Neills, Limerick GAA have revealed their new kit that will be worn throughout the 2027 season.   LIMERICK are one of many teams across a range of sports to take elements from their historical kits and give them a modern twist.   It is a mostly familiar green shirt with white shorts [&#8230;]\nThe post Limerick GAA honour the past in 2027 kit release appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 12:18:47 +0000",
+      "author": "Óran O&#039;Hare Barry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T15:36:17.146Z"
+    },
+    "https://limerickvoice.com/?p=53575": {
+      "id": "https://limerickvoice.com/?p=53575",
+      "title": "‘Limerick basketball on the rise’ as Celtics take top spot in Super League",
+      "link": "https://limerickvoice.com/sport/limerick-celtics-basketball-top-super-league-tony-hehir/",
+      "description": "With five wins, one defeat and a place at the top of Domino’s Men’s Super League, Limerick Celtics are shooting for the stars. BUT for head coach Tony Hehir, the real victory may be happening beyond the scoreboard.  Besides making a significant mark on Irish basketball, Limerick Celtics are giving the rest of the country [&#8230;]\nThe post &#8216;Limerick basketball on the rise&#8217; as Celtics take top spot in Super League appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 12:11:38 +0000",
+      "author": "Khushi Verma",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T15:36:17.146Z"
     }
   },
   "rewritten": {
@@ -7060,6 +7145,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/12/17/04/15652896-library.jpeg?width=1200&auto=webp&trim=6%2C0%2C60%2C0",
       "rewrittenAt": "2026-11-04T13:00:00.715Z"
     },
+    "9329283": {
+      "skipped": true,
+      "duplicateOf": "9329224",
+      "rewrittenAt": "2026-11-07T15:37:02.080Z"
+    },
     "9329533": {
       "headline": "Bus Éireann honors Limerick driver Derek Lane and School Transport Team",
       "summary": "Limerick driver Derek Lane was recognized for 36 years of service and the Limerick School Transport Team won Team of the Year at the 2026 Bus Éireann GEM Awards in the West.",
@@ -7780,6 +7870,16 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53556",
       "rewrittenAt": "2026-11-07T11:41:16.764Z"
+    },
+    "9336578": {
+      "skipped": true,
+      "duplicateOf": "9333791",
+      "rewrittenAt": "2026-11-07T15:37:02.080Z"
+    },
+    "9336584": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53490",
+      "rewrittenAt": "2026-11-07T15:37:02.080Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -10211,6 +10311,86 @@
       "rewrittenAt": "2026-11-07T11:42:56.958Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/IMG_0302.jpg",
       "imageCheckedAt": "2026-11-07T11:42:58.466Z"
+    },
+    "https://www.limerickpost.ie/?p=362893": {
+      "headline": "Elisa O'Donovan calls for extended winter opening hours in Limerick parks",
+      "summary": "Social Democrats Councillor Elisa O'Donovan has urged Limerick City and County Council to keep public parks open later during winter. The local authority cited staffing, security, and capital investment costs in response.",
+      "story": "Social Democrats Councillor Elisa O'Donovan has called on Limerick City and County Council to extend winter opening hours across public parks in the city, particularly those featuring sports and recreational facilities.\n\nDuring this month’s Metropolitan District meeting, Cllr O'Donovan also asked the local authority to consider improving lighting in parks where required. She argued that better illumination would allow for greater and safer use of the public spaces during dark winter evenings.\n\nIn response to the proposal, the Council explained that extending opening hours later into the evening would require additional operational resources. This would include revised working hours for Park Rangers, increased staffing requirements, and potentially higher security costs for opening and closing the facilities.\n\nRegarding the request for improved lighting, the Council stated that such a measure would require significant capital investment, alongside ongoing maintenance and energy costs.",
+      "localAngle": "The proposal affects public parks and recreational facilities managed by Limerick City and County Council across the 061 area.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Calls for extended winter opening hours across public parks",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/calls-for-extended-winter-opening-hours-across-public-parks/",
+      "publishedAt": "Sat, 07 Nov 2026 15:00:34 +0000",
+      "rewrittenAt": "2026-11-07T15:37:08.611Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/11/Spotlight-Elisa-oDonovan-scaled.jpeg",
+      "imageCheckedAt": "2026-11-07T15:37:45.182Z"
+    },
+    "https://www.limerickpost.ie/?p=362925": {
+      "headline": "Limerick Celtics and Eagles Face Crucial Men's and Women's National Cup Clashes",
+      "summary": "Limerick Celtics host Tralee Warriors in the Men's National Cup at Crescent College this Sunday, while Limerick Eagles travel to holders Killester on Saturday.",
+      "story": "Limerick Celtics entertain Tralee Warriors in the opening round of the Men’s National Cup at Crescent College this Sunday at 3.15pm. Celtics currently sit atop the Super League with only one loss in their opening six games. Sebastian Cole leads the scoring charts for the Limerick side, while Tiras Morton leads the league in assists, rebounds, and steals. Tony Hehir's men recently dismantled Tralee 88-69 in a league contest, taking a commanding 14-point halftime lead before sealing a 19-point victory on the road.\n\nMeanwhile, Limerick Eagles are away to holders Killester in the Men’s National Cup this Saturday with a 6pm tip-off. The Eagles enter the fixture as MD1 National Cup champions after defeating Drogheda Wolves 83-67 in the final, where Ryan Leonard top-scored. Key performers Alex Carlisle, Darragh Horkan, and Tobias Christensen have carried their strong form from last season into the current Domino’s Men’s Super League campaign.\n\nIn the Women’s Cup, Celtics welcome Cavan Eagles to Crescent College on Saturday evening at 7.45pm. Jeni Levine heads the scoring charts for the Limerick side with 146 points so far, while also leading the league in assists.",
+      "localAngle": "Limerick basketball sides Celtics and Eagles face high-stakes National Cup fixtures this weekend across both men's and women's competitions.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Cup action in Basketball",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/cup-action-in-basketball/",
+      "publishedAt": "Sat, 07 Nov 2026 13:30:42 +0000",
+      "rewrittenAt": "2026-11-07T15:37:17.870Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/05/kylie-osullivan-bfablvcbti8-unsplash-scaled.jpeg",
+      "imageCheckedAt": "2026-11-07T15:37:45.682Z"
+    },
+    "https://limerickvoice.com/?p=53564": {
+      "headline": "Limerick GAA launch 2027 O'Neills jersey featuring Treaty Stone and historic green shades",
+      "summary": "Limerick GAA has unveiled its new O'Neills kit for the 2027 season, combining a familiar green design with historic nods to the county's kits from the 2000s and 2010s. The new strip went on sale on Friday, November 6.",
+      "story": "Limerick GAA supporters can now purchase the county's new strip for the 2027 season following its official release in conjunction with O'Neills.\n\nThe design follows a growing trend across various sports of taking elements from historical kits and giving them a modern twist. The jersey retains a mostly familiar green shirt paired with white shorts and socks, but incorporates a darker shade of green along the sleeves and shoulders to contrast with the brighter body. This darker tone recalls Limerick strips from the 2000s and 2010s.\n\nLocal heritage is also woven directly into the sportswear. The sleeves and both sides of the shorts feature a distinct depiction of the Treaty Stone. Continuing a practice in place since 2019, the front of the shirt remains free of any corporate sponsor. O'Neills' signature three stripes run partially up the shirt from the bottom to meet the stripes on the shorts.\n\nThe new kit officially went on sale on Friday, November 6, and is available to purchase at Gleeson's Sport Scene and through the O'Neills online store.",
+      "localAngle": "The new kit features depictions of Limerick's iconic Treaty Stone and will be worn by county teams throughout the 2027 season.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Limerick GAA honour the past in 2027 kit release",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/limerick-gaa-new-jersey-kit-realese-oneills/",
+      "publishedAt": "Sat, 07 Nov 2026 12:18:47 +0000",
+      "rewrittenAt": "2026-11-07T15:37:27.100Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Limerick-fleg.jpeg",
+      "imageCheckedAt": "2026-11-07T15:37:45.897Z"
+    },
+    "https://limerickvoice.com/?p=53575": {
+      "headline": "Limerick Celtics Claim Top Spot in Domino’s Men’s Super League",
+      "summary": "Limerick Celtics lead the Domino’s Men’s Super League with five wins from six games, following an 88-69 victory over Garvey’s Tralee Warriors.",
+      "story": "Limerick Celtics have climbed to the summit of the Domino’s Men’s Super League after securing five wins from their opening six games. Head coach Tony Hehir’s side cemented their position on October 30 with an 88-69 victory over Garvey’s Tralee Warriors at the UL Arena, led by 21 points from Philip Kearney.\n\nHehir attributes the team's strong start to a combination of home-grown talent and key professional signings, including Sebastian Cole, Peter Turay, and Tiras Morton. The squad has also been bolstered by the addition of underage players Callum Keys, Hubert Gocek, and Max Turski.\n\nThe rise of Limerick basketball is further highlighted by the competitive performances of the Limerick Eagles, fostering a local rivalry that recently drew a substantial crowd to the UL Arena. Celtics will look to defend their league-leading position when they face UCC Demons in Round Seven on November 14.",
+      "localAngle": "The Celtics' success and the emerging derby rivalry with Limerick Eagles are drawing strong local crowds and boosting the profile of indoor sport in the city.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "‘Limerick basketball on the rise’ as Celtics take top spot in Super League",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/limerick-celtics-basketball-top-super-league-tony-hehir/",
+      "publishedAt": "Sat, 07 Nov 2026 12:11:38 +0000",
+      "rewrittenAt": "2026-11-07T15:37:35.923Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/bball-scaled.jpg",
+      "imageCheckedAt": "2026-11-07T15:37:46.382Z"
+    },
+    "https://www.limerickpost.ie/?p=362891": {
+      "headline": "Shannon Airport Group shortlisted for Public Enterprise of the Year",
+      "summary": "The Shannon Airport Group has been named a finalist for Public Enterprise of the Year at the 2026 Business & Finance Awards. The winners will be announced at a gala ceremony in Dublin on December 10.",
+      "story": "The Shannon Airport Group has secured a shortlist nomination for Public Enterprise of the Year at the upcoming 2026 Business & Finance Awards. This marks the second consecutive year the group has reached the final stage in the category.\n\nIn the running for the top prize, The Shannon Airport Group is joined by fellow nominees An Post, Fáilte Ireland, and Údarás na Gaeltachta. The category recognises excellence in operations, stakeholder engagement, and the delivery of sustainable public value.\n\nRay O’Driscoll, CEO of The Shannon Airport Group, welcomed the announcement, noting that the recognition reflects recent progress in passenger growth, facility investment, and sustainability. \"As Shannon Airport and the Shannon Airport Business Park continue to grow, we’re proud of the role we play in supporting tourism, investment and job creation across the West of Ireland,\" he said.\n\nThe overall winners of the 52nd annual Business & Finance Awards will be revealed during a gala ceremony at the Convention Centre in Dublin on Thursday, December 10.",
+      "localAngle": "The Shannon Airport Group plays a vital role in supporting tourism, investment, and job creation across Limerick and the wider Mid-West region.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Airport on runway for Public Enterprise Awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/airport-on-runway-for-public-enterprise-awards/",
+      "publishedAt": "Sat, 07 Nov 2026 12:00:45 +0000",
+      "rewrittenAt": "2026-11-07T15:37:44.706Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Shannon-Airport-Exterior-1280x1280-1.jpg",
+      "imageCheckedAt": "2026-11-07T15:37:46.489Z"
     }
   }
 }

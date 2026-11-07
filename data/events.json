@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-07T11:43:00.885Z",
+  "updatedAt": "2026-11-07T15:37:48.719Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -79,7 +79,7 @@
       "start": "2026-11-05T16:00:00.000Z",
       "end": "2026-11-08T18:00:00.000Z",
       "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "111883",
@@ -90,7 +90,7 @@
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "112176",
@@ -99,7 +99,7 @@
       "start": "2026-11-06T09:00:00.000Z",
       "end": "2026-12-18T17:00:00.000Z",
       "place": "Kilfinane",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "106668",
@@ -108,7 +108,7 @@
       "start": "2026-11-06T11:00:00.000Z",
       "end": "2026-11-08T15:00:00.000Z",
       "place": "Limerick Milk Market, Limerick City",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "107303",
@@ -117,7 +117,7 @@
       "start": "2026-11-07T10:30:00.000Z",
       "end": "2026-11-08T12:30:00.000Z",
       "place": "Weekend Popup Gallery, Limerick City",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "107515",
@@ -128,28 +128,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-07T11:43:00.885Z"
-    },
-    {
-      "id": "111246",
-      "title": "Super Hero Lunch",
-      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/super-hero-lunch",
-      "start": "2026-11-07T13:00:00.000Z",
-      "end": "2026-11-07T15:00:00.000Z",
-      "place": "Castle Oaks House Hotel, Castleconnell",
-      "price": "€16.95",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
-    },
-    {
-      "id": "111816",
-      "title": "Wasps Vs Humans",
-      "url": "https://www.limerick.ie/discover/whats-on/music/wasps-vs-humans",
-      "start": "2026-11-07T13:00:00.000Z",
-      "end": "2026-11-07T14:00:00.000Z",
-      "place": "Steamboat - Instruments, Records & Comics, Limerick City",
-      "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "112305",
@@ -160,7 +139,7 @@
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "111490",
@@ -170,7 +149,7 @@
       "end": "2026-11-07T22:00:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€10",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "107060",
@@ -179,7 +158,7 @@
       "start": "2026-11-07T18:30:00.000Z",
       "end": "2026-11-07T20:30:00.000Z",
       "place": "Limerick Greyhound Stadium, Limerick City",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "111135",
@@ -189,7 +168,7 @@
       "end": "2026-11-07T21:00:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€35",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "111538",
@@ -199,7 +178,7 @@
       "end": "2026-11-07T21:45:00.000Z",
       "place": "Redemptorist Church – Mount St. Alphonsus, Limerick City",
       "price": "€20",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "111639",
@@ -209,7 +188,7 @@
       "end": "2026-11-08T14:30:00.000Z",
       "place": "O’Mahony’s Booksellers, Limerick City",
       "price": "€15.99",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "109121",
@@ -219,7 +198,7 @@
       "end": "2026-11-08T21:30:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€35",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "id": "109207",
@@ -229,7 +208,7 @@
       "end": "2026-11-08T23:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€32",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "checkedAt": "2026-11-06T12:56:15.951Z",
@@ -548,14 +527,14 @@
       "price": "Adult €7"
     },
     {
-      "checkedAt": "2026-11-04T13:09:53.392Z",
       "id": "110288",
       "title": "Disco Drag Brunch with Mockie Ah",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/disco-drag-brunch-with-mockie-ah",
       "start": "2026-11-14T13:00:00.000Z",
       "end": "2026-11-14T15:00:00.000Z",
       "place": "101 O'Connell Street, Limerick City",
-      "price": "€49.24"
+      "price": "€49.24",
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     },
     {
       "checkedAt": "2026-11-05T13:27:15.295Z",
@@ -668,46 +647,77 @@
       "free": true
     },
     {
+      "checkedAt": "2026-11-07T11:43:00.885Z",
       "id": "111811",
       "title": "Winter Coffee & Creativity Evening",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/winter-coffee-creativity-evening",
       "start": "2026-11-18T19:00:00.000Z",
       "end": "2026-11-18T20:30:00.000Z",
       "place": "Limerick City",
-      "price": "€37",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "price": "€37"
     },
     {
+      "checkedAt": "2026-11-07T11:43:00.885Z",
       "id": "110427",
       "title": "The Hunchback of Notre Dame",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/the-hunchback-of-notre-dame",
       "start": "2026-11-18T19:30:00.000Z",
       "end": "2026-11-21T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
-      "price": "Standard €30",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "price": "Standard €30"
     },
     {
+      "checkedAt": "2026-11-07T11:43:00.885Z",
       "id": "111252",
       "title": "Bernard Casey: Live Show and Book Launch",
       "url": "https://www.limerick.ie/discover/whats-on/comedy/bernard-casey-live-show-and-book-launch",
       "start": "2026-11-18T20:00:00.000Z",
       "end": "2026-11-18T22:00:00.000Z",
       "place": "Fitzgerald's Woodlands House Hotel, Adare",
-      "price": "€25",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "price": "€25"
     },
     {
+      "checkedAt": "2026-11-07T11:43:00.885Z",
       "id": "111607",
       "title": "Electric Eel Shock",
       "url": "https://www.limerick.ie/discover/whats-on/music/electric-eel-shock",
       "start": "2026-11-18T20:00:00.000Z",
       "end": "2026-11-18T23:00:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
-      "price": "€17",
-      "checkedAt": "2026-11-07T11:43:00.885Z"
+      "price": "€17"
+    },
+    {
+      "id": "107608",
+      "title": "Storytime for young Children",
+      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-162",
+      "start": "2026-11-19T15:30:00.000Z",
+      "end": "2026-11-19T16:30:00.000Z",
+      "place": "Watch House Cross Community Library, Limerick City",
+      "price": "Free",
+      "free": true,
+      "checkedAt": "2026-11-07T15:37:48.719Z"
+    },
+    {
+      "id": "106839",
+      "title": "Wickham Way",
+      "url": "https://www.limerick.ie/discover/whats-on/food-drink/wickham-way-230",
+      "start": "2026-11-19T16:00:00.000Z",
+      "end": "2026-11-22T18:00:00.000Z",
+      "place": "Wickham Way, Limerick City",
+      "checkedAt": "2026-11-07T15:37:48.719Z"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "111816",
+      "title": "Wasps Vs Humans",
+      "checkedAt": "2026-11-07T15:37:48.719Z"
+    },
+    {
+      "id": "111246",
+      "title": "Super Hero Lunch",
+      "checkedAt": "2026-11-07T15:37:48.719Z"
+    }
+  ],
   "failed": []
 }
