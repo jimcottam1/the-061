@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-06T19:55:46.752Z",
-    "totalArticles": 38
+    "lastScrape": "2026-11-07T11:40:30.982Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -1810,6 +1810,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-04T12:55:47.298Z"
     },
+    "9325432": {
+      "id": "9325432",
+      "title": "PICTURES: Huge crowds attend 92nd running of point to point meeting in Limerick",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-huge-crowds-attend-92nd-running-of-point-to-point-meeting-in-limerick-9325432",
+      "description": "Patrons enjoyed a brilliant day's racing and meeting friends and neighbours at Bruff Point to Point's meeting in gloriously sunny conditions at Rathcannon, Athlacca on Sunday",
+      "pubDate": "Fri, 06 Nov 2026 21:00:05 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/46/3-e0c7ed7f.jpeg?width=1200&auto=webp&trim=126%2C0%2C126%2C0",
+      "imageCredit": "Grace Coleman and Katie Meaney",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.594Z"
+    },
     "9325467": {
       "id": "9325467",
       "title": "Limerick creche becomes first childcare facility in Ireland certified as a great place to work",
@@ -2417,6 +2429,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T16:41:57.700Z"
     },
+    "9331537": {
+      "id": "9331537",
+      "title": "POSITIVE PARENTING: Supporting your teen’s emotional wellbeing",
+      "link": "https://www.limerickleader.ie/news/opinion/columnists/positive-parenting-supporting-your-teens-emotional-wellbeing-9331537",
+      "description": "Midwest Primary Care Child and Family Psychology Service are running a free online parenting webinar, “Supporting Your Teen’s Emotional Wellbeing”, on Thursday, 12th November from 10am to 11:30am",
+      "pubDate": "Sat, 07 Nov 2026 07:00:50 GMT",
+      "author": "Parenting Limerick",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/14/Image.jpg?width=1200&auto=webp&trim=49%2C0%2C49%2C0",
+      "imageCredit": "Getty Images/iStockphoto",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.594Z"
+    },
     "9331554": {
       "id": "9331554",
       "title": "The young Limerick doctor who went to war as Ireland changed",
@@ -2775,6 +2799,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T19:55:35.568Z"
     },
+    "9336094": {
+      "id": "9336094",
+      "title": "Athea ready to host Munster Championship clash against Tipp opponents",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/athea-ready-to-host-munster-championship-clash-against-tipp-opponents-9336094",
+      "description": "Athea line out in their first foray into provincial action with their Junior Football Championship clash with Tipperary’s Mullinahone-CJ Kickhams at 1.15pm",
+      "pubDate": "Sat, 07 Nov 2026 11:30:58 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/02/3577980.jpeg?width=1200&auto=webp&trim=0%2C282%2C0%2C283",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.593Z"
+    },
     "9336102": {
       "id": "9336102",
       "title": "Northern Ireland risks becoming used to abnormal politics, says Bryant",
@@ -2807,6 +2843,50 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/18/cs-261e70b9-27b7-4ebd-8d44-afc56830b04f.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T19:55:35.568Z"
+    },
+    "9336284": {
+      "id": "9336284",
+      "title": "‘It’s heartbreaking’ – Child injured in Waterford arson attack dies in hospital",
+      "link": "https://www.limerickleader.ie/national/its-heartbreaking-child-injured-in-waterford-arson-attack-dies-in-hospital-9336284",
+      "description": "An Garda Síochána continues to investigate what they believe is a multiple murder, following an arson attack that occurred on October 13.",
+      "pubDate": "Fri, 06 Nov 2026 21:50:59 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/21/cs-3a846c4b-cf45-4e9f-9eab-5a8fedb4e6d0.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.594Z"
+    },
+    "9336326": {
+      "id": "9336326",
+      "title": "Police investigating disappearance of Limerick woman charge man with murder",
+      "link": "https://www.limerickleader.ie/national/police-investigating-disappearance-of-limerick-woman-charge-man-with-murder-9336326",
+      "description": "The 35-year-old man is due to appear in court on Saturday charged with the murder of Carrie Mullane.",
+      "pubDate": "Fri, 06 Nov 2026 22:55:46 GMT",
+      "author": "Claudia Savage and David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/23/cs-2d726857-d6c1-4a78-b8f3-fe159ee51e64.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.594Z"
+    },
+    "9336339": {
+      "id": "9336339",
+      "title": "Taoiseach confident of safety of Dublin summits despite hoax bomb threats",
+      "link": "https://www.limerickleader.ie/national/taoiseach-confident-of-safety-of-dublin-summits-despite-hoax-bomb-threats-9336339",
+      "description": "Several Irish media outlets, including national broadcaster RTÉ, received threatening emails on Friday.",
+      "pubDate": "Fri, 06 Nov 2026 23:40:47 GMT",
+      "author": "Cate McCurry, David Young and Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/23/cs-3587b729-c85c-4583-9c1f-ba268b2abef5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.594Z"
+    },
+    "9336495": {
+      "id": "9336495",
+      "title": "We need to be prepared for threats against schools and hospitals – Minister",
+      "link": "https://www.limerickleader.ie/national/we-need-to-be-prepared-for-threats-against-schools-and-hospitals-minister-9336495",
+      "description": "Several Irish media outlets received hoax bomb threats on Friday in a week that saw airlines across Europe also targeted with hoax bomb alerts.",
+      "pubDate": "Sat, 07 Nov 2026 11:16:50 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/11/cs-c9716328-b664-49b9-a78f-97ac98d9939b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T11:40:19.593Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4589,6 +4669,46 @@
       "author": "Dearbhla Parry",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-06T19:55:36.097Z"
+    },
+    "https://www.limerickpost.ie/?p=362888": {
+      "id": "https://www.limerickpost.ie/?p=362888",
+      "title": "Grads benefit from expansion of programme",
+      "link": "https://www.limerickpost.ie/2026/11/07/grads-benefit-from-expansion-of-programme/",
+      "description": "LIMERICK graduates are set to benefit from a new recruitment expansion by a leading provider of accountancy services and business advice. Xeinadin have announced plans to recruit 70 graduates as part of its 2027 early careers programme, with opportunities available in Limerick. It marks a 40 per cent increase from last year&#8217;s intake as emerging [&#8230;]\nThe post Grads benefit from expansion of programme appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 09:00:20 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T11:40:19.282Z"
+    },
+    "https://www.limerickpost.ie/?p=362931": {
+      "id": "https://www.limerickpost.ie/?p=362931",
+      "title": "Jury sent home for weekend in Josie Ray trial",
+      "link": "https://www.limerickpost.ie/2026/11/06/jury-sent-home-for-weekend-in-josie-ray-trial/",
+      "description": "THE JURY in the trial of a man accused of murdering an 89-year old great grandmother has been sent home for the weekend, having not yet reached a verdict after deliberating for almost five hours. The jury, which retired last Wednesday, and which did not sit on Thursday, has been deliberating for a total of [&#8230;]\nThe post Jury sent home for weekend in Josie Ray trial appeared first on Limerick Post.",
+      "pubDate": "Fri, 06 Nov 2026 20:31:44 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T11:40:19.283Z"
+    },
+    "https://limerickvoice.com/?p=53570": {
+      "id": "https://limerickvoice.com/?p=53570",
+      "title": "Mayor secures Wickham street site for new pocket park",
+      "link": "https://limerickvoice.com/politics/mayor-secures-wickham-street-site-for-new-pocket-park/",
+      "description": "Contracts signed on Friday for Nos. 20- 24 on Wickham Street will see the site transformed into a new pocket park.  THIS event took place on Friday, when the mayor signed documents that would give the city control of properties numbered 20 to 24 on Wickham Street.   The city&#8217;s plan for the acquisition is [&#8230;]\nThe post Mayor secures Wickham street site for new pocket park appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 11:00:52 +0000",
+      "author": "Iñaki Zamora Miranda",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T11:40:20.136Z"
+    },
+    "https://limerickvoice.com/?p=53567": {
+      "id": "https://limerickvoice.com/?p=53567",
+      "title": "Hugo Keenan hat-trick seals Ireland bonus-point win over Argentina",
+      "link": "https://limerickvoice.com/sport/ireland-rugby-argentina-hugo-keenan-nations-championship/",
+      "description": "Hugo Keenan locks down Irelands 12th win over Los Pumas on Irish soil.  IRELAND have officially moved into the top spot in the Northern Hemisphere table, after beating Argentina this Friday.   A routine Irish win of 42 – 12 also saw man of the match, Hugo Keenan pull off a well-deserved hat-trick.  Sam Prendergast was [&#8230;]\nThe post Hugo Keenan hat-trick seals Ireland bonus-point win over Argentina appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 00:38:12 +0000",
+      "author": "Tara Lowth",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T11:40:20.136Z"
     }
   },
   "rewritten": {
@@ -6519,6 +6639,23 @@
       "imageCredit": "PICTURE: ADRIAN BUTLER",
       "rewrittenAt": "2026-11-04T13:07:46.118Z"
     },
+    "9325432": {
+      "headline": "Large crowds turn out for Rathcannon point to point racing",
+      "summary": "Large crowds gathered at Rathcannon, Athlacca, on Sunday for the 92nd running of the Bruff Point to Point meeting in sunny conditions.",
+      "story": "Patrons enjoyed a brilliant day of racing while meeting friends and neighbours during the event. Read the full story on the Limerick Leader.",
+      "localAngle": "The annual point-to-point racing event took place locally at Rathcannon, Athlacca in County Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Huge crowds attend 92nd running of point to point meeting in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-huge-crowds-attend-92nd-running-of-point-to-point-meeting-in-limerick-9325432",
+      "publishedAt": "Fri, 06 Nov 2026 21:00:05 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/16/46/3-e0c7ed7f.jpeg?width=1200&auto=webp&trim=126%2C0%2C126%2C0",
+      "imageCredit": "Grace Coleman and Katie Meaney",
+      "rewrittenAt": "2026-11-07T11:42:47.185Z"
+    },
     "9325467": {
       "headline": "Roxboro Creche Achieves National Workplace Certification",
       "summary": "The Roxboro LEDP Family Tree Creche has become the first childcare facility in Ireland to earn Great Place to Work Certification.",
@@ -7179,6 +7316,23 @@
       "imageCredit": "PICTURE: FENNELL PHOTOGRAPHY",
       "rewrittenAt": "2026-11-06T16:44:01.541Z"
     },
+    "9331537": {
+      "headline": "Free Online Webinar to Focus on Teen Emotional Wellbeing in the Midwest",
+      "summary": "The Midwest Primary Care Child and Family Psychology Service is hosting a free online webinar for parents this month.",
+      "story": "The virtual event, titled “Supporting Your Teen’s Emotional Wellbeing,” is scheduled to take place on Thursday, 12th November from 10am to 11:30am.",
+      "localAngle": "The webinar is run by the Midwest Primary Care Child and Family Psychology Service, serving families in the region.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "POSITIVE PARENTING: Supporting your teen’s emotional wellbeing",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/opinion/columnists/positive-parenting-supporting-your-teens-emotional-wellbeing-9331537",
+      "publishedAt": "Sat, 07 Nov 2026 07:00:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/14/Image.jpg?width=1200&auto=webp&trim=49%2C0%2C49%2C0",
+      "imageCredit": "Getty Images/iStockphoto",
+      "rewrittenAt": "2026-11-07T11:42:19.937Z"
+    },
     "9331554": {
       "headline": "Limerick descendant shares great-grandfather's wartime medical history ahead of Armistice Day",
       "summary": "Ahead of Armistice Day on November 11, Brían McNamara has shared recently unearthed family history about his great-grandfather, a young Limerick doctor who went to war.",
@@ -7531,6 +7685,23 @@
       "duplicateOf": "9334914",
       "rewrittenAt": "2026-11-06T19:56:24.281Z"
     },
+    "9336094": {
+      "headline": "Athea Prepare for Munster Championship Clash Against Tipperary's Mullinahone-CJ Kickhams",
+      "summary": "Athea are set to play their first provincial match in the Junior Football Championship against Tipperary opponents Mullinahone-CJ Kickhams at 1.15pm.",
+      "story": "Athea are lining out in their debut provincial action for a Junior Football Championship clash facing Tipperary’s Mullinahone-CJ Kickhams at 1.15pm. Read the full story on Limerick Leader.",
+      "localAngle": "Athea are representing Limerick in their first-ever foray into provincial championship action.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Athea ready to host Munster Championship clash against Tipp opponents",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/athea-ready-to-host-munster-championship-clash-against-tipp-opponents-9336094",
+      "publishedAt": "Sat, 07 Nov 2026 11:30:58 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/17/02/3577980.jpeg?width=1200&auto=webp&trim=0%2C282%2C0%2C283",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-07T11:41:54.853Z"
+    },
     "9336102": {
       "headline": "Bryant Warns Northern Ireland May Grow Used to Abnormal Politics",
       "summary": "Powersharing structures in Northern Ireland give the largest nationalist and unionist parties the power to collapse the ruling executive.",
@@ -7578,6 +7749,37 @@
       "publishedAt": "Fri, 06 Nov 2026 17:58:27 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/18/cs-261e70b9-27b7-4ebd-8d44-afc56830b04f.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-06T19:56:48.418Z"
+    },
+    "9336284": {
+      "headline": "Child Hospitalised in Waterford Arson Attack Passes Away",
+      "summary": "An Garda Síochána is investigating a suspected multiple murder following a fatal arson attack on October 13.",
+      "story": "Following an arson attack on October 13, a child injured in the incident has died in hospital. An Garda Síochána is continuing to investigate the case as a suspected multiple murder.",
+      "localAngle": "While the incident occurred in Waterford, national breaking news of this nature is followed by readers across Limerick and the rest of the country.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘It’s heartbreaking’ – Child injured in Waterford arson attack dies in hospital",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/its-heartbreaking-child-injured-in-waterford-arson-attack-dies-in-hospital-9336284",
+      "publishedAt": "Fri, 06 Nov 2026 21:50:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/21/cs-3a846c4b-cf45-4e9f-9eab-5a8fedb4e6d0.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-07T11:42:37.933Z"
+    },
+    "9336326": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53490",
+      "rewrittenAt": "2026-11-07T11:41:16.764Z"
+    },
+    "9336339": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53556",
+      "rewrittenAt": "2026-11-07T11:41:16.764Z"
+    },
+    "9336495": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53556",
+      "rewrittenAt": "2026-11-07T11:41:16.764Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -9945,6 +10147,70 @@
       "rewrittenAt": "2026-11-06T19:56:40.843Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2015/09/Adare-traffic.jpg",
       "imageCheckedAt": "2026-11-06T19:57:06.529Z"
+    },
+    "https://limerickvoice.com/?p=53570": {
+      "headline": "Mayor John Moran signs contracts to transform Wickham Street site into pocket park",
+      "summary": "Limerick has taken control of properties at 20-24 Wickham Street to develop a new city centre pocket park. The abandoned garden site will be redesigned with a local 'Pig town' theme.",
+      "story": "Contracts were signed on Friday giving the city control of properties numbered 20 to 24 on Wickham Street, paving the way for a new pocket park in the heart of Limerick. \n\nThe site was previously an abandoned, fenced-off garden. After a previous development proposal fell through, the Mayor’s Office used mayoral funds to acquire the properties and transfer them to Limerick City for redevelopment following a clean-up operation over the past year.\n\nMayor of Limerick John Moran told the Limerick Voice that the new park will celebrate the area's heritage. “Our garden team have come up with a really cool design for people to just hang out in this area, and it’s all about the idea of Limerick being pig town and so the theme of the whole garden is actually all about pig town,” he said.\n\nThe pocket park is designed to sit within Limerick's historical zone—historically home to four bacon factories—with the aim of boosting social life in an economically important part of the city centre.",
+      "localAngle": "The acquisition of derelict city centre land directly impacts urban regeneration and public spaces in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Mayor secures Wickham street site for new pocket park",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/politics/mayor-secures-wickham-street-site-for-new-pocket-park/",
+      "publishedAt": "Sat, 07 Nov 2026 11:00:52 +0000",
+      "rewrittenAt": "2026-11-07T11:42:04.644Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-06-at-1.15.55-PM_ULStudentINAKI.ZAMOR-1.jpeg",
+      "imageCheckedAt": "2026-11-07T11:42:57.340Z"
+    },
+    "https://www.limerickpost.ie/?p=362888": {
+      "headline": "Xeinadin announces 70 graduate roles with positions open in Limerick",
+      "summary": "Accountancy firm Xeinadin is recruiting 70 graduates for its 2027 early careers programme, marking a 40 per cent increase in intake with opportunities available in Limerick.",
+      "story": "Limerick graduates are set to benefit from a major recruitment drive as business advisory firm Xeinadin rolls out its 2027 early careers programme. The company has announced plans to take on 70 graduates, representing a 40 per cent increase from last year's intake.\n\nThe expansion comes as emerging technologies like AI change working practices across the accountancy sector. Xeinadin operates 33 offices across Ireland, with the graduate positions available across its regional network as well as major cities.\n\nSandra Clarke, Managing Partner for Ireland at Xeinadin, said that while AI and other emerging technologies are creating efficiencies, they will not replace the need for graduates. \"Our work with SMEs is highly relationship-driven. Clients want access to people; they want to meet and hear from people,\" she said. \"We want to be at the forefront of developing those people skills and inspiring the next generation of business advisors in Ireland.\"\n\nSuccessful applicants will gain practical experience across accounting, tax, bookkeeping, and audit during their first one to two years. Graduates typically gain exposure to a range of sectors and clients within Xeinadin's core SME market.",
+      "localAngle": "The recruitment drive offers new employment and career development opportunities for graduates based in Limerick through Xeinadin's regional office network.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Grads benefit from expansion of programme",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/grads-benefit-from-expansion-of-programme/",
+      "publishedAt": "Sat, 07 Nov 2026 09:00:20 +0000",
+      "rewrittenAt": "2026-11-07T11:42:12.278Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/60A5708.jpg",
+      "imageCheckedAt": "2026-11-07T11:42:57.883Z"
+    },
+    "https://limerickvoice.com/?p=53567": {
+      "headline": "Keenan scores hat-trick as Ireland defeat Argentina 42-12 on home soil",
+      "summary": "Hugo Keenan scored a hat-trick and Limerick's Craig Casey started at scrum-half as Ireland secured a 42-12 bonus-point victory over Argentina on Friday. The win moves Andy Farrell's side to the top of the Northern Hemisphere table.",
+      "story": "Hugo Keenan sealed a man-of-the-match performance with a well-deserved hat-trick as Ireland extended their unbeaten home run against Argentina to 12 games with a 42-12 bonus-point victory at the Aviva Stadium on Friday night.\n\nLimerick's Craig Casey featured in the starting XV at scrum-half, playing his part as Andy Farrell's side moved to the top of the Northern Hemisphere table. Sam Prendergast also starred with a 100% success rate from five conversions, alongside scoring his first senior international try following a 40-metre break through the Argentinian defence. Captain Dan Sheehan and Rónan Kelleher added further tries to complete the dominant scoreline.\n\nLos Pumas struggled to contain the hosts, not helped by yellow cards shown to Justo Piccardo and Efrain Elias during the encounter. The result leaves Ireland with a clean sweep of wins against the South American side on home soil.\n\nLooking ahead, the Ireland squad will return to the Aviva Stadium next week to face Fiji in their fifth match of the Nations Championship.",
+      "localAngle": "Shannon RFC's Craig Casey started at scrum-half for Ireland in the bonus-point victory over Argentina.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Hugo Keenan hat-trick seals Ireland bonus-point win over Argentina",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/ireland-rugby-argentina-hugo-keenan-nations-championship/",
+      "publishedAt": "Sat, 07 Nov 2026 00:38:12 +0000",
+      "rewrittenAt": "2026-11-07T11:42:29.616Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/aviva-stadium.jpg",
+      "imageCheckedAt": "2026-11-07T11:42:58.275Z"
+    },
+    "https://www.limerickpost.ie/?p=362931": {
+      "headline": "Jury Sent Home for Weekend After Five Hours in Josie Ray Murder Trial",
+      "summary": "The Central Criminal Court jury deliberating on the murder trial of 52-year-old Hasan Ali Gori has been sent home for the weekend without reaching a verdict after nearly five hours of discussions.",
+      "story": "The jury in the trial of Hasan Ali Gori, accused of murdering 89-year-old great-grandmother Josephine “Josie” Ray, was sent home for the weekend after deliberating for a total of four hours and 46 minutes. The panel retired last Wednesday following three weeks of evidence at the Central Criminal Court, but did not sit on Thursday.\n\nMr Gori, a 52-year-old Chad native, has pleaded not guilty to the murder of Ms Ray, whose body was discovered in her home at St Joseph’s Park, Nenagh, County Tipperary, on August 4, 2024. State pathologist Dr Yvonne McCartney testified that the victim died of strangulation and smothering, having sustained two broken bones in her neck and 44 bruises across her body.\n\nDuring closing arguments, senior prosecuting counsel Lorcan Connolly told the jury that Ms Ray had tried to \"fight off\" her attacker, pointing to defensive bruises on her forearms and the presence of Mr Gori's DNA under her fingernails. The prosecution argued that the accused had motive and opportunity, suggesting he was at risk of eviction and losing social welfare payments tied to the household.\n\nDefence counsel Aidan Doyle countered by highlighting earlier testimony regarding family tensions and disputes at the property prior to the incident. The jury will resume its deliberations when the trial recommences.",
+      "localAngle": "The high-profile murder trial is being heard at the Central Criminal Court sitting in Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "Jury sent home for weekend in Josie Ray trial",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/06/jury-sent-home-for-weekend-in-josie-ray-trial/",
+      "publishedAt": "Fri, 06 Nov 2026 20:31:44 +0000",
+      "rewrittenAt": "2026-11-07T11:42:56.958Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/IMG_0302.jpg",
+      "imageCheckedAt": "2026-11-07T11:42:58.466Z"
     }
   }
 }
