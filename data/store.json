@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-07T15:36:29.361Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-07T17:59:53.611Z",
+    "totalArticles": 31
   },
   "articles": {
     "8353171": {
@@ -2235,6 +2235,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
+    "9329730": {
+      "id": "9329730",
+      "title": "Rare Limerick football relic resurfaces over 80 years after printing",
+      "link": "https://www.limerickleader.ie/community/rare-limerick-football-relic-resurfaces-over-80-years-after-printing-9329730",
+      "description": "82-year-old Tony O’Driscoll stumbled upon a rare piece of Limerick FC history when he found a match-day programme issued the same year he was born",
+      "pubDate": "Sat, 07 Nov 2026 16:00:16 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/11/00/EAB564B2-9485-4E85-9CFD-8DCCF954AE4F-(1).jpeg?width=1200&auto=webp&trim=98%2C0%2C196%2C0",
+      "imageCredit": "Tony O'Driscoll",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T17:59:40.196Z"
+    },
     "9329962": {
       "id": "9329962",
       "title": " Limerick woman walks 121km for fundraiser in memory of late brother",
@@ -2922,6 +2934,29 @@
       "imageCredit": "PICTURE: PSNI",
       "source": "limerickleader",
       "scrapedAt": "2026-11-07T15:36:16.561Z"
+    },
+    "9336764": {
+      "id": "9336764",
+      "title": "Old Crescent earn Limerick bragging rights with AIL win over Thomond",
+      "link": "https://www.limerickleader.ie/sport/club-rugby/old-crescent-earn-limerick-bragging-rights-with-ail-win-over-thomond-9336764",
+      "description": "Old Crescent got a big win over Limerick rivals Thomond in Division 2B South in the All-Ireland League",
+      "pubDate": "Sat, 07 Nov 2026 17:30:28 GMT",
+      "author": "John Keogh",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/16/1Y3A5988.jpeg?width=1200&auto=webp&trim=0%2C0%2C120%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T17:59:40.196Z"
+    },
+    "9336824": {
+      "id": "9336824",
+      "title": "Gardaí expected to ‘undertake duties as directed’ during EU presidency events",
+      "link": "https://www.limerickleader.ie/national/gardai-expected-to-undertake-duties-as-directed-during-eu-presidency-events-9336824",
+      "description": "Upcoming major EU presidency events pose ‘a lot of potential risks’, Garda Commissioner Justin Kelly has warned members.",
+      "pubDate": "Sat, 07 Nov 2026 17:24:18 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/17/cs-d40d4bea-e4a5-4b83-8783-f154716d9f55.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-07T17:59:40.196Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4794,6 +4829,36 @@
       "author": "Khushi Verma",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-07T15:36:17.146Z"
+    },
+    "https://www.limerickpost.ie/?p=362939": {
+      "id": "https://www.limerickpost.ie/?p=362939",
+      "title": "Tributes after passing of Garryowen stalwart",
+      "link": "https://www.limerickpost.ie/2026/11/07/tributes-after-passing-of-garryowen-stalwart/",
+      "description": "GARRYOWEN has paid a warm tribute on the passing of John Fahey, a former President and Chairman of the club. He was also a club Trustee at the time of his death. “John’s commitment, dedication and contribution to the club and Irish rugby were immense,” a statement from Honorary Secretary Sandra Maher read. “As recently [&#8230;]\nThe post Tributes after passing of Garryowen stalwart appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 16:30:19 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-07T17:59:39.585Z"
+    },
+    "https://limerickvoice.com/?p=53598": {
+      "id": "https://limerickvoice.com/?p=53598",
+      "title": "Concern over welfare of Limerick cats after habitat is paved over",
+      "link": "https://limerickvoice.com/environment/concern-over-welfare-of-limerick-cats-after-habitat-is-paved-over/",
+      "description": "When the green disappears, who speaks for the cats of Adare? IN ADARE, a wooded area that had long provided a home for a colony of feral cats has been paved over, raising concerns about what the change means for the cats and the volunteers who have cared for them over the years.  The issue [&#8230;]\nThe post Concern over welfare of Limerick cats after habitat is paved over appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 17:00:23 +0000",
+      "author": "Khushi Verma",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T17:59:41.043Z"
+    },
+    "https://limerickvoice.com/?p=53587": {
+      "id": "https://limerickvoice.com/?p=53587",
+      "title": "Kingfishr take over Cruises Street today for surprise pop-up",
+      "link": "https://limerickvoice.com/news/kingfishr-take-over-cruises-street-today-for-surprise-pop-up/",
+      "description": "The folk band visited Limerick as one of four surprise gig locations across Ireland. LIMERICK fans were in for a treat as Kingfishr brought their surprise pop-up tour to the Treaty City, with Cruises Street as the location for their eagerly anticipated appearance.  The hugely popular trio are embarking on a whistle-stop tour of four Irish [&#8230;]\nThe post Kingfishr take over Cruises Street today for surprise pop-up appeared first on .",
+      "pubDate": "Sat, 07 Nov 2026 15:50:14 +0000",
+      "author": "Christina O&#039;Mahony",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-07T17:59:41.043Z"
     }
   },
   "rewritten": {
@@ -7200,6 +7265,23 @@
       "imageCredit": "3rd Party Image",
       "rewrittenAt": "2026-11-05T13:18:24.208Z"
     },
+    "9329730": {
+      "headline": "Eighty-two-year-old discovers rare Limerick FC match programme from his birth year",
+      "summary": "Tony O’Driscoll found a historic match-day programme printed 82 years ago.",
+      "story": "Eighty-two-year-old Tony O’Driscoll stumbled upon a rare piece of Limerick FC history when he found a match-day programme issued the same year he was born.",
+      "localAngle": "The discovery unearths a rare piece of local sporting history connected to Limerick FC.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Rare Limerick football relic resurfaces over 80 years after printing",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/rare-limerick-football-relic-resurfaces-over-80-years-after-printing-9329730",
+      "publishedAt": "Sat, 07 Nov 2026 16:00:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/04/11/00/EAB564B2-9485-4E85-9CFD-8DCCF954AE4F-(1).jpeg?width=1200&auto=webp&trim=98%2C0%2C196%2C0",
+      "imageCredit": "Tony O'Driscoll",
+      "rewrittenAt": "2026-11-07T18:00:57.066Z"
+    },
     "9329962": {
       "headline": "Limerick woman undertakes 121km trek in memory of late brother Eoin",
       "summary": "Aoife has begun a 20-day sponsored walk to raise funds for search volunteers and family counselling.",
@@ -7880,6 +7962,28 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53490",
       "rewrittenAt": "2026-11-07T15:37:02.080Z"
+    },
+    "9336764": {
+      "headline": "Old Crescent Triumph Over Thomond in All-Ireland League Clash",
+      "summary": "Old Crescent secured a significant victory against their Limerick rivals Thomond in Division 2B South of the All-Ireland League.",
+      "story": "Old Crescent claimed a major win over local rivals Thomond in an All-Ireland League Division 2B South fixture, according to the Limerick Leader.",
+      "localAngle": "The match featured a derby between two local Limerick rugby clubs competing in the All-Ireland League.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Old Crescent earn Limerick bragging rights with AIL win over Thomond",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/club-rugby/old-crescent-earn-limerick-bragging-rights-with-ail-win-over-thomond-9336764",
+      "publishedAt": "Sat, 07 Nov 2026 17:30:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/16/1Y3A5988.jpeg?width=1200&auto=webp&trim=0%2C0%2C120%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-07T18:00:23.300Z"
+    },
+    "9336824": {
+      "skipped": true,
+      "duplicateOf": "9335708",
+      "rewrittenAt": "2026-11-07T18:00:17.369Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -10391,6 +10495,54 @@
       "rewrittenAt": "2026-11-07T15:37:44.706Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Shannon-Airport-Exterior-1280x1280-1.jpg",
       "imageCheckedAt": "2026-11-07T15:37:46.489Z"
+    },
+    "https://limerickvoice.com/?p=53598": {
+      "headline": "O’Donovan Seeks Council Answers After Adare Feral Cat Habitat Paved Over",
+      "summary": "Limerick City and County Council has paved over a wooded area in Adare used by a feral cat colony to install a rainwater system. While shelters remain accessible, Councillor Elisa O’Donovan is calling for assurances regarding the cats' welfare and ecological impact assessments.",
+      "story": "A wooded area in Adare that served as a long-standing home for a colony of feral cats has been paved over, prompting calls for clarification from local representatives. The council-owned site was altered to accommodate a rainwater-harvesting system installed by Adare Tidy Towns, alongside the replacement of surrounding fencing for health and safety reasons.\n\nCouncillor Elisa O’Donovan raised the issue with Limerick City and County Council after learning of the works. While the local authority has confirmed that the cats' shelters remain in place and that the new fencing allows continued access for both the animals and the volunteers who feed them, Cllr O’Donovan argues that the broader environmental impact requires scrutiny.\n\nSpeaking to the Limerick Voice, Cllr O’Donovan said she is seeking assurances regarding the suitability of the current shelters and whether any ecological assessments were conducted before the project began. She emphasized that even small green spaces function as vital local habitats that demand careful planning.\n\nThe councillor has urged the local authority to consult directly with the volunteers who have cared for the Adare colony over the years, ensuring the animals retain secure living conditions and that greenery is restored where possible. She noted that supporting community volunteers and protecting vulnerable local wildlife are important responsibilities for the local community.",
+      "localAngle": "The issue involves council-owned land and local animal welfare volunteers in the County Limerick town of Adare.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Concern over welfare of Limerick cats after habitat is paved over",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/environment/concern-over-welfare-of-limerick-cats-after-habitat-is-paved-over/",
+      "publishedAt": "Sat, 07 Nov 2026 17:00:23 +0000",
+      "rewrittenAt": "2026-11-07T18:00:35.037Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Adare-Cats_ULStudentKHUSHI.VERM_-e1794068227297.jpeg",
+      "imageCheckedAt": "2026-11-07T18:01:15.418Z"
+    },
+    "https://www.limerickpost.ie/?p=362939": {
+      "headline": "Tributes Paid Following Passing of Garryowen Stalwart John Fahey",
+      "summary": "Garryowen Football Club has paid warm tributes following the death of former President, Chairman, and Trustee John Fahey. Fahey, a familiar face around the club, presided over the historic 2006/07 season when the club achieved a unique clean sweep of four major trophies.",
+      "story": "Garryowen Football Club is mourning the loss of John Fahey, a prominent club stalwart who served as President, Chairman, and Trustee. Tributes have poured in from across the local rugby community following his passing.\n\nHonorary Secretary Sandra Maher remembered Fahey for his immense contribution to the club and Irish rugby. She noted that as recently as the previous Saturday, he had been supporting the senior team, enjoying a pre-match meal with friend Steve McDonagh, and looking forward to an upcoming trip to Armagh. \n\n\"We will miss his gentle manner, his kindness, his friendship and the genuine interest he took in everyone around him,\" Ms Maher said in a statement. She added that he was reunited in death with his dearest wife, Kathleen.\n\nRecalling his leadership, past President Billy Purcell noted on rip.ie that during Fahey’s tenure as Chairman in the 2006/07 season, Garryowen accomplished a nationwide unique feat by winning the Grand Slam, All-Ireland League, All-Ireland Cup, Munster Senior Cup, and Munster Junior Cup. Outside of his deep involvement in local rugby, Fahey was widely known in Limerick for his many years working as General Manager at the Limerick Inn.",
+      "localAngle": "John Fahey was a deeply embedded figure in Limerick rugby and hospitality, having served as General Manager of the Limerick Inn and leader of Garryowen FC.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Tributes after passing of Garryowen stalwart",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/tributes-after-passing-of-garryowen-stalwart/",
+      "publishedAt": "Sat, 07 Nov 2026 16:30:19 +0000",
+      "rewrittenAt": "2026-11-07T18:00:46.115Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/JF.jpg",
+      "imageCheckedAt": "2026-11-07T18:01:16.259Z"
+    },
+    "https://limerickvoice.com/?p=53587": {
+      "headline": "Folk Band Kingfishr Surprise Limerick Fans with Pop-Up Gig on Cruises Street",
+      "summary": "Limerick shoppers got a surprise treat when folk trio Kingfishr performed an impromptu gig on Cruises Street as part of a four-city whistle-stop tour to announce their upcoming second album.",
+      "story": "Shoppers on Cruises Street were treated to an unexpected performance on Saturday afternoon as folk band Kingfishr arrived in the city for a surprise pop-up gig.\n\nThe trio—made up of Eddie Keogh, Eoghan McGrath and Eoin Fitzgibbon—took to the Limerick street at approximately 1.30pm as part of a whirlwind tour across four Irish cities in one day. The band kicked off their schedule in Galway at 10.30am before heading to the Treaty City, with subsequent stops planned for Cork at 5pm and Dublin at 9.30pm.\n\nThe surprise visit was organised to celebrate the announcement of their second album, 'Weight of the Feather', which is scheduled for release on April 9, 2027. The album's title track will be released next Friday, November 13.\n\nThe appearance carried a strong local resonance for the band, who are former University of Limerick students. The visit comes ahead of two major homecoming concerts at Thomond Park scheduled for July 2027, following a string of successes that includes their breakthrough hit 'Killeagh' and their debut album, 'Halcyon'.",
+      "localAngle": "The band have strong ties to Limerick as former University of Limerick students and are returning to the city for major concerts at Thomond Park in July 2027.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Kingfishr take over Cruises Street today for surprise pop-up",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/kingfishr-take-over-cruises-street-today-for-surprise-pop-up/",
+      "publishedAt": "Sat, 07 Nov 2026 15:50:14 +0000",
+      "rewrittenAt": "2026-11-07T18:01:14.977Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_8128_ULStudentCHRISTINA.O-scaled.jpeg",
+      "imageCheckedAt": "2026-11-07T18:01:16.846Z"
     }
   }
 }
