@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-08T11:52:57.056Z",
-    "totalArticles": 23
+    "lastScrape": "2026-11-08T15:54:41.989Z",
+    "totalArticles": 25
   },
   "articles": {
     "8353171": {
@@ -1692,6 +1692,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
+    "9324753": {
+      "id": "9324753",
+      "title": "Artist awarded commission for BDO Limerick city office",
+      "link": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/artist-awarded-commission-for-bdo-limerick-city-office-9324753",
+      "description": "The Boher native has been commissioned by BDO, a global accountancy and business advisory firm, to create a large painting for the organisation's Limerick city office",
+      "pubDate": "Sun, 08 Nov 2026 14:00:30 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/20/Capture-m.JPG?width=1200&auto=webp&trim=0%2C42%2C0%2C41",
+      "imageCredit": "Mark Bourke",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T15:54:30.436Z"
+    },
     "9324774": {
       "id": "9324774",
       "title": "New book explores history of Limerick Greenway",
@@ -2641,6 +2653,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T20:35:55.182Z"
     },
+    "9333048": {
+      "id": "9333048",
+      "title": "Case questioning the integrity of GoSafe dismissed in Limerick court",
+      "link": "https://www.limerickleader.ie/news/crime-courts/case-questioning-the-integrity-of-gosafe-dismissed-in-limerick-court-9333048",
+      "description": "The case was heard before Kilmallock District Court, Limerick and called into question the integrity of the speed detection system used by GoSafe vans",
+      "pubDate": "Sun, 08 Nov 2026 12:00:35 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/25/11/46/GN4_DAT_6772067-jpg-gosafe_vans_are_a_life_saver_insists_head_of_limerick_garda_division.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "Freelance",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T15:54:30.436Z"
+    },
     "9333139": {
       "id": "9333139",
       "title": "Demand for multi-denominational education in Limerick 'not currently being met'",
@@ -3004,6 +3028,39 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/11/cs-744cfbbb-7ffe-4551-a220-ffcbb23f7cb1.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-08T11:52:45.138Z"
+    },
+    "9337400": {
+      "id": "9337400",
+      "title": "King leads nation in honouring the fallen at Cenotaph on Remembrance Sunday",
+      "link": "https://www.limerickleader.ie/national/king-leads-nation-in-honouring-the-fallen-at-cenotaph-on-remembrance-sunday-9337400",
+      "description": "Charles laid the first wreath following the service, and was followed by his son the Prince of Wales.",
+      "pubDate": "Sun, 08 Nov 2026 14:59:47 GMT",
+      "author": "Stanley Murphy-Johns and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-230b9757-0228-4db6-b733-4aaf74959aac.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T15:54:30.436Z"
+    },
+    "9337452": {
+      "id": "9337452",
+      "title": "Taoiseach and Northern Ireland Secretary attend Enniskillen commemoration",
+      "link": "https://www.limerickleader.ie/national/taoiseach-and-northern-ireland-secretary-attend-enniskillen-commemoration-9337452",
+      "description": "Micheál Martin accompanied Sir Chris Bryant at the solemn event where hundreds gathered to pay their respects in the Co Fermanagh town.",
+      "pubDate": "Sun, 08 Nov 2026 15:04:08 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-04e95a00-64dc-4f79-8581-95c95ae561fa.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T15:54:30.436Z"
+    },
+    "9337604": {
+      "id": "9337604",
+      "title": "No ‘one figure’ on united Ireland, Tánaiste says",
+      "link": "https://www.limerickleader.ie/national/no-one-figure-on-united-ireland-tanaiste-says-9337604",
+      "description": "Opposition parties had piled on pressure for the Government to make preparations for a debate on a united Ireland.",
+      "pubDate": "Sun, 08 Nov 2026 15:39:31 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-8a90aeb9-212c-4611-b5c3-65c23dd8afc9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T15:54:30.435Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4926,6 +4983,26 @@
       "author": "Bernie English",
       "source": "limerickpost",
       "scrapedAt": "2026-11-08T11:52:44.848Z"
+    },
+    "https://www.limerickpost.ie/?p=362904": {
+      "id": "https://www.limerickpost.ie/?p=362904",
+      "title": "Cllr Gavan calls for walkway from Castleconnell to Nelsons Cross",
+      "link": "https://www.limerickpost.ie/2026/11/08/cllr-gavan-calls-for-walkway-from-castleconnell-to-nelsons-cross/",
+      "description": "INDEPENDENT councillor Ursula Gavan has urged the Council to prioritise a walkway from Castleconnell Campsite connecting it to the village by Nelsons Cross. In response to Cllr Gavan at this month’s Metropolitan District meeting, the Council said that the provision of a walkway linking Castleconnell Campsite to the village via Nelsons Cross has the potential to improve [&#8230;]\nThe post Cllr Gavan calls for walkway from Castleconnell to Nelsons Cross appeared first on Limerick Post.",
+      "pubDate": "Sun, 08 Nov 2026 15:00:41 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-08T15:54:29.980Z"
+    },
+    "https://www.limerickpost.ie/?p=362901": {
+      "id": "https://www.limerickpost.ie/?p=362901",
+      "title": "Film Column – The Devils",
+      "link": "https://www.limerickpost.ie/2026/11/08/film-column-the-devils/",
+      "description": "BLASPHEMOUS masterpiece The Devils — one of cinema history&#8217;s most notorious and controversial films — is finally seeing the light of day in Ireland, after being banned for over half a century. Ken Russell&#8217;s profound and singleminded creation, censored since its release in 1971, has returned in a landmark director’s cut reconstruction that reveals the full [&#8230;]\nThe post Film Column &#8211; The Devils appeared first on Limerick Post.",
+      "pubDate": "Sun, 08 Nov 2026 12:00:07 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-08T15:54:29.980Z"
     }
   },
   "rewritten": {
@@ -6734,6 +6811,23 @@
       "imageCredit": "BASKETBALL IRELAND",
       "rewrittenAt": "2026-11-02T19:27:37.756Z"
     },
+    "9324753": {
+      "headline": "Boher Artist Selected to Create Painting for BDO Limerick Office",
+      "summary": "A Boher native has received a commission from global accountancy firm BDO to produce a large painting for their Limerick city premises.",
+      "story": "Global accountancy and business advisory firm BDO has commissioned a Boher native to create a large painting for its Limerick city office. The announcement was reported by the Limerick Leader.",
+      "localAngle": "The commission involves a local artist from Boher creating artwork for an office based in Limerick city.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Artist awarded commission for BDO Limerick city office",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/artist-awarded-commission-for-bdo-limerick-city-office-9324753",
+      "publishedAt": "Sun, 08 Nov 2026 14:00:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/02/14/20/Capture-m.JPG?width=1200&auto=webp&trim=0%2C42%2C0%2C41",
+      "imageCredit": "Mark Bourke",
+      "rewrittenAt": "2026-11-08T15:55:42.238Z"
+    },
     "9324774": {
       "headline": "New publication delves into Limerick Greenway history",
       "summary": "A newly released book examines the history of the Limerick Greenway alongside a 678-kilometre walk across Ireland.",
@@ -7741,6 +7835,23 @@
       "imageCredit": ".",
       "rewrittenAt": "2026-11-05T20:38:23.084Z"
     },
+    "9333048": {
+      "headline": "Kilmallock District Court Dismisses GoSafe Speed Detection Case",
+      "summary": "A Limerick court has dismissed a case that questioned the integrity of the GoSafe speed detection system.",
+      "story": "A case questioning the integrity of the speed detection system used by GoSafe vans was heard before Kilmallock District Court in Limerick and subsequently dismissed.",
+      "localAngle": "The legal proceedings took place locally at Kilmallock District Court in County Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Case questioning the integrity of GoSafe dismissed in Limerick court",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/case-questioning-the-integrity-of-gosafe-dismissed-in-limerick-court-9333048",
+      "publishedAt": "Sun, 08 Nov 2026 12:00:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/25/11/46/GN4_DAT_6772067-jpg-gosafe_vans_are_a_life_saver_insists_head_of_limerick_garda_division.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "Freelance",
+      "rewrittenAt": "2026-11-08T15:55:51.551Z"
+    },
     "9333139": {
       "headline": "Limerick Lacks Enough Multi-Denominational Schools, Report Finds",
       "summary": "Current provision stands at two Educate Together primary schools and one community national school, leaving local demand unmet.",
@@ -8118,6 +8229,43 @@
       "publishedAt": "Sun, 08 Nov 2026 11:43:04 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/11/cs-744cfbbb-7ffe-4551-a220-ffcbb23f7cb1.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-08T11:53:25.904Z"
+    },
+    "9337400": {
+      "skipped": true,
+      "duplicateOf": "9337325",
+      "rewrittenAt": "2026-11-08T15:55:09.612Z"
+    },
+    "9337452": {
+      "headline": "Micheál Martin and Sir Chris Bryant attend Enniskillen event",
+      "summary": "The Taoiseach and Northern Ireland Secretary attended a solemn commemoration in Co Fermanagh.",
+      "story": "Hundreds of people gathered in the Co Fermanagh town to pay their respects as Micheál Martin accompanied Sir Chris Bryant at the solemn event.",
+      "localAngle": "While this national political event does not have a direct Limerick connection, readers can view the original reporting via the Limerick Leader.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Taoiseach and Northern Ireland Secretary attend Enniskillen commemoration",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/taoiseach-and-northern-ireland-secretary-attend-enniskillen-commemoration-9337452",
+      "publishedAt": "Sun, 08 Nov 2026 15:04:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-04e95a00-64dc-4f79-8581-95c95ae561fa.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-08T15:55:24.308Z"
+    },
+    "9337604": {
+      "headline": "Tánaiste States There Is No Single Figure Regarding a United Ireland",
+      "summary": "The Tánaiste has stated there is no single figure regarding a united Ireland following pressure from opposition parties.",
+      "story": "Opposition parties recently pressured the Government to prepare for a debate on a united Ireland, prompting the Tánaiste's remarks that there is no 'one figure' on the matter.",
+      "localAngle": "This national political development is of interest to Limerick readers following debates on government policy.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "No ‘one figure’ on united Ireland, Tánaiste says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/no-one-figure-on-united-ireland-tanaiste-says-9337604",
+      "publishedAt": "Sun, 08 Nov 2026 15:39:31 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-8a90aeb9-212c-4611-b5c3-65c23dd8afc9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-08T15:55:15.258Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -10709,6 +10857,38 @@
       "rewrittenAt": "2026-11-08T11:54:11.425Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/06/9410942-Business-composition-Financial-analysis-income-statement-finance-graphs-generic-phone-Euro-money-and-Stock-Photo-1068x711-1.jpg",
       "imageCheckedAt": "2026-11-08T11:54:12.454Z"
+    },
+    "https://www.limerickpost.ie/?p=362904": {
+      "headline": "Council to assess feasibility of new Castleconnell to Nelsons Cross walkway",
+      "summary": "Independent Councillor Ursula Gavan has called for a new pedestrian route connecting Castleconnell Campsite to the village via Nelsons Cross. The local authority has agreed to carry out a preliminary assessment of the route.",
+      "story": "Limerick City and County Council has agreed to examine the feasibility of building a new walkway linking the Castleconnell Campsite to the village via Nelsons Cross.\n\nThe project was pushed forward by Independent Councillor Ursula Gavan during this month's Metropolitan District meeting, where she urged the local authority to prioritise the infrastructure.\n\nResponding to the proposal, council officials noted that the route could significantly improve pedestrian connectivity and encourage greater access between the campsite and local amenities.\n\nThe Council's Transportation, Mobility & Public Realm Directorate confirmed that the local Area Office will now conduct a preliminary assessment. This initial phase will look at the feasibility of the route, required land, and estimated construction costs before potential funding streams are explored.",
+      "localAngle": "The proposed walkway aims to improve pedestrian access and local amenities for residents and visitors in Castleconnell.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Cllr Gavan calls for walkway from Castleconnell to Nelsons Cross",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/08/cllr-gavan-calls-for-walkway-from-castleconnell-to-nelsons-cross/",
+      "publishedAt": "Sun, 08 Nov 2026 15:00:41 +0000",
+      "rewrittenAt": "2026-11-08T15:55:33.851Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/Cllr-Ursula-Gavan-Castleconnell-2.jpg",
+      "imageCheckedAt": "2026-11-08T15:56:01.551Z"
+    },
+    "https://www.limerickpost.ie/?p=362901": {
+      "headline": "Banned 1971 Masterpiece 'The Devils' Finally Sees Irish Release After 50 Years",
+      "summary": "Ken Russell's controversial 1971 film 'The Devils' is finally screening in Ireland in a landmark director's cut. The film was banned for over half a century due to its depictions of religious persecution and institutional corruption.",
+      "story": "Cinema history's most notorious and controversial film, Ken Russell’s 1971 masterpiece 'The Devils', is finally seeing the light of day in Ireland after being banned for over half a century. The film has returned in a landmark director’s cut reconstruction that reveals the full power of the original vision.\n\nInspired by the true story of 17th-century priest Urbain Grandier, played by Oliver Reed, the film explores his accusation of bewitching a convent of nuns. Grandier's unorthodox views on sex and religion draw a passionate following, including the sexually obsessed Sister Jeanne, played by Vanessa Redgrave. To gain control of France, power-hungry Cardinal Richelieu, played by Christopher Logue, works to eliminate Grandier by portraying him as a satanist and sparking public outrage.\n\nUpon its release over 50 years ago, the work was condemned as sacrilegious and reprehensible, sparking scandal over its depiction of institutional religion and possessed nuns. The explosive fever dream features surrealistic sexual defilement, manic spiritual elation, and medieval violence and torture.\n\nWhile the film might not stir the same level of outrage by today’s standards, its core message concerning the collusion of church and state, religious persecution, and institutional corruption continues to strike a chord with modern audiences.",
+      "localAngle": "Film enthusiasts across Limerick can now view the landmark director's cut of Ken Russell's notorious 1971 work following its long-awaited Irish release.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Film Column – The Devils",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/08/film-column-the-devils/",
+      "publishedAt": "Sun, 08 Nov 2026 12:00:07 +0000",
+      "rewrittenAt": "2026-11-08T15:56:01.081Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/images.jpg",
+      "imageCheckedAt": "2026-11-08T15:56:02.139Z"
     }
   }
 }
