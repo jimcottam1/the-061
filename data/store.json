@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-07T17:59:53.611Z",
-    "totalArticles": 31
+    "lastScrape": "2026-11-08T11:52:57.056Z",
+    "totalArticles": 23
   },
   "articles": {
     "8353171": {
@@ -2453,6 +2453,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T16:41:57.700Z"
     },
+    "9331493": {
+      "id": "9331493",
+      "title": "Event to remember Magdalene women of Limerick on site of former laundry",
+      "link": "https://www.limerickleader.ie/news/event-to-remember-magdalene-women-of-limerick-on-site-of-former-laundry-9331493",
+      "description": "The remembrance event for magdalene laudries is on in Limerick School of Art and Design on November 27",
+      "pubDate": "Sun, 08 Nov 2026 10:00:33 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/28/1000019611.jpeg?width=1200&auto=webp&trim=0%2C185%2C0%2C185",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T11:52:45.139Z"
+    },
     "9331537": {
       "id": "9331537",
       "title": "POSITIVE PARENTING: Supporting your teen’s emotional wellbeing",
@@ -2957,6 +2969,41 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/17/cs-d40d4bea-e4a5-4b83-8783-f154716d9f55.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-07T17:59:40.196Z"
+    },
+    "9337140": {
+      "id": "9337140",
+      "title": "St Ailbes bidding to add Munster crown to impressive trophy haul",
+      "link": "https://www.limerickleader.ie/sport/ladies-football/st-ailbes-bidding-to-add-munster-crown-to-impressive-trophy-haul-9337140",
+      "description": "The east Limerick side scored an emphatic 3-11 to 1-6 victory over Cooraclare in Ballybricken in their Munster semi-final",
+      "pubDate": "Sun, 08 Nov 2026 11:30:35 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/22/39/St-Ailbes-v-Feohanagh-Castlemahon-15-(2).jpeg?width=1200&auto=webp&trim=80%2C0%2C120%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T11:52:45.139Z"
+    },
+    "9337147": {
+      "id": "9337147",
+      "title": "Tipp hurling legend to line out against Na Piarsaigh in Munster IFC",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/tipp-hurling-legend-to-line-out-against-na-piarsaigh-in-munster-ifc-9337147",
+      "description": "Victory for Na Piarsaigh would secure a semi-final clash against Cork Premier IFC champions Uibh Laoire at a Limerick venue in two weeks’ time",
+      "pubDate": "Sun, 08 Nov 2026 08:30:28 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/22/11/Na-Piarsaigh-v-Galbally-4.jpeg?width=1200&auto=webp&trim=179%2C0%2C87%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T11:52:45.139Z"
+    },
+    "9337325": {
+      "id": "9337325",
+      "title": "King leads nation in silence to honour war dead on Remembrance Sunday",
+      "link": "https://www.limerickleader.ie/national/king-leads-nation-in-silence-to-honour-war-dead-on-remembrance-sunday-9337325",
+      "description": "Charles and his son William will be among the first to lay wreaths at the Cenotaph in central London.",
+      "pubDate": "Sun, 08 Nov 2026 11:43:04 GMT",
+      "author": "Stanley Murphy-Johns and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/11/cs-744cfbbb-7ffe-4551-a220-ffcbb23f7cb1.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T11:52:45.138Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -4859,6 +4906,26 @@
       "author": "Christina O&#039;Mahony",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-07T17:59:41.043Z"
+    },
+    "https://www.limerickpost.ie/?p=362898": {
+      "id": "https://www.limerickpost.ie/?p=362898",
+      "title": "Conferring a final handshake",
+      "link": "https://www.limerickpost.ie/2026/11/08/conferring-a-final-handshake/",
+      "description": "PROFESSOR Vincent Cunnane has conferred his final student as President of Technological University of the Shannon (TUS), bringing to an estimated 35,000 the number of graduates he has personally conferred during his years at the helm of three higher education institutions. The founding President of TUS admitted he was feeling emotional as he presided over [&#8230;]\nThe post Conferring a final handshake appeared first on Limerick Post.",
+      "pubDate": "Sun, 08 Nov 2026 09:00:24 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-08T11:52:44.847Z"
+    },
+    "https://www.limerickpost.ie/?p=362896": {
+      "id": "https://www.limerickpost.ie/?p=362896",
+      "title": "New apprenticeship programme for Limerick bankers",
+      "link": "https://www.limerickpost.ie/2026/11/07/new-apprenticeship-programme-for-limerick-bankers/",
+      "description": "A NEW apprenticeship programme for banking has been launched by IOB in partnership with AIB, Bank of Ireland and PTSB. The Professional Banking Practitioner Apprenticeship enables participants to earn an NFQ Level 8 degree while gaining paid, practical experience in the banking sector. Apprentices will work in the sector while studying with IOB, a recognised [&#8230;]\nThe post New apprenticeship programme for Limerick bankers appeared first on Limerick Post.",
+      "pubDate": "Sat, 07 Nov 2026 18:00:39 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-08T11:52:44.848Z"
     }
   },
   "rewritten": {
@@ -7488,6 +7555,23 @@
       "imageCredit": "PICTURE: FENNELL PHOTOGRAPHY",
       "rewrittenAt": "2026-11-06T16:44:01.541Z"
     },
+    "9331493": {
+      "headline": "Remembrance event for Limerick Magdalene women planned at former laundry site",
+      "summary": "A remembrance event dedicated to the Magdalene laundries will take place at the Limerick School of Art and Design later this month.",
+      "story": "The event is scheduled to be held at the Limerick School of Art and Design on November 27 to remember the Magdalene women of Limerick on the site of the former laundry.",
+      "localAngle": "The event takes place in Limerick at the site of the former laundry.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Event to remember Magdalene women of Limerick on site of former laundry",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/event-to-remember-magdalene-women-of-limerick-on-site-of-former-laundry-9331493",
+      "publishedAt": "Sun, 08 Nov 2026 10:00:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/9/28/1000019611.jpeg?width=1200&auto=webp&trim=0%2C185%2C0%2C185",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-08T11:53:43.901Z"
+    },
     "9331537": {
       "headline": "Free Online Webinar to Focus on Teen Emotional Wellbeing in the Midwest",
       "summary": "The Midwest Primary Care Child and Family Psychology Service is hosting a free online webinar for parents this month.",
@@ -7984,6 +8068,56 @@
       "skipped": true,
       "duplicateOf": "9335708",
       "rewrittenAt": "2026-11-07T18:00:17.369Z"
+    },
+    "9337140": {
+      "headline": "St Ailbes Reach Munster Final After Defeating Cooraclare",
+      "summary": "East Limerick side St Ailbes secured an emphatic 3-11 to 1-6 victory against Cooraclare in Ballybricken to reach the Munster final.",
+      "story": "St Ailbes advanced to the Munster decider following their semi-final win over Cooraclare in Ballybricken. The east Limerick club is now bidding to add the provincial crown to their trophy haul.",
+      "localAngle": "St Ailbes is an east Limerick side competing in the provincial championship.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "St Ailbes bidding to add Munster crown to impressive trophy haul",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/ladies-football/st-ailbes-bidding-to-add-munster-crown-to-impressive-trophy-haul-9337140",
+      "publishedAt": "Sun, 08 Nov 2026 11:30:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/22/39/St-Ailbes-v-Feohanagh-Castlemahon-15-(2).jpeg?width=1200&auto=webp&trim=80%2C0%2C120%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-08T11:53:34.925Z"
+    },
+    "9337147": {
+      "headline": "Tipperary hurling star faces Na Piarsaigh in Munster IFC",
+      "summary": "A Tipperary hurling legend is set to play against Na Piarsaigh in the Munster IFC.",
+      "story": "If Na Piarsaigh secures a victory in the match, they will advance to a semi-final clash against Cork Premier IFC champions Uibh Laoire at a Limerick venue in two weeks' time. Readers can find the original article on the Limerick Leader website.",
+      "localAngle": "Limerick club Na Piarsaigh are competing in the Munster IFC, with a potential semi-final on home soil awaiting the winner.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tipp hurling legend to line out against Na Piarsaigh in Munster IFC",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/tipp-hurling-legend-to-line-out-against-na-piarsaigh-in-munster-ifc-9337147",
+      "publishedAt": "Sun, 08 Nov 2026 08:30:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/22/11/Na-Piarsaigh-v-Galbally-4.jpeg?width=1200&auto=webp&trim=179%2C0%2C87%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-08T11:54:01.925Z"
+    },
+    "9337325": {
+      "headline": "King Charles and Prince William lead Remembrance Sunday wreath-laying",
+      "summary": "King Charles and his son William are among the first to lay wreaths at the Cenotaph in central London to honour war dead.",
+      "story": "King Charles and his son William will lead the nation in a silence on Remembrance Sunday by being among the first to lay wreaths at the Cenotaph in central London.",
+      "localAngle": "There is no direct Limerick connection reported in the source material for this national event.",
+      "section": "News",
+      "importance": 1,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "King leads nation in silence to honour war dead on Remembrance Sunday",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/king-leads-nation-in-silence-to-honour-war-dead-on-remembrance-sunday-9337325",
+      "publishedAt": "Sun, 08 Nov 2026 11:43:04 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/11/cs-744cfbbb-7ffe-4551-a220-ffcbb23f7cb1.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-08T11:53:25.904Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -10543,6 +10677,38 @@
       "rewrittenAt": "2026-11-07T18:01:14.977Z",
       "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_8128_ULStudentCHRISTINA.O-scaled.jpeg",
       "imageCheckedAt": "2026-11-07T18:01:16.846Z"
+    },
+    "https://www.limerickpost.ie/?p=362898": {
+      "headline": "TUS President Vincent Cunnane oversees final graduation before January retirement",
+      "summary": "Founding TUS President Professor Vincent Cunnane conferred his final student in Limerick on Friday, bringing an estimated 35,000 graduates to his total over his career.",
+      "story": "Technological University of the Shannon (TUS) founding President Professor Vincent Cunnane presided over his final conferring ceremony in Limerick on Friday, marking the end of a tenure that has seen him personally confer an estimated 35,000 graduates across three higher education institutions.\n\nFittingly for an academic who began his career in scientific research, the final student to cross the stage was James Ryan from Mungret, Limerick. Ryan was awarded a Doctor of Philosophy for his research into how advanced technology can make workplaces safer. Professor Cunnane, who will retire at the end of January, admitted he felt emotional during the ceremony and said graduation events had been among the most rewarding parts of his presidency.\n\n\"Graduations are where it all comes together, where all those stories culminate in success. They walk across the stage as equals, as professionals, as people with a future,\" Professor Cunnane said. \"And for me, that's just the magic of being in this role. And I'm going to miss it terribly.\"\n\nIn his final address, he told the Class of 2026 that human judgement and critical thinking would become increasingly valuable in a world shaped by Artificial Intelligence. Professor Cunnane will be succeeded by Professor Paul Connolly, who takes up the role in spring 2027.",
+      "localAngle": "The final graduation ceremony took place in Limerick, concluding with a local PhD recipient from Mungret.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Conferring a final handshake",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/08/conferring-a-final-handshake/",
+      "publishedAt": "Sun, 08 Nov 2026 09:00:24 +0000",
+      "rewrittenAt": "2026-11-08T11:53:53.563Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Vincent-1.jpg",
+      "imageCheckedAt": "2026-11-08T11:54:11.917Z"
+    },
+    "https://www.limerickpost.ie/?p=362896": {
+      "headline": "Major Irish Banks Launch Professional Banking Apprenticeship Offering NFQ Level 8 Degree",
+      "summary": "AIB, Bank of Ireland, and PTSB have partnered with the IOB to launch a new banking apprenticeship. The programme gives 75 participants paid experience alongside studying for a Level 8 degree.",
+      "story": "A new professional banking apprenticeship has been launched by the IOB in a major partnership involving AIB, Bank of Ireland, and PTSB. The initiative offers participants the opportunity to earn an NFQ Level 8 degree while gaining paid, practical experience within the banking sector.\n\nApprentices will split their time between working in the industry and studying with the IOB, which is a recognised college of UCD. The scheme is open to school leavers and anyone looking for a career change, provided applicants are at least 18 years old on or before August 31, 2027.\n\nA total of 75 places will be made available for the first intake of students. Applications are now open, with the successful candidates set to commence the programme in October 2027. Further details and application information can be found at apprenticeship.ie or via the IOB website.",
+      "localAngle": "The nationwide apprenticeship programme provides training and employment pathways for prospective banking professionals in Limerick and across the country.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "New apprenticeship programme for Limerick bankers",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/07/new-apprenticeship-programme-for-limerick-bankers/",
+      "publishedAt": "Sat, 07 Nov 2026 18:00:39 +0000",
+      "rewrittenAt": "2026-11-08T11:54:11.425Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/06/9410942-Business-composition-Financial-analysis-income-statement-finance-graphs-generic-phone-Euro-money-and-Stock-Photo-1068x711-1.jpg",
+      "imageCheckedAt": "2026-11-08T11:54:12.454Z"
     }
   }
 }
