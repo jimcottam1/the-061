@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-08T15:54:41.989Z",
-    "totalArticles": 25
+    "lastScrape": "2026-11-08T18:19:22.396Z",
+    "totalArticles": 27
   },
   "articles": {
     "8353171": {
@@ -2513,6 +2513,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
+    "9331808": {
+      "id": "9331808",
+      "title": "Miss Limerick campaign sees registered defibrillators in Limerick rise",
+      "link": "https://www.limerickleader.ie/community/miss-limerick-campaign-sees-registered-defibrillators-in-limerick-rise-9331808",
+      "description": "A campaign led by Miss Limerick, Leah Marie Sheehan, has helped increase the number of registered defibrillators across the city and county",
+      "pubDate": "Sun, 08 Nov 2026 18:00:39 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/11/00/Miss-Ireland-launch-2026-13.webp?width=1200&auto=webp&trim=22%2C0%2C366%2C0",
+      "imageCredit": "PICTURE: BRIAN MCEVOY",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T18:19:09.941Z"
+    },
     "9331813": {
       "id": "9331813",
       "title": "Councillors condemn 'vile' comments slating Limerick minister Patrick O'Donovan",
@@ -3061,6 +3073,39 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-8a90aeb9-212c-4611-b5c3-65c23dd8afc9.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-08T15:54:30.435Z"
+    },
+    "9337621": {
+      "id": "9337621",
+      "title": "Two more arrests in investigation into suspected murder of Carrie Mullane",
+      "link": "https://www.limerickleader.ie/national/two-more-arrests-in-investigation-into-suspected-murder-of-carrie-mullane-9337621",
+      "description": "A man and a woman have been arrested on suspicion of murder by police investigating the disappearance of Limerick woman Carrie Mullane.",
+      "pubDate": "Sun, 08 Nov 2026 15:51:03 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-01344b19-6d39-4906-9b18-fa1c3349c821.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T18:19:09.941Z"
+    },
+    "9337622": {
+      "id": "9337622",
+      "title": "Government makes ‘substantially improved’ pay offer to public sector unions",
+      "link": "https://www.limerickleader.ie/national/government-makes-substantially-improved-pay-offer-to-public-sector-unions-9337622",
+      "description": "Public sector workers were still being advised by union leadership to prepare for strike action on Thursday.",
+      "pubDate": "Sun, 08 Nov 2026 15:50:39 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-2b2e6031-1d3d-4e7e-b7d5-59f4696bbe8a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T18:19:09.941Z"
+    },
+    "9337752": {
+      "id": "9337752",
+      "title": "‘Warrior’: Limerick mum-of-five tragically passes away from motor neurone disease",
+      "link": "https://www.limerickleader.ie/news/warrior-limerick-mum-of-five-tragically-passes-away-from-motor-neurone-disease-9337752",
+      "description": "Athea GAA Club organised a guard of honour as her funeral cortège passed through the village this Sunday",
+      "pubDate": "Sun, 08 Nov 2026 17:47:14 GMT",
+      "author": "Donal O'Regan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/17/43/carol-liston-new.jpeg?width=1200&auto=webp&trim=0%2C0%2C22%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-08T18:19:09.941Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5003,6 +5048,16 @@
       "author": "Alan Jacques",
       "source": "limerickpost",
       "scrapedAt": "2026-11-08T15:54:29.980Z"
+    },
+    "https://www.limerickpost.ie/?p=362906": {
+      "id": "https://www.limerickpost.ie/?p=362906",
+      "title": "Over €150,000 announced in youth facilities and equipment in Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/08/over-e150000-announced-in-youth-facilities-and-equipment-in-limerick/",
+      "description": "OVER €150,000 in funding has been secured for youth facilities and equipment across Limerick.  The allocations include €8,530 for Limerick Youth Service’s Rathkeale/Askeaton project and a combined €24,739 for the two Foróige Loobagh projects. Other recipients include Limerick Sports Partnership, Limerick Youth Theatre, Bluebox Creative Learning and youth services across Limerick city. The funding supports [&#8230;]\nThe post Over €150,000 announced in youth facilities and equipment in Limerick appeared first on Limerick Post.",
+      "pubDate": "Sun, 08 Nov 2026 18:00:26 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-08T18:19:09.402Z"
     }
   },
   "rewritten": {
@@ -7717,6 +7772,23 @@
       "imageCredit": "FILE PHOTO",
       "rewrittenAt": "2026-11-05T13:18:07.018Z"
     },
+    "9331808": {
+      "headline": "Miss Limerick Campaign Increases Registered Defibrillators in City and County",
+      "summary": "A campaign led by Miss Limerick Leah Marie Sheehan has led to a rise in registered defibrillators across Limerick city and county.",
+      "story": "Leah Marie Sheehan, serving as Miss Limerick, has led a campaign that resulted in an increased number of registered defibrillators across the city and county.",
+      "localAngle": "The campaign directly impacts the availability of registered defibrillators throughout Limerick city and county.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Miss Limerick campaign sees registered defibrillators in Limerick rise",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/miss-limerick-campaign-sees-registered-defibrillators-in-limerick-rise-9331808",
+      "publishedAt": "Sun, 08 Nov 2026 18:00:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/11/00/Miss-Ireland-launch-2026-13.webp?width=1200&auto=webp&trim=22%2C0%2C366%2C0",
+      "imageCredit": "PICTURE: BRIAN MCEVOY",
+      "rewrittenAt": "2026-11-08T18:19:47.629Z"
+    },
     "9331813": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53458",
@@ -8266,6 +8338,32 @@
       "publishedAt": "Sun, 08 Nov 2026 15:39:31 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/15/cs-8a90aeb9-212c-4611-b5c3-65c23dd8afc9.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-08T15:55:15.258Z"
+    },
+    "9337621": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53490",
+      "rewrittenAt": "2026-11-08T18:19:42.079Z"
+    },
+    "9337622": {
+      "skipped": true,
+      "duplicateOf": "9335708",
+      "rewrittenAt": "2026-11-08T18:19:42.079Z"
+    },
+    "9337752": {
+      "headline": "Limerick mother-of-five loses battle with motor neurone disease",
+      "summary": "Athea GAA Club formed a guard of honour on Sunday as the funeral cortège passed through the village.",
+      "story": "A Limerick mother-of-five, described as a 'warrior', has tragically passed away from motor neurone disease. Athea GAA Club organised a guard of honour as her funeral cortège passed through the village this Sunday.",
+      "localAngle": "The funeral took place in Athea with the local GAA club participating in the guard of honour.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘Warrior’: Limerick mum-of-five tragically passes away from motor neurone disease",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/warrior-limerick-mum-of-five-tragically-passes-away-from-motor-neurone-disease-9337752",
+      "publishedAt": "Sun, 08 Nov 2026 17:47:14 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/17/43/carol-liston-new.jpeg?width=1200&auto=webp&trim=0%2C0%2C22%2C0",
+      "rewrittenAt": "2026-11-08T18:20:05.687Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -10889,6 +10987,22 @@
       "rewrittenAt": "2026-11-08T15:56:01.081Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/images.jpg",
       "imageCheckedAt": "2026-11-08T15:56:02.139Z"
+    },
+    "https://www.limerickpost.ie/?p=362906": {
+      "headline": "Over €150,000 Allocated for Youth Facilities and Equipment Across Limerick",
+      "summary": "More than €150,000 in funding has been secured for youth facilities and equipment across Limerick, supporting projects from Rathkeale to the city. The investment will fund minor works, digital equipment, and safety upgrades.",
+      "story": "More than €150,000 in funding has been secured for youth facilities and equipment across Limerick, following an announcement made last month by Minister Patrick O'Donovan.\n\nThe funding package includes €8,530 for Limerick Youth Service’s Rathkeale/Askeaton project and a combined €24,739 for the two Foróige Loobagh projects. Additional allocations will go to Limerick Sports Partnership, Limerick Youth Theatre, Bluebox Creative Learning, and various youth services operating across Limerick city.\n\nThe investment is earmarked to support a range of improvements, including minor building works, digital equipment, recreation resources, arts and music equipment, accessibility improvements, and safety upgrades.\n\n“This is a practical investment in our young people,” Minister O’Donovan said. “It will help youth services across Limerick replace ageing equipment, improve their buildings and provide welcoming spaces.”",
+      "localAngle": "The funding directly benefits youth clubs, organizations, and services across Limerick city and county, including Rathkeale, Askeaton, and the Loobagh projects.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Over €150,000 announced in youth facilities and equipment in Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/08/over-e150000-announced-in-youth-facilities-and-equipment-in-limerick/",
+      "publishedAt": "Sun, 08 Nov 2026 18:00:26 +0000",
+      "rewrittenAt": "2026-11-08T18:19:57.034Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/KRB-14-09-2026-Castleconnell-Boat-Club-1031.jpg",
+      "imageCheckedAt": "2026-11-08T18:20:05.971Z"
     }
   }
 }
