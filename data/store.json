@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-09T19:43:27.527Z",
-    "totalArticles": 33
+    "lastScrape": "2026-11-09T22:57:37.466Z",
+    "totalArticles": 34
   },
   "articles": {
     "8353171": {
@@ -3225,6 +3225,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T13:49:23.333Z"
     },
+    "9338063": {
+      "id": "9338063",
+      "title": "PICTURES: Thomond and Old Crescent do battle in AIL Division 2B clash",
+      "link": "https://www.limerickleader.ie/sport/rugby/pictures-thomond-and-old-crescent-do-battle-in-ail-division-2b-clash-9338063",
+      "description": "Old Crescent got a big win over Limerick rivals Thomond in Division 2B South in the All-Ireland League",
+      "pubDate": "Mon, 09 Nov 2026 20:30:40 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/8/11/MixCollage-09-Nov-2026-07-57-AM-2431-e05a61c2.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T22:57:27.643Z"
+    },
     "9338079": {
       "id": "9338079",
       "title": "Kilmallock fly the Limerick flag after tough weekend in club football",
@@ -3341,6 +3353,17 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/17/cs-f25744e4-881b-472d-b492-cc7d03d7427b.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
+    },
+    "9340686": {
+      "id": "9340686",
+      "title": "Planned gardaí work-to-rule action is called off",
+      "link": "https://www.limerickleader.ie/national/planned-gardai-work-to-rule-action-is-called-off-9340686",
+      "description": "It comes after what has been described as ‘significant progress’ in talks between the Garda Representative Association and the commissioner.",
+      "pubDate": "Mon, 09 Nov 2026 22:37:32 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/22/cs-33c1cc4b-33a1-4032-8722-a0d98534a0f9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T22:57:27.643Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5443,6 +5466,26 @@
       "author": "Tara Lowth",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-09T19:43:15.373Z"
+    },
+    "https://www.limerickpost.ie/?p=362986": {
+      "id": "https://www.limerickpost.ie/?p=362986",
+      "title": "LIMERICK IN PHOTOS: Out the traps again for Irish St Leger",
+      "link": "https://www.limerickpost.ie/2026/11/09/limerick-in-photos-out-the-traps-again-for-irish-st-leger/",
+      "description": "ROUND 2 of the Irish St Leger kicked of at Limerick Greyhound Stadium at the weekend. Crowds turned out to get in on the fun. Do you know someone spotted? Share and let them know.\nThe post LIMERICK IN PHOTOS: Out the traps again for Irish St Leger appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 21:00:36 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T22:57:27.089Z"
+    },
+    "https://limerickvoice.com/?p=53629": {
+      "id": "https://limerickvoice.com/?p=53629",
+      "title": "BREAKING: Body Recovered in Lough Erne amid ongoing search for Limerick Woman",
+      "link": "https://limerickvoice.com/news/breaking-body-recovered-in-lough-erne-amid-ongoing-search-for-limerick-women/",
+      "description": "A body was recovered from Lough Erne, in County Fermanagh, this afternoon amid an ongoing search for the remains of Limerick woman Carrie Mullane.   THE search took place this afternoon by a specialist police search team. The body is yet to be identified.   Police believe that Ms Mullane, from Moyross, was murdered after [&#8230;]\nThe post BREAKING: Body Recovered in Lough Erne amid ongoing search for Limerick Woman appeared first on .",
+      "pubDate": "Mon, 09 Nov 2026 22:15:29 +0000",
+      "author": "Kayleigh Downey",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-09T22:57:28.237Z"
     }
   },
   "rewritten": {
@@ -8907,6 +8950,11 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=362942",
       "rewrittenAt": "2026-11-09T13:50:53.077Z"
     },
+    "9338063": {
+      "skipped": true,
+      "duplicateOf": "9336764",
+      "rewrittenAt": "2026-11-09T22:57:52.832Z"
+    },
     "9338079": {
       "headline": "Kilmallock Advance to Munster Championship Following Limerick County Title",
       "summary": "Kilmallock enter the Munster Championship as Limerick champions after beating Na Piarsaigh in last month's final.",
@@ -9038,6 +9086,22 @@
       "skipped": true,
       "duplicateOf": "9338875",
       "rewrittenAt": "2026-11-09T19:44:40.259Z"
+    },
+    "9340686": {
+      "headline": "Garda Representative Association Suspends Planned Work-to-Rule Action",
+      "summary": "The planned work-to-rule action by gardaí has been called off following significant progress in talks.",
+      "story": "The decision to cancel the industrial action comes after what has been described as significant progress in discussions between the Garda Representative Association and the commissioner.",
+      "localAngle": "This development affects garda operations and policing services locally in Limerick and across the country.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Planned gardaí work-to-rule action is called off",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/planned-gardai-work-to-rule-action-is-called-off-9340686",
+      "publishedAt": "Mon, 09 Nov 2026 22:37:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/22/cs-33c1cc4b-33a1-4032-8722-a0d98534a0f9.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-09T22:58:10.288Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -11873,6 +11937,27 @@
       "rewrittenAt": "2026-11-09T19:45:49.773Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2020/08/King-Johns-castle-22-scaled.jpg",
       "imageCheckedAt": "2026-11-09T19:46:36.195Z"
+    },
+    "https://limerickvoice.com/?p=53629": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363020",
+      "rewrittenAt": "2026-11-09T22:57:52.832Z"
+    },
+    "https://www.limerickpost.ie/?p=362986": {
+      "headline": "Crowds turn out as Limerick Greyhound Stadium hosts Irish St Leger Round 2",
+      "summary": "Round 2 of the Bet Irish St Leger 550 got underway at Limerick Greyhound Stadium over the weekend, drawing crowds of local racegoers and supporters. The event featured notable wins, including Myles Cummins' dog Snuggie Battie taking victory in the Limerick and Clare GOBA A2 525.",
+      "story": "Racing fans and local supporters descended on Limerick Greyhound Stadium over the weekend as the second round of the prestigious Bet Irish St Leger 550 got underway.\n\nAmong the highlights of the weekend's action was Myles Cummins' greyhound, Snuggie Battie, which secured victory in the Limerick and Clare GOBA A2 525 Round 1 Heat 4. Trackside cameras captured local attendees getting in on the action and enjoying the atmosphere across the race card.\n\nRacegoers spotted at the stadium over the weekend included Patrick and Mikey, Mary and Ellie Regan, as well as Peter Hayes, Barry Morrissey, Sarah Greene, and Peter, Robert, and Luke O'Brien.",
+      "localAngle": "The event brought local greyhound racing enthusiasts together at Limerick Greyhound Stadium for the latest round of the prestigious competition.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Out the traps again for Irish St Leger",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/limerick-in-photos-out-the-traps-again-for-irish-st-leger/",
+      "publishedAt": "Mon, 09 Nov 2026 21:00:36 +0000",
+      "rewrittenAt": "2026-11-09T22:58:26.249Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Bet-Irish-St-Leger-550-Round-2-1.jpg",
+      "imageCheckedAt": "2026-11-09T22:58:26.636Z"
     }
   }
 }
