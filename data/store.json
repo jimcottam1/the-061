@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-08T18:19:22.396Z",
-    "totalArticles": 27
+    "lastScrape": "2026-11-09T13:49:35.680Z",
+    "totalArticles": 32
   },
   "articles": {
     "8353171": {
@@ -74,6 +74,18 @@
       "scrapedAt": "2026-10-24T16:59:19.235Z",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/14/32/RIP-Such-a-lovely-kind-charming-person-Popular-Limerick-man-is-laid-to-rest.png?width=1200&auto=webp&trim=0%2C89%2C0%2C91",
       "imageCredit": "RIP.ie"
+    },
+    "9299295": {
+      "id": "9299295",
+      "title": "Devolo BE6500 review: an affordable upgrade for struggling home WiFi",
+      "link": "https://www.limerickleader.ie/recommended/devolo-wifi-router-mesh-broadband-review-9338931",
+      "description": "More gadgets, patchy coverage and a router struggling to keep up? Devolo’s expandable WiFi 7 system offers a tempting upgrade, but there’s a catch worth understanding before you buy.",
+      "pubDate": "Mon, 09 Nov 2026 11:51:46 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/14/43/71dNVHzFvAL-_AC_SL1500.jpeg?width=1200&auto=webp&trim=0%2C7%2C0%2C6",
+      "imageCredit": "Devolo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
     },
     "9300202": {
       "id": "9300202",
@@ -2689,6 +2701,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-06T12:52:51.734Z"
     },
+    "9333248": {
+      "id": "9333248",
+      "title": "The Corbett Group presents Bellview Manor – Where modern living meets historic charm ",
+      "link": "https://www.limerickleader.ie/sponsored-content/the-corbett-group-presents-bellview-manor-where-modern-living-meets-historic-charm-9338539",
+      "description": "Perfectly blending contemporary luxury with the timeless character of one of Munster’s most historic towns",
+      "pubDate": "Mon, 09 Nov 2026 10:35:38 GMT",
+      "author": "Sponsored Content",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/53/Untitled-design-(22)-Lucia-Quinlivan.jpeg?width=1200&auto=webp&trim=0%2C29%2C0%2C29",
+      "imageCredit": "KMPD",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
     "9333377": {
       "id": "9333377",
       "title": "Man offered to give up dialysis to instead fund therapy for non-verbal grandson",
@@ -2983,6 +3007,41 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-07T15:36:16.561Z"
     },
+    "9336696": {
+      "id": "9336696",
+      "title": "Geely EX5 review: A lavish electric family SUV at a keen price ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/geely-ex5-electric-suv-review-car-review-9338557",
+      "description": "The Geely EX5 won’t turn many heads from the outside, but climb aboard and the appeal becomes clearer. With a lavish cabin, clever storage and a generous equipment list, this electric SUV gives familiar rivals plenty to think about",
+      "pubDate": "Mon, 09 Nov 2026 10:37:40 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/15/52/_OK83870.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Geely Auto",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9336710": {
+      "id": "9336710",
+      "title": "Lepas L8 review: A luxury-packed family SUV with a tempting price ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/lepas-l8-hybrid-suv-review-car-review-9338552",
+      "description": "The Lepas L8 saves its strongest sales pitch for the cabin, with generous space and plenty of luxury for the money. It’s a comfortable long-distance cruiser, too, although a few electronic annoyances need addressing",
+      "pubDate": "Mon, 09 Nov 2026 10:36:49 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/09/LEPAS-L8-(1).jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0",
+      "imageCredit": "Lepas",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9336730": {
+      "id": "9336730",
+      "title": "Fiat 600 Petrol Manual Long-term test: Report 1 , first impressions ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/fiat-600-petrol-manual-review-long-term-test-9338560",
+      "description": "A petrol engine, a manual gearbox and proper climate-control buttons. My Fiat 600 already feels refreshingly familiar, but three months of dog walks, tip runs and weekly shops will reveal whether its charm lasts",
+      "pubDate": "Mon, 09 Nov 2026 10:38:21 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/34/WhatsApp-Image-2026-11-07-at-16-28-26-(3).jpeg?width=1200&auto=webp&trim=67%2C0%2C67%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
     "9336764": {
       "id": "9336764",
       "title": "Old Crescent earn Limerick bragging rights with AIL win over Thomond",
@@ -3106,6 +3165,76 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/17/43/carol-liston-new.jpeg?width=1200&auto=webp&trim=0%2C0%2C22%2C0",
       "source": "limerickleader",
       "scrapedAt": "2026-11-08T18:19:09.941Z"
+    },
+    "9337934": {
+      "id": "9337934",
+      "title": "Pedestrian dies following collision with car on M20 motorway in Limerick",
+      "link": "https://www.limerickleader.ie/news/pedestrian-dies-following-collision-with-car-on-m20-motorway-in-limerick-9337934",
+      "description": "The road remains closed as Garda Forensic Collision Investigators carry out a technical examination and local diversions are in place",
+      "pubDate": "Sun, 08 Nov 2026 22:26:48 GMT",
+      "author": "Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/06/20/cs-a7afaee8-c5f6-4fe0-a80a-614bd6bc6216.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9338079": {
+      "id": "9338079",
+      "title": "Kilmallock fly the Limerick flag after tough weekend in club football",
+      "link": "https://www.limerickleader.ie/sport/hurling/kilmallock-fly-the-limerick-flag-after-tough-weekend-in-club-football-9338079",
+      "description": "Kilmallock come into the Munster Championship as Limerick champions after defeating Na Piarsaigh in a thrilling final last month",
+      "pubDate": "Mon, 09 Nov 2026 08:16:17 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/8/06/3602385-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9338736": {
+      "id": "9338736",
+      "title": "Brave Athea fall short in Munster Junior Championship clash",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/brave-athea-fall-short-in-munster-junior-championship-clash-9338736",
+      "description": "With their county final victory over Monagea still fresh in the mind, Athea got their home support riled up through an excellent first quarter of football",
+      "pubDate": "Mon, 09 Nov 2026 13:00:17 GMT",
+      "author": "Cormac Thompson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/11/52/3499844.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9338773": {
+      "id": "9338773",
+      "title": "Two Munster Rugby players called into Irish XV squad ahead of Fiji tie",
+      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/two-munster-rugby-players-called-into-irish-xv-squad-ahead-of-fiji-tie-9338773",
+      "description": "Fineen Wycherley and Jeremy Loughman have been called into the Irish camp ahead of Saturday night’s clash with Fiji",
+      "pubDate": "Mon, 09 Nov 2026 12:00:16 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/11/03/3608163.jpeg?width=1200&auto=webp&trim=0%2C41%2C0%2C40",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9338875": {
+      "id": "9338875",
+      "title": "Thousands of public service workers to march through Limerick on Thursday",
+      "link": "https://www.limerickleader.ie/news/thousands-of-public-service-workers-to-march-through-limerick-on-thursday-9338875",
+      "description": "Thousands of public service workers including teachers, hospital staff, Government staff and others are due to go on strike and take part in a rally in Pery Square, Limerick on Thursday, November 12",
+      "pubDate": "Mon, 09 Nov 2026 12:00:23 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/14/14/32/Public-Sector-Strikes-West-Limerick-045-ca3c5735.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Don Moloney",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
+    },
+    "9339136": {
+      "id": "9339136",
+      "title": "Couple in Conor McGregor perjury probe refuse book of evidence",
+      "link": "https://www.limerickleader.ie/national/couple-in-conor-mcgregor-perjury-probe-refuse-book-of-evidence-9339136",
+      "description": "Samantha O’Reilly and Steven Cummins appeared before Judge Treasa Kelly at Dublin District Court on Monday.",
+      "pubDate": "Mon, 09 Nov 2026 12:29:24 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/12/cs-cc110b86-568f-4c53-acc5-e88819ee0e89.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-09T13:49:23.333Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5058,6 +5187,76 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-08T18:19:09.402Z"
+    },
+    "https://www.limerickpost.ie/?p=362937": {
+      "id": "https://www.limerickpost.ie/?p=362937",
+      "title": "Contracts signed for road levels crossings in Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/09/contracts-signed-for-road-levels-crossings-in-limerick/",
+      "description": "CONTRACTS have been signed for work to begin on seven manned public road level crossings including Limerick. Iarnród Éireann have confirmed the €28m level crossings improvement project, funded by the Department of Transport through the National Transport Authority. Level crossings at Fantstown and Thomastown in Limerick will close, with a replacement bridge or road solutions [&#8230;]\nThe post Contracts signed for road levels crossings in Limerick appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 13:30:57 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://www.limerickpost.ie/?p=362945": {
+      "id": "https://www.limerickpost.ie/?p=362945",
+      "title": "Two further arrests in Limerick mother of four murder probe",
+      "link": "https://www.limerickpost.ie/2026/11/09/two-further-arrests-in-limerick-mother-of-four-murder-probe/",
+      "description": "TWO more people have been arrested on suspicion of the murder of Limerick woman Carrie Mullane, who went missing after travelling to County Fermanagh last month. The  39-year-old mother of four has not been seen since October 10 and a search is underway to find her remains. The Police Service of Northern Ireland (PSNI) believe [&#8230;]\nThe post Two further arrests in Limerick mother of four murder probe appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 12:07:20 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://www.limerickpost.ie/?p=362914": {
+      "id": "https://www.limerickpost.ie/?p=362914",
+      "title": "Newly formed group welcomes closure of Crescent despite traders concerns",
+      "link": "https://www.limerickpost.ie/2026/11/09/newly-formed-group-welcomes-closure-of-crescent-despite-traders-concerns/",
+      "description": "A NEWLY formed group is in favour of closing The Crescent on O&#8217;Connell Avenue to traffic for six weeks this Christmas to allow Mayor John Moran&#8217;s festive programme showcase the best of the city. Limerick City Centre Residents&#8217; Voice (LCCRV) this week deemed the proposals for Christmas in Limerick 2026 as &#8220;ambitious&#8221;. In a statement [&#8230;]\nThe post Newly formed group welcomes closure of Crescent despite traders concerns appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 12:00:34 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://www.limerickpost.ie/?p=362910": {
+      "id": "https://www.limerickpost.ie/?p=362910",
+      "title": "Court appearance on charge of ‘monkey face’ taunt at security guard",
+      "link": "https://www.limerickpost.ie/2026/11/09/court-appearance-on-charge-of-monkey-face-taunt-at-security-guard/",
+      "description": "A MAN has appeared in court charged in connection with an alleged &#8216;race hate crime&#8217; committed against a Pakistani security guard at University Hospital Limerick (UHL) on Halloween night. At Ennis District Court on Monday, Garda Roisín Moran said that it will be alleged that after being caught trying to flee from Garda custody at [&#8230;]\nThe post Court appearance on charge of &#8216;monkey face&#8217; taunt at security guard appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 10:30:33 +0000",
+      "author": "Gordon Deegan",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://www.limerickpost.ie/?p=362908": {
+      "id": "https://www.limerickpost.ie/?p=362908",
+      "title": "More critical thinking needed around Limerick projects",
+      "link": "https://www.limerickpost.ie/2026/11/09/more-critical-thinking-needed-around-limerick-projects/",
+      "description": "GREEN Party councillor Seán Hartigan praised founding President of TUS (Technological University of the Shannon), Vincent Cunnane on his &#8220;thoughtful and compelling message&#8221; to young graduates this week. Cllr Hartigan was attending his son&#8217;s graduation ceremony when Mr Cunnane addressed the graduates about the importance of critical thinking, of asking difficult questions, of examining evidence, [&#8230;]\nThe post More critical thinking needed around Limerick projects appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 09:00:02 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://www.limerickpost.ie/?p=362942": {
+      "id": "https://www.limerickpost.ie/?p=362942",
+      "title": "Pedestrian killed in crash on motorway outside Limerick City",
+      "link": "https://www.limerickpost.ie/2026/11/09/pedestrian-killed-in-crash-on-motorway-outside-limerick-city/",
+      "description": "GARDAÍ are investigating after a pedestrian was killed in a single-car collision on the M20 motorway outside Limerick City this past Sunday evening (November 8). The fatal collision took place between Junction 3 (Raheen) and Junction 2 (Dooradoyle) on the M20 northbound at around 5.20pm yesterday evening. Gardaí said the pedestrian was pronounced dead at [&#8230;]\nThe post Pedestrian killed in crash on motorway outside Limerick City appeared first on Limerick Post.",
+      "pubDate": "Mon, 09 Nov 2026 08:52:45 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-09T13:49:22.757Z"
+    },
+    "https://limerickvoice.com/?p=53603": {
+      "id": "https://limerickvoice.com/?p=53603",
+      "title": "BREAKING: Man charged with the murder of Limerick woman",
+      "link": "https://limerickvoice.com/news/man-charged-with-the-murder-of-limerick-woman/",
+      "description": "A man has appeared in court and charged with the murder of Ciara Mullane (Nooan) from Moyross. A MAN has been charged with the murder of Limerick woman Ciara Mullane (Noonan).  Michael Lynch (35) from Enniskillen appeared in Dungannon Magistrates&#8217; Court via video link from custody on Saturday morning, November 7.  The suspect was arrested [&#8230;]\nThe post BREAKING: Man charged with the murder of Limerick woman appeared first on .",
+      "pubDate": "Sun, 08 Nov 2026 20:15:25 +0000",
+      "author": "Dearbhla Parry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-09T13:49:23.891Z"
     }
   },
   "rewritten": {
@@ -5156,6 +5355,23 @@
       "section": "News",
       "importance": 3,
       "positivity": 1
+    },
+    "9299295": {
+      "headline": "Review of Devolo BE6500 WiFi System Examines Affordable Home Upgrade",
+      "summary": "A new review explores Devolo's expandable WiFi 7 system as an option for addressing patchy coverage and struggling home routers.",
+      "story": "The review looks at whether Devolo's expandable WiFi 7 system serves as an affordable upgrade for home networks dealing with more gadgets and patchy coverage, though it notes there is a catch to understand before buying.",
+      "localAngle": "This tech review may interest Limerick households looking to upgrade their home WiFi equipment.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Devolo BE6500 review: an affordable upgrade for struggling home WiFi",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/devolo-wifi-router-mesh-broadband-review-9338931",
+      "publishedAt": "Mon, 09 Nov 2026 11:51:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/14/43/71dNVHzFvAL-_AC_SL1500.jpeg?width=1200&auto=webp&trim=0%2C7%2C0%2C6",
+      "imageCredit": "Devolo",
+      "rewrittenAt": "2026-11-09T13:52:24.454Z"
     },
     "9300202": {
       "headline": "All Seven Limerick Men's Rugby Teams Return to AIL Action This Weekend",
@@ -7941,6 +8157,23 @@
       "imageCredit": "PICTURE: PIXABAY",
       "rewrittenAt": "2026-11-06T12:54:40.608Z"
     },
+    "9333248": {
+      "headline": "The Corbett Group Unveils Bellview Manor Development",
+      "summary": "The Corbett Group has presented Bellview Manor, a new development described as blending contemporary luxury with historic charm in a Munster town.",
+      "story": "The Corbett Group has introduced Bellview Manor as a location where modern living meets the historic character of one of Munster’s historic towns.",
+      "localAngle": "The development is located in a historic Munster town close to the Limerick region.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "The Corbett Group presents Bellview Manor – Where modern living meets historic charm ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sponsored-content/the-corbett-group-presents-bellview-manor-where-modern-living-meets-historic-charm-9338539",
+      "publishedAt": "Mon, 09 Nov 2026 10:35:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/53/Untitled-design-(22)-Lucia-Quinlivan.jpeg?width=1200&auto=webp&trim=0%2C29%2C0%2C29",
+      "imageCredit": "KMPD",
+      "rewrittenAt": "2026-11-09T13:53:00.460Z"
+    },
     "9333377": {
       "headline": "Grandfather considered stopping dialysis to pay for non-verbal grandson's therapy",
       "summary": "Sinn Féin TD Pearse Doherty shared a letter from a man willing to sacrifice his life-saving treatment to fund his grandson's therapy.",
@@ -8230,6 +8463,56 @@
       "duplicateOf": "https://limerickvoice.com/?p=53490",
       "rewrittenAt": "2026-11-07T15:37:02.080Z"
     },
+    "9336696": {
+      "headline": "Geely EX5 electric SUV reviewed for its lavish cabin and keen price",
+      "summary": "A recent review highlights the Geely EX5 electric SUV for its lavish interior, clever storage, and competitive pricing against familiar rivals.",
+      "story": "While the Geely EX5 may not turn heads from the outside, climbing aboard reveals a lavish cabin, clever storage, and a generous equipment list that gives rivals plenty to think about.",
+      "localAngle": "Limerick motorists and car buyers looking at electric vehicle options may be interested in this review of the Geely EX5.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Geely EX5 review: A lavish electric family SUV at a keen price ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/geely-ex5-electric-suv-review-car-review-9338557",
+      "publishedAt": "Mon, 09 Nov 2026 10:37:40 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/15/52/_OK83870.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Geely Auto",
+      "rewrittenAt": "2026-11-09T13:52:42.904Z"
+    },
+    "9336710": {
+      "headline": "Lepas L8 Review Highlights Cabin Space and Competitive Pricing",
+      "summary": "A recent review examines the Lepas L8 family SUV, focusing on its spacious luxury cabin, long-distance comfort, and electronic issues.",
+      "story": "The Lepas L8 offers a luxury-packed cabin and comfortable long-distance cruising at a tempting price, though reviewers note a few electronic annoyances that need addressing.",
+      "localAngle": "Motorists and car buyers in Limerick considering new family SUV options may be interested in this review of the Lepas L8.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Lepas L8 review: A luxury-packed family SUV with a tempting price ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/lepas-l8-hybrid-suv-review-car-review-9338552",
+      "publishedAt": "Mon, 09 Nov 2026 10:36:49 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/09/LEPAS-L8-(1).jpeg?width=1200&auto=webp&trim=1%2C0%2C1%2C0",
+      "imageCredit": "Lepas",
+      "rewrittenAt": "2026-11-09T13:52:51.444Z"
+    },
+    "9336730": {
+      "headline": "Testing the Fiat 600 Petrol Manual Over Three Months",
+      "summary": "A long-term test of the Fiat 600 petrol manual has begun to see if its familiar features hold up over three months of daily use.",
+      "story": "The test will evaluate whether the car's charm lasts through three months of dog walks, tip runs, and weekly shops.",
+      "localAngle": "This motoring test report is of general interest to drivers and car enthusiasts across Limerick.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Fiat 600 Petrol Manual Long-term test: Report 1 , first impressions ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/fiat-600-petrol-manual-review-long-term-test-9338560",
+      "publishedAt": "Mon, 09 Nov 2026 10:38:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/07/16/34/WhatsApp-Image-2026-11-07-at-16-28-26-(3).jpeg?width=1200&auto=webp&trim=67%2C0%2C67%2C0",
+      "rewrittenAt": "2026-11-09T13:52:33.488Z"
+    },
     "9336764": {
       "headline": "Old Crescent Triumph Over Thomond in All-Ireland League Clash",
       "summary": "Old Crescent secured a significant victory against their Limerick rivals Thomond in Division 2B South of the All-Ireland League.",
@@ -8364,6 +8647,83 @@
       "publishedAt": "Sun, 08 Nov 2026 17:47:14 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/08/17/43/carol-liston-new.jpeg?width=1200&auto=webp&trim=0%2C0%2C22%2C0",
       "rewrittenAt": "2026-11-08T18:20:05.687Z"
+    },
+    "9337934": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362942",
+      "rewrittenAt": "2026-11-09T13:50:53.077Z"
+    },
+    "9338079": {
+      "headline": "Kilmallock Advance to Munster Championship Following Limerick County Title",
+      "summary": "Kilmallock enter the Munster Championship as Limerick champions after beating Na Piarsaigh in last month's final.",
+      "story": "Kilmallock have taken up the mantle for Limerick in the Munster Championship following a tough weekend in club football. They enter the competition as county champions after defeating Na Piarsaigh in a thrilling final last month.",
+      "localAngle": "The story follows Kilmallock representing Limerick in the Munster Championship after their county final victory over Na Piarsaigh.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Kilmallock fly the Limerick flag after tough weekend in club football",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/kilmallock-fly-the-limerick-flag-after-tough-weekend-in-club-football-9338079",
+      "publishedAt": "Mon, 09 Nov 2026 08:16:17 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/8/06/3602385-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-09T13:53:27.620Z"
+    },
+    "9338736": {
+      "skipped": true,
+      "duplicateOf": "9336094",
+      "rewrittenAt": "2026-11-09T13:50:53.077Z"
+    },
+    "9338773": {
+      "headline": "Munster Duo Wycherley and Loughman Join Ireland Squad for Fiji",
+      "summary": "Munster Rugby players Fineen Wycherley and Jeremy Loughman have joined the Ireland camp ahead of Saturday night's match against Fiji.",
+      "story": "Fineen Wycherley and Jeremy Loughman have been called into the Irish XV squad ahead of Saturday night’s clash with Fiji.",
+      "localAngle": "The call-up involves two players from Limerick-based Munster Rugby joining the national team camp.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Two Munster Rugby players called into Irish XV squad ahead of Fiji tie",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/two-munster-rugby-players-called-into-irish-xv-squad-ahead-of-fiji-tie-9338773",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/11/03/3608163.jpeg?width=1200&auto=webp&trim=0%2C41%2C0%2C40",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-09T13:52:15.372Z"
+    },
+    "9338875": {
+      "headline": "Public service workers plan Thursday march and strike in Limerick",
+      "summary": "Thousands of public service employees will strike and rally in Pery Square on Thursday, November 12.",
+      "story": "Teachers, hospital staff, and Government workers are among those scheduled to participate in the upcoming demonstration in Limerick. The action involves a march and a rally at Pery Square.",
+      "localAngle": "The strike and rally will take place directly in Limerick at Pery Square.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Thousands of public service workers to march through Limerick on Thursday",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/thousands-of-public-service-workers-to-march-through-limerick-on-thursday-9338875",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/14/14/32/Public-Sector-Strikes-West-Limerick-045-ca3c5735.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Don Moloney",
+      "rewrittenAt": "2026-11-09T13:52:06.402Z"
+    },
+    "9339136": {
+      "headline": "Limerick pair decline book of evidence in Conor McGregor perjury inquiry",
+      "summary": "Samantha O’Reilly and Steven Cummins appeared before Judge Treasa Kelly at Dublin District Court on Monday.",
+      "story": "Samantha O’Reilly and Steven Cummins appeared before Judge Treasa Kelly at Dublin District Court on Monday where they refused a book of evidence in the Conor McGregor perjury probe.",
+      "localAngle": "The case involves individuals from the 061 region appearing before the courts in Dublin.",
+      "section": "Courts",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Couple in Conor McGregor perjury probe refuse book of evidence",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/couple-in-conor-mcgregor-perjury-probe-refuse-book-of-evidence-9339136",
+      "publishedAt": "Mon, 09 Nov 2026 12:29:24 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/12/cs-cc110b86-568f-4c53-acc5-e88819ee0e89.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-09T13:51:08.699Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -11003,6 +11363,96 @@
       "rewrittenAt": "2026-11-08T18:19:57.034Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/KRB-14-09-2026-Castleconnell-Boat-Club-1031.jpg",
       "imageCheckedAt": "2026-11-08T18:20:05.971Z"
+    },
+    "https://www.limerickpost.ie/?p=362908": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362898",
+      "rewrittenAt": "2026-11-09T13:50:53.077Z"
+    },
+    "https://limerickvoice.com/?p=53603": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362945",
+      "rewrittenAt": "2026-11-09T13:50:53.077Z"
+    },
+    "https://www.limerickpost.ie/?p=362937": {
+      "headline": "Contracts Signed for €28M Limerick Level Crossing Overhauls",
+      "summary": "Iarnród Éireann has signed a €28 million contract to upgrade seven public road level crossings, including the closure of crossings at Fantstown and Thomastown in Limerick.",
+      "story": "Contracts have officially been signed for a major €28 million improvement project affecting seven manned public road level crossings, including key locations in County Limerick. \n\nUnder the works funded by the Department of Transport through the National Transport Authority, the level crossings at Fantstown and Thomastown will be permanently closed. In their place, new replacement bridges or alternative road solutions will be provided at both Limerick locations.\n\nFollowing a recent procurement and tendering process, contractor Jons Civil Engineering Ltd is expected to arrive on site in the coming days to begin the infrastructure upgrades. \n\nIrish rail authorities have confirmed that the extensive improvement project is scheduled for completion by April 2028.",
+      "localAngle": "The project directly impacts local transport infrastructure in Limerick with the permanent closure and replacement of level crossings at Fantstown and Thomastown.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Contracts signed for road levels crossings in Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/contracts-signed-for-road-levels-crossings-in-limerick/",
+      "publishedAt": "Mon, 09 Nov 2026 13:30:57 +0000",
+      "rewrittenAt": "2026-11-09T13:51:00.028Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2020/08/2697961-scaled.jpg",
+      "imageCheckedAt": "2026-11-09T13:53:27.996Z"
+    },
+    "https://www.limerickpost.ie/?p=362945": {
+      "headline": "Two Arrested in Enniskillen Over Murder of Limerick Mother Carrie Mullane",
+      "summary": "Two more people have been arrested by the PSNI on suspicion of the murder of 39-year-old Limerick mother-of-four Carrie Mullane, whose remains are currently being searched for in County Fermanagh. A man has already appeared in court charged in connection with her disappearance.",
+      "story": "Two additional people have been arrested in connection with the ongoing murder investigation into Limerick woman Carrie Mullane. A woman in her 60s and a man in his 30s were taken into custody in Enniskillen as part of the Police Service of Northern Ireland (PSNI) probe.\n\nMs Mullane, a 39-year-old mother of four, was last seen on October 10 after travelling to County Fermanagh. The PSNI believe she was killed shortly after arriving in the area. Authorities are actively searching for her remains, with police divers focusing efforts on a section of Upper Lough Erne near Enniskillen over the weekend.\n\nA 35-year-old man was arrested last week in connection with the case and has already appeared in court charged with murder and preventing the lawful burial of a corpse.\n\nDetectives are continuing to appeal for public assistance. The PSNI has asked anyone with information, or who may have captured CCTV, phone, or dash-cam footage that could aid the investigation, to come forward.",
+      "localAngle": "The victim is a 39-year-old mother of four from Limerick who travelled to County Fermanagh before her disappearance.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Two further arrests in Limerick mother of four murder probe",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/two-further-arrests-in-limerick-mother-of-four-murder-probe/",
+      "publishedAt": "Mon, 09 Nov 2026 12:07:20 +0000",
+      "rewrittenAt": "2026-11-09T13:51:17.864Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Carrie-Mullane-Noonan-crop.jpg",
+      "imageCheckedAt": "2026-11-09T13:53:28.537Z"
+    },
+    "https://www.limerickpost.ie/?p=362914": {
+      "headline": "New residents group backs six-week traffic closure of The Crescent for Christmas",
+      "summary": "A newly formed residents group supports closing The Crescent on O'Connell Avenue to traffic for six weeks this Christmas for a festive fayre. However, local traders warn the closure could cause severe traffic congestion and harm Christmas trade.",
+      "story": "A newly formed Limerick residents group has thrown its weight behind proposals to close The Crescent on O'Connell Avenue to traffic for six weeks this Christmas. The Limerick City Centre Residents’ Voice (LCCRV), which was formed a month ago and recently hosted Mayor John Moran at a meeting, described the festive plans for Christmas 2026 as \"ambitious\". The proposed Christmas Fayre would span The Crescent, O'Connell Avenue, and Arthur’s Quay Park.\n\nIn a statement, LCCRV argued that vibrant public events help support economic activity and strengthen community spirit in the city. \"As people who live, work and raise families in this area, we look forward to experiencing the buzz, atmosphere and sense of occasion that these events can bring,\" the group said, comparing the prospect to historic festive celebrations in cities like Prague and London.\n\nHowever, the plans have met resistance from local business owners concerned about traffic disruption during the busiest retail period of the year. Fifth-generation city shop owner Shane Gleeson urged the local authority to vary the event licence and relocate the Christmas Market to Arthur’s Quay or Honan’s Quay.\n\nMr Gleeson warned that holding the event at The Crescent would lead to severe traffic congestion and negatively impact trade when maximum traffic flow is vital for businesses. He added that relocating the fayre to Honan's Quay would better complement the existing ice rink and offer easier access to nearby parking facilities.",
+      "localAngle": "The proposed traffic closure of The Crescent and the staging of a major Christmas Fayre directly impacts city centre residents, motorists, and local traders in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Newly formed group welcomes closure of Crescent despite traders concerns",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/newly-formed-group-welcomes-closure-of-crescent-despite-traders-concerns/",
+      "publishedAt": "Mon, 09 Nov 2026 12:00:34 +0000",
+      "rewrittenAt": "2026-11-09T13:51:27.220Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/07/5-Mayor.jpeg",
+      "imageCheckedAt": "2026-11-09T13:53:28.752Z"
+    },
+    "https://www.limerickpost.ie/?p=362910": {
+      "headline": "Shannon Man Charged with Race Hate Crime and Threating Security at UHL",
+      "summary": "A 38-year-old man has appeared in court charged with a racially motivated hate crime and breaching the peace at University Hospital Limerick on Halloween night. The judge granted bail with conditions after hearing the accused is seeking help for drug addiction.",
+      "story": "A man appeared before Ennis District Court on Monday charged in connection with an alleged race hate crime committed against a Pakistani security guard at University Hospital Limerick (UHL) on Halloween night. \n\nAt the court hearing, Garda Roisín Moran stated that Martin O’Callaghan (38), of High Street, Lissycasey, tried to flee Garda custody at the hospital's A&E Department on Saturday, October 31st. Garda Moran alleged that Mr O’Callaghan called a security staff member, who is a Pakistani national, 'monkey face' in the presence of Gardaí, made a sound of pooling saliva as if to spit, and claimed he was HIV positive.\n\nGardaí had arrested Mr O’Callaghan earlier that day in Kilrush over a separate public order incident. He was brought to UHL after telling officers he had swallowed a bag of cocaine, though he ultimately refused medical assistance at the hospital. He is formally charged with provoking a breach of the peace and demonstrating hatred towards the security guard on account of his race, colour, or nationality.\n\nDefence counsel Elaine Davern Wiseman BL told the court that her client's wish is to get help for a long-standing drug abuse struggle. Judge Catherine Ryan granted bail, noting the allegations are of particular concern given they occurred in a hospital setting. Mr O’Callaghan was remanded on bail to appear again in Ennis District Court on November 25, under conditions that include staying out of Kilrush and residing at a bail address in Rossbracken, Shannon.",
+      "localAngle": "The alleged incident took place at University Hospital Limerick, a vital regional healthcare facility serving the local community.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Court appearance on charge of ‘monkey face’ taunt at security guard",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/court-appearance-on-charge-of-monkey-face-taunt-at-security-guard/",
+      "publishedAt": "Mon, 09 Nov 2026 10:30:33 +0000",
+      "rewrittenAt": "2026-11-09T13:53:10.378Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2018/01/Ennis-Courthouse.jpg",
+      "imageCheckedAt": "2026-11-09T13:53:28.959Z"
+    },
+    "https://www.limerickpost.ie/?p=362942": {
+      "headline": "Pedestrian killed in single-car collision on M20 northbound outside Limerick City",
+      "summary": "A pedestrian was struck and killed by a car on the M20 motorway between Raheen and Dooradoyle on Sunday evening. Gardaí have launched an investigation and are appealing for witnesses and dash-cam footage.",
+      "story": "Gardaí are investigating a fatal traffic incident after a pedestrian was killed in a single-car collision on the M20 motorway outside Limerick City on Sunday evening (November 8).\n\nThe incident occurred at approximately 5.20pm on the northbound stretch of the motorway between Junction 3 (Raheen) and Junction 2 (Dooradoyle). The pedestrian was pronounced dead at the scene, and no other injuries were reported.\n\nThe M20 was temporarily closed following the collision to allow Garda Forensic Collision Investigators to conduct a technical examination. The local coroner has been notified, and arrangements are being made for a post-mortem examination.\n\nAuthorities are urging anyone who was travelling on the M20 between Junctions 3 and 2 on Sunday evening from 5pm to 5.30pm, particularly those with dash-cam or other camera footage, to contact Henry Street Garda Station on 061 212 400 or the Garda Confidential Line on 1800 666 111.",
+      "localAngle": "The fatal collision occurred on a major commuter route just outside Limerick City, prompting a local appeal for witnesses by Henry Street Gardaí.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Pedestrian killed in crash on motorway outside Limerick City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/09/pedestrian-killed-in-crash-on-motorway-outside-limerick-city/",
+      "publishedAt": "Mon, 09 Nov 2026 08:52:45 +0000",
+      "rewrittenAt": "2026-11-09T13:53:19.011Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/06/Garda-stock-pexels-paolo-t-6862-942029.jpg",
+      "imageCheckedAt": "2026-11-09T13:53:29.165Z"
     }
   }
 }
