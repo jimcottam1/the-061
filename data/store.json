@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-10T16:57:47.778Z",
-    "totalArticles": 28
+    "lastScrape": "2026-11-10T20:26:15.269Z",
+    "totalArticles": 33
   },
   "articles": {
     "8353171": {
@@ -3343,6 +3343,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T13:24:55.526Z"
     },
+    "9339761": {
+      "id": "9339761",
+      "title": "Limerick man marks 80th birthday by walking 2,000km for charity",
+      "link": "https://www.limerickleader.ie/news/limerick-man-marks-80th-birthday-by-walking-2000km-for-charity-9339761",
+      "description": "Limerick man John Loftus is celebrating his 80th birthday by walking 2,000km for Cliona’s Foundation",
+      "pubDate": "Tue, 10 Nov 2026 17:00:45 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/14/46/JPEG-John-loftus-walking.jpeg?width=1200&auto=webp&trim=0%2C119%2C0%2C119",
+      "imageCredit": "iDonate",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
     "9339952": {
       "id": "9339952",
       "title": "Loved TV star makes an appearance at Limerick Milk Market",
@@ -3411,6 +3423,18 @@
       "imageCredit": "FILE PHOTO",
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
+    "9341315": {
+      "id": "9341315",
+      "title": "Limerick Racecourse unveils plans for 26th Christmas Racing Festival",
+      "link": "https://www.limerickleader.ie/sport/other-sport/limerick-racecourse-unveils-plans-for-26th-christmas-racing-festival-9341315",
+      "description": "Mr Binman returns as the festival’s title Sponsor for the sixth consecutive year for four days of festive racing, live entertainment and family fun return to Greenmount Park from December 26-29, 2026.",
+      "pubDate": "Tue, 10 Nov 2026 17:30:39 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/21/Big-Boss_157.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Dermot Culhane Photography",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
     },
     "9341483": {
       "id": "9341483",
@@ -3492,6 +3516,64 @@
       "imageCredit": "LL",
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T16:57:38.629Z"
+    },
+    "9342925": {
+      "id": "9342925",
+      "title": "RIP: Funeral details announced for boy who died from injuries in Waterford arson attack ",
+      "link": "https://www.limerickleader.ie/national/rip-funeral-details-announced-for-boy-who-died-from-injuries-in-waterford-arson-attack-9342945",
+      "description": "Elliot English passed away from injuries he sustained in last month’s fatal arson attack in Waterford city",
+      "pubDate": "Tue, 10 Nov 2026 17:15:30 GMT",
+      "author": "Robert Forrest",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/16/37/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-10T164428-586.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Facebook",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343064": {
+      "id": "9343064",
+      "title": "Arrests as Joe Biden makes surprise Dublin visit",
+      "link": "https://www.limerickleader.ie/national/arrests-as-joe-biden-makes-surprise-dublin-visit-9343064",
+      "description": "Hunter Biden was being awarded the gold medal for Outstanding Contribution for Public Discourse by the College Historical Society at Trinity College.",
+      "pubDate": "Tue, 10 Nov 2026 19:45:40 GMT",
+      "author": "Cate McCurry and Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/19/cs-dbfafc9d-f024-4b38-9701-40397fc3e020.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343202": {
+      "id": "9343202",
+      "title": "Mother of Limerick nurse tells court 'I thought we had more time'",
+      "link": "https://www.limerickleader.ie/news/crime-courts/mother-of-limerick-nurse-tells-court-i-thought-we-had-more-time-9343202",
+      "description": "The family of Áine O’Reilly gave victim impact statements at Limerick Circuit Court at the sentence hearing for Keelan O’Connell",
+      "pubDate": "Tue, 10 Nov 2026 18:28:03 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/18/44/Aine-oreilly-jpeg.jpeg?width=1200&auto=webp&trim=0%2C19%2C0%2C18",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343221": {
+      "id": "9343221",
+      "title": "Limerick senior footballers appoint new captain for 2027 campaign",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/limerick-senior-footballers-appoint-new-captain-for-2027-campaign-9343221",
+      "description": "The Rathkeale clubman was part of the panel who won the division two seasons ago and reached the final of the Tailteann Cup",
+      "pubDate": "Tue, 10 Nov 2026 18:40:17 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/18/11/3168167.jpeg?width=1200&auto=webp&trim=0%2C153%2C66%2C53",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343285": {
+      "id": "9343285",
+      "title": "Irish premier in favour of ‘growing football on an all-island basis’",
+      "link": "https://www.limerickleader.ie/national/irish-premier-in-favour-of-growing-football-on-an-all-island-basis-9343285",
+      "description": "Taoiseach Micheal Martin hails Derry FC’s FAI Cup win last weekend as an example of how competition can enhance football.",
+      "pubDate": "Tue, 10 Nov 2026 20:19:13 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T20:26:06.565Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5734,6 +5816,56 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-10T16:57:39.553Z"
+    },
+    "https://www.limerickpost.ie/?p=362994": {
+      "id": "https://www.limerickpost.ie/?p=362994",
+      "title": "A racing double to savour for Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/10/a-racing-double-to-savour-for-limerick/",
+      "description": "BILLY Lee of Ballingarry realised a lifetime’s ambition when he was crowned Ireland’s Champion Jockey after the end of the season in the Curragh. He was on the cusp of such an achievement several times in recent times. At 40, Lee is the oldest first-time title winner since Tommy Murphy achieved the same feat aged [&#8230;]\nThe post A racing double to savour for Limerick appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 19:30:57 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T20:26:05.683Z"
+    },
+    "https://www.limerickpost.ie/?p=363070": {
+      "id": "https://www.limerickpost.ie/?p=363070",
+      "title": "Witness recalls moment he saw Scarlett Faulkner lying on the road after being attacked",
+      "link": "https://www.limerickpost.ie/2026/11/10/witness-recalls-moment-he-saw-scarlett-faulkner-lying-in-the-road-after-being-attacked/",
+      "description": "A WITNESS in the Scarlett Faulkner murder trial has recalled the moment he came across the scene of an attack in Birdhill during which he could be heard on dash-cam footage saying &#8220;oh my god&#8230;she&#8217;s dead, the back of her head is open&#8221;. The 28-year-old with an address at Longpavement in Limerick died on April [&#8230;]\nThe post Witness recalls moment he saw Scarlett Faulkner lying on the road after being attacked appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 18:46:45 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T20:26:05.683Z"
+    },
+    "https://www.limerickpost.ie/?p=363067": {
+      "id": "https://www.limerickpost.ie/?p=363067",
+      "title": "Family of Josie Ray ‘forever heartbroken’ as killer jailed for life",
+      "link": "https://www.limerickpost.ie/2026/11/10/family-of-josie-ray-forever-heartbroken-as-killer-jailed-for-life/",
+      "description": "THE family of 89-year-old Josephine ‘Josie’ Ray said they would be “forever heartbroken” as her killer was put behind bars for life. Ms Ray, from Nenagh, County Tipperary, was found strangled and smothered in her bed at her home at St Joseph’s Park, Nenagh, on August 4, 2024. Hasan Ali Gori, a native of Chad, [&#8230;]\nThe post Family of Josie Ray ‘forever heartbroken’ as killer jailed for life appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 18:30:58 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T20:26:05.684Z"
+    },
+    "https://www.limerickpost.ie/?p=363016": {
+      "id": "https://www.limerickpost.ie/?p=363016",
+      "title": "New exhibition exploring future of Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/10/new-exhibition-exploring-future-of-limerick/",
+      "description": "WHAT could going to University in Limerick look like in 2070? That&#8217;s the question Studio Saol is asking as part of an exhibition coming to town this week. The Pluriversity will be at Limerick School of Art and Design (LSAD) on Thursday, November 12, as part of Irish Design Week. Following exhibitions in Copenhagen and [&#8230;]\nThe post New exhibition exploring future of Limerick appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 18:00:23 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T20:26:05.684Z"
+    },
+    "https://limerickvoice.com/?p=53720": {
+      "id": "https://limerickvoice.com/?p=53720",
+      "title": "‘85% of people still do not report sexual violence’ says Executive Director at Rape Crisis Midwest",
+      "link": "https://limerickvoice.com/politics/85-of-people-still-do-not-report-sexual-violence-says-executive-director-at-rape-crisis-midwest/",
+      "description": "Despite low reporting numbers, &#8220;helpline is always busy&#8221; says O&#8217;Leary. WHILE high-profile sexual assault cases can encourage some survivors to seek support, many still do not feel comfortable reporting their experiences, according to Siobhán O’Leary, Executive Director of the Rape Crisis Centre Midwest.  Speaking to the Limerick Voice, O’Leary said society remains &#8220;very far away&#8221; [&#8230;]\nThe post &#8216;85% of people still do not report sexual violence&#8217; says Executive Director at Rape Crisis Midwest appeared first on .",
+      "pubDate": "Tue, 10 Nov 2026 17:00:15 +0000",
+      "author": "Fionn Murtagh",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-10T20:26:07.431Z"
     }
   },
   "rewritten": {
@@ -9330,6 +9462,23 @@
       "duplicateOf": "9336764",
       "rewrittenAt": "2026-11-10T13:26:05.659Z"
     },
+    "9339761": {
+      "headline": "Limerick Man Celebrates 80th Birthday With 2,000km Charity Walk",
+      "summary": "John Loftus has marked his 80th birthday by undertaking a 2,000km walk to raise funds for Cliona's Foundation.",
+      "story": "Limerick resident John Loftus is celebrating his 80th birthday by walking 2,000km for Cliona’s Foundation. Further details on his journey can be found in the original report.",
+      "localAngle": "The fundraising walk is being undertaken by Limerick man John Loftus in support of Cliona's Foundation.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "brief": true,
+      "originalTitle": "Limerick man marks 80th birthday by walking 2,000km for charity",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-man-marks-80th-birthday-by-walking-2000km-for-charity-9339761",
+      "publishedAt": "Tue, 10 Nov 2026 17:00:45 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/14/46/JPEG-John-loftus-walking.jpeg?width=1200&auto=webp&trim=0%2C119%2C0%2C119",
+      "imageCredit": "iDonate",
+      "rewrittenAt": "2026-11-10T20:29:41.383Z"
+    },
     "9339952": {
       "headline": "Downton Abbey star Laura Carmichael visits Limerick Milk Market",
       "summary": "Actress Laura Carmichael, known for her role as Lady Edith in Downton Abbey, recently made an appearance at the Limerick Milk Market.",
@@ -9394,6 +9543,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/18/3b26ea9a-977c-b853-2e79-c73ba0b8440f.jpeg?width=1200&auto=webp&trim=0%2C80%2C0%2C80",
       "imageCredit": "FILE PHOTO",
       "rewrittenAt": "2026-11-10T17:02:50.057Z"
+    },
+    "9341315": {
+      "headline": "Greenmount Park reveals details for upcoming Christmas Racing Festival",
+      "summary": "Limerick Racecourse has announced its 26th annual Christmas Racing Festival, featuring Mr Binman as title sponsor for the sixth year running.",
+      "story": "The four-day festival of racing, live entertainment and family fun is scheduled to take place at Greenmount Park from December 26 to 29, 2026. Mr Binman returns as the title sponsor for the event's sixth consecutive year.",
+      "localAngle": "The four-day racing festival takes place locally at Greenmount Park in Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick Racecourse unveils plans for 26th Christmas Racing Festival",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/limerick-racecourse-unveils-plans-for-26th-christmas-racing-festival-9341315",
+      "publishedAt": "Tue, 10 Nov 2026 17:30:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/21/Big-Boss_157.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Dermot Culhane Photography",
+      "rewrittenAt": "2026-11-10T20:29:22.537Z"
     },
     "9341483": {
       "headline": "City Hall hosts crucial Metropolitan District meeting regarding Christmas festivities",
@@ -9510,6 +9676,65 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/12/Untitled-design-(38).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-10T16:59:34.366Z"
+    },
+    "9342925": {
+      "headline": "Funeral arrangements set for young boy lost in Waterford arson fire",
+      "summary": "Funeral details have been announced for Elliot English following his death from injuries sustained in a fatal arson attack in Waterford city last month.",
+      "story": "Elliot English has passed away from injuries he received in a fatal arson attack that occurred in Waterford city last month. Funeral details for the young boy have now been officially announced.",
+      "localAngle": "This tragic national news story is being followed by readers across the country, including in Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "RIP: Funeral details announced for boy who died from injuries in Waterford arson attack ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/rip-funeral-details-announced-for-boy-who-died-from-injuries-in-waterford-arson-attack-9342945",
+      "publishedAt": "Tue, 10 Nov 2026 17:15:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/16/37/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-10T164428-586.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Facebook",
+      "rewrittenAt": "2026-11-10T20:29:32.121Z"
+    },
+    "9343064": {
+      "headline": "Arrests Made During Joe Biden's Dublin Visit for Trinity College Event",
+      "summary": "Arrests occurred during a surprise Dublin visit by Joe Biden as Hunter Biden received a medal from Trinity College's College Historical Society.",
+      "story": "Arrests were made during a surprise visit to Dublin by Joe Biden while Hunter Biden was awarded the gold medal for Outstanding Contribution for Public Discourse by the College Historical Society at Trinity College.",
+      "localAngle": "While this national event took place in Dublin, Limerick readers following political visits and related arrests can view the original reporting on the Limerick Leader.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Arrests as Joe Biden makes surprise Dublin visit",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/arrests-as-joe-biden-makes-surprise-dublin-visit-9343064",
+      "publishedAt": "Tue, 10 Nov 2026 19:45:40 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/19/cs-dbfafc9d-f024-4b38-9701-40397fc3e020.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-10T20:28:23.138Z"
+    },
+    "9343202": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363020",
+      "rewrittenAt": "2026-11-10T20:27:36.813Z"
+    },
+    "9343221": {
+      "skipped": true,
+      "duplicateOf": "9341532",
+      "rewrittenAt": "2026-11-10T20:27:36.813Z"
+    },
+    "9343285": {
+      "headline": "Taoiseach Supports All-Island Football After Derry's FAI Cup Win",
+      "summary": "Taoiseach Micheal Martin has expressed support for growing football on an all-island basis following Derry FC's FAI Cup victory.",
+      "story": "Speaking on Tuesday, Taoiseach Micheal Martin praised Derry FC’s FAI Cup win from the previous weekend as an example of how competition can enhance the sport, while stating his favour for growing football across the entire island.",
+      "localAngle": "While this is a national sports policy topic, football fans and clubs across Limerick take an active interest in developments regarding the FAI Cup and all-island competitions.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Irish premier in favour of ‘growing football on an all-island basis’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-premier-in-favour-of-growing-football-on-an-all-island-basis-9343285",
+      "publishedAt": "Tue, 10 Nov 2026 20:19:13 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-10T20:27:43.123Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -12536,6 +12761,64 @@
       "rewrittenAt": "2026-11-10T17:02:41.897Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/RP-Driver-Excellence-Award-Derek-Lane68.jpg",
       "imageCheckedAt": "2026-11-10T17:02:53.015Z"
+    },
+    "https://www.limerickpost.ie/?p=363070": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363018",
+      "rewrittenAt": "2026-11-10T20:27:36.813Z"
+    },
+    "https://www.limerickpost.ie/?p=363067": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363063",
+      "rewrittenAt": "2026-11-10T20:27:36.813Z"
+    },
+    "https://www.limerickpost.ie/?p=362994": {
+      "headline": "Ballingarry's Billy Lee and Abbeyfeale's Paddy Hartnett crowned Irish racing champions",
+      "summary": "Billy Lee secured his first Champion Jockey title with 99 winners, while fellow Limerick native Paddy Hartnett claimed the Champion Apprentice crown at the Curragh.",
+      "story": "Limerick racing celebrated a historic double after Billy Lee of Ballingarry was crowned Ireland’s Champion Jockey and Abbeyfeale's Paddy Hartnett secured the Champion Apprentice title at the Curragh.\n\nAt 40 years old, Lee realised a lifetime ambition by finishing the calendar year with 99 winners from nearly 650 rides, making him the oldest first-time title winner since 1978. His success was bolstered by over 30 winners from Tipperary trainer Paddy Twomey, including a lucrative victory in the Goffs Million on Trean. Lee is the first Limerick jockey to capture the senior crown since the late Liam Ward of Rathkeale in 1961.\n\nMeanwhile, 24-year-old Paddy Hartnett clinched the Champion Apprentice category with 29 wins, sealing the title following a late-season surge that featured a treble at Punchestown.\n\n\"This championship is as much for the people supporting me as it is for me,\" Lee said following his achievement. Hartnett added: “It’s crazy. I just want to thank absolutely everybody that’s followed me and supported me; owners, trainers, even jockeys. It’s massive to me and my career.”",
+      "localAngle": "Billy Lee and Paddy Hartnett brought two of Irish horse racing's top titles home to County Limerick.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 5,
+      "originalTitle": "A racing double to savour for Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/a-racing-double-to-savour-for-limerick/",
+      "publishedAt": "Tue, 10 Nov 2026 19:30:57 +0000",
+      "rewrittenAt": "2026-11-10T20:28:32.630Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Champions.jpg",
+      "imageCheckedAt": "2026-11-10T20:29:52.271Z"
+    },
+    "https://www.limerickpost.ie/?p=363016": {
+      "headline": "Limerick School of Art and Design to host university futures exhibition",
+      "summary": "An exhibition exploring higher education in Limerick in the year 2070 arrives at the Limerick School of Art and Design this Thursday as part of Irish Design Week.",
+      "story": "What higher education in Limerick could look like by 2070 is the central question behind a new exhibition coming to the city this week.\n\nCreated by Studio Saol, 'The Pluriversity' will be hosted at the Limerick School of Art and Design (LSAD) this Thursday, November 12, as part of the nationwide Irish Design Week events.\n\nThe project arrives in Limerick following previous exhibitions in Copenhagen and at Dutch Design Week. Developed in collaboration with the University of Limerick Foundation and Rethink Ireland, the showcase draws on research and direct engagement with students, academic staff, and local communities to explore the future evolution of higher education.\n\nLocals and visitors interested in attending can find booking and event details through the Design & Crafts Council Ireland (DCCI) event listing.",
+      "localAngle": "The exhibition examines the future evolution of higher education specifically in Limerick, hosted locally at the Limerick School of Art and Design.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "New exhibition exploring future of Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/new-exhibition-exploring-future-of-limerick/",
+      "publishedAt": "Tue, 10 Nov 2026 18:00:23 +0000",
+      "rewrittenAt": "2026-11-10T20:28:45.034Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/06/UL-aerial-Living-Bridge.jpg",
+      "imageCheckedAt": "2026-11-10T20:29:52.943Z"
+    },
+    "https://limerickvoice.com/?p=53720": {
+      "headline": "Rape Crisis Midwest Reveals 85% of Sexual Violence Victims Still Do Not Report",
+      "summary": "Rape Crisis Midwest says 85% of sexual violence victims still do not report their experiences. The centre's helpline remains busy despite low formal reporting rates.",
+      "story": "Eighty-five percent of people who experience sexual violence still do not report it, according to Siobhán O’Leary, Executive Director of Rape Crisis Midwest. Speaking to the Limerick Voice, O'Leary said society remains “very far away” from a point where survivors feel comfortable coming forward with formal reports.\n\nThe comments follow the sentencing of British actor Russell Brand to 10 years and six months in prison for rape and sexual assault, a high-profile case that has renewed public conversation surrounding sexual violence and the barriers victims face in reporting.\n\nDespite the low reporting statistics, O’Leary noted that the regional centre's helpline remains consistently busy, with high volumes of engagement occurring online through social media direct messages and email inquiries. She added that long-term staff members have not observed a significant shift in reporting patterns over decades of service.\n\nFor anyone affected by sexual violence, support services remain available across the region. O'Leary stressed that local services are ready to assist survivors. Anyone seeking support can visit rapecrisis.ie or email info@rapecrisis.ie.",
+      "localAngle": "The figures highlight the ongoing challenges faced by Rape Crisis Midwest in supporting survivors across the region.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "‘85% of people still do not report sexual violence’ says Executive Director at Rape Crisis Midwest",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/politics/85-of-people-still-do-not-report-sexual-violence-says-executive-director-at-rape-crisis-midwest/",
+      "publishedAt": "Tue, 10 Nov 2026 17:00:15 +0000",
+      "rewrittenAt": "2026-11-10T20:29:51.782Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/shimabdinzade-woman-7483483_1920_ULStudentFIONN.MURTA_.jpg",
+      "imageCheckedAt": "2026-11-10T20:29:53.371Z"
     }
   }
 }
