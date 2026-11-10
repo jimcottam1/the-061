@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-09T22:57:37.466Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-10T13:25:03.125Z",
+    "totalArticles": 31
   },
   "articles": {
     "8353171": {
@@ -3249,6 +3249,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T13:49:23.333Z"
     },
+    "9338438": {
+      "id": "9338438",
+      "title": "Limerick businesswoman honoured with national award",
+      "link": "https://www.limerickleader.ie/news/business/limerick-businesswoman-honoured-with-national-award-9338438",
+      "description": "From childhood passion to national recognition: Limerick's Nell Stritch wins prestigious One Fab Day Wedding Award",
+      "pubDate": "Tue, 10 Nov 2026 09:00:43 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/10/53/ONE-FAB-DAY-AWARDS-2026-52-jpg.jpg?width=1200&auto=webp&trim=0%2C100%2C0%2C50",
+      "imageCredit": "PICTURE: INSTAGRAM",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
     "9338736": {
       "id": "9338736",
       "title": "Brave Athea fall short in Munster Junior Championship clash",
@@ -3319,6 +3331,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
     },
+    "9339680": {
+      "id": "9339680",
+      "title": "AIL Round-Up as Limerick clubs set for three-week break from action",
+      "link": "https://www.limerickleader.ie/sport/rugby/ail-round-up-as-limerick-clubs-set-for-three-week-break-from-action-9339680",
+      "description": "Limerick sides endured a mixed bag of results in Round 6 of All-Ireland League action as teams prepare for a three-week break from domestic endeavours.",
+      "pubDate": "Tue, 10 Nov 2026 08:30:33 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/14/56/Old-Crescent-v-Thomond-in-the-AIL-Division-2B-South-8-(1).jpeg?width=1200&auto=webp&trim=100%2C0%2C100%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
     "9339952": {
       "id": "9339952",
       "title": "Loved TV star makes an appearance at Limerick Milk Market",
@@ -3364,6 +3388,64 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/22/cs-33c1cc4b-33a1-4032-8722-a0d98534a0f9.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T22:57:27.643Z"
+    },
+    "9341168": {
+      "id": "9341168",
+      "title": "Public sector pay deal ‘within reach’ – Tánaiste",
+      "link": "https://www.limerickleader.ie/national/public-sector-pay-deal-within-reach-tanaiste-9341168",
+      "description": "Discussions are taking place between trade unions and Government representatives at the Workplace Relations Commission.",
+      "pubDate": "Tue, 10 Nov 2026 11:48:54 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/cs-f368d43b-319c-452e-8388-ffa3870dc8ba.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
+    "9341199": {
+      "id": "9341199",
+      "title": "Qualification process confirmed for the 2027 G4D Ryder Cup in Limerick",
+      "link": "https://www.limerickleader.ie/sport/ryder-cup/qualification-process-confirmed-for-the-2027-g4d-ryder-cup-in-limerick-9341199",
+      "description": "The qualification period runs from November 10 this year until next July, and players will earn their place through performances at eligible tournaments",
+      "pubDate": "Tue, 10 Nov 2026 10:06:37 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/18/3b26ea9a-977c-b853-2e79-c73ba0b8440f.jpeg?width=1200&auto=webp&trim=0%2C80%2C0%2C80",
+      "imageCredit": "FILE PHOTO",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
+    "9341483": {
+      "id": "9341483",
+      "title": "PICTURES: Christmas in Limerick meeting at City Hall",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-christmas-in-limerick-meeting-at-city-hall-9341483",
+      "description": "Councillors, traders and local residents gathered this Tuesday morning at City Hall on Merchant's Quay in Limerick city for a crunch Metropolitan District Meeting",
+      "pubDate": "Tue, 10 Nov 2026 11:02:34 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/32/ilim-Christmas-Meeting-City-Hall-10-11-26-1-016b6920.jpeg?width=1200&auto=webp&trim=120%2C0%2C120%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
+    "9341532": {
+      "id": "9341532",
+      "title": "Local sporting legend joins Limerick senior footballers backroom team",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/local-sporting-legend-joins-limerick-senior-footballers-backroom-team-9341532",
+      "description": "Matt Hall brings a wealth of experience in basketball having played over 200 times for the UL Eagles",
+      "pubDate": "Tue, 10 Nov 2026 11:30:53 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/38/2201442.jpeg?width=1200&auto=webp&trim=0%2C85%2C164%2C112",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
+    },
+    "9341695": {
+      "id": "9341695",
+      "title": "Sinn Féin’s triple lock reform protest ‘misinformation’, defence minister says",
+      "link": "https://www.limerickleader.ie/national/sinn-feins-triple-lock-reform-protest-misinformation-defence-minister-says-9341695",
+      "description": "Sinn Féin is demanding a referendum after Dáil Éireann voted last month to reform the system around the deployment of peacekeeping troops.",
+      "pubDate": "Tue, 10 Nov 2026 11:49:35 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/cs-9b2ee700-dafd-4cab-b185-5339ba8c73b6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T13:24:55.526Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5486,6 +5568,76 @@
       "author": "Kayleigh Downey",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-09T22:57:28.237Z"
+    },
+    "https://www.limerickpost.ie/?p=363007": {
+      "id": "https://www.limerickpost.ie/?p=363007",
+      "title": "Grads benefit from expansion of programme",
+      "link": "https://www.limerickpost.ie/2026/11/10/grads-benefit-from-expansion-of-programme-2/",
+      "description": "LIMERICK graduates are set to benefit from a new recruitment expansion by a leading provider of accountancy services and business advice. Xeinadin have announced plans to recruit 70 graduates as part of its 2027 early careers programme, with opportunities available in Limerick. It marks a 40 per cent increase from last year&#8217;s intake as emerging [&#8230;]\nThe post Grads benefit from expansion of programme appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 12:00:17 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T13:24:54.825Z"
+    },
+    "https://www.limerickpost.ie/?p=363022": {
+      "id": "https://www.limerickpost.ie/?p=363022",
+      "title": "Farmers Invited to Learn About Funding to Improve Local Water Quality",
+      "link": "https://www.limerickpost.ie/2026/11/10/farmers-invited-to-learn-about-funding-to-improve-local-water-quality/",
+      "description": "Maigue Rivers Trust is inviting local farmers to two Farming for Water information evenings in November, offering an opportunity to learn about grant funding and practical measures that can benefit both their farms and local waterways. The evenings will introduce Aidan Suart, the Trust’s newly appointed Farming for Water Agricultural Community Animator, who will work [&#8230;]\nThe post Farmers Invited to Learn About Funding to Improve Local Water Quality appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 10:49:07 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T13:24:54.825Z"
+    },
+    "https://www.limerickpost.ie/?p=363004": {
+      "id": "https://www.limerickpost.ie/?p=363004",
+      "title": "Infinity marks second anniversary with opening of new Shannon offices",
+      "link": "https://www.limerickpost.ie/2026/11/10/infinity-marks-second-anniversary-with-opening-of-new-shannon-offices/",
+      "description": "A SHANNON-BASED aviation company has marked its second anniversary with the opening of a new base of operations aimed at bolstering international growth. Infinity Aviation Support marked its second anniversary, after being first opened in 2024 by aviation industry expert Anthony Attoumani, with the official opening of its new offices at Westpark Business Campus in [&#8230;]\nThe post Infinity marks second anniversary with opening of new Shannon offices appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 10:30:14 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T13:24:54.826Z"
+    },
+    "https://www.limerickpost.ie/?p=363002": {
+      "id": "https://www.limerickpost.ie/?p=363002",
+      "title": "Council’s Christmas AI video deemed a ‘non-issue’ by one councillor",
+      "link": "https://www.limerickpost.ie/2026/11/10/councils-christmas-ai-video-deemed-a-non-issue-by-one-councillor/",
+      "description": "CITY councillors recently took the cheer out of the local authority&#8217;s Christmas in Limerick 2026 video over the use of AI. The view of local representatives at the October meeting of the Metropolitan District was that the use of AI to showcase the city is potentially misleading and sends a message to those in the [&#8230;]\nThe post Council&#8217;s Christmas AI video deemed a &#8216;non-issue&#8217; by one councillor appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 09:00:18 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T13:24:54.826Z"
+    },
+    "https://limerickvoice.com/?p=53708": {
+      "id": "https://limerickvoice.com/?p=53708",
+      "title": "UL look to reach CUFL semi-finals with Maynooth test",
+      "link": "https://limerickvoice.com/sport/ul-look-to-reach-cufl-semi-finals-with-maynooth-test/",
+      "description": "UL have the chance to make it two wins from four games this season when they take on Maynooth in this afternoon&#8217;s quarter-final.   UNIVERSITY of Limerick have had a mixed start to the season, beginning with an opening day defeat to UCC in Cork. Liam O’Sullivan was on the scoresheet and impressed throughout in [&#8230;]\nThe post UL look to reach CUFL semi-finals with Maynooth test appeared first on .",
+      "pubDate": "Tue, 10 Nov 2026 13:15:57 +0000",
+      "author": "Seán Torley",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-10T13:24:56.182Z"
+    },
+    "https://limerickvoice.com/?p=53697": {
+      "id": "https://limerickvoice.com/?p=53697",
+      "title": "Six Treaty United players feature on PFAI transfer list ahead of 2027 season",
+      "link": "https://limerickvoice.com/sport/six-treaty-united-players-feature-on-pfai-transfer-list-ahead-of-2027-season/",
+      "description": "Former Limerick FC player says that PFAI transfer lists highlight a lack of security in the First Division. SIX players with links to Treaty United have been named on the Professional Footballers&#8217; Association of Ireland&#8217;s (PFAI) transfer lists as clubs begin preparing for the 2027 League of Ireland season.  Five players feature on the men&#8217;s [&#8230;]\nThe post Six Treaty United players feature on PFAI transfer list ahead of 2027 season appeared first on .",
+      "pubDate": "Tue, 10 Nov 2026 13:00:59 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-10T13:24:56.182Z"
+    },
+    "https://limerickvoice.com/?p=53696": {
+      "id": "https://limerickvoice.com/?p=53696",
+      "title": "Music by Candlelight and More: What’s Happening in Limerick This Week",
+      "link": "https://limerickvoice.com/arts-and-culture/music-by-candlelight-and-more-whats-happening-in-limerick-this-week/",
+      "description": "From a Hans Zimmer candlelit tribute to a Twilight- themed rave, here&#8217;s what&#8217;s hitting limerick this week.  MUSIC lovers in Limerick can look forward to an eclectic mix of performances this week, from cinematic classics to contemporary folk.   On this coming Thursday, Irish musician, Andy Irvine, will present a concert accompanied by the Swedish band &#8216;Quilty&#8217;, showcasing their [&#8230;]\nThe post Music by Candlelight and More: What’s Happening in Limerick This Week appeared first on .",
+      "pubDate": "Tue, 10 Nov 2026 12:37:01 +0000",
+      "author": "Iñaki Zamora Miranda",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-10T13:24:56.182Z"
     }
   },
   "rewritten": {
@@ -8972,6 +9124,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-09T13:53:27.620Z"
     },
+    "9338438": {
+      "headline": "Limerick's Nell Stritch Wins National Wedding Award",
+      "summary": "Limerick businesswoman Nell Stritch has received national recognition at the One Fab Day Wedding Awards.",
+      "story": "Nell Stritch was honoured with a prestigious One Fab Day Wedding Award, turning a childhood passion into national recognition. The Limerick leader reported the achievement.",
+      "localAngle": "The award-winning businesswoman is from Limerick.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 5,
+      "brief": true,
+      "originalTitle": "Limerick businesswoman honoured with national award",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/business/limerick-businesswoman-honoured-with-national-award-9338438",
+      "publishedAt": "Tue, 10 Nov 2026 09:00:43 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/10/53/ONE-FAB-DAY-AWARDS-2026-52-jpg.jpg?width=1200&auto=webp&trim=0%2C100%2C0%2C50",
+      "imageCredit": "PICTURE: INSTAGRAM",
+      "rewrittenAt": "2026-11-10T13:30:10.222Z"
+    },
     "9338736": {
       "skipped": true,
       "duplicateOf": "9336094",
@@ -9060,6 +9229,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/14/cs-1036f397-d83d-42c1-bfbb-118bf8d6cf05.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-09T19:46:34.434Z"
     },
+    "9339680": {
+      "skipped": true,
+      "duplicateOf": "9336764",
+      "rewrittenAt": "2026-11-10T13:26:05.659Z"
+    },
     "9339952": {
       "headline": "Downton Abbey star Laura Carmichael visits Limerick Milk Market",
       "summary": "Actress Laura Carmichael, known for her role as Lady Edith in Downton Abbey, recently made an appearance at the Limerick Milk Market.",
@@ -9102,6 +9276,61 @@
       "publishedAt": "Mon, 09 Nov 2026 22:37:32 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/22/cs-33c1cc4b-33a1-4032-8722-a0d98534a0f9.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-09T22:58:10.288Z"
+    },
+    "9341168": {
+      "skipped": true,
+      "duplicateOf": "9339517",
+      "rewrittenAt": "2026-11-10T13:26:05.659Z"
+    },
+    "9341483": {
+      "headline": "City Hall hosts crucial Metropolitan District meeting regarding Christmas festivities",
+      "summary": "Local councillors, traders, and residents met at City Hall on Merchant's Quay this Tuesday morning for a crunch Metropolitan District meeting about Christmas in Limerick.",
+      "story": "Councillors, traders, and local residents gathered this Tuesday morning at City Hall on Merchant's Quay in Limerick city for a crunch Metropolitan District Meeting concerning Christmas in Limerick.",
+      "localAngle": "The meeting took place at City Hall on Merchant's Quay, bringing together Limerick representatives, traders, and residents to discuss local Christmas plans.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "PICTURES: Christmas in Limerick meeting at City Hall",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-christmas-in-limerick-meeting-at-city-hall-9341483",
+      "publishedAt": "Tue, 10 Nov 2026 11:02:34 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/32/ilim-Christmas-Meeting-City-Hall-10-11-26-1-016b6920.jpeg?width=1200&auto=webp&trim=120%2C0%2C120%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-10T13:27:43.162Z"
+    },
+    "9341532": {
+      "headline": "Matt Hall joins Limerick senior footballers backroom staff",
+      "summary": "Former UL Eagles basketball player Matt Hall has joined the Limerick senior footballers backroom team.",
+      "story": "Matt Hall, who played over 200 times for the UL Eagles, brings his basketball experience to the Limerick senior football backroom team.",
+      "localAngle": "The appointment connects a well-known UL Eagles basketball figure with the Limerick senior county football setup.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Local sporting legend joins Limerick senior footballers backroom team",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/local-sporting-legend-joins-limerick-senior-footballers-backroom-team-9341532",
+      "publishedAt": "Tue, 10 Nov 2026 11:30:53 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/38/2201442.jpeg?width=1200&auto=webp&trim=0%2C85%2C164%2C112",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-10T13:27:34.084Z"
+    },
+    "9341695": {
+      "headline": "Defence Minister Labels Sinn Féin Triple Lock Protest Claims As Misinformation",
+      "summary": "Sinn Féin is calling for a referendum following the Dáil vote last month to reform the deployment rules for peacekeeping troops.",
+      "story": "The defence minister has hit back at Sinn Féin's protest over triple lock reforms, labelling the opposition's stance as misinformation following last month's Dáil vote to change the deployment system for peacekeeping troops.",
+      "localAngle": "This national political debate on defence policy and troop deployment impacts voters across Limerick and the wider 061 region.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Sinn Féin’s triple lock reform protest ‘misinformation’, defence minister says",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/sinn-feins-triple-lock-reform-protest-misinformation-defence-minister-says-9341695",
+      "publishedAt": "Tue, 10 Nov 2026 11:49:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/cs-9b2ee700-dafd-4cab-b185-5339ba8c73b6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-10T13:27:27.741Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -11958,6 +12187,96 @@
       "rewrittenAt": "2026-11-09T22:58:26.249Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Bet-Irish-St-Leger-550-Round-2-1.jpg",
       "imageCheckedAt": "2026-11-09T22:58:26.636Z"
+    },
+    "https://www.limerickpost.ie/?p=363007": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362888",
+      "rewrittenAt": "2026-11-10T13:26:05.658Z"
+    },
+    "https://www.limerickpost.ie/?p=363002": {
+      "skipped": true,
+      "duplicateOf": "9341483",
+      "rewrittenAt": "2026-11-10T13:26:05.659Z"
+    },
+    "https://limerickvoice.com/?p=53708": {
+      "headline": "University of Limerick football squad travels to Maynooth for CUFL quarter-final",
+      "summary": "The University of Limerick senior team takes on Maynooth this afternoon at 2pm with a place in the CUFL Premier Division semi-finals on the line.",
+      "story": "University of Limerick's senior football squad faces Maynooth away this afternoon in the CUFL quarter-final, aiming to secure a spot in the competition's semi-finals.\n\nUL head into the clash looking for their second win from four games this season. Their campaign began with a tightly contested opening-day defeat to UCC in Cork, where Liam O’Sullivan found the scoresheet. They bounced back in their second outing with a 2-0 away victory against SETU Carlow, courtesy of goals from Matt Jones and Colin Doody. Two weeks ago, UL hosted their first home game of the season at Maguires Astro against TU Dublin, falling 2-1 despite an Oisín Breen goal and a sensational free-kick from the visitors.\n\nSpeaking ahead of the fixture, UL Senior Team member Conor Carew highlighted the opportunities given to emerging players. \"Plenty of fresh faces have got the chance to play intervarsity football,\" Carew said, adding that this \"bodes well as we look forward to the major competitions being held in semester two.\"\n\nUL have enjoyed a strong start overall, with all four of the university's teams progressing to the knockout stages of their respective leagues. Kick-off for this afternoon's crucial quarter-final is at 2pm.",
+      "localAngle": "The University of Limerick's senior team is representing the county in the intervarsity CUFL quarter-final.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "UL look to reach CUFL semi-finals with Maynooth test",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/ul-look-to-reach-cufl-semi-finals-with-maynooth-test/",
+      "publishedAt": "Tue, 10 Nov 2026 13:15:57 +0000",
+      "rewrittenAt": "2026-11-10T13:26:18.425Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/unnamed_ULStudentSEAN.TORLEY.jpg",
+      "imageCheckedAt": "2026-11-10T13:30:10.659Z"
+    },
+    "https://limerickvoice.com/?p=53697": {
+      "headline": "Six Treaty United Players Named on PFAI Transfer Lists Ahead of 2027 Season",
+      "summary": "Six players with links to Treaty United have been placed on the PFAI transfer lists as preparations begin for the 2027 League of Ireland season. The inclusions highlight ongoing concerns over player security in the First Division.",
+      "story": "Five men's players and one women's representative with links to Treaty United have been named on the Professional Footballers’ Association of Ireland’s (PFAI) transfer lists ahead of the 2027 League of Ireland season. The men's list, released on November 9, includes defender Darren Nwankwo, midfielders Colin Conroy, Steven Healy and Ronan Manning, and attacker Brian Cunningham. Goalkeeper Katherine Hess represents the club on the women's list, which was published the previous week.\n\nInclusion on the lists does not necessarily mean a player has been released or intends to leave their current club. Instead, it allows players to make themselves available to other interested clubs who can make contact through the PFAI. Also featuring on the men's list is 20-year-old forward Jason Folarin Oyenuga, who spent the 2026 season on loan at Treaty from St Patrick’s Athletic and scored eight league goals before his contract expired.\n\nFormer Limerick FC player and academy coach Jason O’Connor said the transfer lists expose a lack of security for players operating on year-to-year contracts in the First Division. O'Connor noted that more Treaty players might have been expected on the list following a difficult 2026 campaign, and questioned whether the club remains an attractive destination for local talent as the Limerick FC name prepares to return to senior football in 2027.",
+      "localAngle": "Six players with ties to Treaty United have been named on PFAI transfer lists, as local figures debate the club's appeal to regional talent ahead of Limerick FC's return in 2027.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Six Treaty United players feature on PFAI transfer list ahead of 2027 season",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/six-treaty-united-players-feature-on-pfai-transfer-list-ahead-of-2027-season/",
+      "publishedAt": "Tue, 10 Nov 2026 13:00:59 +0000",
+      "rewrittenAt": "2026-11-10T13:26:26.041Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-10-at-12.41.35-PM.jpeg",
+      "imageCheckedAt": "2026-11-10T13:30:11.543Z"
+    },
+    "https://limerickvoice.com/?p=53696": {
+      "headline": "Hans Zimmer tribute, Andy Irvine and Twilight rave head up Limerick's weekly events",
+      "summary": "Limerick venues are hosting a packed week of entertainment, featuring folk music at Dolans, a Candlelight concert at St. Mary's Cathedral, and a Twilight-themed rave.",
+      "story": "Music and theatre lovers across Limerick have an eclectic lineup of events to look forward to this week, ranging from cinematic orchestral tributes to contemporary folk performances.\n\nTraditional music gets underway on Thursday as renowned Irish musician Andy Irvine takes to the stage at Dolans Bar and Restaurant, accompanied by Swedish band Quilty to showcase a unique blend of Irish and Swedish folk. On the same night, the Belltable theatre will screen a live stage recording of 'Les Liaisons Dangereuses' from the National Theatre, bringing Christopher Hampton’s classic tale of social warfare to local audiences.\n\nThe weekend kicks off on Friday, November 13th, with St. Mary’s Cathedral hosting the first in a series of immersive Candlelight concerts. Organised by live entertainment company Fever, the opening night features a multisensory tribute to composer Hans Zimmer, with performances of iconic film scores from 'Pirates of the Caribbean' and 'The Dark Knight'. Fever representatives noted that the series aims to broaden classical music access through fresh interpretations of popular artists like ABBA and Queen.\n\nFor pop culture fans, Friday night also brings the fan-made \"Hoa-Hoa-Hoa Rave\" to Dolans, celebrating the 'Twilight' saga with soundtrack anthems, dark pop, and 2000s hits alongside visuals from the films.",
+      "localAngle": "A diverse lineup of live music, theatre, and themed events is taking place across prominent Limerick venues including Dolans, St. Mary's Cathedral, and the Belltable.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Music by Candlelight and More: What’s Happening in Limerick This Week",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/music-by-candlelight-and-more-whats-happening-in-limerick-this-week/",
+      "publishedAt": "Tue, 10 Nov 2026 12:37:01 +0000",
+      "rewrittenAt": "2026-11-10T13:27:14.871Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/overlay-image_ULStudentINAKI.ZAMOR_-1024x520.png",
+      "imageCheckedAt": "2026-11-10T13:30:11.722Z"
+    },
+    "https://www.limerickpost.ie/?p=363022": {
+      "headline": "Maigue Rivers Trust hosts Limerick farming info evenings on water grants",
+      "summary": "Local farmers are invited to attend upcoming information evenings in Granagh and Lough Gur to learn about grant funding and practical measures to improve water quality in the River Maigue catchment.",
+      "story": "Farmers across the Maigue catchment are being invited to attend two upcoming information evenings hosted by the Maigue Rivers Trust to learn about grant funding and practical steps to improve local water quality.\n\nThe events will introduce Aidan Suart, the Trust’s newly appointed Farming for Water Agricultural Community Animator. Suart will work directly with farmers to explain available measures under the Farming for Water programme, outline financial supports, and assist with grant applications.\n\nTwo information sessions are scheduled in County Limerick. The first takes place on Monday, November 2, at Granagh Community Hall (V35 C584), followed by a second session on Tuesday, November 10, at the Lough Gur Visitor Centre (V35 ED96).\n\nBoth evenings begin with an opportunity to meet Suart from 6pm, followed by food and refreshments at 6.30pm and an information talk at 7pm. Interested farmers can contact Aidan Suart directly on 086 172 2537 for further details.",
+      "localAngle": "The initiative directly supports farmers and waterways across the River Maigue catchment in County Limerick.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Farmers Invited to Learn About Funding to Improve Local Water Quality",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/farmers-invited-to-learn-about-funding-to-improve-local-water-quality/",
+      "publishedAt": "Tue, 10 Nov 2026 10:49:07 +0000",
+      "rewrittenAt": "2026-11-10T13:27:52.769Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Aidan-Suart-doing-a-kick-sample-in-the-River.jpeg",
+      "imageCheckedAt": "2026-11-10T13:30:11.892Z"
+    },
+    "https://www.limerickpost.ie/?p=363004": {
+      "headline": "Infinity Aviation Support Expands With New Shannon Offices Marking Second Anniversary",
+      "summary": "International aviation consultancy Infinity Aviation Support has celebrated its second anniversary by opening new offices at Westpark Business Campus in Shannon, having completed over 50 projects across 15 countries since 2024.",
+      "story": "Shannon-based aviation company Infinity Aviation Support has marked its second anniversary with the official opening of a new base of operations at the Westpark Business Campus. Founded in 2024 by aviation industry expert Anthony Attoumani, the international consultancy provides specialized services in aircraft design, engineering, certification, risk analysis, and training.\n\nThe company celebrated the milestone and office opening at an event attended by regional business, government, and aviation representatives, including Shannon Chamber Chief Executive Helen Downes, Honorary Consul of France in Limerick Loïc Guyon, and Clare TD Cathal Crowe. Over the past two years, the firm has delivered more than 50 projects across 15 countries to support its international growth.\n\nSpeaking at the event, founder and CEO Anthony Attoumani said that opening the new Shannon offices is an important step in the firm's development. \"We are ambitious for the future and excited to continue growing our business from one of Europe’s leading aviation hubs,\" he stated.\n\nLocal representatives welcomed the expansion as a testament to the strength of the Mid West region's aviation cluster. Deputy Cathal Crowe praised the company's rapid global growth, noting that Shannon serves as a key location for specialized aviation services and international connections.",
+      "localAngle": "The expansion reinforces the Mid West region's status as a leading European aviation hub and centre of excellence for specialized industry services.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Infinity marks second anniversary with opening of new Shannon offices",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/infinity-marks-second-anniversary-with-opening-of-new-shannon-offices/",
+      "publishedAt": "Tue, 10 Nov 2026 10:30:14 +0000",
+      "rewrittenAt": "2026-11-10T13:29:52.176Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Infinity-Aviation-Support-Anniversary-Westpark-1.jpg",
+      "imageCheckedAt": "2026-11-10T13:30:12.680Z"
     }
   }
 }
