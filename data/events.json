@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T13:30:14.837Z",
+  "updatedAt": "2026-11-10T17:02:56.016Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -65,7 +65,6 @@
       "price": "Standard €27"
     },
     {
-      "checkedAt": "2026-11-07T15:37:48.719Z",
       "id": "111883",
       "title": "Samhain: Exploring The Thin Time",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/samhain-exploring-the-thin-time",
@@ -73,7 +72,8 @@
       "end": "2026-11-19T16:00:00.000Z",
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "checkedAt": "2026-11-07T18:01:18.510Z",
@@ -85,17 +85,6 @@
       "place": "Kilfinane"
     },
     {
-      "id": "111222",
-      "title": "Children’s LEGO Workshop",
-      "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/childrens-lego-workshop-10",
-      "start": "2026-11-10T14:30:00.000Z",
-      "end": "2026-11-10T16:00:00.000Z",
-      "place": "Watch House Cross Community Library, Limerick City",
-      "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-10T13:30:14.837Z"
-    },
-    {
       "id": "111769",
       "title": "Digital Makers Hub – Portrait Editing with Affinity",
       "url": "https://www.limerick.ie/discover/whats-on/free/digital-makers-hub-portrait-editing-with-affinity",
@@ -104,7 +93,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "id": "109316",
@@ -115,7 +104,7 @@
       "place": "Limerick City Library",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "id": "110661",
@@ -126,7 +115,7 @@
       "place": "Belltable, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "id": "112019",
@@ -136,7 +125,7 @@
       "end": "2026-11-11T21:30:00.000Z",
       "place": "Sexton's Pizza Bar, Limerick City",
       "price": "€10",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "id": "111841",
@@ -146,10 +135,9 @@
       "end": "2026-11-12T14:00:00.000Z",
       "place": "The Hunt Museum, Limerick City",
       "price": "€5",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
-      "checkedAt": "2026-11-09T13:53:31.613Z",
       "id": "107607",
       "title": "Storytime for young Children",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-161",
@@ -157,16 +145,17 @@
       "end": "2026-11-12T16:30:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
-      "checkedAt": "2026-11-09T13:53:31.613Z",
       "id": "106838",
       "title": "Wickham Way",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/wickham-way-229",
       "start": "2026-11-12T16:00:00.000Z",
       "end": "2026-11-15T18:00:00.000Z",
-      "place": "Wickham Way, Limerick City"
+      "place": "Wickham Way, Limerick City",
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "checkedAt": "2026-11-09T22:58:28.219Z",
@@ -401,14 +390,14 @@
       "price": "Adult €7"
     },
     {
-      "checkedAt": "2026-11-07T15:37:48.719Z",
       "id": "110288",
       "title": "Disco Drag Brunch with Mockie Ah",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/disco-drag-brunch-with-mockie-ah",
       "start": "2026-11-14T13:00:00.000Z",
       "end": "2026-11-14T15:00:00.000Z",
       "place": "101 O'Connell Street, Limerick City",
-      "price": "€49.24"
+      "price": "€49.24",
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "checkedAt": "2026-11-08T15:56:04.039Z",
@@ -530,47 +519,46 @@
       "free": true
     },
     {
+      "checkedAt": "2026-11-10T13:30:14.837Z",
       "id": "111811",
       "title": "Winter Coffee & Creativity Evening",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/winter-coffee-creativity-evening",
       "start": "2026-11-18T19:00:00.000Z",
       "end": "2026-11-18T20:30:00.000Z",
       "place": "Limerick City",
-      "price": "€37",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "price": "€37"
     },
     {
+      "checkedAt": "2026-11-10T13:30:14.837Z",
       "id": "110427",
       "title": "The Hunchback of Notre Dame",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/the-hunchback-of-notre-dame",
       "start": "2026-11-18T19:30:00.000Z",
       "end": "2026-11-21T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
-      "price": "Standard €30",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "price": "Standard €30"
     },
     {
+      "checkedAt": "2026-11-10T13:30:14.837Z",
       "id": "111252",
       "title": "Bernard Casey: Live Show and Book Launch",
       "url": "https://www.limerick.ie/discover/whats-on/comedy/bernard-casey-live-show-and-book-launch",
       "start": "2026-11-18T20:00:00.000Z",
       "end": "2026-11-18T22:00:00.000Z",
       "place": "Fitzgerald's Woodlands House Hotel, Adare",
-      "price": "€25",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "price": "€25"
     },
     {
+      "checkedAt": "2026-11-10T13:30:14.837Z",
       "id": "111607",
       "title": "Electric Eel Shock",
       "url": "https://www.limerick.ie/discover/whats-on/music/electric-eel-shock",
       "start": "2026-11-18T20:00:00.000Z",
       "end": "2026-11-18T23:00:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
-      "price": "€17",
-      "checkedAt": "2026-11-10T13:30:14.837Z"
+      "price": "€17"
     },
     {
-      "checkedAt": "2026-11-07T15:37:48.719Z",
       "id": "107608",
       "title": "Storytime for young Children",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-162",
@@ -578,16 +566,17 @@
       "end": "2026-11-19T16:30:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
-      "free": true
+      "free": true,
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
-      "checkedAt": "2026-11-07T15:37:48.719Z",
       "id": "106839",
       "title": "Wickham Way",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/wickham-way-230",
       "start": "2026-11-19T16:00:00.000Z",
       "end": "2026-11-22T18:00:00.000Z",
-      "place": "Wickham Way, Limerick City"
+      "place": "Wickham Way, Limerick City",
+      "checkedAt": "2026-11-10T17:02:56.016Z"
     },
     {
       "checkedAt": "2026-11-08T11:54:14.132Z",
@@ -736,6 +725,12 @@
       "place": "Weekend Popup Gallery, Limerick City"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "111222",
+      "title": "Children’s LEGO Workshop",
+      "checkedAt": "2026-11-10T17:02:56.016Z"
+    }
+  ],
   "failed": []
 }

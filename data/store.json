@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-10T13:25:03.125Z",
-    "totalArticles": 31
+    "lastScrape": "2026-11-10T16:57:47.778Z",
+    "totalArticles": 28
   },
   "articles": {
     "8353171": {
@@ -3447,6 +3447,52 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T13:24:55.526Z"
     },
+    "9341815": {
+      "id": "9341815",
+      "title": "Bus driver found guilty of dangerous driving causing deaths of two teenagers on e-scooter",
+      "link": "https://www.limerickleader.ie/national/bus-driver-found-guilty-of-dangerous-driving-causing-deaths-of-two-teenagers-on-e-scooter-9341930",
+      "description": "Adrian Doyle (43) has been found guilty for his role in the collision that killed two Waterford teenagers",
+      "pubDate": "Tue, 10 Nov 2026 14:15:09 GMT",
+      "author": "Waterford Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/12/34/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-10T123809-861.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T16:57:38.630Z"
+    },
+    "9342434": {
+      "id": "9342434",
+      "title": "Government overspent 607m euro on international protection accommodation in 2024",
+      "link": "https://www.limerickleader.ie/national/government-overspent-607m-euro-on-international-protection-accommodation-in-2024-9342434",
+      "description": "The Public Accounts Committee launched the report on international protection and temporary protection (Ukraine) expenditure 2024 on Tuesday.",
+      "pubDate": "Tue, 10 Nov 2026 14:42:00 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/14/cs-6815ff7c-29fa-44e3-90a8-aef5f6c87624.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T16:57:38.629Z"
+    },
+    "9342668": {
+      "id": "9342668",
+      "title": "Evaluation of Cork hospital management staffing decisions needed – Chambers",
+      "link": "https://www.limerickleader.ie/national/evaluation-of-cork-hospital-management-staffing-decisions-needed-chambers-9342668",
+      "description": "Senior staff at the hospital have been raising reports of patient safety risks arising from staffing shortages and restrictions.",
+      "pubDate": "Tue, 10 Nov 2026 15:34:35 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/cs-9fb76d24-a9a5-4f78-a64b-0ac7a25f0736.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T16:57:38.629Z"
+    },
+    "9342710": {
+      "id": "9342710",
+      "title": "‘I didn’t mean to kill her,’ says Limerick teenage driver ‘high’ on drugs",
+      "link": "https://www.limerickleader.ie/news/crime-courts/i-didnt-mean-to-kill-her-says-limerick-teenage-driver-high-on-drugs-9342710",
+      "description": "The court heard that Áine O’Reilly, a nurse from Pallasgreen, died from multiple traumatic injuries and Keelan O’Connell will be sentenced next week",
+      "pubDate": "Tue, 10 Nov 2026 15:44:35 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/12/Untitled-design-(38).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-10T16:57:38.629Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -5638,6 +5684,56 @@
       "author": "Iñaki Zamora Miranda",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-10T13:24:56.182Z"
+    },
+    "https://www.limerickpost.ie/?p=363057": {
+      "id": "https://www.limerickpost.ie/?p=363057",
+      "title": "Major developments as Colbert Quarter on the starting block",
+      "link": "https://www.limerickpost.ie/2026/11/10/major-developments-as-colbert-quarter-on-the-starting-block/",
+      "description": "NEW homes, roads, walking, and cycling routes, a public park, sports and recreation facilities, public spaces, and utilities are now a step closer for the Colbert Quarter. Limerick Council appointed Arup as the multi-disciplinary project management, design, and engineering team to progress the key infrastructure packages within the programme. The appointment was formally marked at [&#8230;]\nThe post Major developments as Colbert Quarter on the starting block appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 16:30:34 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T16:57:37.951Z"
+    },
+    "https://www.limerickpost.ie/?p=363013": {
+      "id": "https://www.limerickpost.ie/?p=363013",
+      "title": "Tredwell Electrical celebrates 35 years with new Shannon manufacturing facility",
+      "link": "https://www.limerickpost.ie/2026/11/10/tredwell-electrical-celebrates-35-years-with-new-shannon-manufacturing-facility/",
+      "description": "TREDWELL ELECTRIAL, which is part of the Induchem Group is celebrating 35 years in business with the opening of a new 18,000 sq. ft. manufacturing facility at Shannon Airport Business Park in Clare. The facility, which was officially opened by Timmy Dooley TD, Minister of State, complements Tredwell’s Electrical existing 19,200 sq. ft. operation in [&#8230;]\nThe post Tredwell Electrical celebrates 35 years with new Shannon manufacturing facility appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 15:00:12 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T16:57:37.951Z"
+    },
+    "https://www.limerickpost.ie/?p=363063": {
+      "id": "https://www.limerickpost.ie/?p=363063",
+      "title": "Guilty verdict in trial of man accused of murdering Josie Ray",
+      "link": "https://www.limerickpost.ie/2026/11/10/guilty-verdict-in-trial-of-man-accused-of-murdering-josie-ray/",
+      "description": "A JURY at the Central Criminal Court today found a man guilty of the murder of his then girlfriend&#8217;s 89-year old mother, two years ago. Hasan Ali Gori, (52), a native of Chad, Africa, with an address in Nenagh, Co Tipperary, showed no reaction when the verdict was read out shortly after 2pm, Tuesday afternoon. [&#8230;]\nThe post Guilty verdict in trial of man accused of murdering Josie Ray appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 14:55:36 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T16:57:37.952Z"
+    },
+    "https://www.limerickpost.ie/?p=363010": {
+      "id": "https://www.limerickpost.ie/?p=363010",
+      "title": "Limerick bus driver recognised at GEM Awards",
+      "link": "https://www.limerickpost.ie/2026/11/10/limerick-bus-driver-recognised-at-gem-awards/",
+      "description": "THE work of a Limerick bus driver with almost 40 years experience has been recognised at the 2026 GEM Awards. Derek Lane was honoured by Bus Éireann for 36 years of service and outstanding reliability, winning the RP Driver Excellence Award in the West. The award recognises excellence in the core responsibilities of road passenger [&#8230;]\nThe post Limerick bus driver recognised at GEM Awards appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 13:30:54 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-10T16:57:37.952Z"
+    },
+    "https://limerickvoice.com/?p=53665": {
+      "id": "https://limerickvoice.com/?p=53665",
+      "title": "Treaty United teenager Madison McGuane on the radar of English clubs",
+      "link": "https://limerickvoice.com/sport/treaty-united-teenager-madison-mcguane-on-the-radar-of-english-clubs/",
+      "description": "The Limerick teenager spoke to the Limerick Voice last year about her ambition to play professionally in England, with that prospect now attracting increasing attention.  TREATY UNITED&#8217;s Madison McGuane is attracting interest from across the Irish Sea, with the 17-year-old Republic of Ireland international reportedly most recently on trial with Women&#8217;s Super League side Brighton [&#8230;]\nThe post Treaty United teenager Madison McGuane on the radar of English clubs appeared first on .",
+      "pubDate": "Tue, 10 Nov 2026 15:00:43 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-10T16:57:39.553Z"
     }
   },
   "rewritten": {
@@ -9282,6 +9378,23 @@
       "duplicateOf": "9339517",
       "rewrittenAt": "2026-11-10T13:26:05.659Z"
     },
+    "9341199": {
+      "headline": "Qualification Rules Set for 2027 G4D Ryder Cup in Limerick",
+      "summary": "The qualification period for the 2027 G4D Ryder Cup runs from November 10 until next July, with players earning spots through eligible tournaments.",
+      "story": "Players will secure their places in the 2027 G4D Ryder Cup in Limerick through performances at eligible tournaments during a qualification period running from November 10 until next July.",
+      "localAngle": "The tournament is set to take place in Limerick, drawing international attention to the local area.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Qualification process confirmed for the 2027 G4D Ryder Cup in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/ryder-cup/qualification-process-confirmed-for-the-2027-g4d-ryder-cup-in-limerick-9341199",
+      "publishedAt": "Tue, 10 Nov 2026 10:06:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/18/3b26ea9a-977c-b853-2e79-c73ba0b8440f.jpeg?width=1200&auto=webp&trim=0%2C80%2C0%2C80",
+      "imageCredit": "FILE PHOTO",
+      "rewrittenAt": "2026-11-10T17:02:50.057Z"
+    },
     "9341483": {
       "headline": "City Hall hosts crucial Metropolitan District meeting regarding Christmas festivities",
       "summary": "Local councillors, traders, and residents met at City Hall on Merchant's Quay this Tuesday morning for a crunch Metropolitan District meeting about Christmas in Limerick.",
@@ -9331,6 +9444,72 @@
       "publishedAt": "Tue, 10 Nov 2026 11:49:35 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/11/cs-9b2ee700-dafd-4cab-b185-5339ba8c73b6.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-10T13:27:27.741Z"
+    },
+    "9341815": {
+      "headline": "Bus Driver Convicted Over Deaths of Two Waterford Teens on E-Scooter",
+      "summary": "Adrian Doyle, 43, was found guilty of dangerous driving causing the deaths of two teenagers in a collision.",
+      "story": "Adrian Doyle (43) has been found guilty for his role in the collision that resulted in the deaths of two Waterford teenagers riding an e-scooter. The Limerick Leader has more details on the court outcome.",
+      "localAngle": "This case reported by the Limerick Leader concerns a legal verdict from a neighboring region that may interest local readers following regional transport and court news.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Bus driver found guilty of dangerous driving causing deaths of two teenagers on e-scooter",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/bus-driver-found-guilty-of-dangerous-driving-causing-deaths-of-two-teenagers-on-e-scooter-9341930",
+      "publishedAt": "Tue, 10 Nov 2026 14:15:09 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/12/34/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-10T123809-861.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "rewrittenAt": "2026-11-10T17:02:32.716Z"
+    },
+    "9342434": {
+      "headline": "Public Accounts Committee Reports €607 Million Overspend on Protection Accommodation",
+      "summary": "The Public Accounts Committee has published a report detailing a €607 million overspend on international protection and temporary Ukrainian protection accommodation for 2024.",
+      "story": "On Tuesday, the Public Accounts Committee released its report regarding the expenditure on international protection and temporary protection for Ukraine in 2024, which revealed a €607m government overspend.",
+      "localAngle": "As a national policy and spending issue, this report on government expenditure impacts taxpayers and communities across Limerick and the rest of the country.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Government overspent 607m euro on international protection accommodation in 2024",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/government-overspent-607m-euro-on-international-protection-accommodation-in-2024-9342434",
+      "publishedAt": "Tue, 10 Nov 2026 14:42:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/14/cs-6815ff7c-29fa-44e3-90a8-aef5f6c87624.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-10T17:02:08.678Z"
+    },
+    "9342668": {
+      "headline": "Chambers Calls for Review of Cork Hospital Management Staffing",
+      "summary": "Senior staff have reported patient safety risks due to hospital staffing shortages and restrictions.",
+      "story": "Chambers states that an evaluation is needed regarding management staffing decisions at a Cork hospital. Senior staff at the facility have raised reports of patient safety risks stemming from staffing restrictions and shortages.",
+      "localAngle": "This report covers health sector staffing issues of wider public interest reported via regional media.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Evaluation of Cork hospital management staffing decisions needed – Chambers",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/evaluation-of-cork-hospital-management-staffing-decisions-needed-chambers-9342668",
+      "publishedAt": "Tue, 10 Nov 2026 15:34:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/cs-9fb76d24-a9a5-4f78-a64b-0ac7a25f0736.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-10T16:59:45.683Z"
+    },
+    "9342710": {
+      "headline": "Limerick driver admits killing nurse while under the influence of drugs",
+      "summary": "Keelan O'Connell is set to be sentenced next week following the death of Pallasgreen nurse Áine O’Reilly from multiple traumatic injuries.",
+      "story": "The court heard that Áine O’Reilly, a nurse from Pallasgreen, died from multiple traumatic injuries after being struck by a teenage driver who stated he didn't mean to kill her while high on drugs, with sentencing scheduled for next week.",
+      "localAngle": "The tragic incident involves a nurse from Pallasgreen and is moving through the local court system.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘I didn’t mean to kill her,’ says Limerick teenage driver ‘high’ on drugs",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/i-didnt-mean-to-kill-her-says-limerick-teenage-driver-high-on-drugs-9342710",
+      "publishedAt": "Tue, 10 Nov 2026 15:44:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/12/Untitled-design-(38).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-10T16:59:34.366Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -12277,6 +12456,86 @@
       "rewrittenAt": "2026-11-10T13:29:52.176Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Infinity-Aviation-Support-Anniversary-Westpark-1.jpg",
       "imageCheckedAt": "2026-11-10T13:30:12.680Z"
+    },
+    "https://www.limerickpost.ie/?p=363057": {
+      "headline": "Limerick Council Appoints Arup to Drive Colbert Quarter Infrastructure",
+      "summary": "Limerick City and County Council has appointed Arup as the project management, design, and engineering team to advance infrastructure packages for the Colbert Quarter. The project will unlock land for new housing, a public park, and improved walking and cycling routes.",
+      "story": "Limerick City and County Council has taken a major step forward in the development of the Colbert Quarter by appointing Arup as its multi-disciplinary project management, design, and engineering team. The appointment was marked at a formal contract signing attended by Mayor of Limerick John Moran alongside representatives from the local authority and Arup.\n\nArup will oversee a rolling programme of infrastructure packages, which include sustainable urban drainage systems, new roads, utilities, and enhanced pedestrian and cycling connections. These works are designed to unlock land for housing, investment, and economic activity, while better connecting established communities to public transport and future development zones.\n\nMayor John Moran said the project offers an opportunity to build a new part of Limerick correctly from the start. \"It will bring new homes, but also a major park at its heart, safe routes to walk and cycle, and the sports facilities and public spaces that build real community. Appointing Arup means the plans now move towards boots on the ground,\" he said.\n\nThe initiative builds on the Colbert Quarter Spatial Framework 2022–2042, which was developed for the council in partnership with the Land Development Agency, CIÉ, and the HSE. Key elements of the broader programme include a proposed public park and sustainable urban drainage scheme, featuring recreation facilities and biodiversity enhancements.",
+      "localAngle": "The development will transform a major urban area in Limerick, bringing new homes, parks, and infrastructure to the city.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Major developments as Colbert Quarter on the starting block",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/major-developments-as-colbert-quarter-on-the-starting-block/",
+      "publishedAt": "Tue, 10 Nov 2026 16:30:34 +0000",
+      "rewrittenAt": "2026-11-10T16:58:48.173Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Colbert-Quarter-Park-1.jpg",
+      "imageCheckedAt": "2026-11-10T17:02:50.565Z"
+    },
+    "https://limerickvoice.com/?p=53665": {
+      "headline": "Treaty United star Madison McGuane trials with WSL side Brighton",
+      "summary": "Limerick teenager and Republic of Ireland international Madison McGuane is drawing heavy interest from English clubs, recently featuring on trial with Women's Super League side Brighton & Hove Albion.",
+      "story": "Treaty United midfielder Madison McGuane is on the radar of several English clubs, with the 17-year-old recently spending time on trial at Women’s Super League side Brighton & Hove Albion. The Limerick native, who made her League of Ireland debut at just 15, has also visited WSL 2 side Newcastle United as English clubs monitor her development.\n\nMcGuane's rise through the ranks has seen her collect multiple accolades, including the 2025 SSE Airtricity Women’s Premier Division Young Player of the Year and PFA Ireland Women’s Young Player of the Year awards. She was also named in the 2026 PFA Ireland Women’s Premier Division Team of the Year and claimed the Player of the Month award for April, alongside balancing her Leaving Certificate studies at St Mary’s Secondary School in Limerick City.\n\nOn the international stage, the St Mary's student has represented the Republic of Ireland from U15 to U19 level. She recently captained the U19 squad during their European Championship qualifying campaign in October, scoring four goals in three matches, and has already caught the attention of senior Ireland manager Carla Ward.\n\nBecause McGuane does not turn 18 until August 2027, any permanent transfer to an English club will have to wait until she reaches adulthood. Until then, the young talent remains focused on her commitments with Treaty United and her studies in Limerick.",
+      "localAngle": "Madison McGuane is a Treaty United player, a student at St Mary’s Secondary School in Limerick City, and a standout local talent in Irish women's football.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Treaty United teenager Madison McGuane on the radar of English clubs",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/treaty-united-teenager-madison-mcguane-on-the-radar-of-english-clubs/",
+      "publishedAt": "Tue, 10 Nov 2026 15:00:43 +0000",
+      "rewrittenAt": "2026-11-10T16:59:56.371Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/MADISON_ULStudentEMMA.DINEEN-scaled.jpg",
+      "imageCheckedAt": "2026-11-10T17:02:51.557Z"
+    },
+    "https://www.limerickpost.ie/?p=363013": {
+      "headline": "Tredwell Electrical opens 18,000 sq. ft. Shannon facility as part of 35-year milestone",
+      "summary": "Tredwell Electrical has marked its 35th anniversary by opening an 18,000 sq. ft. manufacturing facility at Shannon Airport Business Park. The expansion brings the company's total manufacturing footprint to 37,200 sq. ft. alongside its existing Limerick operation.",
+      "story": "Tredwell Electrical, part of the Induchem Group, has officially opened its new 18,000 sq. ft. manufacturing facility at the Shannon Airport Business Park in County Clare. The plant was officially opened by Minister of State Timmy Dooley TD, complementing the firm's existing 19,200 sq. ft. operation in Limerick and bringing its total manufacturing footprint to 37,200 sq. ft.\n\nGlenn Bain, General Manager of Tredwell Electrical, said: \"We are very excited to open the new state of the art facility in Shannon, to help meet future expansion and production requirements.\" The new facility was established with the support of The Shannon Airport Group in a business park that currently houses over 300 companies and employs more than 10,000 people.\n\nThe company has experienced significant growth in recent years, doubling both its turnover and workforce, with plans to create 80 new engineering jobs over the next three years. Founded in 1991 by Stefan Uhlemann in a 100 sq. ft. garage, Tredwell Electrical now specialises in electrical control and distribution panels, machine integration, and wiring looms for customers across Ireland, Europe, and the US in sectors including pharmaceuticals, data centres, and water treatment.",
+      "localAngle": "The new Shannon facility complements Tredwell Electrical's existing Limerick operation, significantly expanding the company's manufacturing footprint in the Mid-West region.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Tredwell Electrical celebrates 35 years with new Shannon manufacturing facility",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/tredwell-electrical-celebrates-35-years-with-new-shannon-manufacturing-facility/",
+      "publishedAt": "Tue, 10 Nov 2026 15:00:12 +0000",
+      "rewrittenAt": "2026-11-10T17:00:13.865Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/DSC_0728.jpg",
+      "imageCheckedAt": "2026-11-10T17:02:52.440Z"
+    },
+    "https://www.limerickpost.ie/?p=363063": {
+      "headline": "Nenagh man found guilty of murdering 89-year-old Josie Ray following Limerick trial",
+      "summary": "A Central Criminal Court jury sitting in Limerick has convicted Hasan Ali Gori of murdering 89-year-old Josephine Ray at her Tipperary home in August 2024. The 52-year-old showed no emotion as the majority verdict was delivered following a three-week trial.",
+      "story": "A jury at the Central Criminal Court has found 52-year-old Hasan Ali Gori guilty of murdering his then-girlfriend's 89-year-old mother, Josephine “Josie” Ray, two years ago. Gori, a native of Chad with an address in Nenagh, Co Tipperary, showed no reaction when the 11-1 majority verdict was delivered following a three-week trial held in Limerick.\n\nDuring the trial, the court heard that the great-grandmother died of strangulation and smothering after sustaining 44 bruises and two broken bones in her neck. Senior prosecuting counsel Lorcan Connolly told the jury that Ms Ray had tried to \"fight off\" her attacker, with state evidence showing Gori's DNA under the victim's fingernails and damage to her forearms from the struggle.\n\nProsecutors argued that Gori, who had been living in a hostel before moving in with Ms Ray and her vulnerable daughter Mary, had both motive and opportunity to commit the murder. The court heard neighbours had previously reported constant rows at the property, and that Gori was at risk of losing his housing and associated social welfare payments after facing potential eviction.\n\nFollowing the verdict, the matter was concluded at the Central Criminal Court, where the jury delivered its decision after hearing extensive evidence from forensic experts, Gardaí, and neighbours regarding the events leading up to the August 2024 tragedy.",
+      "localAngle": "The trial took place before a Central Criminal Court jury sitting in Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "Guilty verdict in trial of man accused of murdering Josie Ray",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/guilty-verdict-in-trial-of-man-accused-of-murdering-josie-ray/",
+      "publishedAt": "Tue, 10 Nov 2026 14:55:36 +0000",
+      "rewrittenAt": "2026-11-10T17:02:01.390Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/IMG_0302.jpg",
+      "imageCheckedAt": "2026-11-10T17:02:52.733Z"
+    },
+    "https://www.limerickpost.ie/?p=363010": {
+      "headline": "Limerick Bus Driver Derek Lane Wins Regional Excellence Award After 36 Years",
+      "summary": "Long-serving Limerick bus driver Derek Lane has been honoured at the 2026 GEM Awards, taking home the RP Driver Excellence Award for the West after 36 years of service with Bus Éireann.",
+      "story": "A Limerick bus driver with nearly four decades behind the wheel has been recognised for his outstanding service and reliability at the 2026 GEM Awards.\n\nDerek Lane was awarded the RP Driver Excellence Award in the West by Bus Éireann, marking 36 years of service to the company. The accolade recognises excellence in core road passenger driving responsibilities, including punctuality, customer care, professional presentation, cashing in, and collaboration with colleagues and supervisors.\n\nMr Lane was singled out by company leadership for his flawless attendance record, which officials pointed to as an example of exceptional reliability in keeping local communities connected. \n\nAllen Parker, Chief Customer Officer at Bus Éireann, praised the Limerick driver's long-standing contribution. \"Derek’s 36 years of service represent a remarkable commitment to Bus Éireann and the communities we serve,\" Mr Parker said, adding that his consistent standards reflect the professionalism expected of road passenger drivers.",
+      "localAngle": "A Limerick-based Bus Éireann driver with 36 years of service was honored for his exceptional reliability and connection to local communities.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "originalTitle": "Limerick bus driver recognised at GEM Awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/limerick-bus-driver-recognised-at-gem-awards/",
+      "publishedAt": "Tue, 10 Nov 2026 13:30:54 +0000",
+      "rewrittenAt": "2026-11-10T17:02:41.897Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/RP-Driver-Excellence-Award-Derek-Lane68.jpg",
+      "imageCheckedAt": "2026-11-10T17:02:53.015Z"
     }
   }
 }
