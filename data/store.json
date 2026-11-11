@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-11T17:02:22.961Z",
-    "totalArticles": 30
+    "lastScrape": "2026-11-11T20:08:29.848Z",
+    "totalArticles": 32
   },
   "articles": {
     "8353171": {
@@ -3403,6 +3403,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
+    "9340272": {
+      "id": "9340272",
+      "title": "Family of deceased Limerick woman believe hospital missed opportunities in her care",
+      "link": "https://www.limerickleader.ie/news/family-of-deceased-limerick-woman-believe-hospital-missed-opportunities-in-her-care-9340272",
+      "description": "The inquest into the death of a Limerick woman at University Hospital Limerick has been adjourned for a verdict",
+      "pubDate": "Wed, 11 Nov 2026 17:30:25 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T20:08:19.546Z"
+    },
     "9340503": {
       "id": "9340503",
       "title": "Plans for strike action must continue – trade union",
@@ -3669,6 +3681,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T17:02:12.952Z"
     },
+    "9344834": {
+      "id": "9344834",
+      "title": "Fixtures revealed for Limerick ladies footballers 2027 National League  ",
+      "link": "https://www.limerickleader.ie/sport/ladies-football/fixtures-revealed-for-limerick-ladies-footballers-2027-national-league-9344834",
+      "description": "John Lynch is preparing for his first full season in charge after stepping after the first round of the Lid National League at the start of the year",
+      "pubDate": "Wed, 11 Nov 2026 17:30:35 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/33/Limerick-v-Sligo-Ladies-Football-4-(2).jpeg?width=1200&auto=webp&trim=13%2C0%2C187%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T20:08:19.546Z"
+    },
     "9344972": {
       "id": "9344972",
       "title": "‘Shedload’ of Troubles inquiries likely without Legacy body funding, MPs warned",
@@ -3690,6 +3714,17 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-499593bd-aeb0-4027-8b04-0e3432f50580.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345053": {
+      "id": "9345053",
+      "title": "Limerick clubs learn fate as Munster Junior Cup draw made",
+      "link": "https://www.limerickleader.ie/sport/rugby/limerick-clubs-learn-fate-as-munster-junior-cup-draw-made-9345053",
+      "description": "The November 22 games sees the second strings of Bruff, Old Crescent and Thomond all in action as are Abbeyfeale and Galbally-Mitchelstown",
+      "pubDate": "Wed, 11 Nov 2026 19:00:04 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/webimg/b25lY21zOjg3NmMxYmU1LWFmOWItNDhiZS1iOGQ2LTk2ZjQzMjVkZmE2YTo0OTIxMDNkYy05YjkzLTQ2ZDgtODgwMC0yNDk5ODc1ZjQxNzk=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T20:08:19.546Z"
     },
     "9345079": {
       "id": "9345079",
@@ -3724,6 +3759,18 @@
       "imageCredit": "Cremur",
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345826": {
+      "id": "9345826",
+      "title": "'I battered her with a bar': Jury hears of text messages sent by Scarlett accused",
+      "link": "https://www.limerickleader.ie/news/crime-courts/i-battered-her-with-a-bar-jury-hears-of-text-messages-sent-by-scarlett-accused-9345826",
+      "description": "Central Criminal Court hears girl accused of murdering Limerick woman Scarlett Faulkner took a ‘selfie’ on a sun bed, hours after fatal assault in Birdhill",
+      "pubDate": "Wed, 11 Nov 2026 19:50:17 GMT",
+      "author": "Eoin Reynolds",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T20:08:19.546Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -6186,6 +6233,46 @@
       "author": "Bernie English",
       "source": "limerickpost",
       "scrapedAt": "2026-11-11T17:02:12.403Z"
+    },
+    "https://www.limerickpost.ie/?p=363031": {
+      "id": "https://www.limerickpost.ie/?p=363031",
+      "title": "Honours for Limerick GAA persons in New York",
+      "link": "https://www.limerickpost.ie/2026/11/11/honours-for-limerick-gaa-persons-in-new-york/",
+      "description": "THE Limerick Foundation will hold its annual celebration banquet at Mulino’s at Lake Isle Country Club in Eastchester, New York this Friday. “This year has proven to be an outstanding sporting success for Limerick,” commented Finbar Flood of South Liberties, Foundation Chairman. “The seniors left nothing on the table, winning the All-Ireland Championship, National League [&#8230;]\nThe post Honours for Limerick GAA persons in New York appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 19:30:05 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T20:08:18.915Z"
+    },
+    "https://www.limerickpost.ie/?p=363168": {
+      "id": "https://www.limerickpost.ie/?p=363168",
+      "title": "‘She can’t breathe, she’s broke up, I battered her’: Voice-notes from accused heard in Scarlett Faulkner murder trial",
+      "link": "https://www.limerickpost.ie/2026/11/11/she-cant-breathe-shes-broke-up-i-battered-her-voice-notes-from-accused-heard-in-scarlett-faulkner-murder-trial/",
+      "description": "THE Central Criminal Court this Wednesday (November 11) heard voice notes in the Scarlett Faulkner murder trial in which one of the two accused said: &#8220;The young one is in hospital, she has breathing tubes on her, she can&#8217;t breathe, she&#8217;s broke up &#8230; I battered her, I gave her some beating.&#8221; Referring to Ms [&#8230;]\nThe post ‘She can&#8217;t breathe, she&#8217;s broke up, I battered her’: Voice-notes from accused heard in Scarlett Faulkner murder trial appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 19:20:27 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T20:08:18.915Z"
+    },
+    "https://www.limerickpost.ie/?p=363051": {
+      "id": "https://www.limerickpost.ie/?p=363051",
+      "title": "Farmer wellbeing and farm safety go hand in hand says Limerick Minister launching new report",
+      "link": "https://www.limerickpost.ie/2026/11/11/farmer-wellbeing-and-farm-safety-go-hand-in-hand-says-limerick-minister-launching-new-report/",
+      "description": "LIMERICK TD and Minister of State at the Department of Agriculture, Food and the Marine, Niall Collins, has launched a  report on a Farm Safety training programme funded by the Department of Agriculture. The report evaluates “On Feirm Ground 2,” (OFG2) which is delivered by the Men’s Development Network that equips farm advisors, private veterinary [&#8230;]\nThe post Farmer wellbeing and farm safety go hand in hand says Limerick Minister launching new report appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 18:00:36 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T20:08:18.915Z"
+    },
+    "https://limerickvoice.com/?p=53752": {
+      "id": "https://limerickvoice.com/?p=53752",
+      "title": "Is Limerick’s art scene affordable for students?",
+      "link": "https://limerickvoice.com/entertainment/is-limericks-art-scene-affordable-for-students/",
+      "description": "Limerick Voice explore whether Limerick&#8217;s art scene is afforable for students. WITH dozens of events taking place throughout November, the challenge for audiences is less about finding something to do and more about deciding how much they&#8217;re prepared to spend.  Few cities can match Limerick when it comes to arts and entertainment. Whether it&#8217;s a [&#8230;]\nThe post Is Limerick&#8217;s art scene affordable for students? appeared first on .",
+      "pubDate": "Wed, 11 Nov 2026 14:00:23 +0000",
+      "author": "Rahul Biju",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-11T20:08:20.284Z"
     }
   },
   "rewritten": {
@@ -9855,6 +9942,23 @@
       "imageCredit": "NTA",
       "rewrittenAt": "2026-11-11T12:42:09.597Z"
     },
+    "9340272": {
+      "headline": "Inquest into Limerick woman's death at UHL adjourned for verdict",
+      "summary": "An inquest examining the care of a Limerick woman who passed away at University Hospital Limerick has been adjourned awaiting a verdict.",
+      "story": "The family of the deceased woman believe that opportunities to provide proper care were missed by the hospital. The inquest into her death at University Hospital Limerick has now been adjourned for a verdict.",
+      "localAngle": "The case involves a Limerick woman and her family's concerns regarding treatment at University Hospital Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Family of deceased Limerick woman believe hospital missed opportunities in her care",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/family-of-deceased-limerick-woman-believe-hospital-missed-opportunities-in-her-care-9340272",
+      "publishedAt": "Wed, 11 Nov 2026 17:30:25 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-11T20:10:15.876Z"
+    },
     "9340503": {
       "skipped": true,
       "duplicateOf": "9338875",
@@ -10144,6 +10248,23 @@
       "duplicateOf": "9339517",
       "rewrittenAt": "2026-11-11T17:03:27.892Z"
     },
+    "9344834": {
+      "headline": "Limerick Ladies Footballers 2027 National League Schedule Released",
+      "summary": "The 2027 National League fixtures have been announced for the Limerick ladies footballers as manager John Lynch prepares for his first full campaign.",
+      "story": "John Lynch is getting ready for his first full season in charge following his appointment after the opening round of the Lidl National League earlier in the year.",
+      "localAngle": "The fixtures outline the upcoming season for Limerick's county ladies football team under manager John Lynch.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Fixtures revealed for Limerick ladies footballers 2027 National League  ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/ladies-football/fixtures-revealed-for-limerick-ladies-footballers-2027-national-league-9344834",
+      "publishedAt": "Wed, 11 Nov 2026 17:30:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/33/Limerick-v-Sligo-Ladies-Football-4-(2).jpeg?width=1200&auto=webp&trim=13%2C0%2C187%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-11T20:10:06.847Z"
+    },
     "9344972": {
       "headline": "MPs Warned Troubles Inquiries Will Face Funding Shortfalls",
       "summary": "Sir Declan Morgan told the Northern Ireland Affairs Committee that cutting Legacy body funding risks a surge in Troubles inquiries.",
@@ -10175,6 +10296,22 @@
       "publishedAt": "Wed, 11 Nov 2026 14:45:38 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-499593bd-aeb0-4027-8b04-0e3432f50580.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-11T17:05:32.921Z"
+    },
+    "9345053": {
+      "headline": "Munster Junior Cup Draw Unveils Fixtures for Limerick Clubs",
+      "summary": "Local rugby clubs have discovered their opponents following the draw for the Munster Junior Cup.",
+      "story": "The November 22 fixtures will feature the second strings of Bruff, Old Crescent, and Thomond, alongside Abbeyfeale and Galbally-Mitchelstown. Read the full story on the Limerick Leader.",
+      "localAngle": "Several Limerick rugby clubs have learned their upcoming fixtures in the Munster Junior Cup.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Limerick clubs learn fate as Munster Junior Cup draw made",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/limerick-clubs-learn-fate-as-munster-junior-cup-draw-made-9345053",
+      "publishedAt": "Wed, 11 Nov 2026 19:00:04 GMT",
+      "imageUrl": "https://www.limerickleader.ie/webimg/b25lY21zOjg3NmMxYmU1LWFmOWItNDhiZS1iOGQ2LTk2ZjQzMjVkZmE2YTo0OTIxMDNkYy05YjkzLTQ2ZDgtODgwMC0yNDk5ODc1ZjQxNzk=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-11T20:09:51.164Z"
     },
     "9345079": {
       "headline": "Dáil Warned State Will Fall Short of Housing Goals",
@@ -10224,6 +10361,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/20/MixCollage-11-Nov-2026-03-24-PM-205.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Cremur",
       "rewrittenAt": "2026-11-11T17:04:51.932Z"
+    },
+    "9345826": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363018",
+      "rewrittenAt": "2026-11-11T20:09:03.494Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -13503,6 +13645,59 @@
       "rewrittenAt": "2026-11-11T17:07:08.634Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Circular-Grants.jpg",
       "imageCheckedAt": "2026-11-11T17:07:10.315Z"
+    },
+    "https://www.limerickpost.ie/?p=363168": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363018",
+      "rewrittenAt": "2026-11-11T20:09:03.494Z"
+    },
+    "https://www.limerickpost.ie/?p=363031": {
+      "headline": "Kilmallock's Eddie Wiley and Effin's Mary Donovan Myers honoured in New York",
+      "summary": "The Limerick Foundation will honour two expatriates at its annual banquet in Eastchester, New York, celebrating a stellar year for Limerick GAA.",
+      "story": "The Limerick Foundation's annual celebration banquet takes place this Friday at Mulino’s at Lake Isle Country Club in Eastchester, New York, where two prominent figures with deep roots in the county will be honoured.\n\nFoundation Chairman Finbar Flood of South Liberties pointed to a successful year for the county, noting that the seniors secured the All-Ireland Championship, National League, and Munster Senior Leagues, while the minors claimed their first All-Ireland title in 42 years. \n\nEddie Wiley of Kilmallock has been named Guest of Honour. A founding member of Club Limerick New York, Wiley played hurling and football from his youth in Fitzgerald Park, winning a County Senior Hurling title in 1985 before moving to New York in 1989. He recently stepped down after serving as Club Chairman.\n\nMary Donovan Myers, originally from Effin, will receive the Club Person of the Year award. Donovan Myers, whose nephew Patrick O’Donovan currently plays on the senior panel, has served as Club Secretary with tremendous dedication since her election in 2019.",
+      "localAngle": "The event celebrates the deep-rooted ties between local Limerick GAA clubs and their diaspora community in New York.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Honours for Limerick GAA persons in New York",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/honours-for-limerick-gaa-persons-in-new-york/",
+      "publishedAt": "Wed, 11 Nov 2026 19:30:05 +0000",
+      "rewrittenAt": "2026-11-11T20:09:40.674Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Post-Two.png",
+      "imageCheckedAt": "2026-11-11T20:10:30.902Z"
+    },
+    "https://www.limerickpost.ie/?p=363051": {
+      "headline": "Limerick Minister Niall Collins Launches Report on Farm Safety Training Programme",
+      "summary": "County Limerick TD and Minister of State Niall Collins has launched a new evaluation report on a Department-funded farm safety training programme aimed at connecting farmers with vital health services.",
+      "story": "County Limerick TD and Minister of State Niall Collins has launched an evaluation report on \"On Feirm Ground 2\" (OFG2), a farm safety training programme funded by the Department of Agriculture, Food and the Marine.\n\nDelivered by the Men’s Development Network, the initiative is designed to equip farm advisors, private veterinary practitioners, farming organisations, and other agri-professionals with the skills needed to engage farmers and signpost them to health services.\n\nSpeaking at the launch, Minister Collins emphasised that mental wellbeing and physical safety on farms are closely linked. \"Stress and exhaustion are farm safety issues. A farmer who is worn out is more at risk on the farm,\" he stated.",
+      "localAngle": "County Limerick TD Niall Collins launched the national farm safety report in his ministerial capacity.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Farmer wellbeing and farm safety go hand in hand says Limerick Minister launching new report",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/farmer-wellbeing-and-farm-safety-go-hand-in-hand-says-limerick-minister-launching-new-report/",
+      "publishedAt": "Wed, 11 Nov 2026 18:00:36 +0000",
+      "rewrittenAt": "2026-11-11T20:10:00.453Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Collins-launching-farm-report-.jpeg",
+      "imageCheckedAt": "2026-11-11T20:10:31.423Z"
+    },
+    "https://limerickvoice.com/?p=53752": {
+      "headline": "Limerick students face rising ticket and travel costs as cultural calendar fills",
+      "summary": "With November events in Limerick ranging from theatre productions to Garth Brooks tickets costing over €130, students are finding live entertainment increasingly difficult to afford on a tight budget.",
+      "story": "Limerick's packed cultural calendar for November has put the spotlight on whether the city's arts scene remains accessible for students. While venues across the city offer a wide selection of theatre, music, and comedy, students are weighing up the mounting costs of attendance against strict budgets.\n\nThe debate has intensified ahead of ticket sales for Garth Brooks' upcoming 2027 Irish tour, which includes two June concerts at the TUS Gaelic Grounds on the Ennis Road. Promoter Peter Aiken confirmed that tickets will cost €136.25 for standing and €156.25 for seated. For students, however, the ticket price is only the beginning of the expense. Transport to the venue via taxi can add between €21 and €31 each way, alongside costs for food and clothing, pushing total expenses up by at least €40 to €50.\n\nLocal student Leah noted that while expected ticket prices for major bands might sit around €50 or €60, smaller local acts should ideally cost between €15 and €20. Beyond major stadium gigs, theatrical and musical events across the city also present financial hurdles. Productions at the Lime Tree Theatre this November range from concession tickets at €23 for 'The Ferryman' and €28 for 'The Hunchback of Notre Dame', up to €32 for standard tickets to Ballet Ireland's 'Romeo and Juliet'.\n\nMeanwhile, niche events such as the 'Faulty Towers Dining Experience' at Dolan's are priced at €60 a ticket, and Hans Zimmer’s music performed by the Glas String Quartet at Saint Mary’s Cathedral ranges from €26.50 to €54.50. For students living on limited incomes, these cumulative costs mean many cultural events are drifting out of reach.",
+      "localAngle": "The story examines the affordability of Limerick city's local venues, transport routes, and cultural events for student residents.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Is Limerick’s art scene affordable for students?",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/entertainment/is-limericks-art-scene-affordable-for-students/",
+      "publishedAt": "Wed, 11 Nov 2026 14:00:23 +0000",
+      "rewrittenAt": "2026-11-11T20:10:30.600Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/pexels-filipe-braggio-57041688-12092991-scaled.jpg",
+      "imageCheckedAt": "2026-11-11T20:10:31.653Z"
     }
   }
 }
