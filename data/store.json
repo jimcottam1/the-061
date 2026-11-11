@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-11T12:39:33.335Z",
-    "totalArticles": 32
+    "lastScrape": "2026-11-11T17:02:22.961Z",
+    "totalArticles": 30
   },
   "articles": {
     "8353171": {
@@ -3658,6 +3658,73 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
+    "9344706": {
+      "id": "9344706",
+      "title": "Public sector workers on lowest wage to see 18.3% pay hike in 5.2bn euro deal",
+      "link": "https://www.limerickleader.ie/national/public-sector-workers-on-lowest-wage-to-see-183-pay-hike-in-52bn-euro-deal-9344706",
+      "description": "The new pay agreement will be reviewed by the unions representing the public sector unions over the coming days.",
+      "pubDate": "Wed, 11 Nov 2026 13:26:33 GMT",
+      "author": "Cate McCurry and Jonathan McCambridge and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/13/cs-7d88c50c-ab99-4791-9bca-0dd53ee3195b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9344972": {
+      "id": "9344972",
+      "title": "‘Shedload’ of Troubles inquiries likely without Legacy body funding, MPs warned",
+      "link": "https://www.limerickleader.ie/national/shedload-of-troubles-inquiries-likely-without-legacy-body-funding-mps-warned-9344972",
+      "description": "Independent Commission for Reconciliation and Information Recovery chairman Sir Declan Morgan addressed the Northern Ireland Affairs Committee.",
+      "pubDate": "Wed, 11 Nov 2026 14:35:12 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-b5e10cec-eb76-4616-99ba-0c757b858865.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345014": {
+      "id": "9345014",
+      "title": "TDs hit out at FAI over ‘flimsy’ excuse for not attending Oireachtas committee",
+      "link": "https://www.limerickleader.ie/national/tds-hit-out-at-fai-over-flimsy-excuse-for-not-attending-oireachtas-committee-9345014",
+      "description": "The FAI was called to appear before the Joint Committee on Arts, Media, Communications, Culture and Sport meeting on FAI safeguarding.",
+      "pubDate": "Wed, 11 Nov 2026 14:45:38 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-499593bd-aeb0-4027-8b04-0e3432f50580.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345079": {
+      "id": "9345079",
+      "title": "Government to miss housebuilding targets by ‘country mile’, Dáil told",
+      "link": "https://www.limerickleader.ie/national/government-to-miss-housebuilding-targets-by-country-mile-dail-told-9345079",
+      "description": "Social Democrats TD Rory Hearne said a report forecasting the targets will not be met makes for ‘grim reading’.",
+      "pubDate": "Wed, 11 Nov 2026 15:03:59 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/cs-d025c91a-fff7-476c-9344-e45ca189f161.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345114": {
+      "id": "9345114",
+      "title": "LATEST: Limerick fuel protests cancelled as organisers admit lack of numbers",
+      "link": "https://www.limerickleader.ie/news/latest-limerick-fuel-protests-cancelled-as-organisers-admit-lack-of-numbers-9345114",
+      "description": "Protests organised to delay EU leaders travelling to and from Shannon Airport have been cancelled due to lack of numbers and following warnings from the Garda Commissioner",
+      "pubDate": "Wed, 11 Nov 2026 16:18:01 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/17/18/iconic-upload-2026_04_07-Fuel_hikes_Cropped-1775553823716.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
+    "9345192": {
+      "id": "9345192",
+      "title": "Cremur Heating & Bathrooms celebrates National Bronze Award for Community Commitment ",
+      "link": "https://www.limerickleader.ie/sponsored-content/cremur-heating-bathrooms-celebrates-national-bronze-award-for-community-commitment-9345267",
+      "description": "Family-run business recognised at prestigious Irish Family Business Awards for its dedication to charity, community and sustainability",
+      "pubDate": "Wed, 11 Nov 2026 15:44:58 GMT",
+      "author": "Sponsored Content",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/20/MixCollage-11-Nov-2026-03-24-PM-205.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Cremur",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T17:02:12.952Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -6069,6 +6136,56 @@
       "author": "Christina O&#039;Mahony",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-11T12:39:22.900Z"
+    },
+    "https://www.limerickpost.ie/?p=363060": {
+      "id": "https://www.limerickpost.ie/?p=363060",
+      "title": "Hit and run sentence appeal adjourned over solicitors dispute",
+      "link": "https://www.limerickpost.ie/2026/11/11/hit-and-run-sentence-appeal-adjourned-over-solicitors-dispute/",
+      "description": "A MAN given a three-month jail sentence after he pleaded guilty to dangerous driving and a hit-and-run, in which a teenage boy was seriously injured, had his appeal adjourned due to the ongoing solicitors’ industrial dispute over legal aid fees. Paul Dady (40), of Sixmilebridge, County Clare, was sentenced to three months in jail last [&#8230;]\nThe post Hit and run sentence appeal adjourned over solicitors dispute appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 16:30:05 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T17:02:12.403Z"
+    },
+    "https://www.limerickpost.ie/?p=363046": {
+      "id": "https://www.limerickpost.ie/?p=363046",
+      "title": "Top awards for Limerick talent at Apprentice of the Year awards",
+      "link": "https://www.limerickpost.ie/2026/11/11/top-awards-for-limerick-talent-at-apprentice-of-the-year-awards/",
+      "description": "LIMERICK talent was to the fore as local apprentices took home not one but four awards at the recent Apprentice of the Year Awards Showcase at the RDS in Dublin. Not only that, one Limerick apprentice, Sapna Sian, of Johnson &#38; Johnson Vision Care Limerick, took home the top title of Ireland’s National Apprentice of [&#8230;]\nThe post Top awards for Limerick talent at Apprentice of the Year awards appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 15:00:56 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T17:02:12.403Z"
+    },
+    "https://www.limerickpost.ie/?p=363147": {
+      "id": "https://www.limerickpost.ie/?p=363147",
+      "title": "All We Have Are Days festival returns to Limerick with 140 artists across 25 venues",
+      "link": "https://www.limerickpost.ie/2026/11/11/all-we-have-are-days-festival-returns-to-limerick-with-140-artists-across-25-venues/",
+      "description": "LIMERICK’S pubs, churches and theatres will fill with music, theatre and conversation next winter when All We Have Are Days returns for its third edition over the St Brigid’s Bank Holiday weekend, from Friday January 29 to Monday February 1, 2027. The festival will feature 140 artists and 60 shows across 25 venues, with Theatre [&#8230;]\nThe post All We Have Are Days festival returns to Limerick with 140 artists across 25 venues appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 13:37:30 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T17:02:12.403Z"
+    },
+    "https://www.limerickpost.ie/?p=363050": {
+      "id": "https://www.limerickpost.ie/?p=363050",
+      "title": "Final call for €100k circular grand funding",
+      "link": "https://www.limerickpost.ie/2026/11/11/final-call-for-e100k-circular-grand-funding/",
+      "description": "A FINAL call is being made for circular groups in Limerick to apply for a €100k grant fund. Circular.ie, Ireland&#8217;s national platform for circular economy funded by the Irish Government under the Circular Economy Fund, has launched its 2026 Circular.ie Communication Grants programme. The grant helps community-led circular initiatives amplify their work through physical and [&#8230;]\nThe post Final call for €100k circular grand funding appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 13:30:34 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T17:02:12.403Z"
+    },
+    "https://www.limerickpost.ie/?p=363142": {
+      "id": "https://www.limerickpost.ie/?p=363142",
+      "title": "Woman to appear in court in connection with suspected murder of Limerick mother",
+      "link": "https://www.limerickpost.ie/2026/11/11/woman-to-appear-in-court-in-connection-with-suspected-murder-of-limerick-mother/",
+      "description": "A SECOND person was due to appear before a court in Dungannon this Wednesday, charged in connection with the death of  Limerick mother of four, Carrie Mullane. A 69-year-old woman was charged with withholding information. Last Tuesday, a 35-year-old man was charged with murder and preventing the lawful burial of a corpse. The Police Service [&#8230;]\nThe post Woman to appear in court in connection with suspected murder of Limerick mother appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 13:01:12 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T17:02:12.403Z"
     }
   },
   "rewritten": {
@@ -10022,6 +10139,92 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363138",
       "rewrittenAt": "2026-11-11T12:40:55.307Z"
     },
+    "9344706": {
+      "skipped": true,
+      "duplicateOf": "9339517",
+      "rewrittenAt": "2026-11-11T17:03:27.892Z"
+    },
+    "9344972": {
+      "headline": "MPs Warned Troubles Inquiries Will Face Funding Shortfalls",
+      "summary": "Sir Declan Morgan told the Northern Ireland Affairs Committee that cutting Legacy body funding risks a surge in Troubles inquiries.",
+      "story": "The chairman of the Independent Commission for Reconciliation and Information Recovery addressed the Northern Ireland Affairs Committee regarding the impact of funding issues.",
+      "localAngle": "This national affairs report is shared for Limerick readers tracking political developments.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "‘Shedload’ of Troubles inquiries likely without Legacy body funding, MPs warned",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/shedload-of-troubles-inquiries-likely-without-legacy-body-funding-mps-warned-9344972",
+      "publishedAt": "Wed, 11 Nov 2026 14:35:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-b5e10cec-eb76-4616-99ba-0c757b858865.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-11T17:06:15.988Z"
+    },
+    "9345014": {
+      "headline": "TDs criticize FAI for weak reason to skip Oireachtas meeting",
+      "summary": "TDs have criticized the FAI for offering a flimsy excuse after failing to attend an Oireachtas committee meeting regarding safeguarding.",
+      "story": "The Joint Committee on Arts, Media, Communications, Culture and Sport called the FAI to appear before them to discuss safeguarding issues. However, TDs hit out at the organization over the excuse provided for not attending the meeting.",
+      "localAngle": "Local representatives in the Oireachtas committee were involved in questioning the national sporting body's absence from the safeguarding discussion.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "TDs hit out at FAI over ‘flimsy’ excuse for not attending Oireachtas committee",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tds-hit-out-at-fai-over-flimsy-excuse-for-not-attending-oireachtas-committee-9345014",
+      "publishedAt": "Wed, 11 Nov 2026 14:45:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/cs-499593bd-aeb0-4027-8b04-0e3432f50580.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-11T17:05:32.921Z"
+    },
+    "9345079": {
+      "headline": "Dáil Warned State Will Fall Short of Housing Goals",
+      "summary": "Social Democrats TD Rory Hearne stated in the Dáil that a new report forecasting missed housebuilding targets makes for grim reading.",
+      "story": "Speaking in the Dáil, Social Democrats TD Rory Hearne said a report forecasting that government housebuilding targets will not be met by a country mile makes for grim reading.",
+      "localAngle": "National housing policy and missed targets directly impact local housing supply and communities across Limerick.",
+      "section": "Council",
+      "importance": 5,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Government to miss housebuilding targets by ‘country mile’, Dáil told",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/government-to-miss-housebuilding-targets-by-country-mile-dail-told-9345079",
+      "publishedAt": "Wed, 11 Nov 2026 15:03:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/cs-d025c91a-fff7-476c-9344-e45ca189f161.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-11T17:05:00.819Z"
+    },
+    "9345114": {
+      "headline": "Planned Limerick Fuel Protests Called Off Over Turnout and Garda Warnings",
+      "summary": "Demonstrations aimed at delaying EU leaders at Shannon Airport have been called off.",
+      "story": "Organisers cancelled the protests due to a lack of numbers and following warnings from the Garda Commissioner. The demonstrations were originally planned to delay EU leaders travelling to and from Shannon Airport.",
+      "localAngle": "The cancelled protests were organised in the region to target EU leaders travelling through nearby Shannon Airport.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "LATEST: Limerick fuel protests cancelled as organisers admit lack of numbers",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/latest-limerick-fuel-protests-cancelled-as-organisers-admit-lack-of-numbers-9345114",
+      "publishedAt": "Wed, 11 Nov 2026 16:18:01 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/17/18/iconic-upload-2026_04_07-Fuel_hikes_Cropped-1775553823716.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-11T17:04:46.356Z"
+    },
+    "9345192": {
+      "headline": "Cremur Heating & Bathrooms Wins National Community Commitment Award",
+      "summary": "Local family-run business Cremur Heating & Bathrooms has been honoured with a National Bronze Award at the Irish Family Business Awards.",
+      "story": "The business received the recognition at the prestigious Irish Family Business Awards for its dedication to charity, community and sustainability. Read the full story on the Limerick Leader website.",
+      "localAngle": "The award highlights the community and charity contributions of a local Limerick-based family business.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Cremur Heating & Bathrooms celebrates National Bronze Award for Community Commitment ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sponsored-content/cremur-heating-bathrooms-celebrates-national-bronze-award-for-community-commitment-9345267",
+      "publishedAt": "Wed, 11 Nov 2026 15:44:58 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/20/MixCollage-11-Nov-2026-03-24-PM-205.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Cremur",
+      "rewrittenAt": "2026-11-11T17:04:51.932Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -13231,6 +13434,75 @@
       "rewrittenAt": "2026-11-11T12:42:25.924Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Winning-Team.jpg",
       "imageCheckedAt": "2026-11-11T12:42:28.312Z"
+    },
+    "https://www.limerickpost.ie/?p=363142": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362945",
+      "rewrittenAt": "2026-11-11T17:03:27.892Z"
+    },
+    "https://www.limerickpost.ie/?p=363060": {
+      "headline": "Hit-and-Run Sentence Appeal Adjourned Due to Solicitors' Dispute",
+      "summary": "An appeal against a three-month jail sentence for a Clare man involved in a serious hit-and-run near Ardnacrusha has been delayed due to the ongoing solicitors' industrial dispute over legal aid fees.",
+      "story": "The appeal hearing for 40-year-old Paul Dady at Limerick Circuit Criminal Court could not proceed as scheduled due to the ongoing solicitors' industrial dispute regarding legal aid fees. Dady, of Sixmilebridge, County Clare, was handed a three-month prison sentence last December after pleading guilty at Limerick District Court to dangerous driving, hit-and-run, failing to remain at the scene, and failing to report a collision.\n\nThe charges stem from a November 10, 2024, incident in Ardnacrusha, County Clare, where a 16-year-old boy was struck by a car. Prosecuting Garda Sergeant Aisling O'Neill previously told the court that Dady's vehicle crossed carriageways and mounted a footpath, knocking down the teenager who was walking with his younger brother. The driver left the scene without offering assistance or details, though the victim's brother photographed the car as it departed.\n\nThe injured teenager was taken to University Hospital Limerick (UHL) and later readmitted with worsening leg injuries that left him without use from the knee down, requiring a 13-night stay. Dady's legal representation previously argued the appeal on grounds of \"severity,\" maintaining that Dady claimed he only heard a bang and did not realise he had struck a person. Judge Patricia Harney previously dismissed that explanation during sentencing, stating it \"defies any kind of belief at all.\"\n\nDady, a native of Milton Keynes, UK, who was working as a maintenance man in County Clare at the time, turned himself in to a Garda station three days after the incident and expressed remorse. The matter has been put on hold pending the resolution of the legal aid dispute.",
+      "localAngle": "The court case was heard at Limerick Circuit Criminal Court following an incident investigated by Limerick-based Gardaí and initial proceedings at Limerick District Court.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Hit and run sentence appeal adjourned over solicitors dispute",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/hit-and-run-sentence-appeal-adjourned-over-solicitors-dispute/",
+      "publishedAt": "Wed, 11 Nov 2026 16:30:05 +0000",
+      "rewrittenAt": "2026-11-11T17:04:27.620Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/12/Paul-Dady.webp",
+      "imageCheckedAt": "2026-11-11T17:07:09.026Z"
+    },
+    "https://www.limerickpost.ie/?p=363046": {
+      "headline": "Limerick Apprentices Win Four National Titles at Dublin Awards",
+      "summary": "Limerick talent secured four awards at the National Apprentice of the Year Awards in Dublin, with Johnson & Johnson's Sapna Sian taking the overall top title from over 500 nominees.",
+      "story": "Limerick apprentices claimed a total of four awards at the recent Apprentice of the Year Awards Showcase held at the RDS in Dublin. Sapna Sian, a manufacturing technician apprentice with Johnson & Johnson Vision Care Limerick, beat over 500 nominees to be named Ireland’s National Apprentice of the Year 2026. She also collected the Engineering Industry Apprentice of the Year award, marking a notable milestone as a woman working in STEM.\n\nTwo other Shannonside apprentices joined Ms Sian in success at the 17-category competition. Auryn Souness of Johnson and Johnson MedTech in Plassey was named Logistics Apprentice of the Year for supply chain management, while Darragh Sweeney of H&MV Engineering in Castletroy took home the Electric Apprentice of the Year title.\n\nOverseen by SOLAS, the Further Education and Training Authority of Ireland, the national awards recognise the leadership, teamwork, creativity, and problem-solving contributions made by apprentices across various industries. Nominees are put forward by employers, training providers, or peers.\n\nFollowing her win, Ms Sian said she was proud of her achievement as the first manufacturing technician apprentice to receive the top award. Mr Souness added that the supply chain manager apprenticeship had opened doors for him by connecting practical workplace experience with his learning.",
+      "localAngle": "Three local apprentices from Limerick employers secured four national titles at the RDS showcase in Dublin.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Top awards for Limerick talent at Apprentice of the Year awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/top-awards-for-limerick-talent-at-apprentice-of-the-year-awards/",
+      "publishedAt": "Wed, 11 Nov 2026 15:00:56 +0000",
+      "rewrittenAt": "2026-11-11T17:05:25.076Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Sapna-Sian-Irelands-overall-Apprentice-of-the-Year-Award-winner-26-shares-her-journey-on-the-Heroes-Stage-at-WorldSkills-Ireland.jpg",
+      "imageCheckedAt": "2026-11-11T17:07:09.739Z"
+    },
+    "https://www.limerickpost.ie/?p=363147": {
+      "headline": "All We Have Are Days festival returns to 25 Limerick venues",
+      "summary": "The multi-venue arts festival will host 60 shows across pubs, churches, and theatres over the St Brigid's Bank Holiday weekend in January 2027.",
+      "story": "Limerick's pubs, churches, and theatres are gearing up for the return of the All We Have Are Days festival, which has announced its third edition will take place over the St Brigid's Bank Holiday weekend from Friday, January 29, to Monday, February 1, 2027. The four-day event will feature 140 artists performing 60 shows across 25 venues throughout the city.\n\nThe first wave of acts confirmed for the festival includes Dublin post-punk band Gurriers, traditional musician Cormac Begley, and Grammy Award-winning producer Thomas Bartlett. They will be joined by Denise Chaila, Feli Speaks, Bronagh Gallagher, Caoi de Barra, Anna B Savage, Dowry, ROE, Zkellies, Cruel Sister, Negro Impacto, and Pellador.\n\nVenues participating in the 2027 programme include Dolan's, The Commercial, Mother Mac's, The White House, Flannery's, JJ Bowles, The Old Quarter, South's, Glen Tavern, 101, Costelloes, Theatre Royal, John's Church/Dance Limerick, Pharmacia, Myles Breen's, The Coach House at 2 Pery Square, and No 1 Pery Square, with further locations to be announced.\n\nFestival director David O'Donovan said planning for the event has been ongoing since the conclusion of the last festival. Audiences can expect intimate pub sessions, pop-up performances, and a range of free events, with tickets for selected shows currently on sale through Eventbrite ranging from €10 to €28. Further programme additions will be announced in early December.",
+      "localAngle": "The festival utilizes 25 local venues, pubs, and historic spaces across Limerick city, bringing 140 artists to local audiences.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "All We Have Are Days festival returns to Limerick with 140 artists across 25 venues",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/all-we-have-are-days-festival-returns-to-limerick-with-140-artists-across-25-venues/",
+      "publishedAt": "Wed, 11 Nov 2026 13:37:30 +0000",
+      "rewrittenAt": "2026-11-11T17:06:58.828Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Gurriers.png",
+      "imageCheckedAt": "2026-11-11T17:07:10.035Z"
+    },
+    "https://www.limerickpost.ie/?p=363050": {
+      "headline": "Limerick community groups urged to apply for €100k circular economy fund",
+      "summary": "Time is running out for Limerick circular economy initiatives to apply for a share of a €100,000 national grant fund, with applications closing for the 2026 Circular.ie Communication Grants programme.",
+      "story": "Community-led circular initiatives across Limerick have been issued a final call to apply for a €100,000 grant fund aimed at boosting their local impact. \n\nBacked by the Irish Government through the Circular Economy Fund, the national platform Circular.ie has launched its 2026 Communication Grants programme. The funding is specifically designed to help grassroots organisations amplify their operations through both physical and digital communications.\n\nSuccessful applicants can secure up to €10,000 to help scale their reach, which includes practical projects such as developing and building out websites. The grants are targeted directly at groups and organisations that are already actively engaged in circular activities within their local communities.\n\nInterested groups and organisations in Limerick can access further details and submit their applications by visiting the official website at Circular.ie/articles/apply-for-a-grant.",
+      "localAngle": "Limerick community-led circular initiatives are eligible to apply for a share of the national €100k funding pot to expand their local reach.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Final call for €100k circular grand funding",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/final-call-for-e100k-circular-grand-funding/",
+      "publishedAt": "Wed, 11 Nov 2026 13:30:34 +0000",
+      "rewrittenAt": "2026-11-11T17:07:08.634Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Circular-Grants.jpg",
+      "imageCheckedAt": "2026-11-11T17:07:10.315Z"
     }
   }
 }
