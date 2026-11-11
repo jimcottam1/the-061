@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-10T20:26:15.269Z",
-    "totalArticles": 33
+    "lastScrape": "2026-11-11T12:39:33.335Z",
+    "totalArticles": 32
   },
   "articles": {
     "8353171": {
@@ -3355,6 +3355,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T20:26:06.565Z"
     },
+    "9339851": {
+      "id": "9339851",
+      "title": "Haier I-Pro Shine Series 6 review: What it's like to live with a seriously clever dishwasher ",
+      "link": "https://www.limerickleader.ie/recommended/haier-dishwasher-review-kitchen-appliance-9343905",
+      "description": "From a countdown projected on the floor to AI-powered washing programmes, Haier’s smart dishwasher promises plenty. After several weeks and a house party’s worth of washing up, I’m thoroughly won over",
+      "pubDate": "Wed, 11 Nov 2026 10:32:49 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/15/27/imgi_428_12_23881.jpeg?width=1200&auto=webp&trim=80%2C0%2C81%2C0",
+      "imageCredit": "Haier",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
+    },
     "9339952": {
       "id": "9339952",
       "title": "Loved TV star makes an appearance at Limerick Milk Market",
@@ -3378,6 +3390,18 @@
       "imageCredit": "Brendan Gleeson",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
+    },
+    "9340015": {
+      "id": "9340015",
+      "title": "REVEALED: Permission sought for new Park and Ride facility in Limerick",
+      "link": "https://www.limerickleader.ie/news/planning/revealed-permission-sought-for-new-park-and-ride-facility-in-limerick-9340015",
+      "description": "The National Transport Authority has lodged a planning application seeking permission to construct the first of three planned Park and Ride hubs for Limerick city",
+      "pubDate": "Wed, 11 Nov 2026 09:40:22 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/13/38/ILIM-Park-Ride-Clondrinagh.jpeg?width=1200&auto=webp&trim=0%2C21%2C0%2C21",
+      "imageCredit": "NTA",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
     "9340503": {
       "id": "9340503",
@@ -3435,6 +3459,18 @@
       "imageCredit": "Dermot Culhane Photography",
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9341337": {
+      "id": "9341337",
+      "title": "Limerick university announces new industry partnership for science students",
+      "link": "https://www.limerickleader.ie/news/school-education/limerick-university-announces-new-industry-partnership-for-science-students-9341337",
+      "description": "The four-year programme enables students to graduate with a master's degree and up to two years of paid industry experience, working with companies on real-world scientific challenges",
+      "pubDate": "Wed, 11 Nov 2026 07:00:09 GMT",
+      "author": "Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/12/Jakki-Cooney-iBio-course-co-founder-Stephen-Kinsella-iBio-course-co-founder_-Dr--Nora-Khaldi-founder.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Patrick Bolger",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
     "9341483": {
       "id": "9341483",
@@ -3574,6 +3610,53 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343495": {
+      "id": "9343495",
+      "title": "Limerick champions closer to LGFA Munster breakthrough",
+      "link": "https://www.limerickleader.ie/sport/ladies-football/limerick-champions-closer-to-lgfa-munster-breakthrough-9343495",
+      "description": "The Munster LGFA intermediate championship that has still never been won by a Limerick team after coming to being over a quarter of a century ago",
+      "pubDate": "Wed, 11 Nov 2026 08:30:22 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/8/19/St-Ailbes-team.jpeg?width=1200&auto=webp&trim=85%2C0%2C85%2C0",
+      "imageCredit": "LIMERICK LGFA",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
+    },
+    "9343736": {
+      "id": "9343736",
+      "title": "Major public sector strike called off as last minute deal averts nationwide disruption",
+      "link": "https://www.limerickleader.ie/national/major-public-sector-strike-called-off-as-last-minute-deal-averts-nationwide-disruption-9343736",
+      "description": "A new pay deal worth 10.75% has been agreed following overnight talks, with planned industrial action on Thursday now suspended",
+      "pubDate": "Wed, 11 Nov 2026 10:15:08 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/9/26/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-11T095121-318.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
+    },
+    "9344188": {
+      "id": "9344188",
+      "title": "'Pizza dough prepared near rat droppings' - Three businesses forced to shut in October",
+      "link": "https://www.limerickleader.ie/national/pizza-dough-prepared-near-rat-droppings-three-businesses-shut-in-october-9344188",
+      "description": "HSE inspectors believed hygiene standards posed a grave and immediate danger to public health as they shut down three food businesses last month",
+      "pubDate": "Wed, 11 Nov 2026 12:15:11 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/01/download.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.379Z"
+    },
+    "9344211": {
+      "id": "9344211",
+      "title": "‘Urgent inquiries’ after threatening email sent to hundreds of schools",
+      "link": "https://www.limerickleader.ie/national/urgent-inquiries-after-threatening-email-sent-to-hundreds-of-schools-9344211",
+      "description": "The Department of Education advised schools in Northern Ireland to remain open ‘unless otherwise advised by the PSNI’.",
+      "pubDate": "Wed, 11 Nov 2026 11:30:23 GMT",
+      "author": "Jonathan McCambridge and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/cs-b46461bc-1f51-4167-a9e9-923e155e3c4d.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -5866,6 +5949,126 @@
       "author": "Fionn Murtagh",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-10T20:26:07.431Z"
+    },
+    "https://www.limerickpost.ie/?p=363138": {
+      "id": "https://www.limerickpost.ie/?p=363138",
+      "title": "Schools bomb threats declared a hoax",
+      "link": "https://www.limerickpost.ie/2026/11/11/schools-bomb-threats-declared-a-hoax/",
+      "description": "SCHOOLS in Limerick received emailed bomb-threats today (Wednesday), but Gardaí have said they believe the threats to be bogus. A number of schools in Limerick and Cork received what is being described as a generic email, warning of a bomb hidden in a plastic bag on the grounds of the schools. A number of schools [&#8230;]\nThe post Schools bomb threats declared a hoax appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 12:05:32 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363044": {
+      "id": "https://www.limerickpost.ie/?p=363044",
+      "title": "Cocaine responsible for nearly half of the addicts seeking treatment in the Mid West",
+      "link": "https://www.limerickpost.ie/2026/11/11/cocaine-responsible-for-nearly-half-of-the-addicts-seeking-treatment-in-the-mid-west/",
+      "description": "POWDER cocaine was the drug of abuse for almost one third of addicts seeking treatment presentations at Coolmine’s Mid West services in the first nine months of 2026, and along with crack cocaine, accounted for almost half of all addictions at the centre. Cocaine presentations were up from 18 per cent in the same period [&#8230;]\nThe post Cocaine responsible for nearly half of the addicts seeking treatment in the Mid West appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 12:00:11 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363134": {
+      "id": "https://www.limerickpost.ie/?p=363134",
+      "title": "Day of strikes suspended as draft agreement reached",
+      "link": "https://www.limerickpost.ie/2026/11/11/day-of-strikes-suspended-as-draft-agreement-reached/",
+      "description": "THE PLANNED public sector strike for this Thursday (November 12) is off, meaning outpatient and other hospital appointments will be going ahead and schools and other sectors will be operating as normal. A draft pay agreement negotiated between the Government and unions resulted in a recommendation that public sector workers suspend industrial action. The proposals [&#8230;]\nThe post Day of strikes suspended as draft agreement reached appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 11:45:50 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363118": {
+      "id": "https://www.limerickpost.ie/?p=363118",
+      "title": "‘Vanity project’ Christmas fair at Crescent gets green light but leaves sour taste for councillors",
+      "link": "https://www.limerickpost.ie/2026/11/11/vanity-project-christmas-fair-at-crescent-gets-green-light-but-leaves-sour-taste-for-councillors/",
+      "description": "MAYOR John Moran&#8217;s Christmas Fayre at The Crescent on O&#8217;Connell Avenue has got the green light despite leaving a sour taste with councillors and being described as a &#8220;vanity project&#8221;. At the opening of an epic six-and-a-half-hour meeting in Merchants Quay on Tuesday, the executive mayor paraphrased Irish patriot Robert Emmet when he spoke about [&#8230;]\nThe post &#8216;Vanity project&#8217; Christmas fair at Crescent gets green light but leaves sour taste for councillors appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 11:29:35 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363075": {
+      "id": "https://www.limerickpost.ie/?p=363075",
+      "title": "New book revives hopes of U2 homecoming in Limerick in 2028",
+      "link": "https://www.limerickpost.ie/2026/11/11/new-book-revives-hopes-of-u2-homecoming-in-limerick-in-2028/",
+      "description": "A Sort of Homecoming: A show in Limerick on this tour to celebrate the first U2 gig would be a fabulous full circle moment! A NEW book tells the story of the night a band from Dublin played their first official gig as U2 and won a Limerick band competition in 1978 that helped change [&#8230;]\nThe post New book revives hopes of U2 homecoming in Limerick in 2028 appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 11:10:31 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363110": {
+      "id": "https://www.limerickpost.ie/?p=363110",
+      "title": "What’s On in Limerick: 12th–19th – Live Music, Theatre, Comedy & Events",
+      "link": "https://www.limerickpost.ie/2026/11/11/whats-on-in-limerick-12th-19th-live-music-theatre-comedy-events/",
+      "description": "Looking for things to do in Limerick this week? There&#8217;s plenty happening across the city and county, with a packed programme of live music, theatre, comedy, cultural events, book launches and much more. From quality gigs at Dolans and Record Room to theatre productions at Belltable and Lime Tree Theatre, plus traditional music sessions, festivals [&#8230;]\nThe post What&#8217;s On in Limerick: 12th–19th – Live Music, Theatre, Comedy &#038; Events appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 10:36:21 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363049": {
+      "id": "https://www.limerickpost.ie/?p=363049",
+      "title": "Limerick Minister opens free forestry information events",
+      "link": "https://www.limerickpost.ie/2026/11/11/limerick-minister-opens-free-forestry-information-events/",
+      "description": "LIMERICK landowners are invited to attend four free forestry information events in conjunction with Teagasc. Minister of State at the Department of Agriculture, Niall Collins, will open the events in the Devon Inn, Templeglantine Village. Each event is run over an evening and opens with two information presentations, followed by a panel discussion with a [&#8230;]\nThe post Limerick Minister opens free forestry information events appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 10:30:33 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363042": {
+      "id": "https://www.limerickpost.ie/?p=363042",
+      "title": "Councillors call for Limerick communities to be put before birds, bees, and bats",
+      "link": "https://www.limerickpost.ie/2026/11/11/councillors-call-for-limerick-communities-to-be-put-before-birds-bees-and-bats/",
+      "description": "COUNCILLORS are sick of bats, bees, and whooper swans being considered before human inhabitants of County Limerick communities when it comes to wind turbines. That was the view expressed at a special meeting to consider the commencement of a variation to the Limerick Development Plan (LDP) relating to wind energy. Council members called for consideration [&#8230;]\nThe post Councillors call for Limerick communities to be put before birds, bees, and bats appeared first on Limerick Post.",
+      "pubDate": "Wed, 11 Nov 2026 09:00:32 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://www.limerickpost.ie/?p=363034": {
+      "id": "https://www.limerickpost.ie/?p=363034",
+      "title": "LIMERICK IN PHOTOS: Fine win by Milford NS",
+      "link": "https://www.limerickpost.ie/2026/11/10/limerick-in-photos-fine-win-by-milford-ns/",
+      "description": "MILFORD NS emerged as winners from Na Piarsaigh GAA Grounds of the Celtic Image Shield (girls gaelic football). In the semi-final, Milford accounted for Herbertstown and then Scoil an Spioraid Naoimh of Roxborough in the final, 2-3 to 0-3. Early goals arrived from Ava Barry and Ruth Larkin for Milford. Éillidh McMillan, Ella Burns, Laurie [&#8230;]\nThe post LIMERICK IN PHOTOS: Fine win by Milford NS appeared first on Limerick Post.",
+      "pubDate": "Tue, 10 Nov 2026 21:00:09 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-11T12:39:21.839Z"
+    },
+    "https://limerickvoice.com/?p=53757": {
+      "id": "https://limerickvoice.com/?p=53757",
+      "title": "‘Who wants to take Christmas to court?’ – Crescent Christmas Fayre survives tight council vote",
+      "link": "https://limerickvoice.com/news/who-wants-to-take-christmas-to-court-crescent-christmas-fayre-survives-tight-council-vote/",
+      "description": "Limerick Christmas Fayre to proceed at Crescent after councillors reject relocation in narrow vote. LIMERICK&#8217;S controversial Christmas Fayre at the Crescent has been given the green light after councillors voted against proposals to relocate the market following five hours of debate on Tuesday. In a vote that went down to the wire, Metropolitan District councillors [&#8230;]\nThe post &#8216;Who wants to take Christmas to court?&#8217; &#8211; Crescent Christmas Fayre survives tight council vote appeared first on .",
+      "pubDate": "Wed, 11 Nov 2026 12:00:51 +0000",
+      "author": "Greg King",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-11T12:39:22.900Z"
+    },
+    "https://limerickvoice.com/?p=53743": {
+      "id": "https://limerickvoice.com/?p=53743",
+      "title": "Limerick author William Keohane releases debut memoir ‘Out There’",
+      "link": "https://limerickvoice.com/arts-and-culture/limerick-author-william-keohane-releases-debut-memoir-out-there/",
+      "description": "Former University of Limerick graduate William Keohane released his debut memoir &#8216;Out There&#8217; yesterday, November 10.   SPEAKING on his journey of writing the memoir, Keohane expressed how he &#8220;didn&#8217;t prepare to write the book necessarily, it was more that I felt compelled to write it.&#8221;  &#8220;A lot of it happened unexpectedly. When I started my MA in Creative [&#8230;]\nThe post Limerick author William Keohane releases debut memoir ‘Out There’ appeared first on .",
+      "pubDate": "Wed, 11 Nov 2026 11:00:14 +0000",
+      "author": "Kayleigh Downey",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-11T12:39:22.900Z"
+    },
+    "https://limerickvoice.com/?p=53740": {
+      "id": "https://limerickvoice.com/?p=53740",
+      "title": "BREAKING: Public Sector Strikes called off following proposed pay agreement",
+      "link": "https://limerickvoice.com/news/public-sector-strikes-called-off-following-proposed-pay-agreement/",
+      "description": "This Thursday&#8217;s strike called off after a proposed 10.75 percent increase in pay. PUBLIC sector strikes have been called off following a proposed agreement between the Government and public service unions, reached at the Workplace Relations Commission (WRC).  The proposed Public Service Agreement 2026–2029 provides for pay increases of 10.75 percent over a 33-month period. Unions [&#8230;]\nThe post BREAKING: Public Sector Strikes called off following proposed pay agreement appeared first on .",
+      "pubDate": "Wed, 11 Nov 2026 09:24:41 +0000",
+      "author": "Christina O&#039;Mahony",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-11T12:39:22.900Z"
     }
   },
   "rewritten": {
@@ -9479,6 +9682,23 @@
       "imageCredit": "iDonate",
       "rewrittenAt": "2026-11-10T20:29:41.383Z"
     },
+    "9339851": {
+      "headline": "Review of the Haier I-Pro Shine Series 6 smart dishwasher",
+      "summary": "A reviewer tests the Haier I-Pro Shine Series 6 smart dishwasher over several weeks.",
+      "story": "The review covers living with the smart appliance, which features a floor-projected countdown and AI-powered washing programmes.",
+      "localAngle": "This product review was featured by local media covering the 061 region.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Haier I-Pro Shine Series 6 review: What it's like to live with a seriously clever dishwasher ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/haier-dishwasher-review-kitchen-appliance-9343905",
+      "publishedAt": "Wed, 11 Nov 2026 10:32:49 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/15/27/imgi_428_12_23881.jpeg?width=1200&auto=webp&trim=80%2C0%2C81%2C0",
+      "imageCredit": "Haier",
+      "rewrittenAt": "2026-11-11T12:41:49.368Z"
+    },
     "9339952": {
       "headline": "Downton Abbey star Laura Carmichael visits Limerick Milk Market",
       "summary": "Actress Laura Carmichael, known for her role as Lady Edith in Downton Abbey, recently made an appearance at the Limerick Milk Market.",
@@ -9500,6 +9720,23 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=362990",
       "rewrittenAt": "2026-11-09T19:44:40.259Z"
+    },
+    "9340015": {
+      "headline": "National Transport Authority applies for Limerick's first Park and Ride hub",
+      "summary": "Plans have been lodged for the initial Park and Ride facility out of three planned hubs for Limerick city.",
+      "story": "The National Transport Authority has submitted a planning application to construct the first of three planned Park and Ride hubs for Limerick city. The development marks the initial step in the planned rollout of these transport facilities in the area.",
+      "localAngle": "The proposed Park and Ride facility is set to be built in Limerick city.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "REVEALED: Permission sought for new Park and Ride facility in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/planning/revealed-permission-sought-for-new-park-and-ride-facility-in-limerick-9340015",
+      "publishedAt": "Wed, 11 Nov 2026 09:40:22 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/13/38/ILIM-Park-Ride-Clondrinagh.jpeg?width=1200&auto=webp&trim=0%2C21%2C0%2C21",
+      "imageCredit": "NTA",
+      "rewrittenAt": "2026-11-11T12:42:09.597Z"
     },
     "9340503": {
       "skipped": true,
@@ -9560,6 +9797,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/21/Big-Boss_157.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Dermot Culhane Photography",
       "rewrittenAt": "2026-11-10T20:29:22.537Z"
+    },
+    "9341337": {
+      "headline": "Limerick university launches new science degree and work placement programme",
+      "summary": "A new four-year university programme offers science students a master's degree alongside up to two years of paid industry experience.",
+      "story": "The initiative enables students to collaborate with companies on real-world scientific challenges while completing their studies. Participants will graduate with both a master's degree and significant professional work experience.",
+      "localAngle": "The partnership programme is being launched by a university in Limerick for its science students.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick university announces new industry partnership for science students",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/school-education/limerick-university-announces-new-industry-partnership-for-science-students-9341337",
+      "publishedAt": "Wed, 11 Nov 2026 07:00:09 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/12/Jakki-Cooney-iBio-course-co-founder-Stephen-Kinsella-iBio-course-co-founder_-Dr--Nora-Khaldi-founder.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Patrick Bolger",
+      "rewrittenAt": "2026-11-11T12:42:17.733Z"
     },
     "9341483": {
       "headline": "City Hall hosts crucial Metropolitan District meeting regarding Christmas festivities",
@@ -9735,6 +9989,38 @@
       "publishedAt": "Tue, 10 Nov 2026 20:19:13 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-10T20:27:43.123Z"
+    },
+    "9343495": {
+      "skipped": true,
+      "duplicateOf": "9338079",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "9343736": {
+      "skipped": true,
+      "duplicateOf": "9339517",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "9344188": {
+      "headline": "Three Limerick food businesses closed after HSE finds severe hygiene risks",
+      "summary": "Health inspectors shut down three local food businesses in October due to hygiene standards posing a grave and immediate danger to public health.",
+      "story": "Three businesses were forced to close last month after HSE inspectors discovered issues including pizza dough prepared near rat droppings. Inspectors believed the hygiene standards posed a grave and immediate danger to public health.",
+      "localAngle": "The closures affect three food businesses located within the 061 area.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "'Pizza dough prepared near rat droppings' - Three businesses forced to shut in October",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/pizza-dough-prepared-near-rat-droppings-three-businesses-shut-in-october-9344188",
+      "publishedAt": "Wed, 11 Nov 2026 12:15:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/01/download.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "rewrittenAt": "2026-11-11T12:41:04.253Z"
+    },
+    "9344211": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363138",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -12819,6 +13105,132 @@
       "rewrittenAt": "2026-11-10T20:29:51.782Z",
       "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/shimabdinzade-woman-7483483_1920_ULStudentFIONN.MURTA_.jpg",
       "imageCheckedAt": "2026-11-10T20:29:53.371Z"
+    },
+    "https://limerickvoice.com/?p=53757": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362914",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://www.limerickpost.ie/?p=363134": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53665",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://www.limerickpost.ie/?p=363118": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362914",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://www.limerickpost.ie/?p=363110": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53696",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://limerickvoice.com/?p=53740": {
+      "skipped": true,
+      "duplicateOf": "9339517",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://www.limerickpost.ie/?p=363042": {
+      "skipped": true,
+      "duplicateOf": "9339015",
+      "rewrittenAt": "2026-11-11T12:40:55.307Z"
+    },
+    "https://www.limerickpost.ie/?p=363138": {
+      "headline": "Gardaí Confirm Limerick School Bomb Threats Are A Nationwide Hoax",
+      "summary": "Schools in Limerick and across the country received emailed bomb threats on Wednesday, but Gardaí and the Department of Education have confirmed the messages are bogus and evacuations are unnecessary.",
+      "story": "A number of schools in Limerick received emailed bomb threats on Wednesday, though Gardaí have confirmed they believe the alerts are entirely bogus. \n\nThe threatening messages, described as generic emails warning of a bomb hidden in a plastic bag on school grounds, were sent to approximately 300 schools nationwide, including institutions in Limerick, Cork, and Dublin. While some schools in Cork initially evacuated pupils and staff, Gardaí subsequently informed educational facilities across the country that the threats are a hoax and advised that full evacuations are not required beyond precautionary general security checks.\n\nThe Department of Education issued a communication to schools following consultations with senior Gardaí, confirming that institutions need not evacuate. \n\nWednesday's incident follows a series of similar bomb threats reported across Ireland in recent days, which have included emergency aircraft diversions and the evacuation of media organizations, notably forcing the national broadcaster RTÉ off air briefly last week.",
+      "localAngle": "Limerick schools were among the approximately 300 institutions nationwide targeted by the bogus emailed bomb threats on Wednesday.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Schools bomb threats declared a hoax",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/schools-bomb-threats-declared-a-hoax/",
+      "publishedAt": "Wed, 11 Nov 2026 12:05:32 +0000",
+      "rewrittenAt": "2026-11-11T12:41:14.593Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/06/Garda-stock-pexels-paolo-t-6862-942029.jpg",
+      "imageCheckedAt": "2026-11-11T12:42:26.275Z"
+    },
+    "https://www.limerickpost.ie/?p=363044": {
+      "headline": "Cocaine Surges to Nearly Half of All Treatment Cases in the Mid West",
+      "summary": "Powder and crack cocaine accounted for 43 per cent of addiction treatment presentations at Coolmine's Mid West services in the first nine months of 2026, driven by a sharp rise in powder cocaine use.",
+      "story": "Powder cocaine accounted for almost one third of addiction treatment presentations at Coolmine’s Mid West services during the first nine months of 2026, according to the organisation's latest report. Combined with crack cocaine, the substances made up 43 per cent of all treatments at the regional centre, a significant increase from 32 per cent during the same period last year.\n\nThe surge in powder cocaine—which rose to 29 per cent of presentations, up from 18 per cent previously—brings it close to alcohol, which accounted for 31 per cent of regional cases. Crack cocaine remained steady at 14 per cent. Notably, the regional findings contrast with national figures, where the combined share of both drugs remained stable at 34 per cent. The data also revealed that women accounted for 97 per cent of those presenting to the Mid West services.\n\nDavid McPhillips, Coolmine’s Mid West Services Manager, emphasized that regional trends require tailored responses. \"The rise in powder cocaine’s share of presentations in the Mid West is a reminder that national trends do not tell the whole local story,\" he said. McPhillips added that treatment services must account for family and maternal circumstances, noting that \"delivering the National Drugs Strategy 2026–2030 in the Mid West will depend on services having the resources to respond to changing needs.\"",
+      "localAngle": "The report highlights shifting addiction treatment trends and resource demands specific to Coolmine's services across the Mid West region.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Cocaine responsible for nearly half of the addicts seeking treatment in the Mid West",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/cocaine-responsible-for-nearly-half-of-the-addicts-seeking-treatment-in-the-mid-west/",
+      "publishedAt": "Wed, 11 Nov 2026 12:00:11 +0000",
+      "rewrittenAt": "2026-11-11T12:41:22.408Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2018/07/Crack-cocaine.png",
+      "imageCheckedAt": "2026-11-11T12:42:26.846Z"
+    },
+    "https://www.limerickpost.ie/?p=363075": {
+      "headline": "New Book Explores How Limerick Hosted U2's Historic First Gig in 1978",
+      "summary": "A newly published book by Brian O'Connell details the night a young Dublin band won the Pop Group '78 competition at the Stella Ballroom, marking their official debut under the name U2.",
+      "story": "A new book exploring the origins of one of the world's biggest rock bands has been released, focusing on the night a young Dublin group performed under the name U2 for the very first time in Limerick.\n\n*Becoming U2* by Brian O'Connell, published on November 8, examines the Pop Group ’78 competition held at the Stella Ballroom during Limerick Civic Week. The Harp Lager-sponsored event saw the group—then known as The Hype—change their name before taking to the stage to ensure they wouldn't be stuck with the moniker if they won. Bassist Adam Clayton previously described the competition as the exact point the band became U2, while drummer Larry Mullen Jr noted that winning the Limerick contest fundamentally changed their lives.\n\nAuthor Brian O'Connell spent more than 15 years working on the book, a project that began after a plaque was unveiled at the city centre venue in 2011. He noted that despite the band identifying the Limerick gig as their first public appearance under the U2 name, accurate records regarding the date and location were scarce, with the only detailed contemporary report appearing in the Evening Press in March 1978.\n\nThe publication has also revived local hopes that the band might return to Limerick for a homecoming concert in 2028 to mark the 50th anniversary of their historic debut.",
+      "localAngle": "The book explores Limerick's pivotal role in music history as the location where U2 played their first official gig and won a band competition in 1978.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "New book revives hopes of U2 homecoming in Limerick in 2028",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/new-book-revives-hopes-of-u2-homecoming-in-limerick-in-2028/",
+      "publishedAt": "Wed, 11 Nov 2026 11:10:31 +0000",
+      "rewrittenAt": "2026-11-11T12:41:34.333Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/U2-WEB-PAPERBACK_COVER-1-1-1-e1793783142618.jpg",
+      "imageCheckedAt": "2026-11-11T12:42:27.076Z"
+    },
+    "https://limerickvoice.com/?p=53743": {
+      "headline": "Former UL Graduate William Keohane Launches Debut Memoir ‘Out There’",
+      "summary": "Former University of Limerick graduate William Keohane has released his debut memoir, ‘Out There’, exploring grief, gender transition, and identity from an Irish perspective. He will conclude his UK and Irish book tour at O’Mahony’s in Limerick this Thursday.",
+      "story": "Former University of Limerick graduate William Keohane released his debut memoir, ‘Out There’, on November 10. Keohane, who completed an MA in Creative Writing at UL, said he initially expected to focus on poetry during his studies, but found himself compelled to write prose that eventually formed the basis of his new book.\n\nPublished by And Other Stories, the memoir offers a trans and Irish perspective on grief, gender transition, and grappling with identity. Keohane cited the fearlessness of Irish women authors such as Sinéad Gleeson, Sara Baume, and Doireann Ní Ghríofa as major inspirations during his writing process, alongside the support of his UL classmates and teachers, including Joseph O’Connor, Donal Ryan, and Kit de Waal.\n\nKeohane is currently touring eight bookshops across the UK and Ireland. The tour concludes this Thursday, November 12, at 7pm with an event at O’Mahony’s in Limerick, where he will be in conversation with acclaimed author and former teacher Joseph O’Connor. For Keohane, finishing the tour at O’Mahony's holds personal significance, noting that the book itself is partly about coming home to Limerick.",
+      "localAngle": "The author is a UL graduate concluding his book tour with a homecoming event at O'Mahony's in Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick author William Keohane releases debut memoir ‘Out There’",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/limerick-author-william-keohane-releases-debut-memoir-out-there/",
+      "publishedAt": "Wed, 11 Nov 2026 11:00:14 +0000",
+      "rewrittenAt": "2026-11-11T12:41:42.097Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Headshot-Molly-Ahern_ULStudentKAYLEIGH.DO_.jpg",
+      "imageCheckedAt": "2026-11-11T12:42:27.299Z"
+    },
+    "https://www.limerickpost.ie/?p=363049": {
+      "headline": "Minister Niall Collins Opens Free Teagasc Forestry Events for Limerick Landowners",
+      "summary": "Limerick landowners are invited to attend four free evening forestry information events organised in conjunction with Teagasc. Minister of State Niall Collins will open the series in Templeglantine.",
+      "story": "Limerick landowners looking to learn more about forestry have been invited to attend a series of four free evening information events organised in conjunction with Teagasc.\n\nMinister of State at the Department of Agriculture, Limerick TD Niall Collins, will officially open the information campaign at the Devon Inn in Templeglantine Village.\n\nEach event kicks off with two informative presentations followed by a panel discussion, giving attendees the chance to hear directly from a local farmer about their personal forestry journey.\n\nParticipants will also have the opportunity to speak face-to-face with professional Forestry Inspectors from the Department of Agriculture, Food and the Marine, alongside Teagasc Forestry Advisors. The events are entirely free and open to all interested members of the public, with further schedule details available on the department’s website.",
+      "localAngle": "The event series specifically caters to Limerick landowners and is being opened by local TD and Minister of State Niall Collins.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick Minister opens free forestry information events",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/11/limerick-minister-opens-free-forestry-information-events/",
+      "publishedAt": "Wed, 11 Nov 2026 10:30:33 +0000",
+      "rewrittenAt": "2026-11-11T12:41:58.920Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/03/niall-collins.png",
+      "imageCheckedAt": "2026-11-11T12:42:27.976Z"
+    },
+    "https://www.limerickpost.ie/?p=363034": {
+      "headline": "Milford NS claim Celtic Image Shield with final victory over Scoil an Spioraid Naoimh",
+      "summary": "Milford National School secured the girls Gaelic football Celtic Image Shield at Na Piarsaigh GAA Grounds, defeating Scoil an Spioraid Naoimh 2-3 to 0-3 in the final.",
+      "story": "Milford National School were crowned champions of the Celtic Image Shield following a strong display in the girls Gaelic football final at Na Piarsaigh GAA Grounds.\n\nHaving advanced past Herbertstown in the semi-final stages, Milford went on to claim the silverware with a 2-3 to 0-3 victory over Scoil an Spioraid Naoimh of Roxborough. Early goals from Ava Barry and Ruth Larkin set the tone for the winners, while teammates Éillidh McMillan, Ella Burns, and Laurie Earls also delivered key performances on the pitch.\n\nDespite the loss, the Roxborough outfit battled hard throughout the encounter, with Dalia Almuktar, Hazel Keogh, Sadie McNamara, Millie English, and Lily Conway putting in tireless shifts for Scoil an Spioraid Naoimh.",
+      "localAngle": "The primary schools' Gaelic football decider brought together young sports stars from across the local Limerick community at Na Piarsaigh GAA Grounds.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Fine win by Milford NS",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/10/limerick-in-photos-fine-win-by-milford-ns/",
+      "publishedAt": "Tue, 10 Nov 2026 21:00:09 +0000",
+      "rewrittenAt": "2026-11-11T12:42:25.924Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Winning-Team.jpg",
+      "imageCheckedAt": "2026-11-11T12:42:28.312Z"
     }
   }
 }
