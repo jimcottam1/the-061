@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-12T17:30:40.136Z",
-    "totalArticles": 38
+    "lastScrape": "2026-11-12T20:45:10.168Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -4017,6 +4017,28 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T17:30:27.726Z"
     },
+    "9348455": {
+      "id": "9348455",
+      "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
+      "link": "https://www.limerickleader.ie/national/there-can-be-no-progress-in-reaching-ukraine-peace-agreement-without-eu-martin-9348455",
+      "description": "Taoiseach Micheál Martin said the EU is ‘potentially in a process’ on negotiations in finding a peace agreement in Ukraine.",
+      "pubDate": "Thu, 12 Nov 2026 20:34:52 GMT",
+      "author": "Cate McCurry, Cillian Sherlock, Mícheál Ó Scannáil, David Young, Jonathan McCambridge and Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/20/cs-42da2eac-c48a-4113-8bfe-23564ac920a3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T20:44:58.177Z"
+    },
+    "9348460": {
+      "id": "9348460",
+      "title": "PM not ‘reading too much’ into Ukraine peace talks and urges focus on ceasefire",
+      "link": "https://www.limerickleader.ie/national/pm-not-reading-too-much-into-ukraine-peace-talks-and-urges-focus-on-ceasefire-9348460",
+      "description": "The Prime Minister promised Volodymyr Zelensky his ‘complete support’ in helping end the war in Ukraine.",
+      "pubDate": "Thu, 12 Nov 2026 20:26:38 GMT",
+      "author": "Sophie Wingate, Press Association Deputy Political Editor and  in Dublin",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/20/cs-39d3483d-253f-4260-860d-27865387fdfe.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T20:44:58.177Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -6648,6 +6670,46 @@
       "author": "David Raleigh",
       "source": "limerickpost",
       "scrapedAt": "2026-11-12T17:30:27.116Z"
+    },
+    "https://www.limerickpost.ie/?p=363250": {
+      "id": "https://www.limerickpost.ie/?p=363250",
+      "title": "UCH aims to spread its panto magic to 1,500 children and families by this Christmas",
+      "link": "https://www.limerickpost.ie/2026/11/12/uch-aims-to-spread-its-panto-magic-to-1500-children-and-families-by-this-christmas/",
+      "description": "University Concert Hall’s (UCH) award-winning Panto For All campaign invites charities and community groups to apply for free tickets to this year’s Specsavers Limerick Panto, Jack &#38; the Beanstalk, running at UCH from 14th December 2026 to 10th January 2027. The campaign also encourages the public and businesses to help bring the magic of Panto [&#8230;]\nThe post UCH aims to spread its panto magic to 1,500 children and families by this Christmas appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 20:00:09 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T20:44:57.646Z"
+    },
+    "https://www.limerickpost.ie/?p=363032": {
+      "id": "https://www.limerickpost.ie/?p=363032",
+      "title": "Hero’s welcome planned for Billy Lee",
+      "link": "https://www.limerickpost.ie/2026/11/12/heros-welcome-planned-for-billy-lee/",
+      "description": "NEWLY crowned Flat Jockey Champion Billy Lee will engage in a meet and greet at Granagh/Ballingarry GAA Club, Ballingarry this Saturday, 7.30pm. Lee realised a lifetime’s ambition when he was crowned Ireland’s Champion Jockey after the end of the season in the Curragh. At 40, Leeis the oldest first-time title winner since Tommy Murphy achieved [&#8230;]\nThe post Hero’s welcome planned for Billy Lee appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 19:30:07 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T20:44:57.647Z"
+    },
+    "https://www.limerickpost.ie/?p=363178": {
+      "id": "https://www.limerickpost.ie/?p=363178",
+      "title": "Plenty of players involved with Munster",
+      "link": "https://www.limerickpost.ie/2026/11/12/plenty-of-players-involved-with-munster/",
+      "description": "WITH a pause in action, some interesting statistics on the season to date have been released by Munster Rugby. 39 players have featured for the club in the opening rounds of URC (5), along with the sole Champions Cup tie. There have been six debuts namely by Jack Aungier, Kieran Brookes,  Marnus van der Merwe, [&#8230;]\nThe post Plenty of players involved with Munster appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 18:00:37 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T20:44:57.647Z"
+    },
+    "https://limerickvoice.com/?p=53780": {
+      "id": "https://limerickvoice.com/?p=53780",
+      "title": "Limerick Racecourse reveals plans for 26th Christmas Racing Festival",
+      "link": "https://limerickvoice.com/sport/limerick-racecourse-reveals-plans-for-26th-christmas-racing-festival/",
+      "description": "Limerick Racecourse to launch festival for December 26-29, 2026.   LIMERICK Racecourse has officially launched plans for its 26th annual Christmas Racing Festival, which will take place over four days from December 26-29, 2026.   The festival will feature top-class horse racing, live entertainment, and festive celebrations, with organisers hoping to build on increased attendance [&#8230;]\nThe post Limerick Racecourse reveals plans for 26th Christmas Racing Festival appeared first on .",
+      "pubDate": "Thu, 12 Nov 2026 18:30:34 +0000",
+      "author": "Mairéad Hughes",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-12T20:44:59.046Z"
     }
   },
   "rewritten": {
@@ -11001,6 +11063,27 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363138",
       "rewrittenAt": "2026-11-12T17:32:35.834Z"
     },
+    "9348455": {
+      "headline": "Micheál Martin States EU Essential for Ukraine Peace Talks Progress",
+      "summary": "Taoiseach Micheál Martin has stated that the EU is potentially involved in a process to find a peace agreement for Ukraine.",
+      "story": "Speaking on Thursday, the Taoiseach asserted that progress toward a peace agreement in Ukraine cannot happen without the European Union. He noted that the EU is potentially in a process regarding these negotiations.",
+      "localAngle": "This national political commentary from Taoiseach Micheál Martin is of general interest to readers in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/there-can-be-no-progress-in-reaching-ukraine-peace-agreement-without-eu-martin-9348455",
+      "publishedAt": "Thu, 12 Nov 2026 20:34:52 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/20/cs-42da2eac-c48a-4113-8bfe-23564ac920a3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-12T20:45:46.122Z"
+    },
+    "9348460": {
+      "skipped": true,
+      "duplicateOf": "9347629",
+      "rewrittenAt": "2026-11-12T20:45:39.025Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -14524,6 +14607,64 @@
       "rewrittenAt": "2026-11-12T17:39:28.556Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/cctv-security-camera-unsplash-stock-nathy-dog-z1uDmJx3ZEQ-unsplash.jpg",
       "imageCheckedAt": "2026-11-12T17:40:37.827Z"
+    },
+    "https://www.limerickpost.ie/?p=363032": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=362994",
+      "rewrittenAt": "2026-11-12T20:45:39.025Z"
+    },
+    "https://limerickvoice.com/?p=53780": {
+      "skipped": true,
+      "duplicateOf": "9341315",
+      "rewrittenAt": "2026-11-12T20:45:39.025Z"
+    },
+    "https://www.limerickpost.ie/?p=363250": {
+      "headline": "UCH aims to give free panto tickets to 1,500 Limerick children",
+      "summary": "University Concert Hall is calling on local businesses and the public to help its award-winning campaign provide free panto tickets to 1,500 children and families this Christmas. The initiative will see every donation matched by UCH and Specsavers Limerick.",
+      "story": "University Concert Hall (UCH) has launched an appeal to bring its Christmas panto to 1,500 children and families across Limerick by the end of the festive season. The venue's 'Panto For All' campaign is inviting local charities and community groups to apply for free tickets to this year's production of 'Jack & the Beanstalk', which runs from 14th December 2026 to 10th January 2027.\n\nSince the initiative started in 2024, more than 930 children and families have attended the UCH panto free of charge. Organisers hope to push that total to 1,500 this year, backed by recent national recognition after winning the Creative Access Award at the Business to Arts Awards 2026.\n\n“Panto is such a special Christmas tradition and we want as many children and families as possible to have the chance to experience it,” said Sinéad Hope, Director of University Concert Hall. To help reach the target, UCH and panto sponsor Specsavers Limerick have pledged to match every public and business donation received, doubling the impact of each contribution.\n\nCharities and community organisations supporting families who might otherwise miss out can now apply for tickets at uch.ie/donate. Members of the public can also donate through the website, while local businesses can get involved by contacting UCH directly.",
+      "localAngle": "The campaign provides free University Concert Hall panto tickets to children and families across Limerick who might otherwise be unable to attend.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "UCH aims to spread its panto magic to 1,500 children and families by this Christmas",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/12/uch-aims-to-spread-its-panto-magic-to-1500-children-and-families-by-this-christmas/",
+      "publishedAt": "Thu, 12 Nov 2026 20:00:09 +0000",
+      "rewrittenAt": "2026-11-12T20:46:27.291Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/UCH-Panto-204.jpg",
+      "imageCheckedAt": "2026-11-12T20:46:47.147Z"
+    },
+    "https://www.limerickpost.ie/?p=363178": {
+      "headline": "Munster Rugby Utilises 39 Players Across Opening Six Matches of Season",
+      "summary": "Munster Rugby has deployed 39 players, handed out six debuts, and seen 12 academy appearances during the opening five rounds of the URC and their sole Champions Cup tie.",
+      "story": "Munster Rugby has released statistics detailing squad usage across the opening block of the season, showing 39 players featuring for the club in the first five rounds of the United Rugby Championship (URC) along with their sole Champions Cup fixture.\n\nSix players have made their debuts for the province so far: Jack Aungier, Kieran Brookes, Marnus van der Merwe, Michael Foy, Charlie O’Shea, and Rob Russell. In total, academy players have racked up 12 appearances, with Charlie O’Shea remaining ever-present alongside Gavin Coombes, Brian Gleeson, and JJ Hanrahan across all six games. Other academy and senior players to feature include Foy, Jake O’Riordan, Gordon Wood, and all five summer-promoted academy members Ben O’Donovan, Seán Edogbo, Ronan Foxe, Ben O’Conner, and Max Clein.\n\nOn-field leadership has been shared by captain Tadhg Beirne, Diarmuid Barron, Craig Casey, and Jack O’Donoghue. Player of the Match accolades have gone to Ben O’Donovan, O’Shea, van der Merwe, and Casey. Meanwhile, in the All-Ireland League (AIL), senior and academy players have recorded over 60 club appearances, with local representatives Oisín Minogue of Young Munster and Joe Finn of Garryowen featuring in every game for their respective clubs. Munster will return to URC action away to Zebre on December 5.",
+      "localAngle": "Local Limerick club players from Young Munster and Garryowen have featured prominently in the AIL alongside their Munster commitments.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Plenty of players involved with Munster",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/12/plenty-of-players-involved-with-munster/",
+      "publishedAt": "Thu, 12 Nov 2026 18:00:37 +0000",
+      "rewrittenAt": "2026-11-12T20:46:39.653Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/08/Munster-rugby-logo-stock-Brendan-Moran-scaled-e1756141802515.jpg",
+      "imageCheckedAt": "2026-11-12T20:46:47.837Z"
+    },
+    "https://www.limerickpost.ie/?p=363196": {
+      "headline": "County Limerick Serial Sex Offender Faces More Jail Time After Third Victim Comes Forward",
+      "summary": "Christopher O'Mahony, already serving a nine-year sentence for abusing his daughter and sister-in-law, has pleaded guilty to indecently assaulting a third victim in the 1970s after she read about his previous crimes.",
+      "story": "A 68-year-old County Limerick man already serving a nine-year prison sentence for sex crimes against family members is facing additional jail time after pleading guilty to abusing a third victim decades ago. Christopher O’Mahony, of Kerrykyle, Ardagh, admitted to two counts of indecently assaulting the victim during the 1970s when she was a young girl.\n\nLimerick Circuit Criminal Court heard that the victim came forward after reading media reports last year regarding O’Mahony's previous convictions for abusing his daughter, Emma O’Shaughnessy, and sister-in-law, Helen Costelloe. The victim, who was between five and 12 years old at the time of the offenses, asked the court for her identity to be unmasked.\n\nProsecuting barrister Lily Buckley detailed how O’Mahony first targeted the victim while she was sleeping as a young child, forcing her to touch him and attempting to remove her pyjamas before she managed to escape. In a later incident when the victim was 11 or 12, O’Mahony made inappropriate remarks and grabbed her breast. Detective Garda James Muldowney brought the fresh allegations to O'Mahony at Midlands Prison, where he eventually entered guilty pleas.\n\nThe court heard that the victim suffered serious mental health difficulties as a direct result of the abuse. The sentencing hearing is ongoing.",
+      "localAngle": "The case was heard at Limerick Circuit Criminal Court, involving a defendant from Ardagh, County Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "‘Monster’ paedophile facing more jail time after third victim comes forward",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/12/monster-paedophile-facing-more-jail-time-after-third-victim-comes-forward/",
+      "publishedAt": "Thu, 12 Nov 2026 16:30:19 +0000",
+      "rewrittenAt": "2026-11-12T20:46:46.662Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/03/Christopher-omahony-e1742322742464.jpeg",
+      "imageCheckedAt": "2026-11-12T20:46:48.373Z"
     }
   }
 }

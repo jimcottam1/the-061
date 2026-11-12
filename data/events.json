@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T17:40:39.852Z",
+  "updatedAt": "2026-11-12T20:46:51.021Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -55,14 +55,14 @@
       "free": true
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "110016",
       "title": "The Ferryman",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/the-ferryman",
       "start": "2026-11-04T19:30:00.000Z",
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
-      "price": "Standard €27"
+      "price": "Standard €27",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "checkedAt": "2026-11-10T17:02:56.016Z",
@@ -91,28 +91,7 @@
       "start": "2026-11-12T16:00:00.000Z",
       "end": "2026-11-15T18:00:00.000Z",
       "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
-    },
-    {
-      "id": "112276",
-      "title": "A Masterclass with Dr. Natasha Campbell McBride",
-      "url": "https://www.limerick.ie/discover/whats-on/reading-lectures/a-masterclass-with-dr-natasha-campbell-mcbride",
-      "start": "2026-11-12T18:00:00.000Z",
-      "end": "2026-11-12T20:00:00.000Z",
-      "place": "The Urban Co-op, Limerick City",
-      "price": "€40",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
-    },
-    {
-      "id": "111843",
-      "title": "William Keohane Book Launch",
-      "url": "https://www.limerick.ie/discover/whats-on/reading-lectures/william-keohane-book-launch",
-      "start": "2026-11-12T19:00:00.000Z",
-      "end": "2026-11-12T20:00:00.000Z",
-      "place": "O’Mahony’s Booksellers, Limerick City",
-      "price": "Free",
-      "free": true,
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110662",
@@ -122,7 +101,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€12",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "108679",
@@ -132,7 +111,7 @@
       "end": "2026-11-12T23:30:00.000Z",
       "place": "Dolans Upstairs, Limerick City",
       "price": "€29.50",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110551",
@@ -142,7 +121,7 @@
       "end": "2026-11-12T22:30:00.000Z",
       "place": "The Devon Inn Hotel, Newcastle West",
       "price": "€40",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "111486",
@@ -152,7 +131,7 @@
       "end": "2026-11-12T23:00:00.000Z",
       "place": "Newcastle West",
       "price": "€17.50",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "112128",
@@ -162,7 +141,7 @@
       "end": "2026-11-12T23:30:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
       "price": "€20",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "112130",
@@ -172,7 +151,7 @@
       "end": "2026-11-12T23:30:00.000Z",
       "place": "Dolans Upstairs, Limerick City",
       "price": "€17",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "107711",
@@ -183,7 +162,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "106671",
@@ -192,7 +171,7 @@
       "start": "2026-11-13T11:00:00.000Z",
       "end": "2026-11-15T15:00:00.000Z",
       "place": "Limerick Milk Market, Limerick City",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "112084",
@@ -202,7 +181,7 @@
       "end": "2026-11-13T12:15:00.000Z",
       "place": "The Hunt Museum, Limerick City",
       "price": "€5",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110071",
@@ -212,7 +191,7 @@
       "end": "2026-11-13T20:00:00.000Z",
       "place": "St. Mary's Cathedral, Limerick City",
       "price": "Premium €49.50",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "106754",
@@ -222,7 +201,7 @@
       "end": "2026-11-13T22:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
       "price": "€28",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "109122",
@@ -232,7 +211,7 @@
       "end": "2026-11-13T22:00:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€33",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110147",
@@ -242,7 +221,7 @@
       "end": "2026-11-13T23:30:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
       "price": "€19",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110552",
@@ -252,7 +231,7 @@
       "end": "2026-11-13T22:30:00.000Z",
       "place": "Bulgaden Castle & Gastro Pub, Kilmallock",
       "price": "€40",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110663",
@@ -262,7 +241,7 @@
       "end": "2026-11-13T22:00:00.000Z",
       "place": "Belltable, Limerick City",
       "price": "€25",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110085",
@@ -272,7 +251,7 @@
       "end": "2026-11-13T22:00:00.000Z",
       "place": "St. Mary's Cathedral, Limerick City",
       "price": "Premium €49.50",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "111458",
@@ -282,7 +261,7 @@
       "end": "2026-11-14T02:30:00.000Z",
       "place": "Dolans Pub and Restaurant, Limerick City",
       "price": "Student €10",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "107516",
@@ -293,7 +272,7 @@
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
       "free": true,
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "111233",
@@ -303,7 +282,7 @@
       "end": "2026-11-14T16:30:00.000Z",
       "place": "Friars Gate Theatre, Kilmallock",
       "price": "Child €5",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "112085",
@@ -313,7 +292,7 @@
       "end": "2026-11-15T18:00:00.000Z",
       "place": "Limerick Racecourse",
       "price": "Adult €5",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "111916",
@@ -323,7 +302,7 @@
       "end": "2026-12-23T13:00:00.000Z",
       "place": "Jetland Shopping Centre, Limerick City",
       "price": "Adult €7",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "110288",
@@ -333,7 +312,7 @@
       "end": "2026-11-14T15:00:00.000Z",
       "place": "101 O'Connell Street, Limerick City",
       "price": "€49.24",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "112306",
@@ -344,7 +323,7 @@
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "id": "111565",
@@ -353,56 +332,56 @@
       "start": "2026-11-14T17:00:00.000Z",
       "end": "2026-11-14T18:00:00.000Z",
       "place": "Steamboat - Instruments, Records & Comics, Limerick City",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
-      "checkedAt": "2026-11-12T14:14:58.216Z",
       "id": "107061",
       "title": "Greyhound Racing",
       "url": "https://www.limerick.ie/discover/whats-on/sport/greyhound-racing-67",
       "start": "2026-11-14T18:30:00.000Z",
       "end": "2026-11-14T20:30:00.000Z",
-      "place": "Limerick Greyhound Stadium, Limerick City"
+      "place": "Limerick Greyhound Stadium, Limerick City",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "108432",
       "title": "The Frank & Walters",
       "url": "https://www.limerick.ie/discover/whats-on/music/the-frank-walters",
       "start": "2026-11-14T20:00:00.000Z",
       "end": "2026-11-14T23:30:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
-      "price": "€36.15"
+      "price": "€36.15",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "109807",
       "title": "Phil Coulter - Gold and Silver Days",
       "url": "https://www.limerick.ie/discover/whats-on/music/phil-coulter-gold-and-silver-days",
       "start": "2026-11-14T20:00:00.000Z",
       "end": "2026-11-14T23:59:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
-      "price": "€42.50"
+      "price": "€42.50",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "110554",
       "title": "Tommy Tiernan - World Tour Of The Counties",
       "url": "https://www.limerick.ie/discover/whats-on/comedy/tommy-tiernan-world-tour-of-the-counties-3",
       "start": "2026-11-14T20:00:00.000Z",
       "end": "2026-11-14T22:30:00.000Z",
       "place": "Honey Fitz Theatre, Bruff",
-      "price": "€40"
+      "price": "€40",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "111162",
       "title": "Drea",
       "url": "https://www.limerick.ie/discover/whats-on/music/drea",
       "start": "2026-11-14T20:00:00.000Z",
       "end": "2026-11-14T23:30:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
-      "price": "€20"
+      "price": "€20",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "checkedAt": "2026-11-12T14:14:58.216Z",
@@ -652,13 +631,13 @@
       "price": "Adult (13+) - €20"
     },
     {
-      "checkedAt": "2026-11-09T19:46:38.474Z",
       "id": "107325",
       "title": "Weekend Art & Craft Popup",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/weekend-art-craft-popup-136",
       "start": "2026-11-21T10:30:00.000Z",
       "end": "2026-11-22T12:30:00.000Z",
-      "place": "Weekend Popup Gallery, Limerick City"
+      "place": "Weekend Popup Gallery, Limerick City",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     },
     {
       "checkedAt": "2026-11-11T12:42:29.830Z",
@@ -691,16 +670,17 @@
       "place": "Limerick Greyhound Stadium, Limerick City"
     },
     {
+      "checkedAt": "2026-11-12T17:40:39.852Z",
       "id": "110624",
       "title": "Dylan Flynn & the Dead Poets",
       "url": "https://www.limerick.ie/discover/whats-on/music/dylan-flynn-the-dead-poets-0",
       "start": "2026-11-21T19:00:00.000Z",
       "end": "2026-11-21T22:30:00.000Z",
       "place": "Limerick City",
-      "price": "€20",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "price": "€20"
     },
     {
+      "checkedAt": "2026-11-12T17:40:39.852Z",
       "id": "111951",
       "title": "Light Up Limerick 2026",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/light-up-limerick-2026",
@@ -708,38 +688,37 @@
       "end": "2026-11-21T22:00:00.000Z",
       "place": "Limerick City",
       "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "free": true
     },
     {
+      "checkedAt": "2026-11-12T17:40:39.852Z",
       "id": "111506",
       "title": "Mic Drop Comedy: Martin Angolo",
       "url": "https://www.limerick.ie/discover/whats-on/comedy/mic-drop-comedy-martin-angolo",
       "start": "2026-11-21T19:30:00.000Z",
       "end": "2026-11-21T22:00:00.000Z",
       "place": "The Commercial, Limerick City",
-      "price": "€18",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "price": "€18"
     },
     {
+      "checkedAt": "2026-11-12T17:40:39.852Z",
       "id": "109845",
       "title": "Wrong Jovi",
       "url": "https://www.limerick.ie/discover/whats-on/music/wrong-jovi-0",
       "start": "2026-11-21T20:00:00.000Z",
       "end": "2026-11-21T22:00:00.000Z",
       "place": "Dolan's Warehouse, Limerick City",
-      "price": "€25",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "price": "€25"
     },
     {
+      "checkedAt": "2026-11-12T17:40:39.852Z",
       "id": "110667",
       "title": "Happiness Then",
       "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/happiness-then",
       "start": "2026-11-21T20:00:00.000Z",
       "end": "2026-11-21T22:00:00.000Z",
       "place": "Belltable, Limerick City",
-      "price": "Standard €22",
-      "checkedAt": "2026-11-12T17:40:39.852Z"
+      "price": "Standard €22"
     }
   ],
   "past": [
@@ -752,6 +731,16 @@
       "id": "107607",
       "title": "Storytime for young Children",
       "checkedAt": "2026-11-12T17:40:39.852Z"
+    },
+    {
+      "id": "112276",
+      "title": "A Masterclass with Dr. Natasha Campbell McBride",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
+    },
+    {
+      "id": "111843",
+      "title": "William Keohane Book Launch",
+      "checkedAt": "2026-11-12T20:46:51.021Z"
     }
   ],
   "failed": []
