@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-12T13:42:31.852Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-12T17:30:40.136Z",
+    "totalArticles": 38
   },
   "articles": {
     "8353171": {
@@ -3754,6 +3754,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
+    "9344324": {
+      "id": "9344324",
+      "title": "Landowners ‘talk trees’ at information evening on forestry",
+      "link": "https://www.limerickleader.ie/news/eco-live/landowners-talk-trees-at-information-evening-on-forestry-9344324",
+      "description": "Each Let’s Talk Trees event – held in collaboration with the Teagasc Forestry Development Department at The Devon Inn, Templeglantine Village, Limerick – runs over an evening and opens with two information presentations, followed by a panel discussion with a local farmer who shares their forestry journey",
+      "pubDate": "Thu, 12 Nov 2026 14:00:16 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/21/9/40/Minister-of-State-with-responsibility-for-Forestry-Farm-Safety-and-Horticulture-Niall-Collins-TD-at.jpeg?width=1200&auto=webp&trim=508%2C0%2C1547%2C0",
+      "imageCredit": "PHOTOGRAPH CREDIT: TONY MAXWELL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
+    },
     "9344706": {
       "id": "9344706",
       "title": "Public sector workers on lowest wage to see 18.3% pay hike in 5.2bn euro deal",
@@ -3947,6 +3959,63 @@
       "imageCredit": "Croom",
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T13:42:21.921Z"
+    },
+    "9347375": {
+      "id": "9347375",
+      "title": "Ukraine dominates Dublin summit amid warnings over Europe’s security framework",
+      "link": "https://www.limerickleader.ie/national/ukraine-dominates-dublin-summit-amid-warnings-over-europes-security-framework-9347375",
+      "description": "President Volodymyr Zelensky addressed delegates at the start of the European Political Community meeting.",
+      "pubDate": "Thu, 12 Nov 2026 15:02:24 GMT",
+      "author": "Cate McCurry, Cillian Sherlock, Mícheál Ó Scannáil, David Young and Jonathan McCambridge and  Press Association reporters",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/cs-0dbf7ccb-9ba3-4832-beed-a2a6a4b1bc31.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
+    },
+    "9347629": {
+      "id": "9347629",
+      "title": "Burnham unveils ‘stinging’ sanctions on Russia at major European summit",
+      "link": "https://www.limerickleader.ie/national/burnham-unveils-stinging-sanctions-on-russia-at-major-european-summit-9347629",
+      "description": "The Prime Minister urged other leaders to ramp up pressure on Vladimir Putin to take peace talks seriously.",
+      "pubDate": "Thu, 12 Nov 2026 14:44:11 GMT",
+      "author": "Sophie Wingate, Press Association Deputy Political Editor and  in Dublin",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/14/cs-a332a369-7364-4a59-9d0b-5fec259efeb1.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
+    },
+    "9347657": {
+      "id": "9347657",
+      "title": "Student has extremely narrow escape during Limerick College Christmas",
+      "link": "https://www.limerickleader.ie/news/student-has-extremely-narrow-escape-during-limerick-college-christmas-9347657",
+      "description": "As the concrete block smashed onto the ground from the height,  the young man and other students in the vicinity stood back in disbelief",
+      "pubDate": "Thu, 12 Nov 2026 15:16:12 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/15/Untitled-design-(43).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: INSTAGRAM",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
+    },
+    "9347741": {
+      "id": "9347741",
+      "title": "Irish shoppers warned to watch out for scams ahead of Black Friday sales",
+      "link": "https://www.limerickleader.ie/national/irish-shoppers-warned-to-watch-out-for-scams-ahead-of-black-friday-sales-9347741",
+      "description": "From fake discounts to online scams, the CCPC has shared some simple steps to protect your money during this year’s biggest shopping event",
+      "pubDate": "Thu, 12 Nov 2026 15:15:18 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/27/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-12T150525-408.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
+    },
+    "9347767": {
+      "id": "9347767",
+      "title": "McEntee urges ‘clearer protocol’ for schools after series of bomb threats",
+      "link": "https://www.limerickleader.ie/national/mcentee-urges-clearer-protocol-for-schools-after-series-of-bomb-threats-9347767",
+      "description": "Schools and authorities were praised for their quick response as the Defence Minister slammed those behind the threats, saying they instilled fear.",
+      "pubDate": "Thu, 12 Nov 2026 15:12:59 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/cs-29cfb0ec-d1de-41d9-af9e-305484063949.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-12T17:30:27.726Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -6549,6 +6618,36 @@
       "author": "Staff Reporter",
       "source": "limerickpost",
       "scrapedAt": "2026-11-12T13:42:21.633Z"
+    },
+    "https://www.limerickpost.ie/?p=363254": {
+      "id": "https://www.limerickpost.ie/?p=363254",
+      "title": "Murder accused in Scarlett Faulkner trial tells friend: ‘I’d kill no woman over a man’",
+      "link": "https://www.limerickpost.ie/2026/11/12/murder-accused-in-scarlett-faulkner-trial-tells-friend-id-kill-no-woman-over-a-man/",
+      "description": "A 41-YEAR-OLD woman accused of murdering young mother Scarlett Faulkner was heard in a video recording of a phone call saying: &#8220;I didn&#8217;t put a finger on her&#8230;I tell you one thing, I&#8217;d kill no woman over a man.&#8221; Referring to the late Ms Faulkner, the phone call between the older accused and another individual [&#8230;]\nThe post Murder accused in Scarlett Faulkner trial tells friend: &#8216;I&#8217;d kill no woman over a man&#8217; appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 17:08:47 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T17:30:27.115Z"
+    },
+    "https://www.limerickpost.ie/?p=363196": {
+      "id": "https://www.limerickpost.ie/?p=363196",
+      "title": "‘Monster’ paedophile facing more jail time after third victim comes forward",
+      "link": "https://www.limerickpost.ie/2026/11/12/monster-paedophile-facing-more-jail-time-after-third-victim-comes-forward/",
+      "description": "A “MONSTER”, who is serving a nine-year jail sentence for sexually abusing his daughter and sister-in-law, is facing additional jail time after he pleaded guilty to abusing another girl who alerted Gardaí after reading about his previous sex crimes against children. At Limerick Circuit Criminal Court, Christopher O’Mahony was unmasked as a serial sex offender [&#8230;]\nThe post ‘Monster’ paedophile facing more jail time after third victim comes forward appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 16:30:19 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T17:30:27.116Z"
+    },
+    "https://www.limerickpost.ie/?p=363160": {
+      "id": "https://www.limerickpost.ie/?p=363160",
+      "title": "418 per cent hike in security costs for Limerick councillors amid ‘disturbing’ increase in abuse against politicians",
+      "link": "https://www.limerickpost.ie/2026/11/12/418-per-cent-hike-in-security-costs-for-limerick-councillors-amid-disturbing-increase-in-abuse-against-politicians/",
+      "description": "ONE Limerick councillor has revealed that they are self-funding personal security costs after experiencing “sustained harassment and stalking” since being elected to Limerick City and County Council seven years ago. The revelation comes as figures provided by Limerick Council show a 418 per cent jump in security allowance claims by local representatives, so far this [&#8230;]\nThe post 418 per cent hike in security costs for Limerick councillors amid ‘disturbing’ increase in abuse against politicians appeared first on Limerick Post.",
+      "pubDate": "Thu, 12 Nov 2026 15:00:39 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-12T17:30:27.116Z"
     }
   },
   "rewritten": {
@@ -10380,6 +10479,23 @@
       "imageCredit": "Patrick Bolger",
       "rewrittenAt": "2026-11-11T12:42:17.733Z"
     },
+    "9341393": {
+      "headline": "Hyde Rangers and Caherdavin Celtic Draw in Limerick District League",
+      "summary": "Hyde Rangers A and Caherdavin Celtic A played to a 2–2 draw in their Limerick District League Premier A match on Sunday.",
+      "story": "Hyde Rangers A and Caherdavin Celtic A shared the spoils in a 2–2 draw during their Limerick District League Premier A encounter on Sunday, with pictures capturing the action from the match.",
+      "localAngle": "The match took place locally as part of the Limerick District League.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "PICTURES: Hyde Rangers and Caheradvin Celtic battle it out in LDL",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/junior-soccer/pictures-hyde-rangers-and-caheradvin-celtic-battle-it-out-in-ldl-9341393",
+      "publishedAt": "Wed, 11 Nov 2026 20:30:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/10/59/MixCollage-10-Nov-2026-10-35-AM-8878-ec07503a.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-12T17:40:36.588Z"
+    },
     "9341483": {
       "headline": "City Hall hosts crucial Metropolitan District meeting regarding Christmas festivities",
       "summary": "Local councillors, traders, and residents met at City Hall on Merchant's Quay this Tuesday morning for a crunch Metropolitan District meeting about Christmas in Limerick.",
@@ -10621,6 +10737,11 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363138",
       "rewrittenAt": "2026-11-11T12:40:55.307Z"
     },
+    "9344324": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363049",
+      "rewrittenAt": "2026-11-12T17:32:35.834Z"
+    },
     "9344706": {
       "skipped": true,
       "duplicateOf": "9339517",
@@ -10831,6 +10952,54 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/10/30/Untitled-(1000-x-628-px)-(2)-Lucia-Quinlivan.jpeg?width=1200&auto=webp&trim=0%2C29%2C0%2C29",
       "imageCredit": "Croom",
       "rewrittenAt": "2026-11-12T13:57:10.811Z"
+    },
+    "9347375": {
+      "skipped": true,
+      "duplicateOf": "9346330",
+      "rewrittenAt": "2026-11-12T17:32:35.834Z"
+    },
+    "9347629": {
+      "headline": "Prime Minister Burnham Announces Tough Russian Sanctions at European Summit",
+      "summary": "The Prime Minister has introduced severe sanctions against Russia during a major European summit.",
+      "story": "During the summit, the Prime Minister urged fellow leaders to increase pressure on Vladimir Putin to take peace talks seriously.",
+      "localAngle": "This international political development is being followed by readers in Limerick and across the country.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Burnham unveils ‘stinging’ sanctions on Russia at major European summit",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/burnham-unveils-stinging-sanctions-on-russia-at-major-european-summit-9347629",
+      "publishedAt": "Thu, 12 Nov 2026 14:44:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/14/cs-a332a369-7364-4a59-9d0b-5fec259efeb1.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-12T17:39:43.540Z"
+    },
+    "9347657": {
+      "headline": "Student narrowly escapes falling concrete block at Limerick college",
+      "summary": "A Limerick college student had a very narrow escape after a concrete block fell from a height.",
+      "story": "A young man and other students stood back in disbelief after a concrete block smashed onto the ground near them from a height during a Limerick college Christmas event.",
+      "localAngle": "The incident occurred at a college in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Student has extremely narrow escape during Limerick College Christmas",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/student-has-extremely-narrow-escape-during-limerick-college-christmas-9347657",
+      "publishedAt": "Thu, 12 Nov 2026 15:16:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/15/Untitled-design-(43).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "PICTURE: INSTAGRAM",
+      "rewrittenAt": "2026-11-12T17:38:54.567Z"
+    },
+    "9347741": {
+      "skipped": true,
+      "duplicateOf": "9338870",
+      "rewrittenAt": "2026-11-12T17:32:35.834Z"
+    },
+    "9347767": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363138",
+      "rewrittenAt": "2026-11-12T17:32:35.834Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -14323,6 +14492,38 @@
       "rewrittenAt": "2026-11-12T14:14:29.620Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/UL-Student-Christmas-Day-8.jpg",
       "imageCheckedAt": "2026-11-12T14:14:56.483Z"
+    },
+    "https://www.limerickpost.ie/?p=363254": {
+      "headline": "Accused Murderer Denies Attacking Scarlett Faulkner in Central Criminal Court Trial",
+      "summary": "A 41-year-old woman on trial for the murder of young mother Scarlett Faulkner denied laying a hand on her during a recorded phone call played in court. The accused has pleaded not guilty to murder and several other charges.",
+      "story": "A 41-year-old woman accused of murdering young mother Scarlett Faulkner denied any physical involvement in the attack, telling a friend in a recorded phone call played at the Central Criminal Court: “I didn’t put a finger on her… I’d kill no woman over a man.”\n\nThe trial heard recordings of the phone call from March 22, in which the accused swore on her children's lives that she never attacked Ms Faulkner. Ms Faulkner subsequently passed away at Cork University Hospital on April 13 after being removed from life support. The accused has pleaded not guilty to murder, alongside separate charges of burglary, entering a building as a trespasser, and causing criminal damage in Tipperary on March 20, as well as robbery and assault causing harm in Limerick on March 21. A 17-year-old girl has also pleaded not guilty to murder but has entered a guilty plea to manslaughter.\n\nDuring Thursday's proceedings, Garda Sergeant Jennifer Skelly continued presenting preliminary device reports from mobile phones belonging to the accused and others. The court heard text message exchanges and Facebook messages detailing domestic friction, alleged infidelity, and disputes regarding a vehicle between the older accused and her former partner in the days leading up to the fatal incident. Defence questioning noted that the relationship involved allegations of stolen money and drug use.\n\nThe court was also told that 267 calls were recorded on the older accused’s phone on the day of the fatal attack in Birdhill.",
+      "localAngle": "The case involves charges stemming from an alleged incident in Limerick on March 21, with mobile phone evidence and proceedings drawing attention across the region.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Murder accused in Scarlett Faulkner trial tells friend: ‘I’d kill no woman over a man’",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/12/murder-accused-in-scarlett-faulkner-trial-tells-friend-id-kill-no-woman-over-a-man/",
+      "publishedAt": "Thu, 12 Nov 2026 17:08:47 +0000",
+      "rewrittenAt": "2026-11-12T17:33:47.151Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Scarlett-Faulkner.jpg",
+      "imageCheckedAt": "2026-11-12T17:40:37.079Z"
+    },
+    "https://www.limerickpost.ie/?p=363160": {
+      "headline": "Limerick Council Security Claims Surge 418 Per Cent Amid Abuse Concerns",
+      "summary": "Figures show Limerick City and County Council security allowance claims jumped to €36,422 this year. Meanwhile, local representatives report facing sustained harassment and stalking.",
+      "story": "Security allowance claims by Limerick local representatives have surged by 418 per cent so far this year, according to figures released by Limerick City and County Council. Local elected officials have claimed a total of €36,422 in 2026, compared to €7,026 for the entirety of 2025, €3,902 in 2024, and €1,476 in 2023. \n\nCiting safety concerns for elected representatives, the Council declined to provide specific details on who claimed the allowance, how many representatives availed of it, or what the funds were spent on. While nine out of Limerick's 41 local representatives confirmed they had not claimed the allowance when asked, this does not reflect security measures already in place.\n\nSocial Democrats Councillor Elisa O'Donovan revealed she is entirely self-funding her personal security after experiencing sustained harassment and stalking since her election in 2019. Cllr O'Donovan stated she does not feel comfortable using public funding for her security measures out of concern that it could be used against her publicly or online.\n\nThe Department of Local Government described the rise in abuse and threats against politicians as disturbing, warning that it extends beyond online harassment to physical threats and violence. The security allowance scheme permits councillors to improve home physical security after a review by a Garda Crime Prevention Officer, with a maximum lifetime allowance of €10,000 available under a revised scheme.",
+      "localAngle": "The figures highlight a sharp increase in security spending and personal abuse concerns among local representatives serving on Limerick City and County Council.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "418 per cent hike in security costs for Limerick councillors amid ‘disturbing’ increase in abuse against politicians",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/12/418-per-cent-hike-in-security-costs-for-limerick-councillors-amid-disturbing-increase-in-abuse-against-politicians/",
+      "publishedAt": "Thu, 12 Nov 2026 15:00:39 +0000",
+      "rewrittenAt": "2026-11-12T17:39:28.556Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/cctv-security-camera-unsplash-stock-nathy-dog-z1uDmJx3ZEQ-unsplash.jpg",
+      "imageCheckedAt": "2026-11-12T17:40:37.827Z"
     }
   }
 }
