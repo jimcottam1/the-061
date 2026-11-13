@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-13T13:00:50.543Z",
-    "totalArticles": 33
+    "lastScrape": "2026-11-13T17:07:47.553Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -2678,6 +2678,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T17:18:07.369Z"
     },
+    "9332732": {
+      "id": "9332732",
+      "title": "Council set to sell renovated homes in Limerick town for nearly €1m",
+      "link": "https://www.limerickleader.ie/property/council-set-to-sell-renovated-homes-in-limerick-town-for-nearly-eur1m-9332732",
+      "description": "The six homes - in Abbeyfeale -  will be allocated to working households who are above social housing income thresholds but who are unable to access suitable private rental accommodation.",
+      "pubDate": "Fri, 13 Nov 2026 14:00:22 GMT",
+      "author": "Mark Cusack and Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/05/16/48/Untitled-design-(4)-upscaled-(1).png?width=1200&auto=webp&trim=0%2C175%2C0%2C174",
+      "imageCredit": "LCCC",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
+    },
     "9332832": {
       "id": "9332832",
       "title": "World facing ‘moment of deep crisis’, warns Micheal Martin",
@@ -3802,6 +3814,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T17:30:27.726Z"
     },
+    "9344371": {
+      "id": "9344371",
+      "title": "Meditation teacher brings Himalayan practices home to Limerick",
+      "link": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/meditation-teacher-brings-himalayan-practices-home-to-limerick-9344371",
+      "description": "The breath coach, meditation teacher and somatic practitioner has been inspired by her personal experiences travelling the globe",
+      "pubDate": "Fri, 13 Nov 2026 17:00:22 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/12/24/Lisa-2.jpg?width=1200&auto=webp&trim=1023%2C0%2C1755%2C0",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.887Z"
+    },
     "9344706": {
       "id": "9344706",
       "title": "Public sector workers on lowest wage to see 18.3% pay hike in 5.2bn euro deal",
@@ -4100,6 +4124,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
+    "9347996": {
+      "id": "9347996",
+      "title": "Treaty United star spotted training at English Super League club",
+      "link": "https://www.limerickleader.ie/sport/soccer/treaty-united/treaty-united-star-spotted-training-at-english-super-league-club-9347996",
+      "description": "The Treaty United star was spotted in a social media video released by Brighton and Hove Albion this week",
+      "pubDate": "Fri, 13 Nov 2026 14:30:16 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/06/3392571.jpeg?width=1200&auto=webp&trim=0%2C109%2C0%2C109",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
+    },
     "9348455": {
       "id": "9348455",
       "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
@@ -4155,6 +4191,73 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/12/cs-39821180-4f7e-43bd-a8c7-66143409a8b2.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
+    "9349459": {
+      "id": "9349459",
+      "title": "Former Limerick TD joins global technology giants in new role",
+      "link": "https://www.limerickleader.ie/business/former-limerick-td-joins-global-technology-giants-in-new-role-9349459",
+      "description": "One of Limerick’s youngest-ever TDs, Tom's new role at Google comes as just one of many career shifts, having served as a Fine Gael TD for Limerick from 2016 to 2020",
+      "pubDate": "Fri, 13 Nov 2026 13:45:06 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/12/52/Capture-t.JPG?width=1200&auto=webp&trim=18%2C1%2C93%2C0",
+      "imageCredit": "Facebook",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
+    },
+    "9349817": {
+      "id": "9349817",
+      "title": "Boy, 6, killed in Waterford fire, ‘brought home’ to family, mourners told",
+      "link": "https://www.limerickleader.ie/national/boy-6-killed-in-waterford-fire-brought-home-to-family-mourners-told-9349817",
+      "description": "Elliot English’s parents, Kim and Phillip English, and their sons, Callum and Jayden, also died after the fire at the house on the Birchwood Estate.",
+      "pubDate": "Fri, 13 Nov 2026 15:42:11 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/cs-0c5362f0-cc99-46a8-af95-795a40547b66.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.887Z"
+    },
+    "9349823": {
+      "id": "9349823",
+      "title": "Gardaí treating death of man found in Phoenix Park as suspicious",
+      "link": "https://www.limerickleader.ie/national/gardai-treating-death-of-man-found-in-phoenix-park-as-suspicious-9349823",
+      "description": "Gardaí said the results of a post-mortem examination will determine the course of the investigation.",
+      "pubDate": "Fri, 13 Nov 2026 13:46:37 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/13/cs-4823c384-4627-4016-850a-86f312670a50.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
+    },
+    "9349945": {
+      "id": "9349945",
+      "title": "Security for Zelensky-US meeting ‘very challenging’ – Irish police chief",
+      "link": "https://www.limerickleader.ie/national/security-for-zelensky-us-meeting-very-challenging-irish-police-chief-9349945",
+      "description": "The meeting between Volodymyr Zelensky, Steve Witkoff and Jared Kushner at Baldonnel Aerodrome came at ‘very short notice’.",
+      "pubDate": "Fri, 13 Nov 2026 14:18:08 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/14/cs-1f690151-5710-43f3-bda1-6f727f5aa838.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
+    },
+    "9350127": {
+      "id": "9350127",
+      "title": "Former officer claims ‘Garda-MI5 source’ linked to Omagh bomb plot",
+      "link": "https://www.limerickleader.ie/national/former-officer-claims-garda-mi5-source-linked-to-omagh-bomb-plot-9350127",
+      "description": "A legal representative for some bereaved families has reiterated calls for the Irish Government to conduct its own public inquiry.",
+      "pubDate": "Fri, 13 Nov 2026 16:10:12 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/16/cs-1c9337fe-a6ae-4e33-8bcc-44f7931fa571.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.887Z"
+    },
+    "9350135": {
+      "id": "9350135",
+      "title": "Numerous motorists fined over ‘illegal and dangerous’ parking in Limerick estates",
+      "link": "https://www.limerickleader.ie/news/crime-courts/numerous-motorists-fined-over-illegal-and-dangerous-parking-in-limerick-estates-9350135",
+      "description": "Photographs shared by gardai show at least seven cars were detected, with some of them parked on footpaths and some on double-yellow lines",
+      "pubDate": "Fri, 13 Nov 2026 15:03:18 GMT",
+      "author": "David Hurley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/15/Threebytwo-for-Flow-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T17:07:40.888Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -6947,6 +7050,66 @@
       "author": "Suzan McCreadie",
       "source": "limerickchamber",
       "scrapedAt": "2026-11-13T13:00:50.533Z"
+    },
+    "https://www.limerickpost.ie/?p=363187": {
+      "id": "https://www.limerickpost.ie/?p=363187",
+      "title": "Limerick suicide prevention group urgently need new home",
+      "link": "https://www.limerickpost.ie/2026/11/13/limerick-suicide-prevention-group-urgently-need-new-home/",
+      "description": "PEOPLE in distress who may be experiencing suicidal ideation are being filmed when volunteers from a local suicide prevention group intervene to help them. That&#8217;s just one of the reasons the Limerick Treaty Suicide Prevention (LTSP) group needs a new home. 50 LTSP volunteers patrol the bridges of Limerick City four nights a week, averaging [&#8230;]\nThe post Limerick suicide prevention group urgently need new home appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 16:30:53 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T17:07:40.394Z"
+    },
+    "https://www.limerickpost.ie/?p=363271": {
+      "id": "https://www.limerickpost.ie/?p=363271",
+      "title": "Microsoft outage stalls trial of man accused of attempted murder of man ‘doused in petrol and set alight’",
+      "link": "https://www.limerickpost.ie/2026/11/13/microsoft-outage-stalls-trial-of-man-accused-of-dousing-man-in-petrol-and-setting-him-alight/",
+      "description": "A LIMERICK jury in the trial of a man accused of the attempted murder of another man, who was allegedly doused in petrol and set alight, were shown photographs of a burned out car, burned clothing, and a fire-damaged petrol can found by Gardaí at the scene. Chad Allan (28), of Cahir, County Tipperary, has [&#8230;]\nThe post Microsoft outage stalls trial of man accused of attempted murder of man ‘doused in petrol and set alight’ appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 15:43:55 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T17:07:40.394Z"
+    },
+    "https://www.limerickpost.ie/?p=363194": {
+      "id": "https://www.limerickpost.ie/?p=363194",
+      "title": "MEP calls for clear signage for Killaloe Farmers’ Market",
+      "link": "https://www.limerickpost.ie/2026/11/13/mep-calls-for-clear-signage-for-killaloe-farmers-market/",
+      "description": "IRELAND South MEP Michael McNamara is calling for clear signage to Killaloe Farmers&#8217; Market from the new Brian Boru Bridge. The Independent MEP said: &#8220;Having spoken to traders at the Sunday morning market, I do not accept Clare County Council&#8217;s assertion that footfall at the market has strengthened following the pedestrianisation of the former Killaloe–Ballina [&#8230;]\nThe post MEP calls for clear signage for Killaloe Farmers&#8217; Market appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 15:00:48 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T17:07:40.394Z"
+    },
+    "https://www.limerickpost.ie/?p=363191": {
+      "id": "https://www.limerickpost.ie/?p=363191",
+      "title": "25th Limerick Scout Group celebrate 50 years",
+      "link": "https://www.limerickpost.ie/2026/11/13/25th-limerick-scout-group-celebrate-50-years/",
+      "description": "THE 25TH Limerick Scout Group is celebrating 50 years of scouting this weekend. The group will hold a parade on Saturday, November 14 from St Nicholas Church to the Scout Hall in Shannonbanks at 2pm. The parade will be led by the Limerick Pipe band and display of Campcraft as well as a  magic show, [&#8230;]\nThe post 25th Limerick Scout Group celebrate 50 years appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 13:30:55 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T17:07:40.394Z"
+    },
+    "https://limerickvoice.com/?p=53792": {
+      "id": "https://limerickvoice.com/?p=53792",
+      "title": "TUS Campuses collide for a night of fashion and music in aid of Limerick Suicide Watch",
+      "link": "https://limerickvoice.com/entertainment/tus-campuses-collide-for-a-night-of-fashion-and-music-in-aid-of-limerick-suicide-watch/",
+      "description": "Rhythm Runway will spotlight the talents of music and fashion students while raising funds for Limerick Suicide Watch. RHYTHM Runway is set to take place on November 18 as the newest collaboration between TUS Music Production and LSAD Fashion students. The event will begin at 7pm at TUS Millennium Theatre, with an after-party featuring DJ [&#8230;]\nThe post TUS Campuses collide for a night of fashion and music in aid of Limerick Suicide Watch appeared first on .",
+      "pubDate": "Fri, 13 Nov 2026 15:00:24 +0000",
+      "author": "Aaliyah Popoola",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-13T17:07:41.620Z"
+    },
+    "https://limerickvoice.com/?p=53795": {
+      "id": "https://limerickvoice.com/?p=53795",
+      "title": "Treaty United’s youngest-ever goalscorer earns Ireland call-up",
+      "link": "https://limerickvoice.com/sport/treaty-uniteds-youngest-ever-goalscorer-earns-ireland-call-up/",
+      "description": "Honor Mulvihill earns her first international call-up following a breakthrough season with Treaty United. 15-YEAR-OLD Treaty United forward Honor Mulvihill has been selected for the Republic of Ireland&#8217;s Women&#8217;s U16 squad for the current international break.   Ireland played the first of two friendlies against Portugal on Wednesday, November 11, at the Estádio Municipal in [&#8230;]\nThe post Treaty United&#8217;s youngest-ever goalscorer earns Ireland call-up appeared first on .",
+      "pubDate": "Fri, 13 Nov 2026 13:45:37 +0000",
+      "author": "Óran O&#039;Hare Barry",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-13T17:07:41.620Z"
     }
   },
   "rewritten": {
@@ -9826,6 +9989,11 @@
       "duplicateOf": "9328770",
       "rewrittenAt": "2026-11-05T17:19:08.561Z"
     },
+    "9332732": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363185",
+      "rewrittenAt": "2026-11-13T17:08:51.290Z"
+    },
     "9332832": {
       "headline": "Taoiseach Micheál Martin Warns of Global Deep Crisis in Dublin Address",
       "summary": "Taoiseach Micheál Martin has stated that the world is facing a moment of deep crisis while speaking in Dublin.",
@@ -11080,6 +11248,23 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363049",
       "rewrittenAt": "2026-11-12T17:32:35.834Z"
     },
+    "9344371": {
+      "headline": "Global travels inspire Limerick meditation teacher's Himalayan practices",
+      "summary": "A breath coach, meditation teacher and somatic practitioner has brought Himalayan practices to Limerick following global travels.",
+      "story": "A breath coach, meditation teacher and somatic practitioner has brought Himalayan practices to Limerick after being inspired by personal experiences travelling the globe.",
+      "localAngle": "The practices have been brought home to Limerick by the local teacher and practitioner.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Meditation teacher brings Himalayan practices home to Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/meditation-teacher-brings-himalayan-practices-home-to-limerick-9344371",
+      "publishedAt": "Fri, 13 Nov 2026 17:00:22 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/12/24/Lisa-2.jpg?width=1200&auto=webp&trim=1023%2C0%2C1755%2C0",
+      "imageCredit": "3rd Party Image",
+      "rewrittenAt": "2026-11-13T17:08:57.683Z"
+    },
     "9344706": {
       "skipped": true,
       "duplicateOf": "9339517",
@@ -11394,6 +11579,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/14/cs-c151c680-e1b5-41d0-866e-ce17b394d65f.jpg?width=1200&auto=webp&trim=158%2C0%2C158%2C0",
       "rewrittenAt": "2026-11-13T13:10:55.106Z"
     },
+    "9347996": {
+      "headline": "Treaty United Player Seen Training With Brighton and Hove Albion",
+      "summary": "A Treaty United player was seen training at English Super League club Brighton and Hove Albion in a social media video this week.",
+      "story": "A Treaty United star was spotted in a social media video released by Brighton and Hove Albion this week training at the English Super League club. The Limerick Leader reported the sighting on Friday, November 13, 2026.",
+      "localAngle": "The story involves a star player from Limerick-based club Treaty United.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Treaty United star spotted training at English Super League club",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/treaty-united/treaty-united-star-spotted-training-at-english-super-league-club-9347996",
+      "publishedAt": "Fri, 13 Nov 2026 14:30:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/15/06/3392571.jpeg?width=1200&auto=webp&trim=0%2C109%2C0%2C109",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-13T17:10:00.455Z"
+    },
     "9348455": {
       "headline": "Micheál Martin States EU Essential for Ukraine Peace Talks Progress",
       "summary": "Taoiseach Micheál Martin has stated that the EU is potentially involved in a process to find a peace agreement for Ukraine.",
@@ -11441,6 +11643,103 @@
       "skipped": true,
       "duplicateOf": "9348455",
       "rewrittenAt": "2026-11-13T13:09:18.417Z"
+    },
+    "9349459": {
+      "headline": "Ex-Limerick TD Tom Takes Up New Position at Google",
+      "summary": "Former Fine Gael TD Tom, who served Limerick from 2016 to 2020, has taken on a new role with global technology giant Google.",
+      "story": "Tom, one of Limerick's youngest-ever TDs during his time in the Dáil from 2016 to 2020, has transitioned to a new career with Google following several career shifts. Readers can find the original reporting on the Limerick Leader website.",
+      "localAngle": "The story follows the career shift of a former Fine Gael TD who previously represented the constituency of Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Former Limerick TD joins global technology giants in new role",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/business/former-limerick-td-joins-global-technology-giants-in-new-role-9349459",
+      "publishedAt": "Fri, 13 Nov 2026 13:45:06 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/12/52/Capture-t.JPG?width=1200&auto=webp&trim=18%2C1%2C93%2C0",
+      "imageCredit": "Facebook",
+      "rewrittenAt": "2026-11-13T17:10:36.312Z"
+    },
+    "9349817": {
+      "headline": "Mourners Told Six-Year-Old Boy Killed in Waterford Fire Has Been Brought Home",
+      "summary": "Elliot English, his parents Kim and Phillip, and his brothers Callum and Jayden all died following a house fire on the Birchwood Estate.",
+      "story": "Mourners were told that six-year-old Elliot English has been brought home to his family following a fatal fire in Waterford. His parents, Kim and Phillip English, along with their sons Callum and Jayden, also died as a result of the house fire on the Birchwood Estate.",
+      "localAngle": "This tragic national incident is being followed by readers across Ireland, including in Limerick, via regional reporting sources.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Boy, 6, killed in Waterford fire, ‘brought home’ to family, mourners told",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/boy-6-killed-in-waterford-fire-brought-home-to-family-mourners-told-9349817",
+      "publishedAt": "Fri, 13 Nov 2026 15:42:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/cs-0c5362f0-cc99-46a8-af95-795a40547b66.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-13T17:09:24.798Z"
+    },
+    "9349823": {
+      "headline": "Suspicious Death Investigation Underway Following Man Found in Phoenix Park",
+      "summary": "Gardaí are treating the death of a man discovered in Phoenix Park as suspicious pending a post-mortem examination.",
+      "story": "Authorities stated that the results of the upcoming post-mortem examination will determine the direction of the ongoing Garda investigation. Readers can find the original reporting on the Limerick Leader website.",
+      "localAngle": "This national news story is of interest to Limerick readers following updates provided by the Limerick Leader.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Gardaí treating death of man found in Phoenix Park as suspicious",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gardai-treating-death-of-man-found-in-phoenix-park-as-suspicious-9349823",
+      "publishedAt": "Fri, 13 Nov 2026 13:46:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/13/cs-4823c384-4627-4016-850a-86f312670a50.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-13T17:10:17.974Z"
+    },
+    "9349945": {
+      "headline": "Irish Police Chief Cites Challenges in Securing Zelensky Meeting",
+      "summary": "A meeting between Volodymyr Zelensky, Steve Witkoff and Jared Kushner at Baldonnel Aerodrome was arranged at very short notice.",
+      "story": "The Irish police chief described security for the meeting between Volodymyr Zelensky, Steve Witkoff and Jared Kushner at Baldonnel Aerodrome as very challenging due to the very short notice.",
+      "localAngle": "This national security story involves international figures meeting in Ireland, as reported by the Limerick Leader.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Security for Zelensky-US meeting ‘very challenging’ – Irish police chief",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/security-for-zelensky-us-meeting-very-challenging-irish-police-chief-9349945",
+      "publishedAt": "Fri, 13 Nov 2026 14:18:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/14/cs-1f690151-5710-43f3-bda1-6f727f5aa838.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-13T17:10:09.459Z"
+    },
+    "9350127": {
+      "headline": "Omagh Bomb Plot Linked to Garda-MI5 Source by Former Officer",
+      "summary": "A former officer has alleged that a Garda-MI5 source was linked to the Omagh bomb plot, prompting renewed calls for an Irish Government inquiry.",
+      "story": "A legal representative for some bereaved families has reiterated calls for the Irish Government to conduct its own public inquiry following the claim.",
+      "localAngle": "The Limerick Leader reported on the ongoing developments surrounding the Omagh bomb plot and the calls for a public inquiry.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Former officer claims ‘Garda-MI5 source’ linked to Omagh bomb plot",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/former-officer-claims-garda-mi5-source-linked-to-omagh-bomb-plot-9350127",
+      "publishedAt": "Fri, 13 Nov 2026 16:10:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/16/cs-1c9337fe-a6ae-4e33-8bcc-44f7931fa571.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-13T17:09:14.877Z"
+    },
+    "9350135": {
+      "headline": "Gardai fine drivers for illegal parking in Limerick housing estates",
+      "summary": "Multiple motorists have received fines after being caught parking illegally and dangerously in Limerick estates.",
+      "story": "Photographs shared by gardai show at least seven cars were detected parked on footpaths and double-yellow lines.",
+      "localAngle": "The incident took place in residential estates across Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Numerous motorists fined over ‘illegal and dangerous’ parking in Limerick estates",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/numerous-motorists-fined-over-illegal-and-dangerous-parking-in-limerick-estates-9350135",
+      "publishedAt": "Fri, 13 Nov 2026 15:03:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/15/Threebytwo-for-Flow-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "rewrittenAt": "2026-11-13T17:09:33.499Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -15199,6 +15498,91 @@
       "rewrittenAt": "2026-11-13T13:11:49.824Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Anton-violin-belltable-.png",
       "imageCheckedAt": "2026-11-13T13:11:54.453Z"
+    },
+    "https://www.limerickpost.ie/?p=363271": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363152",
+      "rewrittenAt": "2026-11-13T17:08:51.290Z"
+    },
+    "https://www.limerickpost.ie/?p=363187": {
+      "headline": "Limerick Treaty Suicide Prevention Urgently Seeks New Base Ahead of Cleeve's Eviction",
+      "summary": "Limerick Treaty Suicide Prevention needs a new home by January as redevelopment at the former Cleeve's site forces the volunteers to vacate their current base. The group, which patrols city bridges four nights a week, is appealing for a private space to conduct interventions, store equipment, and debrief.",
+      "story": "Limerick Treaty Suicide Prevention (LTSP) is urgently appealing for a new base of operations after being told they must vacate their current room at the former Cleeve's site by January due to upcoming site redevelopment. \n\nFor the past 11 years, the 50-strong volunteer group has averaged around 200 interventions a year patrolling the bridges of Limerick City. While they have used a room at the Cleeve's site rent-free courtesy of Limerick Twenty Thirty, the upcoming works mean the patrol is now facing a pressing search for a new facility within roughly 15 minutes of the river.\n\nMatt Collins, president and founding member of the patrol, explained that a private space is critically needed to protect the dignity of individuals in distress. He noted that volunteers currently face challenges during interventions when members of the public stop to film and take pictures.\n\n\"The dream is to have somewhere that we can take a person in distress away from the river and from public view,\" Mr Collins said. The group also requires space to store equipment, allow volunteers to change out of the rain rather than using the boot of a car, and hold debriefings after patrols. LTSP has launched the 'Give Hope A Home' campaign and is asking anyone with a suitable room or plot of land for a container to contact Matt Collins directly or reach out via their Facebook page.",
+      "localAngle": "The LTSP provides crucial life-saving bridge patrols across Limerick City four nights a week.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Limerick suicide prevention group urgently need new home",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/limerick-suicide-prevention-group-urgently-need-new-home/",
+      "publishedAt": "Fri, 13 Nov 2026 16:30:53 +0000",
+      "rewrittenAt": "2026-11-13T17:09:07.160Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/08/Page-4-ED-City-facing-tsunami-of-young-suicides-BE.jpg",
+      "imageCheckedAt": "2026-11-13T17:10:45.899Z"
+    },
+    "https://www.limerickpost.ie/?p=363194": {
+      "headline": "MEP Michael McNamara Demands Clear Signage for Killaloe Farmers’ Market",
+      "summary": "Ireland South MEP Michael McNamara is calling on Clare County Council to install clear signage for the Killaloe Farmers’ Market from the new Brian Boru Bridge, disputing claims that trader footfall has improved.",
+      "story": "Ireland South MEP Michael McNamara has intervened in a local dispute over trader footfall at the Killaloe Farmers’ Market, demanding that Clare County Council erect clear directional signage from the newly opened Brian Boru Bridge.\n\nThe Independent MEP stated that his discussions with Sunday morning market traders contradicted the council's position that pedestrianisation of the former Killaloe–Ballina bridge had boosted visitor numbers.\n\n\"While on summer days, pedestrians on the old bridge might drop in to the market, on the other days, I am told business is down due to the lack of passing traffic,\" Mr McNamara said. \n\nThe politician confirmed he will maintain pressure on Clare County Council to provide the necessary signage to direct visitors toward the market stalls from the new bridge infrastructure.",
+      "localAngle": "The story concerns a popular cross-border market destination frequently visited by people living in the Limerick and Clare region.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "MEP calls for clear signage for Killaloe Farmers’ Market",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/mep-calls-for-clear-signage-for-killaloe-farmers-market/",
+      "publishedAt": "Fri, 13 Nov 2026 15:00:48 +0000",
+      "rewrittenAt": "2026-11-13T17:09:42.934Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/02/Michael-McNamara_1.jpg",
+      "imageCheckedAt": "2026-11-13T17:10:46.280Z"
+    },
+    "https://limerickvoice.com/?p=53792": {
+      "headline": "TUS students launch Rhythm Runway fashion and music show for Limerick Suicide Watch",
+      "summary": "TUS music, fashion, and film students are collaborating on the Rhythm Runway event at the Millennium Theatre on November 18, with proceeds supporting Limerick Suicide Watch.",
+      "story": "Students across multiple Technological University of the Shannon (TUS) campuses are joining forces next week for Rhythm Runway, a multidisciplinary showcase of fashion, music, and film. The event takes place on November 18 at the TUS Millennium Theatre, kicking off at 7pm.\n\nThe production brings together TUS Music Production students, LSAD final-year fashion students, and Creative Broadcast and Film Production crews. Organizers describe the showcase as the culmination of years of study, featuring modern pieces curated by a new generation of stylists alongside student-produced music and film.\n\nProceeds from ticket sales on Eventbrite will be donated directly to Limerick Suicide Watch, a volunteer group that patrols the riverside in Limerick City to assist individuals in distress. Following the main theatre event, an after-party featuring DJ sets from Wheel-up Wednesday will be held at Pharmacia at 9pm.\n\n\"It is the culmination of not only months of preparation but also years of study and practised skill,\" the organizing team stated. \"We are all artists, and so it only makes sense that we should all work together, to support each other’s work, and create opportunities for said work to be displayed and enjoyed by the community.\"",
+      "localAngle": "The student-led event raises funds for Limerick Suicide Watch, which actively patrols the city's riverside.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "TUS Campuses collide for a night of fashion and music in aid of Limerick Suicide Watch",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/entertainment/tus-campuses-collide-for-a-night-of-fashion-and-music-in-aid-of-limerick-suicide-watch/",
+      "publishedAt": "Fri, 13 Nov 2026 15:00:24 +0000",
+      "rewrittenAt": "2026-11-13T17:09:52.384Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/905070339_1653372979822210_3836016599317184157_n.jpg",
+      "imageCheckedAt": "2026-11-13T17:10:46.586Z"
+    },
+    "https://limerickvoice.com/?p=53795": {
+      "headline": "Treaty United’s Honor Mulvihill Earns First Republic of Ireland U16 Call-Up",
+      "summary": "Fifteen-year-old Treaty United forward Honor Mulvihill has made her international debut for the Republic of Ireland Women's U16 squad, featuring in a 2-2 draw against Portugal.",
+      "story": "Treaty United forward Honor Mulvihill has earned her first international call-up, featuring for the Republic of Ireland Women's U16 squad during their current international break in Portugal.\n\nThe 15-year-old came off the bench in the 78th minute during Ireland's opening fixture against Portugal on Wednesday, November 11, at the Estádio Municipal in Rio Maior, which ended in a 2-2 draw. Mulvihill is one of five first-time call-ups in the 20-player squad and forms part of a strong domestic contingent, with 19 players selected from the League of Ireland.\n\nThe international recognition caps a rapid rise for the former GB Rovers player, who recently made history by becoming Treaty United’s youngest-ever goalscorer after finding the net against Waterford in the Women’s Premier Division last month. Mulvihill has enjoyed a standout breakthrough season, featuring prominently at U17 level and with the senior side under manager Laurie Ryan.\n\nThe squad concludes its fixtures for 2026 with a second international friendly against Portugal.",
+      "localAngle": "Limerick soccer talent Honor Mulvihill has been recognised on the international stage following a record-breaking season with Treaty United.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Treaty United’s youngest-ever goalscorer earns Ireland call-up",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/treaty-uniteds-youngest-ever-goalscorer-earns-ireland-call-up/",
+      "publishedAt": "Fri, 13 Nov 2026 13:45:37 +0000",
+      "rewrittenAt": "2026-11-13T17:10:27.616Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/de593419-43d6-447b-8742-2716f970b085_ULStudentORAN.OHARE_-e1794589764999.jpeg",
+      "imageCheckedAt": "2026-11-13T17:10:47.286Z"
+    },
+    "https://www.limerickpost.ie/?p=363191": {
+      "headline": "25th Limerick Scout Group marks 50th anniversary with Shannonbanks parade",
+      "summary": "The 25th Limerick Scout Group is celebrating its 50th anniversary this weekend with a community parade, campcraft displays, and a historical talk. Former members, leaders, and families are invited to join the milestone celebrations in Shannonbanks on Saturday.",
+      "story": "The 25th Limerick Scout Group reaches a major milestone this weekend as it marks 50 years of scouting in the local area. Celebrations kick off on Saturday, November 14, with a public parade starting at 2pm from St Nicholas Church and making its way to the Scout Hall in Shannonbanks.\n\nThe anniversary procession will be led by the Limerick Pipe Band. Following the parade, the Shannonbanks hall will host a range of activities, including displays of campcraft, a magic show, a talk on the group's five-decade history, and games for attendees.\n\nOrganizers have opened the event to the wider community, inviting all former Beavers, Cubs, Scouts, Venturers, leaders, parents, and committee members to take part in the festivities. Refreshments, including a celebratory birthday cake, will be provided to mark the occasion.",
+      "localAngle": "The milestone event celebrates half a century of youth community engagement by the Shannonbanks-based 25th Limerick Scout Group.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "originalTitle": "25th Limerick Scout Group celebrate 50 years",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/25th-limerick-scout-group-celebrate-50-years/",
+      "publishedAt": "Fri, 13 Nov 2026 13:30:55 +0000",
+      "rewrittenAt": "2026-11-13T17:10:45.539Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/mael-balland-7rImz-goqfQ-unsplash.jpg",
+      "imageCheckedAt": "2026-11-13T17:10:47.479Z"
     }
   }
 }
