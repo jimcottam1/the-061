@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-12T20:45:10.168Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-13T13:00:50.543Z",
+    "totalArticles": 33
   },
   "articles": {
     "8353171": {
@@ -3614,6 +3614,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T16:57:38.629Z"
     },
+    "9342641": {
+      "id": "9342641",
+      "title": "Black Friday comes early at Regatta with big savings on kids’ winter essentials (AFF)",
+      "link": "https://www.limerickleader.ie/recommended/black-friday-comes-early-at-regatta-with-big-savings-on-kids-winter-essentials-aff-9342641",
+      "description": "Regatta now has incredible offers on plenty of practical options for children’s big outdoor adventures",
+      "pubDate": "Fri, 13 Nov 2026 10:23:48 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/02/MixCollage-10-Nov-2026-03-21-PM-3908.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Regatta",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
     "9342668": {
       "id": "9342668",
       "title": "Evaluation of Cork hospital management staffing decisions needed – Chambers",
@@ -3707,6 +3719,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
+    "9343541": {
+      "id": "9343541",
+      "title": "Limerick sides shift focus to Super League and Division One endeavours",
+      "link": "https://www.limerickleader.ie/sport/basketball/limerick-sides-shift-focus-to-super-league-and-division-one-endeavours-9343541",
+      "description": "All four Limerick-based sides will be in domestic action this weekend as Super League and Division One proceedings return",
+      "pubDate": "Fri, 13 Nov 2026 11:30:12 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/8/31/IMG_1452.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Basketball Ireland",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
     "9343736": {
       "id": "9343736",
       "title": "Major public sector strike called off as last minute deal averts nationwide disruption",
@@ -3730,6 +3754,18 @@
       "imageCredit": "Brendan Gleeson",
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T13:42:21.921Z"
+    },
+    "9344127": {
+      "id": "9344127",
+      "title": "Limerick’s Cross Country action comes to a close ",
+      "link": "https://www.limerickleader.ie/sport/other-sport/limericks-cross-country-action-comes-to-a-close-9344127",
+      "description": "The ‘domestic’ county Cross Country season came to an end at the weekend with the second staging of the Relays and the first featuring Senior and Masters Relays at the Showgrounds in Newcastle West.",
+      "pubDate": "Fri, 13 Nov 2026 08:30:46 GMT",
+      "author": "Karen Raine",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/09/1000120432.jpeg?width=1200&auto=webp&trim=66%2C0%2C67%2C0",
+      "imageCredit": "Karen Raine",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
     "9344188": {
       "id": "9344188",
@@ -3788,6 +3824,18 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T20:08:19.546Z"
+    },
+    "9344934": {
+      "id": "9344934",
+      "title": " Limerick teacher recognised for 'outstanding contribution' to physical education",
+      "link": "https://www.limerickleader.ie/community/limerick-teacher-recognised-for-outstanding-contribution-to-physical-education-9344934",
+      "description": "Mike Lynch, a PE teacher at St Clement’s College, was presented with the Michael Darmody award by the Physical Education Association of Ireland (PEAI)",
+      "pubDate": "Fri, 13 Nov 2026 09:00:04 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/18/Capture-m.JPG?width=1200&auto=webp&trim=0%2C25%2C0%2C25",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
     "9344972": {
       "id": "9344972",
@@ -3867,6 +3915,18 @@
       "imageCredit": "Diarmuid Greene/Fusionshooters",
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T13:42:21.921Z"
+    },
+    "9345552": {
+      "id": "9345552",
+      "title": "Creative writing event in Limerick for aspiring writers",
+      "link": "https://www.limerickleader.ie/news/creative-writing-event-in-limerick-for-aspiring-writers-9345552",
+      "description": "The creative writing event in O’Mahony’s Booksellers, Limerick on November 19 will feature Sharon Guard and June O’Sullivan in conversation with Eoin Devereux",
+      "pubDate": "Fri, 13 Nov 2026 08:00:22 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/16/26/JPEG-June-OSullivan-Sharon-Guard-and-Eoin-Devereux.jpeg?width=1200&auto=webp&trim=0%2C137%2C0%2C136",
+      "imageCredit": "Freelance",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
     "9345826": {
       "id": "9345826",
@@ -3994,6 +4054,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T17:30:27.726Z"
     },
+    "9347682": {
+      "id": "9347682",
+      "title": "Public urged to be vigilant after bogus tradesmen target elderly people in Limerick",
+      "link": "https://www.limerickleader.ie/news/crime-courts/public-urged-to-be-vigilant-after-bogus-tradesmen-target-elderly-people-in-limerick-9347682",
+      "description": "Bogus tradesmen may offer, what appears to be, a reasonable price for a task, while creating a sense of urgency by suggesting that this work needs to be done immediately",
+      "pubDate": "Fri, 13 Nov 2026 11:00:36 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/40/Gardai-file-photo.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C83",
+      "imageCredit": "FILE PHOTOGRAPH",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
     "9347741": {
       "id": "9347741",
       "title": "Irish shoppers warned to watch out for scams ahead of Black Friday sales",
@@ -4017,6 +4089,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T17:30:27.726Z"
     },
+    "9347941": {
+      "id": "9347941",
+      "title": "Limerick bookshop removes David Walliams books from shelves amid sexual misconduct allegations",
+      "link": "https://www.limerickleader.ie/news/limerick-bookshop-removes-david-walliams-books-from-shelves-amid-sexual-misconduct-allegations-9347941",
+      "description": "O’Mahony’s Booksellers has decided to withdraw from sale books written by the British comedian, who is one of the world’s bestselling children authors",
+      "pubDate": "Fri, 13 Nov 2026 09:40:36 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/14/cs-c151c680-e1b5-41d0-866e-ce17b394d65f.jpg?width=1200&auto=webp&trim=158%2C0%2C158%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
     "9348455": {
       "id": "9348455",
       "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
@@ -4038,6 +4121,40 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/20/cs-39d3483d-253f-4260-860d-27865387fdfe.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-12T20:44:58.177Z"
+    },
+    "9348576": {
+      "id": "9348576",
+      "title": "EU leaders to meet in Dublin amid prospect of Europe joining Ukraine peace talks",
+      "link": "https://www.limerickleader.ie/national/eu-leaders-to-meet-in-dublin-amid-prospect-of-europe-joining-ukraine-peace-talks-9348576",
+      "description": "The informal meeting of the European Council comes a day after the Irish capital hosted the European Political Community summit.",
+      "pubDate": "Fri, 13 Nov 2026 02:45:29 GMT",
+      "author": "David Young and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/02/cs-da39e05e-da76-409f-b230-85d350b43efd.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
+    "9348908": {
+      "id": "9348908",
+      "title": "First opponents for Limerick FC revealed as Munster Senior Cup draw made",
+      "link": "https://www.limerickleader.ie/sport/soccer/first-opponents-for-limerick-fc-revealed-as-munster-senior-cup-draw-made-9348908",
+      "description": "A win against the fellow First Division side would see a home quarter-final for the side who will continue to be managed by Tommy Barrett next season",
+      "pubDate": "Fri, 13 Nov 2026 09:56:02 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/9/30/3397746-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
+    },
+    "9349026": {
+      "id": "9349026",
+      "title": "European voice in Ukraine peace talks must include UK, Taoiseach says",
+      "link": "https://www.limerickleader.ie/national/european-voice-in-ukraine-peace-talks-must-include-uk-taoiseach-says-9349026",
+      "description": "Micheál Martin acknowledged that pressure was increasing on European nations to agree how they would be represented in peace negotiations.",
+      "pubDate": "Fri, 13 Nov 2026 12:19:53 GMT",
+      "author": "David Young, Cate McCurry, Cillian Sherlock, Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/12/cs-39821180-4f7e-43bd-a8c7-66143409a8b2.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -6710,6 +6827,126 @@
       "author": "Mairéad Hughes",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-12T20:44:59.046Z"
+    },
+    "https://www.limerickpost.ie/?p=363083": {
+      "id": "https://www.limerickpost.ie/?p=363083",
+      "title": "Wasps vs Humans to launch new album with Limerick gig",
+      "link": "https://www.limerickpost.ie/2026/11/13/wasps-vs-humans-to-launch-new-album-with-limerick-gig/",
+      "description": "Punk-folk duo Wasps vs Humans will celebrate the release of their new album, The Day Homo Sapiens Destroyed the Earth, with a Limerick launch show at The Record Room, The Commercial, on Friday November 20. Japanese Jesus will join them as special guests. Tickets are €15 and are available through Eventbrite. The album has drawn [&#8230;]\nThe post Wasps vs Humans to launch new album with Limerick gig appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 12:10:50 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.906Z"
+    },
+    "https://www.limerickpost.ie/?p=363188": {
+      "id": "https://www.limerickpost.ie/?p=363188",
+      "title": "Free historical talk in Rathkeale this evening",
+      "link": "https://www.limerickpost.ie/2026/11/13/free-historical-talk-in-rathkeale-this-evening/",
+      "description": "THERE will be a meeting of the members of the Rathkeale Historical Society this Friday, November 13, at 19.30 at the Rathkeale House Hotel. The talk will be by Dr Joachim Fischer of the German Department, University of Limerick. The title of the talk is &#8216;The Shannon Scheme from a German perspective’. Attendance at the [&#8230;]\nThe post Free historical talk in Rathkeale this evening appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 12:00:05 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.906Z"
+    },
+    "https://www.limerickpost.ie/?p=363264": {
+      "id": "https://www.limerickpost.ie/?p=363264",
+      "title": "Plan for step-down beds to ease capacity crisis at UHL abandoned due to funding constraints",
+      "link": "https://www.limerickpost.ie/2026/11/13/plan-for-step-down-beds-to-ease-capacity-crisis-at-uhl-abandoned-due-to-funding-constraints/",
+      "description": "PLANS to secure 100 step-down or rehab beds to ease pressure on the consistently overcrowded University Hospital Limerick (UHL) were scrapped due to a lack of available HSE funding. Last March, the HSE tender was advertised for the provision of the beds, however it was then withdrawn without explanation. Meanwhile, 60 beds at a step-down [&#8230;]\nThe post Plan for step-down beds to ease capacity crisis at UHL abandoned due to funding constraints appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 11:15:13 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363260": {
+      "id": "https://www.limerickpost.ie/?p=363260",
+      "title": "Fundraiser to bring tragic mother of four home for burial",
+      "link": "https://www.limerickpost.ie/2026/11/13/fundraiser-to-bring-tragic-mother-of-four-home-for-burial/",
+      "description": "A FUNDRAISING campaign has been started to help with the expenses of bringing a Limerick murder victim home for burial. Carrie Mullane-Noonan&#8217;s body was recovered from a lake in Fermanagh this week. She had been missing since travelling to Enniskillen on October 10. She is from Pineview Gardens, Moyross, and her family are planning to [&#8230;]\nThe post Fundraiser to bring tragic mother of four home for burial appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 10:30:15 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363101": {
+      "id": "https://www.limerickpost.ie/?p=363101",
+      "title": "Fist of Pure Emotion to make Limerick debut at Dolan’s Warehouse",
+      "link": "https://www.limerickpost.ie/2026/11/13/fist-of-pure-emotion-to-make-limerick-debut-at-dolans-warehouse/",
+      "description": "Cork power ballad band Fist of Pure Emotion (FOPE) will make their Limerick debut at Dolan’s Warehouse on Saturday November 28, as part of a self-proclaimed “Teeny Tiny Tour” marking a decade of performances. The set promises power ballads, rock anthems and guilty pleasures from the 1980s and 1990s, with songs from Meat Loaf, Bon [&#8230;]\nThe post Fist of Pure Emotion to make Limerick debut at Dolan’s Warehouse appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 10:10:55 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363258": {
+      "id": "https://www.limerickpost.ie/?p=363258",
+      "title": "Microsoft outage causing disruptions for Limerick Council",
+      "link": "https://www.limerickpost.ie/2026/11/13/microsoft-outage-causing-disruptions-for-limerick-council/",
+      "description": "LIMERICK City and County Council said it is experiencing disruptions to some of its IT systems as a result of the ongoing Microsoft service outage. The Council is among many organisations and individual users, numbered in the millions, worldwide impacted by the outage, which is reported to have impacted Microsoft programmes including Teams, Outlook, and [&#8230;]\nThe post Microsoft outage causing disruptions for Limerick Council appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 09:57:26 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363078": {
+      "id": "https://www.limerickpost.ie/?p=363078",
+      "title": "Japanese rock trio Electric Eel Shock bring world tour to Dolans",
+      "link": "https://www.limerickpost.ie/2026/11/13/japanese-rock-trio-electric-eel-shock-bring-world-tour-to-dolans/",
+      "description": "TOKYO power trio Electric Eel Shock play Dolans Kasbah Social Club this Wednesday November 18. EES, left their native Japan in 1999 to see what they could make of America and have been on a near constant world tour ever since. They funded the journey by selling merchandise and their self-recorded albums. Their sound mixes [&#8230;]\nThe post Japanese rock trio Electric Eel Shock bring world tour to Dolans appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 09:10:44 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363185": {
+      "id": "https://www.limerickpost.ie/?p=363185",
+      "title": "Reservations over Limerick Mayor’s innovative plans for housing in Abbeyfeale",
+      "link": "https://www.limerickpost.ie/2026/11/13/reservations-over-limerick-mayors-innovative-plans-for-housing-in-abbeyfeale/",
+      "description": "DESPITE reservations from a number of councillors, Mayor John Moran’s plans to provide six rental homes for middle-income households in West Limerick made it over the line. The disposal of the six Abbeyfeale properties at Convent Road, 6 and 7 Colbert Terrace, 8 Old Church Street, and units 1 and 2 at the Bridge Inn [&#8230;]\nThe post Reservations over Limerick Mayor&#8217;s innovative plans for housing in Abbeyfeale appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363030": {
+      "id": "https://www.limerickpost.ie/?p=363030",
+      "title": "Kilmallock face daunting test in Munster SHC",
+      "link": "https://www.limerickpost.ie/2026/11/13/kilmallock-face-daunting-test-in-munster-shc/",
+      "description": "LIMERICK kingpins Kilmallock run up against Ballygunner in the semi-final of the Munster Senior Club Hurling Championship at Walsh Park, Waterford, on Sunday (referee: Niall Malone, Clare). It’s a daunting ask for the visitors, given the Gunners have won four of the last six provincial championships and are also the current national title holders. In [&#8230;]\nThe post Kilmallock face daunting test in Munster SHC appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 07:30:04 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363096": {
+      "id": "https://www.limerickpost.ie/?p=363096",
+      "title": "Violinist Anton Jablokov brings Heart & Fire to Belltable",
+      "link": "https://www.limerickpost.ie/2026/11/13/violinist-anton-jablokov-brings-heart-fire-to-belltable/",
+      "description": "Internationally acclaimed violinist Anton Jablokov performs his show Heart &#38; Fire at Belltable on Friday November 20. Joined by pianist Adam I. Kuruc, he presents a concert that crosses borders, cultures and traditions, from the haunting melodies of Ireland to the warmth of the Mediterranean and the fiery spirit of Eastern European folk traditions. Jablokov [&#8230;]\nThe post Violinist Anton Jablokov brings Heart &#038; Fire to Belltable appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 07:12:11 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T13:00:40.907Z"
+    },
+    "https://limerickvoice.com/?p=53785": {
+      "id": "https://limerickvoice.com/?p=53785",
+      "title": "‘I still feel so privileged,’ shares Ireland’s first grandmaster on a lifetime in martial arts",
+      "link": "https://limerickvoice.com/features/i-still-feel-so-privileged-shares-irelands-first-grandmaster-on-a-lifetime-in-martial-arts/",
+      "description": "Grandmaster Des Galligan (63) speaks to the Limerick Voice about his experience in martial arts and encounter with Chuck Norris. FROM a martial arts class in a Limerick hotel to youth work in Southill and a meeting with Chuck Norris, Des Galligan has spent almost five decades helping others find confidence, belonging, and purpose.  A [&#8230;]\nThe post &#8216;I still feel so privileged,&#8217; shares Ireland’s first grandmaster on a lifetime in martial arts appeared first on .",
+      "pubDate": "Fri, 13 Nov 2026 10:00:54 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-13T13:00:42.358Z"
+    },
+    "https://limerickchamber.ie/?p=38611": {
+      "id": "https://limerickchamber.ie/?p=38611",
+      "title": "Untitled",
+      "link": "https://limerickchamber.ie/ready-for-2027-limerick/?utm_source=rss&utm_medium=rss&utm_campaign=ready-for-2027-limerick",
+      "description": "Ready for 2027: help us showcase Limerick Limerick is getting ready to welcome the world in 2027. Ready for 2027 is a new place-branding campaign developed by Limerick City and County Council to help local businesses, communities and organisations build excitement ahead of one of the most significant international sporting occasions ever hosted in the\n  Read More\nThe post  first appeared on Limerick Chamber.",
+      "pubDate": "Tue, 10 Nov 2026 14:28:02 +0000",
+      "author": "Suzan McCreadie",
+      "source": "limerickchamber",
+      "scrapedAt": "2026-11-13T13:00:50.533Z"
     }
   },
   "rewritten": {
@@ -10658,6 +10895,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/14/cs-6815ff7c-29fa-44e3-90a8-aef5f6c87624.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-10T17:02:08.678Z"
     },
+    "9342641": {
+      "headline": "Early Black Friday Sales Bring Discounts on Childrens Winter Gear at Regatta",
+      "summary": "Regatta has launched early Black Friday savings on winter essentials and outdoor gear for children.",
+      "story": "Regatta is offering early Black Friday discounts on practical items designed for children's outdoor adventures. The promotional savings focus specifically on children's winter essentials.",
+      "localAngle": "This retail promotion is available to shoppers in Limerick looking for children's winter gear.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Black Friday comes early at Regatta with big savings on kids’ winter essentials (AFF)",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/black-friday-comes-early-at-regatta-with-big-savings-on-kids-winter-essentials-aff-9342641",
+      "publishedAt": "Fri, 13 Nov 2026 10:23:48 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/02/MixCollage-10-Nov-2026-03-21-PM-3908.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Regatta",
+      "rewrittenAt": "2026-11-13T13:10:10.087Z"
+    },
     "9342668": {
       "headline": "Chambers Calls for Review of Cork Hospital Management Staffing",
       "summary": "Senior staff have reported patient safety risks due to hospital staffing shortages and restrictions.",
@@ -10755,6 +11009,11 @@
       "duplicateOf": "9338079",
       "rewrittenAt": "2026-11-11T12:40:55.307Z"
     },
+    "9343541": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363033",
+      "rewrittenAt": "2026-11-13T13:09:18.417Z"
+    },
     "9343736": {
       "skipped": true,
       "duplicateOf": "9339517",
@@ -10776,6 +11035,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/20/Hyde-Rangers-A-v-Caherdavin-Celtic-A-in-the-LDL-Premier-A-1.jpeg?width=1200&auto=webp&trim=100%2C0%2C100%2C0",
       "imageCredit": "Brendan Gleeson",
       "rewrittenAt": "2026-11-12T13:55:46.733Z"
+    },
+    "9344127": {
+      "headline": "County Cross Country Season Concludes in Newcastle West",
+      "summary": "The domestic county Cross Country season wrapped up at the Showgrounds in Newcastle West with the second staging of the Relays.",
+      "story": "The weekend event marked the conclusion of the local Cross Country season and featured the first-ever Senior and Masters Relays held at the Newcastle West venue.",
+      "localAngle": "The event took place locally at the Showgrounds in Newcastle West, marking the end of the county's domestic Cross Country season.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Limerick’s Cross Country action comes to a close ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/limericks-cross-country-action-comes-to-a-close-9344127",
+      "publishedAt": "Fri, 13 Nov 2026 08:30:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/09/1000120432.jpeg?width=1200&auto=webp&trim=66%2C0%2C67%2C0",
+      "imageCredit": "Karen Raine",
+      "rewrittenAt": "2026-11-13T13:11:31.333Z"
     },
     "9344188": {
       "headline": "Three Limerick food businesses closed after HSE finds severe hygiene risks",
@@ -10825,6 +11101,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/33/Limerick-v-Sligo-Ladies-Football-4-(2).jpeg?width=1200&auto=webp&trim=13%2C0%2C187%2C0",
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-11T20:10:06.847Z"
+    },
+    "9344934": {
+      "headline": "St Clement's College PE teacher honoured with national award",
+      "summary": "Mike Lynch of St Clement's College has received the Michael Darmody award from the Physical Education Association of Ireland.",
+      "story": "Mike Lynch, a PE teacher at St Clement’s College, was presented with the Michael Darmody award by the Physical Education Association of Ireland (PEAI) in recognition of his outstanding contribution to physical education.",
+      "localAngle": "The award recognises the work of a Limerick-based teacher at St Clement's College.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": " Limerick teacher recognised for 'outstanding contribution' to physical education",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/limerick-teacher-recognised-for-outstanding-contribution-to-physical-education-9344934",
+      "publishedAt": "Fri, 13 Nov 2026 09:00:04 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/14/18/Capture-m.JPG?width=1200&auto=webp&trim=0%2C25%2C0%2C25",
+      "imageCredit": "3rd Party Image",
+      "rewrittenAt": "2026-11-13T13:11:13.181Z"
     },
     "9344972": {
       "headline": "MPs Warned Troubles Inquiries Will Face Funding Shortfalls",
@@ -10927,6 +11220,11 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363163",
       "rewrittenAt": "2026-11-12T13:52:17.187Z"
+    },
+    "9345552": {
+      "skipped": true,
+      "duplicateOf": "9347941",
+      "rewrittenAt": "2026-11-13T13:09:18.417Z"
     },
     "9345826": {
       "skipped": true,
@@ -11053,6 +11351,23 @@
       "imageCredit": "PICTURE: INSTAGRAM",
       "rewrittenAt": "2026-11-12T17:38:54.567Z"
     },
+    "9347682": {
+      "headline": "Limerick Public Warned as Fake Tradesmen Target Elderly Residents",
+      "summary": "Authorities urge vigilance after fraudulent tradesmen target older people in Limerick with urgent offers of discounted work.",
+      "story": "Bogus tradesmen are targeting elderly people in Limerick by offering seemingly reasonable prices for tasks while falsely claiming the work must be done immediately. The public is being urged to remain vigilant against these tactics.",
+      "localAngle": "This warning directly affects elderly residents and communities across Limerick city and county.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Public urged to be vigilant after bogus tradesmen target elderly people in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/public-urged-to-be-vigilant-after-bogus-tradesmen-target-elderly-people-in-limerick-9347682",
+      "publishedAt": "Fri, 13 Nov 2026 11:00:36 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/40/Gardai-file-photo.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C83",
+      "imageCredit": "FILE PHOTOGRAPH",
+      "rewrittenAt": "2026-11-13T13:09:52.191Z"
+    },
     "9347741": {
       "skipped": true,
       "duplicateOf": "9338870",
@@ -11062,6 +11377,22 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363138",
       "rewrittenAt": "2026-11-12T17:32:35.834Z"
+    },
+    "9347941": {
+      "headline": "O'Mahony's Booksellers Pulls David Walliams Titles Over Misconduct Claims",
+      "summary": "O'Mahony's Booksellers in Limerick has pulled books by author and comedian David Walliams from its shelves following sexual misconduct allegations.",
+      "story": "O'Mahony’s Booksellers has decided to withdraw from sale books written by the British comedian, who is one of the world’s bestselling children authors, amid sexual misconduct allegations.",
+      "localAngle": "Local Limerick bookshop O’Mahony’s has taken the decision to remove the titles from its shelves.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Limerick bookshop removes David Walliams books from shelves amid sexual misconduct allegations",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-bookshop-removes-david-walliams-books-from-shelves-amid-sexual-misconduct-allegations-9347941",
+      "publishedAt": "Fri, 13 Nov 2026 09:40:36 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/14/cs-c151c680-e1b5-41d0-866e-ce17b394d65f.jpg?width=1200&auto=webp&trim=158%2C0%2C158%2C0",
+      "rewrittenAt": "2026-11-13T13:10:55.106Z"
     },
     "9348455": {
       "headline": "Micheál Martin States EU Essential for Ukraine Peace Talks Progress",
@@ -11083,6 +11414,33 @@
       "skipped": true,
       "duplicateOf": "9347629",
       "rewrittenAt": "2026-11-12T20:45:39.025Z"
+    },
+    "9348576": {
+      "skipped": true,
+      "duplicateOf": "9346330",
+      "rewrittenAt": "2026-11-13T13:09:18.417Z"
+    },
+    "9348908": {
+      "headline": "Munster Senior Cup Draw Reveals Limerick FC's First Opponents",
+      "summary": "Limerick FC have learned their first opponents in the Munster Senior Cup following the official draw.",
+      "story": "A win against the fellow First Division side would secure a home quarter-final for the team, which will continue to be managed by Tommy Barrett next season. The draw details were released following an announcement by the Limerick Leader.",
+      "localAngle": "This update directly impacts Limerick FC supporters as the club prepares for the upcoming season under manager Tommy Barrett.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "First opponents for Limerick FC revealed as Munster Senior Cup draw made",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/first-opponents-for-limerick-fc-revealed-as-munster-senior-cup-draw-made-9348908",
+      "publishedAt": "Fri, 13 Nov 2026 09:56:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/9/30/3397746-(1).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-13T13:10:46.544Z"
+    },
+    "9349026": {
+      "skipped": true,
+      "duplicateOf": "9348455",
+      "rewrittenAt": "2026-11-13T13:09:18.417Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -14665,6 +15023,182 @@
       "rewrittenAt": "2026-11-12T20:46:46.662Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/03/Christopher-omahony-e1742322742464.jpeg",
       "imageCheckedAt": "2026-11-12T20:46:48.373Z"
+    },
+    "https://www.limerickpost.ie/?p=363083": {
+      "headline": "Punk-folk duo Wasps vs Humans to launch new album at The Record Room",
+      "summary": "Punk-folk duo Wasps vs Humans will celebrate the release of their new album with a Limerick gig at The Record Room on Friday, November 20. They will be joined by special guests Japanese Jesus, with tickets priced at €15.",
+      "story": "Punk-folk duo Wasps vs Humans are bringing their new album launch tour to Limerick this month, performing live at The Record Room in The Commercial on Friday, November 20. The band will celebrate the release of their latest record, 'The Day Homo Sapiens Destroyed the Earth', with support from special guests Japanese Jesus. Tickets for the show are priced at €15 and are available through Eventbrite.\n\nThe new album has already garnered strong critical acclaim, earning a four-star review from The Irish Times critic Tony Clayton-Lea, who likened their abrasive sound to a spiky hybrid of The Ruts, The Clash, Patti Smith, and Siouxsie Sioux. Recorded across Dublin and Cork, the release is the culmination of two years of intensive gigging. It captures the raw energy of the band's live shows through a harder, grittier yet melodic sound that blends heavy guitar riffs, electronic beats, harmonies, folk instruments, and punk poetry.\n\nFormed by punk poet and drummer Carl Antony Plover—who began the project as a solo endeavor before teaming up with musician and wife Linda Plover in 2024—the band tackles themes including inner-city crime, disappointment, social decay, and a fame-obsessed culture. The Limerick gig also marks the celebration of the group's first-ever vinyl pressing, produced in partnership with Anthem Vinyl. Special guests Japanese Jesus, featuring Bertie and Denny, will open the night with their alternative punk sound.",
+      "localAngle": "The album launch tour stops at The Record Room in The Commercial on Friday, November 20.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Wasps vs Humans to launch new album with Limerick gig",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/wasps-vs-humans-to-launch-new-album-with-limerick-gig/",
+      "publishedAt": "Fri, 13 Nov 2026 12:10:50 +0000",
+      "rewrittenAt": "2026-11-13T13:09:25.892Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Wasps-vs-Humans-press-2-1.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:50.218Z"
+    },
+    "https://www.limerickpost.ie/?p=363188": {
+      "headline": "Dr Joachim Fischer to deliver talk on Shannon Scheme in Rathkeale",
+      "summary": "The Rathkeale Historical Society is hosting a free public lecture tonight at the Rathkeale House Hotel exploring the Shannon Scheme from a German perspective.",
+      "story": "History enthusiasts in West Limerick have the opportunity to delve into the county's industrial past this evening (Friday, November 13) as the Rathkeale Historical Society hosts its latest meeting.\n\nDr Joachim Fischer, a member of the German Department at the University of Limerick, will deliver a keynote presentation titled 'The Shannon Scheme from a German perspective'. The talk examines the monumental hydroelectric engineering project through a distinct international lens.\n\nProceedings get underway at 7.30pm at the Rathkeale House Hotel. While attendance at tonight's lecture is completely free of charge, annual society membership is available for €15.\n\nOrganisers are also looking ahead to their next gathering on January 29 and are seeking local speakers. Anyone interested in delivering a 15-minute talk on an aspect of local history is asked to contact 083 024 6203 to secure one of the two remaining slots.",
+      "localAngle": "The event explores the local history of the Shannon Scheme, a major engineering project deeply tied to the heritage of County Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Free historical talk in Rathkeale this evening",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/free-historical-talk-in-rathkeale-this-evening/",
+      "publishedAt": "Fri, 13 Nov 2026 12:00:05 +0000",
+      "rewrittenAt": "2026-11-13T13:09:34.654Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/06/Rathkeale-Church-Aerial-scaled-1.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:50.858Z"
+    },
+    "https://www.limerickpost.ie/?p=363264": {
+      "headline": "HSE scraps 100 step-down beds for UHL due to funding shortages",
+      "summary": "A HSE tender for 100 step-down beds to ease overcrowding at University Hospital Limerick has been cancelled due to a lack of funding, leaving dozens of local beds sitting idle.",
+      "story": "Plans to secure 100 step-down and rehabilitation beds to ease chronic overcrowding at University Hospital Limerick (UHL) have been abandoned because of funding constraints. A HSE tender for the beds, advertised last March, was withdrawn without explanation.\n\nMeanwhile, a state-of-the-art €20 million facility operated by Bartra Healthcare in Raheen Lodge, Mungret, sits just 1.8km from UHL with 60 beds continuing to lay idle. Bartra said it attempted to secure a contract to provide up to 80 step-down beds and would have supplied its own ambulance patient transfers to keep pressure off the National Ambulance Service.\n\nIn response to a parliamentary question from Limerick Sinn Féin TD Maurice Quinlivan, HSE Mid West Acute and Older People Services CEO Ian Carter confirmed the procurement process was withdrawn due to \"the absence of an available funding allocation.\" He noted that the clinical need for the beds remains high as emergency department overcrowding persists.\n\nDeputy Quinlivan slammed the decision as an illustration of \"decades of underfunding in the Mid West health service.\" Figures show that in the first eight months of this year, an average of 38 acute beds across the region—including 28 at UHL—were occupied daily by patients medically cleared for discharge but unable to leave due to a lack of step-down capacity.",
+      "localAngle": "The cancelled bed provision directly impacts patients and emergency department overcrowding at University Hospital Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 2,
+      "originalTitle": "Plan for step-down beds to ease capacity crisis at UHL abandoned due to funding constraints",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/plan-for-step-down-beds-to-ease-capacity-crisis-at-uhl-abandoned-due-to-funding-constraints/",
+      "publishedAt": "Fri, 13 Nov 2026 11:15:13 +0000",
+      "rewrittenAt": "2026-11-13T13:09:43.900Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/Uhl-university-hospital-limerick-emergency-department-ed-1068x617-1.png",
+      "imageCheckedAt": "2026-11-13T13:11:51.134Z"
+    },
+    "https://www.limerickpost.ie/?p=363260": {
+      "headline": "Moyross Family Launches GoFundMe to Bring Murder Victim Carrie Mullane-Noonan Home to Limerick",
+      "summary": "A fundraising campaign has raised over €8,600 to help bring Carrie Mullane-Noonan home to Moyross for burial after her body was recovered in County Fermanagh.",
+      "story": "A fundraising campaign has been launched to cover the funeral expenses of Carrie Mullane-Noonan, a mother of four from Moyross whose body was recovered from a lake in County Fermanagh this week. Ms Mullane-Noonan had been missing since travelling to Enniskillen on October 10.\n\nFamily friend Sarah Power established the 'Remembering Carrie' GoFundMe page on behalf of the Mullane and Noonan family. As of Friday morning, the campaign has raised €8,650 toward its €16,000 target. Ms Power paid tribute to Ms Mullane-Noonan as a \"cherished mother, daughter, sister, and friend\" who was \"completely harmless, with not a bad bone in her body.\" She added that any leftover funds will be donated to Woman’s Aid Ireland in memory of Carrie.\n\nThree people have been arrested and brought before the courts in Fermanagh in connection with the Limerick woman’s death. Michael Lynch, 35, of Trasna Park, Enniskillen, has been charged with murder and preventing the lawful burial of a corpse. His mother, Mary Lynch, 69, of Windmill Heights, Enniskillen, appeared in court in relation to withholding information. A third individual, a 31-year-old man, has been charged with withholding information concerning an arrestable offence and encouraging or assisting in the commission of murder.\n\nDonations to support the family in bringing Ms Mullane-Noonan home to Pineview Gardens for burial can be made via the GoFundMe platform.",
+      "localAngle": "The victim is a native of Pineview Gardens in Moyross, and her family are working to bring her home to Limerick for her final burial.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Fundraiser to bring tragic mother of four home for burial",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/fundraiser-to-bring-tragic-mother-of-four-home-for-burial/",
+      "publishedAt": "Fri, 13 Nov 2026 10:30:15 +0000",
+      "rewrittenAt": "2026-11-13T13:10:01.725Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Carrie-Mullane-Noonan-crop.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:51.387Z"
+    },
+    "https://www.limerickpost.ie/?p=363101": {
+      "headline": "Cork power ballad band Fist of Pure Emotion to play Limerick debut",
+      "summary": "Cork 10-piece band Fist of Pure Emotion will bring their decade-long anniversary tour to Dolan’s Warehouse on Saturday, November 28, marking their first-ever Limerick performance.",
+      "story": "Cork power ballad band Fist of Pure Emotion (FOPE) is bringing its self-proclaimed “Teeny Tiny Tour” to Dolan’s Warehouse on Saturday, November 28, marking the 10-piece band's debut performance in Limerick.\n\nThe group, co-founded by lead singer Muireann Holly and guitarist John Boyle, promises a set filled with 1980s and 1990s rock anthems, power ballads, and guilty pleasures. The performance will feature tracks from artists like Meat Loaf, Bon Jovi, Starship, and Bonnie Tyler, alongside what the band describes as “more Celine Dion than should be legal,” as well as forgotten gems and one-hit wonders.\n\nFounded as a passion project for professional musicians wanting to play their favorite tracks, FOPE has grown from its first show at the Cork Arts Theatre in 2016 to sell-out runs at Cyprus Avenue. Billed by fans as “cheaper than therapy and twice as effective,” the band encourages audiences to sing along.\n\n“What began as a celebration of beloved rock anthems has now become a must-see, sell-out event,” said co-founder Muireann Holly, adding that the band looks forward to bringing the show to the Treaty City. The group urged concertgoers to leave their troubles and cynicism at the door for the Limerick debut.",
+      "localAngle": "The Cork-based band is performing its first-ever concert in Limerick at Dolan's Warehouse on November 28.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Fist of Pure Emotion to make Limerick debut at Dolan’s Warehouse",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/fist-of-pure-emotion-to-make-limerick-debut-at-dolans-warehouse/",
+      "publishedAt": "Fri, 13 Nov 2026 10:10:55 +0000",
+      "rewrittenAt": "2026-11-13T13:10:20.043Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/E-MUIREANN-HOLLY-AND-CO-FOUNDER-JOHN-BOYLE.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:51.628Z"
+    },
+    "https://limerickvoice.com/?p=53785": {
+      "headline": "Limerick's Des Galligan Reflects on Five Decades as Ireland's First Grandmaster",
+      "summary": "Ninth-degree black belt Des Galligan has spent nearly 50 years in martial arts, using the discipline to drive youth work across Limerick and connect with martial arts icons internationally.",
+      "story": "For nearly five decades, Limerick native Des Galligan has used martial arts not just for physical training, but as a tool to help others find confidence and direction. Now 63, the ninth-degree black belt and Ireland's first grandmaster began his journey around 1977 after being inspired by Bruce Lee films. After navigating age restrictions to find training as a teenager, he trained in judo, karate, kickboxing, and taekwondo before dedicating much of his life to community work.\n\nGalligan’s passion for youth development led him to collaborate in the mid-1990s with two nuns to establish a youth club in Southill, which combined martial arts with homework support and meals. He also spent six years volunteering on school completion programmes with former Limerick City Councillor Orla McLoughlin. These community experiences inspired him to return to education in his mid-40s, culminating in a social care degree at age 50 and subsequent work in youth justice, probation services, and currently as a student support worker at Crescent College Comprehensive.\n\nHis international profile in the sport eventually led him to the United States to visit Chuck Norris’s Kickstart Kids organisation, where he met Norris himself—an encounter that left him deeply emotional. Reflecting on his lifetime in the sport, Galligan emphasised that the true value of martial arts lies in personal growth rather than competition. “The best legacy you can leave is just leave people with a better impression of themselves and a stronger characteristic of themselves,” he said.",
+      "localAngle": "Limerick native Des Galligan reflects on a 50-year martial arts career rooted in local youth work across Southill and Crescent College Comprehensive.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "‘I still feel so privileged,’ shares Ireland’s first grandmaster on a lifetime in martial arts",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/features/i-still-feel-so-privileged-shares-irelands-first-grandmaster-on-a-lifetime-in-martial-arts/",
+      "publishedAt": "Fri, 13 Nov 2026 10:00:54 +0000",
+      "rewrittenAt": "2026-11-13T13:10:29.304Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Des-2_ULStudentEMMA.DINEEN.jpeg",
+      "imageCheckedAt": "2026-11-13T13:11:51.860Z"
+    },
+    "https://www.limerickpost.ie/?p=363258": {
+      "headline": "Microsoft Global IT Outage Disrupts Limerick City and County Council Services",
+      "summary": "Limerick City and County Council's digital operations have been hit by the widespread Microsoft outage affecting millions globally. Customers are being warned of potential delays in email responses and enquiry processing.",
+      "story": "Limerick City and County Council has confirmed that some of its key IT systems are experiencing disruptions due to the ongoing global Microsoft service outage. The local authority is among millions of individual users and organisations worldwide impacted by the technical failure, which has disrupted major Microsoft programmes including Teams, Outlook, and Copilot AI software. Microsoft has stated that it is not aware of any malicious activity behind the incident.\n\nA statement issued by the Council advised customers, service users, and stakeholders that day-to-day operations and communications are currently affected. Because the local authority relies on Microsoft services for daily functions, the disruption may lead to delays in receiving, processing, and responding to emails and other enquiries from the public.\n\nThe local authority stated that it is actively monitoring updates from Microsoft and working to minimise the impact while systems remain affected. The Council apologised for any inconvenience caused and thanked the public for their patience, adding that further updates will be provided as it aims to return to normal service as soon as possible.\n\nDespite the IT issues affecting digital communications, the local authority's customer services department remains operational and can still be reached directly by phone at 061 556 000.",
+      "localAngle": "Limerick City and County Council's day-to-day operations and public communications have been impacted by the global tech failure.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Microsoft outage causing disruptions for Limerick Council",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/microsoft-outage-causing-disruptions-for-limerick-council/",
+      "publishedAt": "Fri, 13 Nov 2026 09:57:26 +0000",
+      "rewrittenAt": "2026-11-13T13:10:38.300Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/04/christin-hume-Hcfwew744z4-unsplash.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:53.091Z"
+    },
+    "https://www.limerickpost.ie/?p=363078": {
+      "headline": "Japanese Rock Trio Electric Eel Shock to Play Dolans This Wednesday",
+      "summary": "Tokyo power trio Electric Eel Shock will bring their global tour to Dolans Kasbah Social Club on Wednesday, November 18. The band is known for a high-energy sound that blends stoner rock, punk, and metal.",
+      "story": "Japanese rock band Electric Eel Shock are bringing their ongoing world tour to Limerick this week, performing at Dolans Kasbah Social Club on Wednesday, November 18.\n\nThe Tokyo trio left Japan in 1999 to try their hand in America and have remained on a near-constant world tour ever since, funding their travels by selling merchandise and self-recorded albums.\n\nKnown for a sound that mixes dark, fuzzy stoner rock riffs with classic rock and punk, the band harks back to an era before rock music fractured into multiple sub-genres. EES has built a reputation for high-energy live performances that bridge the gap between punk and metal.\n\nHaving worked hard to sustain their journey, the band members are inviting both old and new fans in Limerick to join the party for this Wednesday's gig.",
+      "localAngle": "The international rock trio are performing a live gig at Dolans Kasbah Social Club on the Dock Road.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Japanese rock trio Electric Eel Shock bring world tour to Dolans",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/japanese-rock-trio-electric-eel-shock-bring-world-tour-to-dolans/",
+      "publishedAt": "Fri, 13 Nov 2026 09:10:44 +0000",
+      "rewrittenAt": "2026-11-13T13:11:04.658Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/EES-electric-2015_1792_ShoppingCenter_M-672x372-1.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:53.623Z"
+    },
+    "https://www.limerickpost.ie/?p=363185": {
+      "headline": "Abbeyfeale middle-income housing plan approved despite councillor opposition",
+      "summary": "Limerick City and County Council has approved Mayor John Moran's plan to provide six rental homes for middle-income earners in Abbeyfeale, despite strong opposition from Fine Gael councillor Dan McSweeney.",
+      "story": "Plans by Limerick Mayor John Moran to provide six rental homes for middle-income households in Abbeyfeale have been approved following a special meeting of the local authority in Dooradoyle. The scheme involves the disposal of properties at Convent Road, 6 and 7 Colbert Terrace, 8 Old Church Street, and units 1 and 2 at the Bridge Inn, which have been transferred to Limerick Twenty Thirty.\n\nThe initiative forms part of Mayor Moran's targeted approach to establish a cost-recovery rental model in West Limerick. Aimed at individuals who do not qualify for social housing but have a demonstrated need in the area, the project is designed to gradually build a revolving housing fund to support future acquisitions, refurbishments, and regeneration schemes.\n\nThe proposal faced opposition from Fine Gael councillor Dan McSweeney, who argued the project was not viable and questioned the council's overall housing output. Citing figures for the first two quarters of 2026, Cllr McSweeney stated the local authority had delivered just five units against a target of 562, suggesting the properties should instead be used for social housing or cost rental.\n\nDefending the initiative, Mayor Moran acknowledged differing viewpoints on solving the housing crisis but emphasized the need to explore new solutions. While Cllr McSweeney maintained his preference for policies promoting home ownership over the private rental market, the council ultimately pushed the housing plan over the line.",
+      "localAngle": "The decision directly impacts local housing provision and municipal strategy in Abbeyfeale and the wider West Limerick area.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Reservations over Limerick Mayor’s innovative plans for housing in Abbeyfeale",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/reservations-over-limerick-mayors-innovative-plans-for-housing-in-abbeyfeale/",
+      "publishedAt": "Fri, 13 Nov 2026 09:00:00 +0000",
+      "rewrittenAt": "2026-11-13T13:11:23.615Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Abbeyfeale-Houses-1.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:53.994Z"
+    },
+    "https://www.limerickpost.ie/?p=363030": {
+      "headline": "Kilmallock face daunting Munster semi-final test against holders Ballygunner",
+      "summary": "Limerick champions Kilmallock travel to Walsh Park on Sunday to face reigning All-Ireland champions Ballygunner in the Munster Senior Club Hurling Championship semi-final. James Hickey's side enter the clash as clear underdogs against a formidable Waterford outfit.",
+      "story": "Limerick kingpins Kilmallock face a daunting task this Sunday as they travel to Walsh Park to take on reigning All-Ireland and provincial champions Ballygunner in the semi-final of the Munster Senior Club Hurling Championship. The 1.15pm fixture, refereed by Clare's Niall Malone, pits the John Daly Cup holders against a formidable Waterford side that has claimed four of the last six provincial titles.\n\nBallygunner boast a formidable lineup featuring Stephen O’Keeffe, Philip Mahony, Dessie Hutchinson, and Pauric Mahony, and carry a 13-game unbeaten home championship run into the weekend. Bookmakers have installed the Waterford club as 3/10 favourites, mindful of their dominant 3-20 to 1-12 victory over Kilmallock in the 2021 Munster Final and a seven-year streak of eliminating Limerick challengers.\n\nDespite the odds, James Hickey's Kilmallock side arrive as proven competitors following their stunning victory over Na Piarsaigh to claim a 13th Limerick title. The Balbec will look to key figures such as captain Graeme Mulcahy, Robbie Egan, Micheál Houlihan, and newly-minted All-Star Shane O’Brien to produce a historic performance, though Aaron Costello remains an injury concern ahead of the throw-in.\n\nIn other provincial action, Inagh-Kilnamona meet Thurles Sarsfields in the day's other semi-final, with the final scheduled for November 29. Meanwhile, local championship action sees Dromin/Athlacca host Clarecastle in the Intermediate grade at Fitzgerald Park, and Caherline welcome Kerry's Dr Croke’s in the Junior Championship on Saturday.",
+      "localAngle": "Limerick champions Kilmallock carry the county's hopes into the Munster Senior Club Hurling Championship semi-final against Ballygunner.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Kilmallock face daunting test in Munster SHC",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/kilmallock-face-daunting-test-in-munster-shc/",
+      "publishedAt": "Fri, 13 Nov 2026 07:30:04 +0000",
+      "rewrittenAt": "2026-11-13T13:11:41.324Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Post-One.jpg",
+      "imageCheckedAt": "2026-11-13T13:11:54.221Z"
+    },
+    "https://www.limerickpost.ie/?p=363096": {
+      "headline": "Internationally Acclaimed Violinist Anton Jablokov to Perform at Belltable",
+      "summary": "Internationally acclaimed violinist Anton Jablokov will bring his 'Heart & Fire' tour to the Belltable on Friday, November 20, accompanied by pianist and composer Adam I. Kuruc.",
+      "story": "Music fans across Limerick can look forward to a unique cross-cultural performance when violinist Anton Jablokov takes to the stage at the Belltable on Friday, November 20. Known for blending classical virtuosity with traditional music and Romani-inspired improvisation, Jablokov will present his 'Heart & Fire' show alongside acclaimed pianist, composer, and arranger Adam I. Kuruc.\n\nKuruc brings extensive international experience to the collaboration, having previously worked with the Los Angeles Philharmonic under Gustavo Dudamel, the BBC Concert Orchestra, and contributed to Rodrigo y Gabriela’s Grammy Award-winning album. Jablokov’s own career has seen him perform on major international stages, including the BBC Proms, the London Palladium, Dublin’s 3Arena, and the Tipos Arena in Bratislava.\n\nThe upcoming Limerick programme promises a diverse musical journey spanning borders and traditions. Highlights will range from the haunting melodies of traditional Irish ballads like 'Danny Boy' to the warmth of the Mediterranean with 'Bella Ciao', Monti’s 'Csardas', and the Romani classic 'Dark Eyes'. Tickets for the Belltable performance are available now.",
+      "localAngle": "The internationally acclaimed concert brings high-profile global musicians to Limerick's Belltable venue for a one-night-only performance.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Violinist Anton Jablokov brings Heart & Fire to Belltable",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/violinist-anton-jablokov-brings-heart-fire-to-belltable/",
+      "publishedAt": "Fri, 13 Nov 2026 07:12:11 +0000",
+      "rewrittenAt": "2026-11-13T13:11:49.824Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Anton-violin-belltable-.png",
+      "imageCheckedAt": "2026-11-13T13:11:54.453Z"
     }
   }
 }
