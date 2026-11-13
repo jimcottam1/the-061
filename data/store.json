@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-13T17:07:47.553Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-13T20:26:39.905Z",
+    "totalArticles": 39
   },
   "articles": {
     "8353171": {
@@ -4259,6 +4259,51 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.888Z"
     },
+    "9350624": {
+      "id": "9350624",
+      "title": "WATCH: The brand-new Late Late Toy Show trailer has just landed! ",
+      "link": "https://www.limerickleader.ie/national/watch-the-brand-new-late-late-toy-show-trailer-has-just-landed-9350624",
+      "description": "This year’s 60-second trailer will get its first TV spot tonight during the Six One News on RTÉ One.",
+      "pubDate": "Fri, 13 Nov 2026 20:15:42 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/17/43/unnamed-(19).png?width=1200&auto=webp&trim=0%2C167%2C0%2C21",
+      "imageCredit": "RTÉ",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T20:26:33.150Z"
+    },
+    "9350818": {
+      "id": "9350818",
+      "title": "‘I didn’t lay a finger on that girl’: Scarlett Faulkner accused following her arrest",
+      "link": "https://www.limerickleader.ie/news/crime-courts/i-didnt-lay-a-finger-on-that-girl-scarlett-faulkner-accused-following-her-arrest-9350818",
+      "description": "Jury hears details of garda interviews following arrest of woman accused of murdering young Limerick mother",
+      "pubDate": "Fri, 13 Nov 2026 18:00:06 GMT",
+      "author": "Eoin Reynolds",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T20:26:33.150Z"
+    },
+    "9350920": {
+      "id": "9350920",
+      "title": "Europe selects negotiating team for Ukraine talks",
+      "link": "https://www.limerickleader.ie/national/europe-selects-negotiating-team-for-ukraine-talks-9350920",
+      "description": "Ukrainian President Volodmyr Zelensky was in Dublin earlier this week to attend a major EU summit focused on support for Ukraine.",
+      "pubDate": "Fri, 13 Nov 2026 19:11:01 GMT",
+      "author": "Cillian Sherlock and Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/19/cs-78d7c5ca-3eb7-46dd-aefe-c0720b17ff62.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T20:26:33.150Z"
+    },
+    "9350965": {
+      "id": "9350965",
+      "title": "People in emergency accommodation exceeds 18,000",
+      "link": "https://www.limerickleader.ie/national/people-in-emergency-accommodation-exceeds-18000-9350965",
+      "description": "A breakdown of the figures revealed most of those involved were younger males and most had Irish citizenship.",
+      "pubDate": "Fri, 13 Nov 2026 19:50:20 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/19/cs-43b9f441-8d0c-45f1-bb40-3b8ac130f3b6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-13T20:26:33.150Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -7110,6 +7155,36 @@
       "author": "Óran O&#039;Hare Barry",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-13T17:07:41.620Z"
+    },
+    "https://www.limerickpost.ie/?p=363179": {
+      "id": "https://www.limerickpost.ie/?p=363179",
+      "title": "Local action in basketball",
+      "link": "https://www.limerickpost.ie/2026/11/13/local-action-in-basketball/",
+      "description": "THERE are a couple of cracking ties in the Men’s Super League in Limerick this Saturday. Limerick Celtics v UCC Demons at Crescent College, 7pm. Celtics took spot after their conclusive win over Garvey’s Tralee Warriors in round six, overtaking their rivals Limerick Eagles. Celtics’ Tiras Morton, who won the October Player of the Month [&#8230;]\nThe post Local action in basketball appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 19:30:38 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T20:26:32.611Z"
+    },
+    "https://www.limerickpost.ie/?p=363162": {
+      "id": "https://www.limerickpost.ie/?p=363162",
+      "title": "Schools encouraged to take part in free AI and climate change initiative",
+      "link": "https://www.limerickpost.ie/2026/11/13/schools-encouraged-to-take-part-in-free-ai-and-climate-change-initiative/",
+      "description": "SCHOOLS across Limerick are being encouraged to apply for a free AI initiative. The new Transition Year Programme, developed by the Research Ireland ADAPT Centre in partnership with UNESCO and supported by Huawei Ireland helps students understand how AI and climate change are reshaping their world and to explore the role technology could play in [&#8230;]\nThe post Schools encouraged to take part in free AI and climate change initiative appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 18:00:59 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T20:26:32.611Z"
+    },
+    "https://www.limerickpost.ie/?p=363276": {
+      "id": "https://www.limerickpost.ie/?p=363276",
+      "title": "Jury in Faulkner murder trial hears recording of interview with accused woman",
+      "link": "https://www.limerickpost.ie/2026/11/13/jury-in-faulkner-murder-trial-hears-recording-of-interview-with-accused-woman/",
+      "description": "A TRIAL at the Central Criminal Court in Dublin today (Friday, November 13) heard a recording of the first of six Garda interviews with a 41-year-old woman accused of murdering Limerick woman Scarlett Faulkner. During the two-hour interview, the woman said, &#8220;on my children&#8217;s life, I did not put one finger on that girl, I [&#8230;]\nThe post Jury in Faulkner murder trial hears recording of interview with accused woman appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 17:34:28 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-13T20:26:32.611Z"
     }
   },
   "rewritten": {
@@ -11741,6 +11816,49 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/15/Threebytwo-for-Flow-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "rewrittenAt": "2026-11-13T17:09:33.499Z"
     },
+    "9350624": {
+      "headline": "First Television Broadcast Set For New Late Late Toy Show Trailer",
+      "summary": "The brand-new 60-second Late Late Toy Show trailer is scheduled to make its television debut tonight.",
+      "story": "The new 60-second trailer for this year's Late Late Toy Show will receive its first TV spot tonight during the Six One News on RTÉ One. Viewers can watch the advertisement as it airs for the first time on television.",
+      "localAngle": "Limerick residents and viewers across the country can catch the new television trailer during tonight's Six One News broadcast on RTÉ One.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "WATCH: The brand-new Late Late Toy Show trailer has just landed! ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/watch-the-brand-new-late-late-toy-show-trailer-has-just-landed-9350624",
+      "publishedAt": "Fri, 13 Nov 2026 20:15:42 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/17/43/unnamed-(19).png?width=1200&auto=webp&trim=0%2C167%2C0%2C21",
+      "imageCredit": "RTÉ",
+      "rewrittenAt": "2026-11-13T20:27:13.517Z"
+    },
+    "9350818": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363254",
+      "rewrittenAt": "2026-11-13T20:27:07.788Z"
+    },
+    "9350920": {
+      "skipped": true,
+      "duplicateOf": "9346330",
+      "rewrittenAt": "2026-11-13T20:27:07.788Z"
+    },
+    "9350965": {
+      "headline": "Emergency Accommodation Total Rises Above 18,000 Nationwide",
+      "summary": "Figures show the total number of people in emergency accommodation has surpassed 18,000.",
+      "story": "A breakdown of the figures revealed that most of those involved were younger males and that most held Irish citizenship.",
+      "localAngle": "Housing and emergency accommodation figures directly impact communities and local authorities across Limerick and the wider 061 region.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "People in emergency accommodation exceeds 18,000",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/people-in-emergency-accommodation-exceeds-18000-9350965",
+      "publishedAt": "Fri, 13 Nov 2026 19:50:20 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/19/cs-43b9f441-8d0c-45f1-bb40-3b8ac130f3b6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-13T20:27:22.344Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -15583,6 +15701,32 @@
       "rewrittenAt": "2026-11-13T17:10:45.539Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/mael-balland-7rImz-goqfQ-unsplash.jpg",
       "imageCheckedAt": "2026-11-13T17:10:47.479Z"
+    },
+    "https://www.limerickpost.ie/?p=363179": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363033",
+      "rewrittenAt": "2026-11-13T20:27:07.788Z"
+    },
+    "https://www.limerickpost.ie/?p=363276": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363254",
+      "rewrittenAt": "2026-11-13T20:27:07.788Z"
+    },
+    "https://www.limerickpost.ie/?p=363162": {
+      "headline": "Limerick schools invited to join free AI and climate change TY programme",
+      "summary": "Secondary schools across Limerick can now apply for GreenFutures, a free Transition Year programme exploring the links between artificial intelligence, climate change, and sustainability.",
+      "story": "Secondary schools across Limerick are being encouraged to apply for a new free artificial intelligence and climate change initiative aimed at Transition Year students.\n\nThe GreenFutures programme was developed by the Research Ireland ADAPT Centre in partnership with UNESCO and is supported by Huawei Ireland. It is designed to help students understand how AI and climate change are reshaping their world, while exploring the role technology could play in building a more sustainable future.\n\nThe initiative contributes to a wider European conversation about how science education can prepare young people for a future increasingly shaped by artificial intelligence, climate change, and rapid technological transformation.\n\nLimerick schools interested in participating in the programme can find more information and apply online through the ADAPT Centre website at adaptcentre.ie/projects/greenfutures/.",
+      "localAngle": "Secondary schools across Limerick are eligible to apply for the free educational programme.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Schools encouraged to take part in free AI and climate change initiative",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/schools-encouraged-to-take-part-in-free-ai-and-climate-change-initiative/",
+      "publishedAt": "Fri, 13 Nov 2026 18:00:59 +0000",
+      "rewrittenAt": "2026-11-13T20:27:31.828Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Green-Futures-.jpg",
+      "imageCheckedAt": "2026-11-13T20:27:32.229Z"
     }
   }
 }
