@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-14T12:06:02.265Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-14T15:43:26.556Z",
+    "totalArticles": 29
   },
   "articles": {
     "8353171": {
@@ -4373,6 +4373,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-14T12:05:52.585Z"
     },
+    "9351372": {
+      "id": "9351372",
+      "title": "‘Virtual flood’ made from light attracts thousands in Dublin",
+      "link": "https://www.limerickleader.ie/national/virtual-flood-made-from-light-attracts-thousands-in-dublin-9351372",
+      "description": "Iveagh Gardens, a familiar landscape in Dublin city centre, has been transformed into a ‘virtual flood’.",
+      "pubDate": "Sat, 14 Nov 2026 13:57:46 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/14/cs-748becb4-509f-488f-bac9-f04bcf97d73e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T15:43:15.447Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -7304,6 +7315,26 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-14T12:05:52.959Z"
+    },
+    "https://www.limerickpost.ie/?p=363201": {
+      "id": "https://www.limerickpost.ie/?p=363201",
+      "title": "Councillor asks Council to shed light on festoon lighting",
+      "link": "https://www.limerickpost.ie/2026/11/14/councillor-asks-council-to-shed-light-on-festoon-lighting/",
+      "description": "LABOUR Party councillor Pádraigh Reale has asked the Council to shed some light on the city centre festoon lighting and progress by the ESB to restore the connection issues at Arthur&#8217;s Quay. Cllr Reale was told at a recent Metropolitan District meeting that the local authority, through its appointed maintenance contractor (LBK) for the festoon [&#8230;]\nThe post Councillor asks Council to shed light on festoon lighting appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 15:30:09 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T15:43:15.081Z"
+    },
+    "https://www.limerickpost.ie/?p=363200": {
+      "id": "https://www.limerickpost.ie/?p=363200",
+      "title": "Funding boost for Learning Hub Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/14/funding-boost-for-learning-hub-limerick/",
+      "description": "LEARNING Hub Limerick have been chosen by the community to receive almost €30,000 in funding through the annual AIB Community €1m Fund. The Hub will get the 26,000 boost from the fund which supports 300 charities across Ireland. The announcement reflects community support from across Ireland, with AIB customers, the wider public and employees spotlighting [&#8230;]\nThe post Funding boost for Learning Hub Limerick appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 12:30:08 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T15:43:15.082Z"
     }
   },
   "rewritten": {
@@ -12054,6 +12085,22 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/09/cs-3085862d-e79b-45b6-b2a6-1b83ad486ed3.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-14T12:07:12.266Z"
     },
+    "9351372": {
+      "headline": "Dublin's Iveagh Gardens transformed into light-based 'virtual flood'",
+      "summary": "A light installation simulating a flood has drawn thousands of visitors to Dublin's Iveagh Gardens.",
+      "story": "The Iveagh Gardens in Dublin city centre have been transformed into a 'virtual flood' created from light. The installation has successfully attracted thousands of visitors to the location.",
+      "localAngle": "There is no direct connection to Limerick in the source material, but it covers a notable cultural attraction elsewhere in the country.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "‘Virtual flood’ made from light attracts thousands in Dublin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/virtual-flood-made-from-light-attracts-thousands-in-dublin-9351372",
+      "publishedAt": "Sat, 14 Nov 2026 13:57:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/14/cs-748becb4-509f-488f-bac9-f04bcf97d73e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-14T15:43:52.229Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -16002,6 +16049,38 @@
       "rewrittenAt": "2026-11-14T12:07:57.779Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Locke-Bar-9.jpg",
       "imageCheckedAt": "2026-11-14T12:08:07.881Z"
+    },
+    "https://www.limerickpost.ie/?p=363201": {
+      "headline": "Labour Cllr Pádraigh Reale Presses Council Over City Centre Festoon Lighting",
+      "summary": "Labour Party councillor Pádraigh Reale has called on the local authority to fix ongoing connection issues with the festoon lighting at Arthur's Quay Park. While repairs along the Three Bridges Walk are complete, the Arthur's Quay section is awaiting a new ESB connection.",
+      "story": "Labour Party councillor Pádraigh Reale has asked Limerick City and County Council for an update on city centre festoon lighting and the progress being made by the ESB to restore power at Arthur’s Quay.\n\nAt a recent Metropolitan District meeting, local representatives were informed that the Council's appointed maintenance contractor, LBK, has finished repairs on all identified faults along the festoon lighting network on the Three Bridges Walk. The local authority stated that weekly inspections and patrols are now in place to catch and fix future faults quickly.\n\nHowever, the section of festoon lighting located at Arthur’s Quay Park remains non-operational and is currently awaiting a new ESB connection before it can be brought back into service.",
+      "localAngle": "The story directly impacts Limerick city centre residents and visitors who use the Three Bridges Walk and Arthur's Quay Park.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Councillor asks Council to shed light on festoon lighting",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/councillor-asks-council-to-shed-light-on-festoon-lighting/",
+      "publishedAt": "Sat, 14 Nov 2026 15:30:09 +0000",
+      "rewrittenAt": "2026-11-14T15:43:43.461Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Cllr-Padraig-Reale-6-scaled-e1786444581436.jpeg",
+      "imageCheckedAt": "2026-11-14T15:44:01.747Z"
+    },
+    "https://www.limerickpost.ie/?p=363200": {
+      "headline": "Learning Hub Limerick secures nearly €30,000 in national community funding",
+      "summary": "Learning Hub Limerick in Kileely has been awarded €26,000 through the annual AIB Community €1m Fund following public and customer votes. The facility is one of 300 charities across Ireland to receive backing from the initiative.",
+      "story": "Learning Hub Limerick has been chosen by the community to receive a major funding boost of nearly €30,000 through the annual AIB Community €1m Fund.\n\nThe Kileely-based educational hub has specifically secured a €26,000 allocation from the nationwide fund, which this year supports 300 different charities across Ireland.\n\nThe successful funding announcement follows a public selection process that relied on backing from AIB customers, the wider public, and bank employees. The initiative aims to spotlight and support charities making a tangible difference in the local areas where people live, work, and volunteer.",
+      "localAngle": "The funding directly benefits Learning Hub Limerick in Kileely, supporting its ongoing work within the local community.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Funding boost for Learning Hub Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/funding-boost-for-learning-hub-limerick/",
+      "publishedAt": "Sat, 14 Nov 2026 12:30:08 +0000",
+      "rewrittenAt": "2026-11-14T15:44:01.353Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/AIB-Community-Fund-Kileely-Limerick-3.jpg",
+      "imageCheckedAt": "2026-11-14T15:44:02.321Z"
     }
   }
 }
