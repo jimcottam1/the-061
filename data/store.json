@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-13T20:26:39.905Z",
-    "totalArticles": 39
+    "lastScrape": "2026-11-14T12:06:02.265Z",
+    "totalArticles": 34
   },
   "articles": {
     "8353171": {
@@ -3451,6 +3451,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.380Z"
     },
+    "9340023": {
+      "id": "9340023",
+      "title": " Applause as Limerick councillors vote to amend wind farm planning rules",
+      "link": "https://www.limerickleader.ie/news/planning/applause-as-limerick-councillors-vote-to-amend-wind-farm-planning-rules-9340023",
+      "description": "The motion will now be subject to a mayor’s report before the Limerick Development Plan can be amended",
+      "pubDate": "Sat, 14 Nov 2026 08:00:22 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/webimg/b25lY21zOjljMDQzOTU5LWRkNzItNGU1MS1iY2Q3LThlNDZjNDZmZWYyMDpjMTY3ODQwNy05Y2MyLTQ1ODQtOWYyMi1kN2E4MjMyMDUyZWM=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
+    },
     "9340272": {
       "id": "9340272",
       "title": "Family of deceased Limerick woman believe hospital missed opportunities in her care",
@@ -3718,6 +3729,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T20:26:06.565Z"
+    },
+    "9343455": {
+      "id": "9343455",
+      "title": "PICTURES: All of the fun and excitement from 1XBet Irish St Leger 550",
+      "link": "https://www.limerickleader.ie/sport/other-sport/pictures-all-of-the-fun-and-excitement-from-1xbet-irish-st-leger-550-9343455",
+      "description": "Photographer Brendan Gleeson was on hand to capture all of the colour and excitement from last week’s event",
+      "pubDate": "Fri, 13 Nov 2026 20:30:10 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/7/52/MixCollage-11-Nov-2026-07-31-AM-6203-2b947088.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
     },
     "9343495": {
       "id": "9343495",
@@ -4192,6 +4215,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T13:00:41.502Z"
     },
+    "9349115": {
+      "id": "9349115",
+      "title": "Limerick sides learn fate ahead of 2026/27 Munster Junior Cup/Shield",
+      "link": "https://www.limerickleader.ie/sport/soccer/limerick-sides-learn-fate-ahead-of-202627-munster-junior-cupshield-9349115",
+      "description": "There is Limerick involvement aplenty in the opening last 32 draw of the McCarthy Insurance Group Munster Junior Cup and Shield",
+      "pubDate": "Sat, 14 Nov 2026 11:30:58 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/10/33/3204300.jpeg?width=1200&auto=webp&trim=0%2C364%2C110%2C364",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
+    },
     "9349459": {
       "id": "9349459",
       "title": "Former Limerick TD joins global technology giants in new role",
@@ -4282,6 +4317,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T20:26:33.150Z"
     },
+    "9350867": {
+      "id": "9350867",
+      "title": "Caherline preparing for rare home championship fixture",
+      "link": "https://www.limerickleader.ie/sport/hurling/caherline-preparing-for-rare-home-championship-fixture-9350867",
+      "description": "The east Limerick side enter the Munster series as county champions Doon’s second string are ineligible for the provincial championship",
+      "pubDate": "Sat, 14 Nov 2026 08:30:33 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/18/07/Doon-v-Caherline-in-the-Premier-Junior-A-Hurling-Championship-1.jpeg?width=1200&auto=webp&trim=112%2C3%2C90%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
+    },
     "9350920": {
       "id": "9350920",
       "title": "Europe selects negotiating team for Ukraine talks",
@@ -4303,6 +4350,28 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/19/cs-43b9f441-8d0c-45f1-bb40-3b8ac130f3b6.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T20:26:33.150Z"
+    },
+    "9351090": {
+      "id": "9351090",
+      "title": "Possible disruption expected for UK travellers after flights grounded across US",
+      "link": "https://www.limerickleader.ie/national/possible-disruption-expected-for-uk-travellers-after-flights-grounded-across-us-9351090",
+      "description": "The US Federal Aviation Administration halted all flights across America for several hours on Friday.",
+      "pubDate": "Sat, 14 Nov 2026 07:16:06 GMT",
+      "author": "John Besley, Izzie Addison and Nick Lester and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/07/cs-afced427-2505-41a3-805a-5a72f96d8f4e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
+    },
+    "9351109": {
+      "id": "9351109",
+      "title": "Travel disruption eases following US air traffic control problems",
+      "link": "https://www.limerickleader.ie/national/travel-disruption-eases-following-us-air-traffic-control-problems-9351109",
+      "description": "The US Federal Aviation Administration halted all flights across America for several hours on Friday.",
+      "pubDate": "Sat, 14 Nov 2026 09:34:21 GMT",
+      "author": "John Besley, Izzie Addison and Nick Lester and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/09/cs-3085862d-e79b-45b6-b2a6-1b83ad486ed3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T12:05:52.585Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -7185,6 +7254,56 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-13T20:26:32.611Z"
+    },
+    "https://www.limerickpost.ie/?p=363198": {
+      "id": "https://www.limerickpost.ie/?p=363198",
+      "title": "Poverty not inevitable forum told",
+      "link": "https://www.limerickpost.ie/2026/11/14/poverty-not-inevitable-forum-told/",
+      "description": "POVERTY is not inevitable and local communities have a vital role in challenging what sustain it, a Limerick Diocesan forum on poverty heard ahead of the tenth World Day of the Poor on November 15. The gathering, held at the Diocesan Centre in Corbally brought together organisations and individuals engaged in social outreach, action and [&#8230;]\nThe post Poverty not inevitable forum told appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 09:30:11 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T12:05:52.314Z"
+    },
+    "https://www.limerickpost.ie/?p=363093": {
+      "id": "https://www.limerickpost.ie/?p=363093",
+      "title": "Inclusive rugby documentary Try! screens in Belltable",
+      "link": "https://www.limerickpost.ie/2026/11/14/inclusive-rugby-documentary-try-screens-in-belltable/",
+      "description": "Try!, a documentary about the world’s most inclusive rugby tournament, screens in Belltable on Monday November 16 as part of the IFI@Belltable programme. Directed by Oisín Mistéil, the 88-minute Irish film follows four players, Richie, Maeve, Tommy and Paul, on their journey to the World Cup of a unique sport: 15-a-side, full-contact rugby played by [&#8230;]\nThe post Inclusive rugby documentary Try! screens in Belltable appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 08:50:34 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T12:05:52.314Z"
+    },
+    "https://www.limerickpost.ie/?p=362987": {
+      "id": "https://www.limerickpost.ie/?p=362987",
+      "title": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "link": "https://www.limerickpost.ie/2026/11/13/limerick-in-photos-out-and-about-in-limerick-city-40/",
+      "description": "THE Limerick Post photographer was out and about in the city once again at the weekend, snapping up the lively scenes. Do you know someone spotted in this week’s out and about? Share and let them know.\nThe post LIMERICK IN PHOTOS: Out and about in Limerick City appeared first on Limerick Post.",
+      "pubDate": "Fri, 13 Nov 2026 21:00:37 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T12:05:52.314Z"
+    },
+    "https://limerickvoice.com/?p=53806": {
+      "id": "https://limerickvoice.com/?p=53806",
+      "title": "Barry Coleman appointed Limerick senior football captain for 2027",
+      "link": "https://limerickvoice.com/sport/barry-coleman-appointed-limerick-senior-football-captain-for-2027/",
+      "description": "Barry Coleman announced as new captain of Limerick football team. RATHKEALE&#8217;S Barry Coleman has been named the new captain of the Limerick senior football team for the 2027 season, taking over the leadership role from Cillian Fahy.  Coleman is no stranger to a leadership role within the Limerick set-up, having previously served as vice-captain. His appointment represents [&#8230;]\nThe post Barry Coleman appointed Limerick senior football captain for 2027 appeared first on .",
+      "pubDate": "Sat, 14 Nov 2026 12:00:17 +0000",
+      "author": "Christina O&#039;Mahony",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-14T12:05:52.959Z"
+    },
+    "https://limerickvoice.com/?p=53803": {
+      "id": "https://limerickvoice.com/?p=53803",
+      "title": "Treaty United duo shortlisted ahead of PFA Awards ceremony",
+      "link": "https://limerickvoice.com/sport/treaty-united-duo-shortlisted-ahead-of-pfa-awards-ceremony/",
+      "description": "Katie Lawlee and Madison McGuane are among the nominees, while former Treaty United manager Seán Russell is also recognised. THE 2026 Professional Footballers&#8217; Association of Ireland (PFAI) Awards will take place next Saturday, November 21.  Several connections to Treaty United are among those recognised for their performances throughout the season.  Treaty United&#8217;s Katie Lawlee and [&#8230;]\nThe post Treaty United duo shortlisted ahead of PFA Awards ceremony appeared first on .",
+      "pubDate": "Sat, 14 Nov 2026 10:00:30 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-14T12:05:52.959Z"
     }
   },
   "rewritten": {
@@ -10910,6 +11029,22 @@
       "imageCredit": "NTA",
       "rewrittenAt": "2026-11-11T12:42:09.597Z"
     },
+    "9340023": {
+      "headline": "Limerick Councillors Vote to Amend Wind Farm Planning Rules",
+      "summary": "Limerick councillors have voted to amend wind farm planning rules, with the motion now subject to a mayor's report.",
+      "story": "Councillors applauded after voting to amend the planning rules for wind farms, and the motion will now face a mayor’s report before the Limerick Development Plan can be amended.",
+      "localAngle": "This decision directly affects local planning regulations and development policies within Limerick.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": " Applause as Limerick councillors vote to amend wind farm planning rules",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/planning/applause-as-limerick-councillors-vote-to-amend-wind-farm-planning-rules-9340023",
+      "publishedAt": "Sat, 14 Nov 2026 08:00:22 GMT",
+      "imageUrl": "https://www.limerickleader.ie/webimg/b25lY21zOjljMDQzOTU5LWRkNzItNGU1MS1iY2Q3LThlNDZjNDZmZWYyMDpjMTY3ODQwNy05Y2MyLTQ1ODQtOWYyMi1kN2E4MjMyMDUyZWM=.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-14T12:07:48.145Z"
+    },
     "9340272": {
       "headline": "Inquest into Limerick woman's death at UHL adjourned for verdict",
       "summary": "An inquest examining the care of a Limerick woman who passed away at University Hospital Limerick has been adjourned awaiting a verdict.",
@@ -11246,6 +11381,23 @@
       "publishedAt": "Tue, 10 Nov 2026 20:19:13 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/20/cs-7bdd0393-f375-4c51-a69b-95bc3efab48e.jpeg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-10T20:27:43.123Z"
+    },
+    "9343455": {
+      "headline": "Photo gallery captures the 1XBet Irish St Leger 550 action",
+      "summary": "A new photo gallery showcases the colour and excitement from last week's 1XBet Irish St Leger 550 event.",
+      "story": "Photographer Brendan Gleeson attended last week's event to capture all of the excitement and colour on camera. Readers can view the full collection of pictures from the 1XBet Irish St Leger 550 via the original source.",
+      "localAngle": "The event brings sporting action and local interest to the Limerick region.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: All of the fun and excitement from 1XBet Irish St Leger 550",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/pictures-all-of-the-fun-and-excitement-from-1xbet-irish-st-leger-550-9343455",
+      "publishedAt": "Fri, 13 Nov 2026 20:30:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/7/52/MixCollage-11-Nov-2026-07-31-AM-6203-2b947088.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-14T12:08:06.457Z"
     },
     "9343495": {
       "skipped": true,
@@ -11719,6 +11871,11 @@
       "duplicateOf": "9348455",
       "rewrittenAt": "2026-11-13T13:09:18.417Z"
     },
+    "9349115": {
+      "skipped": true,
+      "duplicateOf": "9345053",
+      "rewrittenAt": "2026-11-14T12:06:48.156Z"
+    },
     "9349459": {
       "headline": "Ex-Limerick TD Tom Takes Up New Position at Google",
       "summary": "Former Fine Gael TD Tom, who served Limerick from 2016 to 2020, has taken on a new role with global technology giant Google.",
@@ -11838,6 +11995,23 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363254",
       "rewrittenAt": "2026-11-13T20:27:07.788Z"
     },
+    "9350867": {
+      "headline": "Caherline Get Ready for Rare Munster Championship Home Game",
+      "summary": "Caherline are preparing for a rare home fixture in the Munster series after entering as county champions because Doon's second string are ineligible.",
+      "story": "The east Limerick side enter the provincial championship because Doon's second string are ineligible for the competition. As a result, Caherline are now preparing for a rare home championship fixture.",
+      "localAngle": "The story involves east Limerick club Caherline entering the provincial championship following county championship outcomes.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Caherline preparing for rare home championship fixture",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/caherline-preparing-for-rare-home-championship-fixture-9350867",
+      "publishedAt": "Sat, 14 Nov 2026 08:30:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/18/07/Doon-v-Caherline-in-the-Premier-Junior-A-Hurling-Championship-1.jpeg?width=1200&auto=webp&trim=112%2C3%2C90%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-14T12:07:39.828Z"
+    },
     "9350920": {
       "skipped": true,
       "duplicateOf": "9346330",
@@ -11858,6 +12032,27 @@
       "publishedAt": "Fri, 13 Nov 2026 19:50:20 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/19/cs-43b9f441-8d0c-45f1-bb40-3b8ac130f3b6.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-13T20:27:22.344Z"
+    },
+    "9351090": {
+      "skipped": true,
+      "duplicateOf": "9351109",
+      "rewrittenAt": "2026-11-14T12:06:48.156Z"
+    },
+    "9351109": {
+      "headline": "US flight disruptions ease after FAA halt",
+      "summary": "Travel disruption has begun to ease after the US Federal Aviation Administration halted all flights across America for several hours on Friday.",
+      "story": "The US Federal Aviation Administration halted all flights across America for several hours on Friday, though travel disruption has since eased.",
+      "localAngle": "This international aviation incident may affect local passengers travelling to or from the United States.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Travel disruption eases following US air traffic control problems",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/travel-disruption-eases-following-us-air-traffic-control-problems-9351109",
+      "publishedAt": "Sat, 14 Nov 2026 09:34:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/09/cs-3085862d-e79b-45b6-b2a6-1b83ad486ed3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-14T12:07:12.266Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -15727,6 +15922,86 @@
       "rewrittenAt": "2026-11-13T20:27:31.828Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Green-Futures-.jpg",
       "imageCheckedAt": "2026-11-13T20:27:32.229Z"
+    },
+    "https://limerickvoice.com/?p=53806": {
+      "headline": "Rathkeale's Barry Coleman named Limerick senior football captain for 2027",
+      "summary": "Rathkeale clubman Barry Coleman has been appointed captain of the Limerick senior football team for the 2027 season, succeeding Cillian Fahy. He takes over leadership of the squad under incoming manager Micheál Cahill.",
+      "story": "Rathkeale clubman Barry Coleman has been named captain of the Limerick senior football team for the 2027 season, taking over the leadership role from Cillian Fahy. Coleman previously served as vice-captain and steps into the primary role as the county squad prepares for a new campaign under incoming manager Micheál Cahill.\n\nThe forward brings significant inter-county experience to the position, having featured in the squad that earned promotion from Division Two of the Allianz National Football League in 2022 and reached the Tailteann Cup final in 2025. At club level, Coleman was among Rathkeale's leading scorers during their 2026 county championship campaign.\n\nColeman's appointment comes as Limerick looks to regroup following a difficult 2026 season that ended in relegation from Division Three. The team will compete in Division Four when the National Football League gets underway in January 2027, with promotion back to Division Three set as an immediate objective under Cahill's management.",
+      "localAngle": "The appointment places Rathkeale's Barry Coleman at the helm of the Limerick senior football team as they prepare for the 2027 season.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Barry Coleman appointed Limerick senior football captain for 2027",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/barry-coleman-appointed-limerick-senior-football-captain-for-2027/",
+      "publishedAt": "Sat, 14 Nov 2026 12:00:17 +0000",
+      "rewrittenAt": "2026-11-14T12:06:55.459Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/28518221878_651466ee4a_c_ULStudentCHRISTINA.O.jpg",
+      "imageCheckedAt": "2026-11-14T12:08:06.820Z"
+    },
+    "https://limerickvoice.com/?p=53803": {
+      "headline": "Treaty United Duo Shortlisted for PFAI Awards and Team of the Year",
+      "summary": "Katie Lawlee and Madison McGuane have been named in the Women’s Premier Division Team of the Year and nominated for Young Player of the Year ahead of the November 21 ceremony.",
+      "story": "Treaty United players Katie Lawlee and Madison McGuane have been named in the Women’s Premier Division Team of the Year and shortlisted for the Women’s Young Player of the Year award.\n\nThe nominations are part of the 2026 Professional Footballers’ Association of Ireland (PFAI) Awards, which will take place on Saturday, November 21. More than 750 votes were cast by professional players across the leagues for this year's accolades.\n\nBoth teenagers have made significant impacts at the Markets Field. McGuane earned her senior debut in March 2025 at age 15 and collected the division's Player of the Month award in April 2026, alongside her international duty captaining Ireland at underage levels. Forward Lawlee has similarly starred for the Limerick side, captaining national underage teams and securing the March 2026 Goal of the Month award.\n\nFormer Treaty United women’s manager Seán Russell has also been recognised with a nomination for Manager of the Year following his spell at the club before taking over at Shelbourne. Meanwhile, former men's player Lee Devitt featured in last season's First Division Team of the Year, though no current men's players were nominated following a difficult campaign.",
+      "localAngle": "Two of Treaty United's star players have been recognised nationally for their standout performances representing the Limerick side.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Treaty United duo shortlisted ahead of PFA Awards ceremony",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/treaty-united-duo-shortlisted-ahead-of-pfa-awards-ceremony/",
+      "publishedAt": "Sat, 14 Nov 2026 10:00:30 +0000",
+      "rewrittenAt": "2026-11-14T12:07:04.087Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/MMG-KL_ULStudentEMMA.DINEEN-scaled.jpg",
+      "imageCheckedAt": "2026-11-14T12:08:07.234Z"
+    },
+    "https://www.limerickpost.ie/?p=363198": {
+      "headline": "Limerick Diocesan forum hears poverty is not inevitable ahead of World Day of the Poor",
+      "summary": "Organisations and social outreach groups gathered at the Diocesan Centre in Corbally to address local inequalities and mark the tenth World Day of the Poor.",
+      "story": "Poverty is not inevitable and local communities play a vital role in challenging the structures that sustain it, a Limerick Diocesan forum was told ahead of the tenth World Day of the Poor.\n\nThe gathering at the Diocesan Centre in Corbally brought together individuals and organisations involved in social outreach, research, and action across the region. Organised by Bishop of Limerick Brendan Leahy, the event also recognised the ongoing work of local organisations providing essential supports to disadvantaged groups.\n\nKeynote speaker Jim Clarken, an Askeaton native and CEO of Oxfam Ireland, addressed the forum by stating that global inequality has a direct local relevance. He emphasised that the world's resources are sufficient, but the distribution remains the core issue, encouraging local organisations to share expertise and amplify the voices of those excluded from decision-making.\n\nOpening the event, Bishop Leahy highlighted that despite Limerick's community spirit, significant unaddressed social inequalities persist alongside growing affluence. He noted that poverty takes multiple forms in the city and county, including material, social, cultural, digital, fuel, and housing poverty, and thanked volunteers for their daily impact on society.",
+      "localAngle": "The event brought together local Limerick social outreach organisations and community workers at the Diocesan Centre in Corbally to address regional disadvantage.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Poverty not inevitable forum told",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/poverty-not-inevitable-forum-told/",
+      "publishedAt": "Sat, 14 Nov 2026 09:30:11 +0000",
+      "rewrittenAt": "2026-11-14T12:07:22.641Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/08/Bishop-Leahy.jpeg",
+      "imageCheckedAt": "2026-11-14T12:08:07.357Z"
+    },
+    "https://www.limerickpost.ie/?p=363093": {
+      "headline": "Inclusive rugby documentary Try! screens at Belltable on Monday",
+      "summary": "Director Oisín Mistéil’s 88-film feature follows four players on their journey to the World Cup of 15-a-side full-contact rugby for people with and without disabilities. The screening takes place on November 16 as part of the IFI@Belltable programme.",
+      "story": "Film fans and rugby supporters in Limerick will have the chance to see the 88-minute Irish documentary *Try!* when it screens at the Belltable this Monday, November 16.\n\nPart of the venue's IFI@Belltable programme, the film is directed by Oisín Mistéil and explores the world's most inclusive rugby tournament. It follows four players—Richie, Maeve, Tommy, and Paul—on their path to the World Cup in a unique 15-a-side, full-contact sport played by individuals with and without disabilities.\n\nThe documentary captures the team's journey from wet and windy training sessions to the climax of their World Cup campaign. Among the featured players is Richie, who shares how joining The Rebels made it possible for him to play the sport after years of being told his autism would prevent him from doing so.\n\nRated 12A, the film highlights the role sport plays in building community for those who previously felt they did not belong. Tickets for Monday's screening are available through the Belltable.",
+      "localAngle": "The screening brings a critically acclaimed Irish sports documentary directly to Limerick audiences at the Belltable on O'Connell Street.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Inclusive rugby documentary Try! screens in Belltable",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/inclusive-rugby-documentary-try-screens-in-belltable/",
+      "publishedAt": "Sat, 14 Nov 2026 08:50:34 +0000",
+      "rewrittenAt": "2026-11-14T12:07:31.020Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Try-IFI@Belltable-16th-Nov.jpeg",
+      "imageCheckedAt": "2026-11-14T12:08:07.715Z"
+    },
+    "https://www.limerickpost.ie/?p=362987": {
+      "headline": "Photographer Brendan Gleeson captures weekend social scenes in Limerick City pubs",
+      "summary": "Local photographer Brendan Gleeson was out capturing weekend social scenes across Limerick City spots like the Locke Bar and Mother Mac's. Residents and visitors were snapped enjoying the lively atmosphere around town.",
+      "story": "Limerick City's weekend social scene was out in full force as local photographer Brendan Gleeson captured lively gatherings at some of the city's most popular pubs. Patrons were snapped enjoying the atmosphere at both the Locke Bar and Mother Mac's.\n\nAmong those spotted out and about at the Locke Bar were Sophia Bayliss, Eva Barnett, Colin Murphy, Michael Regan, and Shirley Constan. Meanwhile, crowds gathered at Mother Mac's where Adam Flynn, Paula Skaite, Mairead Ryan, Brigid Shanahan, Jake Nagle, Anna Carey, and Ciara Regan were among those caught on camera.\n\nThe weekly photo feature highlights the vibrant social life across Limerick's city centre watering holes, giving locals a chance to spot familiar faces enjoying the weekend.",
+      "localAngle": "The photo series captures familiar faces enjoying the weekend social scene across popular venues in Limerick City.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/13/limerick-in-photos-out-and-about-in-limerick-city-40/",
+      "publishedAt": "Fri, 13 Nov 2026 21:00:37 +0000",
+      "rewrittenAt": "2026-11-14T12:07:57.779Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Locke-Bar-9.jpg",
+      "imageCheckedAt": "2026-11-14T12:08:07.881Z"
     }
   }
 }
