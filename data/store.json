@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-14T15:43:26.556Z",
-    "totalArticles": 29
+    "lastScrape": "2026-11-14T18:43:17.497Z",
+    "totalArticles": 26
   },
   "articles": {
     "8353171": {
@@ -4159,6 +4159,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.888Z"
     },
+    "9348144": {
+      "id": "9348144",
+      "title": "Limerick woman loses major amount of money following phone call scam",
+      "link": "https://www.limerickleader.ie/news/crime-courts/limerick-woman-loses-major-amount-of-money-following-phone-call-scam-9348144",
+      "description": "In a separate Limerick incident, a man, aged in his 70s, reported receiving, what appeared to be, a delivery notification containing a link.",
+      "pubDate": "Sat, 14 Nov 2026 16:00:43 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2024/01/26/9/32/AdobeStock_681272256.jpeg.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "ParinPIX - stock.adobe.com",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T18:43:06.745Z"
+    },
     "9348455": {
       "id": "9348455",
       "title": "There can be no progress in reaching Ukraine peace agreement without EU – Martin",
@@ -4383,6 +4395,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/14/cs-748becb4-509f-488f-bac9-f04bcf97d73e.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-14T15:43:15.447Z"
+    },
+    "9351463": {
+      "id": "9351463",
+      "title": "Caherline march into Munster final with comfortable win",
+      "link": "https://www.limerickleader.ie/sport/hurling/caherline-march-into-munster-final-with-comfortable-win-9351463",
+      "description": "Opening half goals from Hugh Murnane as well as a healthy spread of scorers helped the Caherline to the comfortable win over Dr Crokes",
+      "pubDate": "Sat, 14 Nov 2026 16:01:16 GMT",
+      "author": "Tom Clancy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/15/04/1Y3A9140.jpeg?width=1200&auto=webp&trim=33%2C2%2C88%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-14T18:43:06.745Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -7335,6 +7359,16 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-14T15:43:15.082Z"
+    },
+    "https://www.limerickpost.ie/?p=363202": {
+      "id": "https://www.limerickpost.ie/?p=363202",
+      "title": "No more 3G data for Limerick eir customers",
+      "link": "https://www.limerickpost.ie/2026/11/14/no-more-3g-date-for-limerick-eir-customers/",
+      "description": "THERE is officially no more 3G data for eir customers in Limerick. The mobile and internet provider retired the network on October 28 as part of a nationwide programme to support the continued development and enhancement of its 4G and 5G services. The first phase of the switch off has already begun and will be [&#8230;]\nThe post No more 3G data for Limerick eir customers appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 18:30:11 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-14T18:43:06.239Z"
     }
   },
   "rewritten": {
@@ -11854,6 +11888,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-13T17:10:00.455Z"
     },
+    "9348144": {
+      "headline": "Limerick Woman Defrauded After Phone Scam",
+      "summary": "A Limerick woman has lost a significant sum of money following a telephone scam, alongside a separate incident involving a man in his 70s receiving a suspicious delivery link.",
+      "story": "A Limerick woman lost a major amount of money following a phone call scam, while in a separate incident, a man in his 70s reported receiving a delivery notification containing a link.",
+      "localAngle": "The incidents involve Limerick residents and were reported locally.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Limerick woman loses major amount of money following phone call scam",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/limerick-woman-loses-major-amount-of-money-following-phone-call-scam-9348144",
+      "publishedAt": "Sat, 14 Nov 2026 16:00:43 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2024/01/26/9/32/AdobeStock_681272256.jpeg.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "ParinPIX - stock.adobe.com",
+      "rewrittenAt": "2026-11-14T18:44:15.118Z"
+    },
     "9348455": {
       "headline": "Micheál Martin States EU Essential for Ukraine Peace Talks Progress",
       "summary": "Taoiseach Micheál Martin has stated that the EU is potentially involved in a process to find a peace agreement for Ukraine.",
@@ -12100,6 +12151,23 @@
       "publishedAt": "Sat, 14 Nov 2026 13:57:46 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/14/cs-748becb4-509f-488f-bac9-f04bcf97d73e.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-14T15:43:52.229Z"
+    },
+    "9351463": {
+      "headline": "Caherline secure comfortable victory over Dr Crokes to reach Munster final",
+      "summary": "Caherline advanced to the Munster final following a comfortable win against Dr Crokes, aided by opening half goals from Hugh Murnane and a healthy spread of scorers.",
+      "story": "Hugh Murnane scored goals in the opening half alongside contributions from a healthy spread of scorers to help Caherline secure a comfortable win over Dr Crokes and march into the Munster final.",
+      "localAngle": "Caherline advanced to the Munster final following a comfortable win against Dr Crokes.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Caherline march into Munster final with comfortable win",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/caherline-march-into-munster-final-with-comfortable-win-9351463",
+      "publishedAt": "Sat, 14 Nov 2026 16:01:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/15/04/1Y3A9140.jpeg?width=1200&auto=webp&trim=33%2C2%2C88%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-14T18:44:04.316Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -16081,6 +16149,22 @@
       "rewrittenAt": "2026-11-14T15:44:01.353Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/AIB-Community-Fund-Kileely-Limerick-3.jpg",
       "imageCheckedAt": "2026-11-14T15:44:02.321Z"
+    },
+    "https://www.limerickpost.ie/?p=363202": {
+      "headline": "Eir Retires 3G Network Across Limerick for 4G and 5G Upgrade",
+      "summary": "Mobile provider eir has officially switched off its 3G data network in Limerick as part of a nationwide rollout to enhance 4G and 5G services.",
+      "story": "Eir customers in Limerick are officially offline when it comes to the provider's legacy 3G data network. The mobile and internet provider retired the network on October 28 as part of a broader, nationwide programme designed to support the continued development and enhancement of its 4G and 5G services.\n\nThe switch-off is being rolled out on a phased basis across the country. While the initial phase has already begun, the transition will continue across Limerick and remaining counties over the coming weeks.\n\nAccording to the provider, the change is expected to cause no disruption for the vast majority of local users, who already rely on 4G and 5G services for their daily mobile and internet usage.",
+      "localAngle": "The 3G network switch-off directly affects eir mobile and internet customers living and working in Limerick as part of the phased nationwide rollout.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "No more 3G data for Limerick eir customers",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/no-more-3g-date-for-limerick-eir-customers/",
+      "publishedAt": "Sat, 14 Nov 2026 18:30:11 +0000",
+      "rewrittenAt": "2026-11-14T18:43:53.466Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/whatsapp-phone-stock-unsplash-dimitri-karastelev-ynJaWgrwSlM-unsplash.jpg",
+      "imageCheckedAt": "2026-11-14T18:44:15.527Z"
     }
   }
 }
