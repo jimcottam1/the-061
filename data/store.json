@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-14T18:43:17.497Z",
-    "totalArticles": 26
+    "lastScrape": "2026-11-15T12:40:36.897Z",
+    "totalArticles": 25
   },
   "articles": {
     "8353171": {
@@ -1401,6 +1401,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/14/cs-24b2af62-e8e3-4654-9585-e0bc452940a7.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T15:48:10.072Z"
+    },
+    "9320896": {
+      "id": "9320896",
+      "title": "Limerick historian joins UNESCO to assess French town’s world heritage bid",
+      "link": "https://www.limerickleader.ie/news/limerick-historian-joins-unesco-to-assess-french-towns-world-heritage-bid-9320896",
+      "description": "Limerick historian Dr Stephen Griffin has been invited to join a UNESCO committee to assess the French town of Lunéville's bid for world heritage status, a move that he hopes will put the town 'on the map'.",
+      "pubDate": "Sun, 15 Nov 2026 12:00:33 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/19/36/monsieurnicoli-chateau-2705089.jpeg?width=1200&auto=webp&trim=96%2C0%2C96%2C0",
+      "imageCredit": "Pixabay",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.643Z"
     },
     "9321219": {
       "id": "9321219",
@@ -3849,6 +3861,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.887Z"
     },
+    "9344520": {
+      "id": "9344520",
+      "title": "‘Thick and fast’: Limerick teenager races ahead in bloodstock industry",
+      "link": "https://www.limerickleader.ie/sport/horse-racing/thick-and-fast-limerick-teenager-races-ahead-in-bloodstock-industry-9344520",
+      "description": "The Kilmallock native has found early business success in the racing industry, buying, selling and valuing thoroughbred horses on behalf of owners, trainers and investors",
+      "pubDate": "Sat, 14 Nov 2026 20:00:17 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/12/20/WhatsApp-Image-2026-11-10-at-10-21-15-(1).jpeg?width=1200&auto=webp&trim=128%2C0%2C507%2C0",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.644Z"
+    },
     "9344706": {
       "id": "9344706",
       "title": "Public sector workers on lowest wage to see 18.3% pay hike in 5.2bn euro deal",
@@ -4407,6 +4431,64 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-11-14T18:43:06.745Z"
+    },
+    "9351602": {
+      "id": "9351602",
+      "title": "Honda Super N review: Why this funky little EV has completely won me over ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/honda-supern-electric-review-cars-car-review-9351619",
+      "description": "Small, affordable and gloriously different, the Honda Super N brings a welcome dose of fun to electric motoring. Its modest range is a compromise I’d happily consider.",
+      "pubDate": "Sat, 14 Nov 2026 21:00:04 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/18/50/582089_HONDA_SUPER-N_PRESS_KIT.jpeg?width=1200&auto=webp&trim=0%2C3%2C2%2C0",
+      "imageCredit": "Honda UK",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.643Z"
+    },
+    "9351643": {
+      "id": "9351643",
+      "title": "Gardai identify body of man found in Phoenix Park",
+      "link": "https://www.limerickleader.ie/national/gardai-identify-body-of-man-found-in-phoenix-park-9351643",
+      "description": "The man, who had been living in Ireland for a number of years, was discovered in the vicinity of the Wellington monument.",
+      "pubDate": "Sat, 14 Nov 2026 18:43:28 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/18/cs-92814a48-84aa-49c9-ae8f-3ecf73f72df3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.644Z"
+    },
+    "9351740": {
+      "id": "9351740",
+      "title": "U2 reveal Dolly Parton gave them old song to finish as theirs were ‘too Irish’",
+      "link": "https://www.limerickleader.ie/national/u2-reveal-dolly-parton-gave-them-old-song-to-finish-as-theirs-were-too-irish-9351740",
+      "description": "The Irish rock band and the late country music star worked together on the single Torn, which appears on U2’s latest album, Carnaval De Luz.",
+      "pubDate": "Sun, 15 Nov 2026 00:01:00 GMT",
+      "author": "Pierra Willix and  Press Association Senior Entertainment Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/00/cs-ab138cd6-146f-42fa-9ae4-91e48a474c8f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.643Z"
+    },
+    "9351771": {
+      "id": "9351771",
+      "title": "Kilmallock v Ballygunner preview: Daunting task for Limerick’s best",
+      "link": "https://www.limerickleader.ie/sport/hurling/kilmallock-v-ballygunner-preview-daunting-task-for-limericks-best-9351771",
+      "description": "Defending provincial and All-Ireland champions Ballygunner provide the formidable welcome party as the Balbec return to the Munster club SHC for the first time in five seasons.",
+      "pubDate": "Sun, 15 Nov 2026 08:30:57 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/7/47/3602444.jpeg?width=1200&auto=webp&trim=0%2C242%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.643Z"
+    },
+    "9351775": {
+      "id": "9351775",
+      "title": "Dromin-Athlacca face stern test in Munster semi-final clash",
+      "link": "https://www.limerickleader.ie/sport/hurling/dromin-athlacca-face-stern-test-in-munster-semi-final-clash-9351775",
+      "description": "Dromin-Athlacca make the short trip to Kilmallock where they take on Clarecastle in the AIB Munster club IHC semi-final",
+      "pubDate": "Sun, 15 Nov 2026 09:30:53 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/8/41/Bruff-v-Dromin-Athlacca-4-(1).jpeg?width=1200&auto=webp&trim=103%2C0%2C99%2C3",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T12:40:26.643Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -7369,6 +7451,46 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-14T18:43:06.239Z"
+    },
+    "https://www.limerickpost.ie/?p=363213": {
+      "id": "https://www.limerickpost.ie/?p=363213",
+      "title": "New private park cemetery opens in Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/15/new-private-park-cemetery-opens-in-limerick/",
+      "description": "LIMERICK&#8217;S first private cemetery park is officially open, offering people a chance to pre-purchase a grave for themselves and their loved ones. Meadowstone Park Cemetery on the Monaleen Road in Castletroy is the brainchild of a group of locals who responded to calls from Limerick City and County Council in 2022 for a new cemetery [&#8230;]\nThe post New private park cemetery opens in Limerick appeared first on Limerick Post.",
+      "pubDate": "Sun, 15 Nov 2026 12:30:05 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T12:40:26.165Z"
+    },
+    "https://www.limerickpost.ie/?p=363210": {
+      "id": "https://www.limerickpost.ie/?p=363210",
+      "title": "Limerick student wins prestigious Royal Irish Academy prize",
+      "link": "https://www.limerickpost.ie/2026/11/15/limerick-student-wins-prestigious-royal-irish-academy-prize/",
+      "description": "A LIMERICK student was one of nine winners honoured by the Royal Irish Academy at the prestigious undergraduate Hamilton Prize in Mathematics as part of the 2026 Hamilton Lecture last month.  Frederick Costello who is currently studying Mathematics and Physics at University of Limerick was one of the students celebrated on the day. Winners are [&#8230;]\nThe post Limerick student wins prestigious Royal Irish Academy prize appeared first on Limerick Post.",
+      "pubDate": "Sun, 15 Nov 2026 09:30:47 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T12:40:26.166Z"
+    },
+    "https://www.limerickpost.ie/?p=363268": {
+      "id": "https://www.limerickpost.ie/?p=363268",
+      "title": "Chloe Keogh, a World Champion",
+      "link": "https://www.limerickpost.ie/2026/11/15/chloe-keogh-a-world-champion/",
+      "description": "LIMERICK has a new World Champion in Chloe Keogh. A double silver medallist at the 2024 International Sport Kickboxing Associations Championships, Keogh, 20, secured an awesome gold in the ’26 edition in Madrid. “Having competed at the World Championships in 2024 and come home with two silver medals, I knew I wanted to come back [&#8230;]\nThe post Chloe Keogh, a World Champion appeared first on Limerick Post.",
+      "pubDate": "Sun, 15 Nov 2026 07:30:41 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T12:40:26.166Z"
+    },
+    "https://www.limerickpost.ie/?p=363262": {
+      "id": "https://www.limerickpost.ie/?p=363262",
+      "title": "It’s good to talk, with Ciarán Carey",
+      "link": "https://www.limerickpost.ie/2026/11/14/its-good-to-talk-with-ciaran-carey/",
+      "description": "HURLING great Ciarán Carey will host ‘An Evening of Restoring Hope’ at The Treehouse, Fitzgerald’s Woodlands House Hotel, Adare this coming Thursday (November 19, 7.30pm). The event, which is ticket-only, is being facilitated by Carey’s counselling service (addiction and mental health support, 086 160 2874), with proceeds to the Children’s Grief Centre. Whether a child [&#8230;]\nThe post It’s good to talk, with Ciarán Carey appeared first on Limerick Post.",
+      "pubDate": "Sat, 14 Nov 2026 20:00:53 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T12:40:26.166Z"
     }
   },
   "rewritten": {
@@ -8832,6 +8954,23 @@
       "skipped": true,
       "duplicateOf": "9320262",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9320896": {
+      "headline": "Limerick Historian Appointed to UNESCO Committee for French Town's Heritage Bid",
+      "summary": "Dr Stephen Griffin has been chosen to help evaluate Lunéville's application for world heritage status.",
+      "story": "Limerick historian Dr Stephen Griffin has joined a UNESCO committee to assess the French town of Lunéville's bid for world heritage status, a move he hopes will put the town on the map.",
+      "localAngle": "The story highlights the international recognition of a Limerick-based historian joining a prestigious UNESCO evaluation committee.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick historian joins UNESCO to assess French town’s world heritage bid",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-historian-joins-unesco-to-assess-french-towns-world-heritage-bid-9320896",
+      "publishedAt": "Sun, 15 Nov 2026 12:00:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/19/36/monsieurnicoli-chateau-2705089.jpeg?width=1200&auto=webp&trim=96%2C0%2C96%2C0",
+      "imageCredit": "Pixabay",
+      "rewrittenAt": "2026-11-15T12:42:28.194Z"
     },
     "9321219": {
       "skipped": true,
@@ -11557,6 +11696,23 @@
       "imageCredit": "3rd Party Image",
       "rewrittenAt": "2026-11-13T17:08:57.683Z"
     },
+    "9344520": {
+      "headline": "Kilmallock Teenager Achieves Early Success in Thoroughbred Industry",
+      "summary": "A Limerick teenager from Kilmallock is achieving early success in the racing industry by buying, selling, and valuing thoroughbred horses.",
+      "story": "The Kilmallock native has found early business success in the racing industry, buying, selling and valuing thoroughbred horses on behalf of owners, trainers and investors. Read the full story on the Limerick Leader website.",
+      "localAngle": "The young bloodstock entrepreneur is a native of Kilmallock in County Limerick.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘Thick and fast’: Limerick teenager races ahead in bloodstock industry",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/horse-racing/thick-and-fast-limerick-teenager-races-ahead-in-bloodstock-industry-9344520",
+      "publishedAt": "Sat, 14 Nov 2026 20:00:17 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/12/20/WhatsApp-Image-2026-11-10-at-10-21-15-(1).jpeg?width=1200&auto=webp&trim=128%2C0%2C507%2C0",
+      "imageCredit": "3rd Party Image",
+      "rewrittenAt": "2026-11-15T12:43:32.268Z"
+    },
     "9344706": {
       "skipped": true,
       "duplicateOf": "9339517",
@@ -12168,6 +12324,66 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/15/04/1Y3A9140.jpeg?width=1200&auto=webp&trim=33%2C2%2C88%2C0",
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-14T18:44:04.316Z"
+    },
+    "9351602": {
+      "headline": "Review praises funky and affordable Honda Super N electric vehicle",
+      "summary": "A recent review highlights the Honda Super N as a small, affordable, and fun electric vehicle despite its modest range.",
+      "story": "The reviewer notes that the small and gloriously different EV brings fun to electric motoring, making its modest range an acceptable compromise.",
+      "localAngle": "The review was reported by the Limerick Leader for local readers interested in electric vehicles.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Honda Super N review: Why this funky little EV has completely won me over ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/honda-supern-electric-review-cars-car-review-9351619",
+      "publishedAt": "Sat, 14 Nov 2026 21:00:04 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/14/18/50/582089_HONDA_SUPER-N_PRESS_KIT.jpeg?width=1200&auto=webp&trim=0%2C3%2C2%2C0",
+      "imageCredit": "Honda UK",
+      "rewrittenAt": "2026-11-15T12:43:13.244Z"
+    },
+    "9351643": {
+      "skipped": true,
+      "duplicateOf": "9349823",
+      "rewrittenAt": "2026-11-15T12:42:12.604Z"
+    },
+    "9351740": {
+      "headline": "U2 reveal Dolly Parton helped finish a track for their new album",
+      "summary": "The late country star provided an uncompleted song for U2 because their own material was considered too Irish.",
+      "story": "The legendary rock band collaborated with the late country music star on the single 'Torn', which is featured on their latest album, 'Carnaval De Luz'.",
+      "localAngle": "This international music collaboration involves one of Ireland's most famous bands.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "U2 reveal Dolly Parton gave them old song to finish as theirs were ‘too Irish’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/u2-reveal-dolly-parton-gave-them-old-song-to-finish-as-theirs-were-too-irish-9351740",
+      "publishedAt": "Sun, 15 Nov 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/00/cs-ab138cd6-146f-42fa-9ae4-91e48a474c8f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-15T12:43:04.158Z"
+    },
+    "9351771": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363030",
+      "rewrittenAt": "2026-11-15T12:42:12.603Z"
+    },
+    "9351775": {
+      "headline": "Dromin-Athlacca travel to Kilmallock for Munster semi-final",
+      "summary": "Dromin-Athlacca play Clarecastle in the AIB Munster club IHC semi-final today.",
+      "story": "Dromin-Athlacca make the short trip to Kilmallock to take on Clarecastle in the AIB Munster club intermediate hurling championship semi-final.",
+      "localAngle": "Limerick club Dromin-Athlacca are competing in the provincial championship semi-final nearby in Kilmallock.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Dromin-Athlacca face stern test in Munster semi-final clash",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/dromin-athlacca-face-stern-test-in-munster-semi-final-clash-9351775",
+      "publishedAt": "Sun, 15 Nov 2026 09:30:53 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/8/41/Bruff-v-Dromin-Athlacca-4-(1).jpeg?width=1200&auto=webp&trim=103%2C0%2C99%2C3",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-15T12:42:37.246Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -16165,6 +16381,54 @@
       "rewrittenAt": "2026-11-14T18:43:53.466Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/whatsapp-phone-stock-unsplash-dimitri-karastelev-ynJaWgrwSlM-unsplash.jpg",
       "imageCheckedAt": "2026-11-14T18:44:15.527Z"
+    },
+    "https://www.limerickpost.ie/?p=363213": {
+      "headline": "Limerick's First Private Cemetery Opens in Castletroy Offering Pre-Purchased Plots",
+      "summary": "Meadowstone Park Cemetery on the Monaleen Road has opened its first phase, providing 1,100 new burial plots with the option for people to pre-purchase graves. The eco-friendly park caters to all faiths and is the first facility of its kind outside Dublin.",
+      "story": "Limerick's first private cemetery park has officially opened on the Monaleen Road in Castletroy, offering locals the ability to pre-purchase graves for themselves and their families. Developed by a group of local residents responding to a 2022 council call for a new cemetery in the area, Meadowstone Park Cemetery is the only facility of its kind in Limerick and the first outside Dublin to allow pre-purchased plots.\n\nSpeaking to the Limerick Post, Dorothea Fahy said the first phase provides approximately 1,100 plots, with a total capacity of 3,300 expected across three phases. Designed by Limerick architect Deirdre Kelly, the grounds feature wildflower meadows, native trees, reflection pools, and flame torches. The facility is open to all faiths and offers traditional burial plots, Columbarium Walls, and Ash Burial Plots.\n\nServices at the park are designed to accommodate elderly and less mobile mourners, with minimal walking distances from parking and gathering spaces. On burial days, families are provided with grave-side seating, a covered marquee for immediate family, and nearby heated fires for the service. \n\nThe cemetery has been open for just over two weeks, with organisers noting strong local demand. \"We find it gives people a lot of peace of mind, they don’t want to trouble their family when the time comes,\" Ms Fahy said. The park's design also places a strong emphasis on sustainability and biodiversity, featuring indigenous hedgerows, grasslands, and pollinator-friendly shrubs throughout the landscape.",
+      "localAngle": "The opening of Meadowstone Park Cemetery introduces Limerick's first private burial ground and the only cemetery in the county where residents can pre-purchase graves.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "New private park cemetery opens in Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/15/new-private-park-cemetery-opens-in-limerick/",
+      "publishedAt": "Sun, 15 Nov 2026 12:30:05 +0000",
+      "rewrittenAt": "2026-11-15T12:42:20.345Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/21616a94-5d23-44f9-ac3d-52740fb8e752.png",
+      "imageCheckedAt": "2026-11-15T12:43:32.672Z"
+    },
+    "https://www.limerickpost.ie/?p=363210": {
+      "headline": "UL Mathematics and Physics Student Wins Prestigious Royal Irish Academy Prize",
+      "summary": "University of Limerick student Frederick Costello has been honoured with the undergraduate Hamilton Prize in Mathematics by the Royal Irish Academy, recognising him as a top final-year student in his field.",
+      "story": "A University of Limerick student has been recognised nationally after being named one of nine winners of the Royal Irish Academy's undergraduate Hamilton Prize in Mathematics. Frederick Costello, who is studying Mathematics and Physics at UL, was honoured during the 2026 Hamilton Lecture held last month.\n\nThe prize is awarded annually to the top-performing undergraduate student in their final year of study, as nominated by their respective universities. In recognition of his academic achievement, Costello received a cash prize and a certificate.\n\nAs part of the award, Costello also took part in an exclusive masterclass with Professor James Maybard, which was hosted by Ibec.\n\nPhotograph by Johnny Bambury.",
+      "localAngle": "University of Limerick student Frederick Costello was honoured as one of Ireland's top mathematics undergraduates by the Royal Irish Academy.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "originalTitle": "Limerick student wins prestigious Royal Irish Academy prize",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/15/limerick-student-wins-prestigious-royal-irish-academy-prize/",
+      "publishedAt": "Sun, 15 Nov 2026 09:30:47 +0000",
+      "rewrittenAt": "2026-11-15T12:42:46.748Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/HamiltonDay26-0265.jpg",
+      "imageCheckedAt": "2026-11-15T12:43:33.317Z"
+    },
+    "https://www.limerickpost.ie/?p=363268": {
+      "headline": "Limerick's Chloe Keogh wins gold at Kickboxing World Championships in Madrid",
+      "summary": "Twenty-year-old Limerick kickboxer Chloe Keogh has won gold in the full contact low kick category at the International Sport Kickboxing Associations Championships in Madrid, improving on her two silver medals from 2024.",
+      "story": "Limerick has a new World Champion following Chloe Keogh's success at the International Sport Kickboxing Associations Championships in Madrid. The 20-year-old secured gold in the full contact low kick category, stepping up after claiming a double silver at the 2024 tournament.\n\n\"Having competed at the World Championships in 2024 and come home with two silver medals, I knew I wanted to come back and push myself even further. To return this year and finally become a World Champion makes it all that bit more special,\" Keogh said.\n\nKeogh, who trains with Hub Martial Arts and Learning Hub Limerick, credited her coach Paul O’Brien for his support throughout her training. She also thanked her teammates, family, friends, and sponsors for backing her journey to the world stage.\n\nHer success contributed to a strong showing for the club, which had 12 representatives competing in Spain. The Limerick contingent returned with a total of nine medals, consisting of one gold, two silvers, and six bronzes.",
+      "localAngle": "Limerick martial artist Chloe Keogh secured a world title representing Hub Martial Arts/Learning Hub Limerick at the international championships in Spain.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 5,
+      "originalTitle": "Chloe Keogh, a World Champion",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/15/chloe-keogh-a-world-champion/",
+      "publishedAt": "Sun, 15 Nov 2026 07:30:41 +0000",
+      "rewrittenAt": "2026-11-15T12:42:56.149Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/CK.jpg",
+      "imageCheckedAt": "2026-11-15T12:43:33.590Z"
     }
   }
 }
