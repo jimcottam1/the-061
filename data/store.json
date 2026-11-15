@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-15T16:14:36.420Z",
-    "totalArticles": 25
+    "lastScrape": "2026-11-15T19:20:03.883Z",
+    "totalArticles": 26
   },
   "articles": {
     "8353171": {
@@ -4536,6 +4536,28 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-15T16:14:22.877Z"
     },
+    "9352167": {
+      "id": "9352167",
+      "title": "Families attend event to remember loved ones who died on Irish roads",
+      "link": "https://www.limerickleader.ie/national/families-attend-event-to-remember-loved-ones-who-died-on-irish-roads-9352167",
+      "description": "The event was organised by the Irish Road Victims Association in partnership with the Road Safety Authority.",
+      "pubDate": "Sun, 15 Nov 2026 16:05:08 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-de3d8368-6912-4b1c-ae24-79d829f09d1b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T19:19:54.430Z"
+    },
+    "9352168": {
+      "id": "9352168",
+      "title": "Woman found dead in outbuilding",
+      "link": "https://www.limerickleader.ie/national/woman-found-dead-in-outbuilding-9352168",
+      "description": "An incident room has been established at Birr Garda Station and a post-mortem examination will be held.",
+      "pubDate": "Sun, 15 Nov 2026 16:07:31 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-a93f0224-379b-44d2-813d-d68cf399a34e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T19:19:54.430Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -7547,6 +7569,16 @@
       "author": "Alex O'Neill",
       "source": "limerickpost",
       "scrapedAt": "2026-11-15T16:14:22.503Z"
+    },
+    "https://www.limerickpost.ie/?p=363215": {
+      "id": "https://www.limerickpost.ie/?p=363215",
+      "title": "Film Column – Buddy",
+      "link": "https://www.limerickpost.ie/2026/11/15/film-column-buddy/",
+      "description": "BUDDY, the directorial debut from Casper Kelly takes us on a nightmarish trip into a hyperbolic 1990s children&#8217;s TV show. This, the slasher genre&#8217;s answer to Barney and Friends throws everything at us from enthusiastic Friday the 13th-style stabbings, chirpy singalongs about friendship and personal hygiene, as well as big cheese-eating grins that will give [&#8230;]\nThe post Film Column &#8211; Buddy appeared first on Limerick Post.",
+      "pubDate": "Sun, 15 Nov 2026 18:30:07 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T19:19:54.287Z"
     }
   },
   "rewritten": {
@@ -12472,6 +12504,38 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-5b8658c8-92d8-40bb-8f47-c30b6ac42d9b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-15T16:15:05.442Z"
     },
+    "9352167": {
+      "headline": "Road Traffic Victims Remembered at Special Gathering",
+      "summary": "Families recently gathered to remember loved ones lost on Irish roads at an event organised by the Irish Road Victims Association and the Road Safety Authority.",
+      "story": "Families attended an event to remember loved ones who died on Irish roads, which was organised by the Irish Road Victims Association in partnership with the Road Safety Authority.",
+      "localAngle": "Road safety and the impacts of road tragedies are matters of direct importance to communities and families across Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Families attend event to remember loved ones who died on Irish roads",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/families-attend-event-to-remember-loved-ones-who-died-on-irish-roads-9352167",
+      "publishedAt": "Sun, 15 Nov 2026 16:05:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-de3d8368-6912-4b1c-ae24-79d829f09d1b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-15T19:20:37.790Z"
+    },
+    "9352168": {
+      "headline": "Garda investigation launched after woman discovered dead in outbuilding",
+      "summary": "An incident room has been set up at Birr Garda Station and a post-mortem examination is scheduled following the discovery of a woman's body in an outbuilding.",
+      "story": "An incident room has been established at Birr Garda Station following the discovery of a woman dead in an outbuilding, with a post-mortem examination yet to take place.",
+      "localAngle": "This breaking news update from the Limerick Leader covers a developing Garda investigation of regional interest.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Woman found dead in outbuilding",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/woman-found-dead-in-outbuilding-9352168",
+      "publishedAt": "Sun, 15 Nov 2026 16:07:31 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-a93f0224-379b-44d2-813d-d68cf399a34e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-15T19:20:28.442Z"
+    },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53149",
@@ -16548,6 +16612,22 @@
       "rewrittenAt": "2026-11-15T16:15:24.876Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/07/Post-Two-scaled-e1751375077281.jpg",
       "imageCheckedAt": "2026-11-15T16:15:25.907Z"
+    },
+    "https://www.limerickpost.ie/?p=363215": {
+      "headline": "Casper Kelly's directorial debut 'Buddy' delivers 1990s children's TV slasher horror",
+      "summary": "Casper Kelly's debut film 'Buddy' combines 1990s children's television aesthetics with slasher horror, starring Topher Grace as part of its unhinged cast.",
+      "story": "Film fans looking for a surreal crossover between children's educational programming and the slasher genre can now look to Casper Kelly's directorial debut, 'Buddy'. The feature-length project takes viewers on a nightmarish trip into a hyperbolic 1990s children's TV show, acting as a dark, violent answer to programmes like Barney and Friends.\n\nThe film centres on Buddy, a furry orange unicorn who outwardly leads a cheerful world of educational content and singalongs about friendship and personal hygiene. Beneath the surface, however, the character unleashes murderous tendencies reminiscent of Michael Myers, paired with Friday the 13th-style stabbings.\n\nWhile the opening 20 minutes lean heavily into the mundane tropes of preschool television—triggering flashbacks to shows like Fireman Sam and Bob the Builder—the film quickly descends into an unhinged frolic. The production also features actor Topher Grace, known for *That '70s Show*, rounding out a cast that blends schmaltzy humour with horror.\n\nUltimately awarded a three-out-of-five star rating, the Sesame Street-meets-Texas Chainsaw Massacre crossbreed offers a puerile and bizarre ride that proves entirely unsuitable for squeamish viewers.",
+      "localAngle": "Local film enthusiasts in Limerick can catch the latest cinematic reviews and cultural releases through the Limerick Post.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Film Column – Buddy",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/15/film-column-buddy/",
+      "publishedAt": "Sun, 15 Nov 2026 18:30:07 +0000",
+      "rewrittenAt": "2026-11-15T19:20:20.790Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Buddy-Still_1-H-2026.jpg-copy.jpg",
+      "imageCheckedAt": "2026-11-15T19:20:38.146Z"
     }
   }
 }
