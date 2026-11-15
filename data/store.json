@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastScrape": "2026-11-15T12:40:36.897Z",
+    "lastScrape": "2026-11-15T16:14:36.420Z",
     "totalArticles": 25
   },
   "articles": {
@@ -3861,6 +3861,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.887Z"
     },
+    "9344428": {
+      "id": "9344428",
+      "title": "Limerick schools to benefit next year from climate action scheme",
+      "link": "https://www.limerickleader.ie/news/eco-live/limerick-schools-to-benefit-next-year-from-climate-action-scheme-9344428",
+      "description": "The scheme is designed to allow schools to carry out small-scale and medium-scale building works that will improve and upgrade existing school buildings",
+      "pubDate": "Sun, 15 Nov 2026 14:00:24 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/12/08/17117313-library.jpg?width=1200&auto=webp&trim=0%2C16%2C0%2C16",
+      "imageCredit": "Pixabay",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T16:14:22.877Z"
+    },
     "9344520": {
       "id": "9344520",
       "title": "‘Thick and fast’: Limerick teenager races ahead in bloodstock industry",
@@ -4489,6 +4501,40 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-11-15T12:40:26.643Z"
+    },
+    "9352098": {
+      "id": "9352098",
+      "title": "Cost of hosting EU summits worth it as Ireland will get lot in return – minister",
+      "link": "https://www.limerickleader.ie/national/cost-of-hosting-eu-summits-worth-it-as-ireland-will-get-lot-in-return-minister-9352098",
+      "description": "Catherine Ardagh defended the spending on the European Political Community meeting and informal EU Council get-together.",
+      "pubDate": "Sun, 15 Nov 2026 14:47:42 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/14/cs-0781f00b-07f3-46c6-817c-746937784b73.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T16:14:22.877Z"
+    },
+    "9352144": {
+      "id": "9352144",
+      "title": "Dromin-Athlacca win thriller to reach Munster club hurling final",
+      "link": "https://www.limerickleader.ie/sport/hurling/dromin-athlacca-win-thriller-to-reach-munster-club-hurling-final-9352144",
+      "description": "In a fiercely contested encounter, the south Limerick side showed composure, quality and resilience when it mattered most",
+      "pubDate": "Sun, 15 Nov 2026 15:46:36 GMT",
+      "author": "Tom Clancy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/15/21/1Y3A9715.jpeg?width=1200&auto=webp&trim=121%2C0%2C0%2C2",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T16:14:22.877Z"
+    },
+    "9352159": {
+      "id": "9352159",
+      "title": "HSE boss has ‘full confidence’ in health official after false Taoiseach claim",
+      "link": "https://www.limerickleader.ie/national/hse-boss-has-full-confidence-in-health-official-after-false-taoiseach-claim-9352159",
+      "description": "Anne O’Connor claimed that comments by HSE South West regional executive officer Andy Phillips were made in a ‘fit of frustration’.",
+      "pubDate": "Sun, 15 Nov 2026 15:55:02 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-5b8658c8-92d8-40bb-8f47-c30b6ac42d9b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-15T16:14:22.877Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -7491,6 +7537,16 @@
       "author": "Mal Keaveney",
       "source": "limerickpost",
       "scrapedAt": "2026-11-15T12:40:26.166Z"
+    },
+    "https://www.limerickpost.ie/?p=363214": {
+      "id": "https://www.limerickpost.ie/?p=363214",
+      "title": "Lawlink – Inheritance with strings attached",
+      "link": "https://www.limerickpost.ie/2026/11/15/lawlink-inheritance-with-strings-attached/",
+      "description": "Q. My aunt passed away recently and apparently left me an inheritance in her Will. The Executor, my cousin, told me that my aunt had substantial debts (mortgages, personal loans etc.). I am worried that accepting any inheritance could somehow make me responsible for those debts. I have been asked for my personal details (my PPS [&#8230;]\nThe post Lawlink &#8211; Inheritance with strings attached appeared first on Limerick Post.",
+      "pubDate": "Sun, 15 Nov 2026 15:30:06 +0000",
+      "author": "Alex O'Neill",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-15T16:14:22.503Z"
     }
   },
   "rewritten": {
@@ -11696,6 +11752,11 @@
       "imageCredit": "3rd Party Image",
       "rewrittenAt": "2026-11-13T17:08:57.683Z"
     },
+    "9344428": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363162",
+      "rewrittenAt": "2026-11-15T16:14:59.830Z"
+    },
     "9344520": {
       "headline": "Kilmallock Teenager Achieves Early Success in Thoroughbred Industry",
       "summary": "A Limerick teenager from Kilmallock is achieving early success in the racing industry by buying, selling, and valuing thoroughbred horses.",
@@ -12384,6 +12445,32 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/8/41/Bruff-v-Dromin-Athlacca-4-(1).jpeg?width=1200&auto=webp&trim=103%2C0%2C99%2C3",
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-15T12:42:37.246Z"
+    },
+    "9352098": {
+      "skipped": true,
+      "duplicateOf": "9346330",
+      "rewrittenAt": "2026-11-15T16:14:59.830Z"
+    },
+    "9352144": {
+      "skipped": true,
+      "duplicateOf": "9351775",
+      "rewrittenAt": "2026-11-15T16:14:59.829Z"
+    },
+    "9352159": {
+      "headline": "HSE Chief Backs Official After False Taoiseach Claim",
+      "summary": "Anne O’Connor states that HSE South West regional executive officer Andy Phillips made false claims about the Taoiseach in a fit of frustration.",
+      "story": "Anne O'Connor has expressed full confidence in HSE South West regional executive officer Andy Phillips after it was claimed he made remarks about the Taoiseach during a fit of frustration.",
+      "localAngle": "The story involves the HSE South West regional executive officer, whose remit covers the Limerick region.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "HSE boss has ‘full confidence’ in health official after false Taoiseach claim",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/hse-boss-has-full-confidence-in-health-official-after-false-taoiseach-claim-9352159",
+      "publishedAt": "Sun, 15 Nov 2026 15:55:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-5b8658c8-92d8-40bb-8f47-c30b6ac42d9b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-15T16:15:05.442Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -16429,6 +16516,38 @@
       "rewrittenAt": "2026-11-15T12:42:56.149Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/CK.jpg",
       "imageCheckedAt": "2026-11-15T12:43:33.590Z"
+    },
+    "https://www.limerickpost.ie/?p=363214": {
+      "headline": "Limerick Beneficiaries Warned Over Estate Debts and Refusing Inheritances",
+      "summary": "Local beneficiaries dealing with wills containing significant debts are advised to request a full estate breakdown before signing documents or considering a disclaimer. Under the Succession Act 1965, executors must handle all estate liabilities before any remaining assets are distributed.",
+      "story": "Residents across Limerick navigating the probate process following the death of a relative are being advised on their rights regarding inherited debt and estate disclaimers. Legal experts have clarified that beneficiaries do not automatically become personally responsible for a deceased person's mortgages or personal loans simply by accepting an inheritance.\n\nHowever, complications can arise if a will includes conditional gifts, such as property tied to specific mortgage repayments. While non-financial conditions like marriage or education requirements can sometimes be set aside by the courts if impossible to fulfil, beneficiaries retain the legal right to disclaim a gift entirely. Under Irish law, a disclaimer must apply to the whole amount rather than a portion, with the refused assets then falling into the estate's residue.\n\nBefore making any binding decisions or providing personal details like PPS numbers and dates of birth to executors, individuals are urged to request a clear outline of the estate's assets and liabilities. If a full disclaimer is being considered, beneficiaries should seek independent legal advice to ensure the documentation is handled correctly.",
+      "localAngle": "This legal guidance affects Limerick residents dealing with family estates and wills administered locally.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Lawlink – Inheritance with strings attached",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/15/lawlink-inheritance-with-strings-attached/",
+      "publishedAt": "Sun, 15 Nov 2026 15:30:06 +0000",
+      "rewrittenAt": "2026-11-15T16:15:15.412Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/Cash-stock-photo-money-immo-wegmann-scaled.jpg",
+      "imageCheckedAt": "2026-11-15T16:15:25.410Z"
+    },
+    "https://www.limerickpost.ie/?p=363262": {
+      "headline": "Hurling legend Ciarán Carey to host Adare charity night for Children’s Grief Centre",
+      "summary": "Limerick hurling great Ciarán Carey is hosting 'An Evening of Restoring Hope' at Fitzgerald’s Woodlands House Hotel in Adare this Thursday, November 19. The ticket-only event will raise funds for the Children’s Grief Centre and features a lineup of sports stars, comedy, and music.",
+      "story": "Limerick hurling icon Ciarán Carey will host 'An Evening of Restoring Hope' at The Treehouse in Fitzgerald’s Woodlands House Hotel, Adare, this coming Thursday, November 19, at 7.30pm. The event is being facilitated by Carey’s counselling service, which provides addiction and mental health support, with all proceeds going directly to the Children’s Grief Centre.\n\nThe Children’s Grief Centre offers its services completely free of charge to children who are grieving the loss of a loved one or experiencing family separation and emotional challenges. Thursday's fundraiser will feature an array of special guests, including All-Ireland Senior Hurling winners Cian Lynch and Kyle Hayes, alongside rugby figures Keith Earls and Olive Foley.\n\nEntertainment on the night will be provided by comedian Aidan Tierney and musical act Madra Rua. Tickets for the event are strictly ticket-only and can be purchased through Eventmaster. Those seeking support from Carey’s addiction and mental health counselling service can contact 086 160 2874.",
+      "localAngle": "The event brings together prominent Limerick hurling, rugby, and entertainment figures in Adare to raise funds for a local support service for children.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "It’s good to talk, with Ciarán Carey",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/14/its-good-to-talk-with-ciaran-carey/",
+      "publishedAt": "Sat, 14 Nov 2026 20:00:53 +0000",
+      "rewrittenAt": "2026-11-15T16:15:24.876Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/07/Post-Two-scaled-e1751375077281.jpg",
+      "imageCheckedAt": "2026-11-15T16:15:25.907Z"
     }
   }
 }
