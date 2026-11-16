@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastScrape": "2026-11-16T19:29:50.398Z",
+    "lastScrape": "2026-11-16T22:50:32.996Z",
     "totalArticles": 36
   },
   "articles": {
@@ -4699,6 +4699,29 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T13:32:57.415Z"
     },
+    "9352979": {
+      "id": "9352979",
+      "title": "‘You will be towed’: Limerick motorists warned as controversial road closure takes effect",
+      "link": "https://www.limerickleader.ie/traffic-updates/you-will-be-towed-limerick-motorists-warned-as-controversial-road-closure-takes-effect-9352979",
+      "description": "Following a vote at a special meeting of the Metropolitan District of Limerick, the closure will accommodate a Georgian Fayre",
+      "pubDate": "Mon, 16 Nov 2026 20:00:50 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/10/42/Crescent-Closure.jpeg?width=1200&auto=webp&trim=566%2C6%2C462%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T22:50:20.679Z"
+    },
+    "9353049": {
+      "id": "9353049",
+      "title": "PICTURES: Killmallock and Ballygunner lock horns in Munster SHC",
+      "link": "https://www.limerickleader.ie/sport/gaa/hurling/pictures-killmallock-and-ballygunner-lock-horns-in-munster-shc-9353049",
+      "description": "It was disappointment for Kilmallock who suffered a 1-20 to 1-11 Munster club SHC defeat to defending All-Ireland champions Ballygunner on Sunday at Walsh Park",
+      "pubDate": "Mon, 16 Nov 2026 20:30:38 GMT",
+      "author": "Photos Via Sportsfile",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/10/20/MixCollage-16-Nov-2026-10-44-AM-3550.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T22:50:20.679Z"
+    },
     "9353185": {
       "id": "9353185",
       "title": "Top soccer Christmas jumpers to buy for the festive season (aff)",
@@ -4755,6 +4778,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/14/cs-f4363d9a-11de-4caf-9954-40b3ebd69290.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T19:29:39.170Z"
+    },
+    "9354198": {
+      "id": "9354198",
+      "title": "PICTURES: Remembering the life of Limerick’s Lee Reeves ",
+      "link": "https://www.limerickleader.ie/sport/other-sport/pictures-remembering-the-life-of-limericks-lee-reeves-9354198",
+      "description": "THERE is a deep sense of shock and sadness across Limerick this Monday evening following news of the passing of much-loved boxer Lee Reeves.",
+      "pubDate": "Mon, 16 Nov 2026 22:44:47 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/16/54/MixCollage-16-Nov-2026-04-24-PM-3051.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T22:50:20.678Z"
     },
     "9354257": {
       "id": "9354257",
@@ -7983,6 +8018,26 @@
       "author": "Adam Leahy",
       "source": "limerickpost",
       "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363421": {
+      "id": "https://www.limerickpost.ie/?p=363421",
+      "title": "LIMERICK IN PHOTOS: Out and about at the Limerick Chamber President’s Dinner and Regional Business Awards",
+      "link": "https://www.limerickpost.ie/2026/11/16/limerick-in-photos-out-and-about-at-the-limerick-chamber-presidents-dinner-and-regional-business-awards/",
+      "description": "OVER 400 business leaders and guests turned out for Limerick Chamber’s annual President’s Dinner and Regional Business Awards last week, where the best of business across the Mid West was celebrated. Read more in this week&#8217;s Limerick Post.\nThe post LIMERICK IN PHOTOS: Out and about at the Limerick Chamber President’s Dinner and Regional Business Awards appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 21:00:43 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T22:50:20.382Z"
+    },
+    "https://www.limerickpost.ie/?p=363286": {
+      "id": "https://www.limerickpost.ie/?p=363286",
+      "title": "Celtics keep top spot in Super League",
+      "link": "https://www.limerickpost.ie/2026/11/16/celtics-keep-top-spot-in-super-league/",
+      "description": "LIMERICK Celtics brought their season record to 6-1 in the Domino’s Men’s Super League following a conclusive 100-83 home victory over  UCC Demons.  Although Sebastian Cole led the Celtics scoring with 21 points, it was Tiras Morton who once again stole the show, grabbing 15 points, 16 rebounds and seven assists in the contest. Elsewhere, [&#8230;]\nThe post Celtics keep top spot in Super League appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 19:30:13 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T22:50:20.382Z"
     }
   },
   "rewritten": {
@@ -13141,6 +13196,27 @@
       "imageCredit": "Dolans",
       "rewrittenAt": "2026-11-16T13:36:18.949Z"
     },
+    "9352979": {
+      "headline": "Limerick Drivers Face Towing Warning Due to Controversial Road Closure",
+      "summary": "Motorists in Limerick have been warned that their vehicles will be towed following a road closure approved for a Georgian Fayre.",
+      "story": "The closure was approved following a vote at a special meeting of the Metropolitan District of Limerick to accommodate a Georgian Fayre. Drivers have now been issued a towing warning as the controversial restriction takes effect.",
+      "localAngle": "The road closure and associated parking restrictions directly affect motorists traveling through the Metropolitan District of Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "‘You will be towed’: Limerick motorists warned as controversial road closure takes effect",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/traffic-updates/you-will-be-towed-limerick-motorists-warned-as-controversial-road-closure-takes-effect-9352979",
+      "publishedAt": "Mon, 16 Nov 2026 20:00:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/10/42/Crescent-Closure.jpeg?width=1200&auto=webp&trim=566%2C6%2C462%2C0",
+      "rewrittenAt": "2026-11-16T22:51:35.673Z"
+    },
+    "9353049": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53825",
+      "rewrittenAt": "2026-11-16T22:50:53.648Z"
+    },
     "9353185": {
       "headline": "Five festive football Christmas jumpers selected by Classic Football Shirts",
       "summary": "Classic Football Shirts has released a selection of five festive soccer Christmas jumpers for the holiday season.",
@@ -13188,6 +13264,23 @@
       "skipped": true,
       "duplicateOf": "9354257",
       "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "9354198": {
+      "headline": "Limerick mourns passing of popular boxer Lee Reeves",
+      "summary": "Limerick is experiencing shock and sadness following the death of well-known boxer Lee Reeves.",
+      "story": "A deep sense of shock and sadness has spread across Limerick this Monday evening following the news of the passing of much-loved boxer Lee Reeves, with photographs published to remember his life.",
+      "localAngle": "The story impacts the local community in Limerick following the death of the popular local boxer.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "PICTURES: Remembering the life of Limerick’s Lee Reeves ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/pictures-remembering-the-life-of-limericks-lee-reeves-9354198",
+      "publishedAt": "Mon, 16 Nov 2026 22:44:47 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/16/54/MixCollage-16-Nov-2026-04-24-PM-3051.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-16T22:50:59.356Z"
     },
     "9354257": {
       "headline": "Michelle O'Neill Calls on DUP to End Northern Ireland 'Punishment'",
@@ -17547,6 +17640,38 @@
       "rewrittenAt": "2026-11-16T19:32:32.301Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/1dd48b6e-f605-ea40-2100-6b11b12725b4.jpg",
       "imageCheckedAt": "2026-11-16T19:33:26.587Z"
+    },
+    "https://www.limerickpost.ie/?p=363421": {
+      "headline": "Over 400 attend Limerick Chamber President's Dinner and Regional Business Awards",
+      "summary": "More than 400 business leaders and guests gathered in Limerick last week for the annual Chamber event celebrating Mid West enterprise. Northern Trust General Manager Catherine Duffy was among the award recipients on the night.",
+      "story": "More than 400 business leaders, guests, and public figures turned out last week for the annual Limerick Chamber President's Dinner and Regional Business Awards, celebrating the best of commerce and enterprise across the Mid West region.\n\nAttendees at the high-profile gathering included Tánaiste Simon Harris, Limerick Chamber President Maria Gleeson, Minister Kieran O'Donnell, and Cllr Peter Doyle. A central feature of the evening was the recognition of regional business achievements, with Northern Trust General Manager Catherine Duffy receiving the Chamber President's Award.\n\nThe annual event serves as a major fixture on the local business calendar, highlighting top-performing companies and key figures driving economic activity and employment throughout Limerick and the wider Mid West.\n\nPhotographer Kieran Ryan-Benson captured the proceedings as business owners, developers, and political representatives mingled at the major regional celebration.",
+      "localAngle": "The event brought together over 400 business leaders from across Limerick and the Mid West to celebrate local enterprise and achievement.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Out and about at the Limerick Chamber President’s Dinner and Regional Business Awards",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/limerick-in-photos-out-and-about-at-the-limerick-chamber-presidents-dinner-and-regional-business-awards/",
+      "publishedAt": "Mon, 16 Nov 2026 21:00:43 +0000",
+      "rewrittenAt": "2026-11-16T22:51:21.157Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/KRB-13-11-2026-Chamber-Awards-1179.jpg",
+      "imageCheckedAt": "2026-11-16T22:51:47.263Z"
+    },
+    "https://www.limerickpost.ie/?p=363286": {
+      "headline": "Limerick Celtics secure top spot with 100-83 victory over UCC Demons",
+      "summary": "Limerick Celtics moved to a 6-1 record in the Domino’s Men’s Super League after a 100-83 home win against UCC Demons. Tiras Morton starred with 15 points, 16 rebounds, and seven assists.",
+      "story": "Limerick Celtics strengthened their position at the summit of the Domino’s Men’s Super League following a conclusive 100-83 home victory over UCC Demons.\n\nSebastian Cole led the scoring for the Celtics with 21 points, but it was Tiras Morton who delivered a standout all-round performance on the night. Morton contributed 15 points, hauled in 16 rebounds, and provided seven assists to help seal the win.\n\nElsewhere in the league action, Limerick Eagles suffered a heavy 118-89 defeat away to Killester at St Munchin’s College. Alex Carlisle continued his strong scoring form for the Munster side with 24 points, while Irish underage international Fryderyk Klimas added 12 points in the losing effort.",
+      "localAngle": "The Limerick Celtics maintained their lead at the top of the Super League table with a strong home win, while Limerick Eagles faced a tough defeat against Killester at St Munchin’s College.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Celtics keep top spot in Super League",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/celtics-keep-top-spot-in-super-league/",
+      "publishedAt": "Mon, 16 Nov 2026 19:30:13 +0000",
+      "rewrittenAt": "2026-11-16T22:51:46.744Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/TM.jpg",
+      "imageCheckedAt": "2026-11-16T22:51:47.857Z"
     }
   }
 }

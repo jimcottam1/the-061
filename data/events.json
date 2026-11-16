@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T19:33:28.264Z",
+  "updatedAt": "2026-11-16T22:51:49.743Z",
   "source": {
     "name": "Limerick.ie",
     "url": "https://www.limerick.ie/discover/whats-on"
@@ -55,6 +55,7 @@
       "free": true
     },
     {
+      "checkedAt": "2026-11-16T19:33:28.264Z",
       "id": "111883",
       "title": "Samhain: Exploring The Thin Time",
       "url": "https://www.limerick.ie/discover/whats-on/art-exhibitions/samhain-exploring-the-thin-time",
@@ -62,8 +63,7 @@
       "end": "2026-11-19T16:00:00.000Z",
       "place": "The People's Museum of Limerick, Limerick City",
       "price": "FREE",
-      "free": true,
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "free": true
     },
     {
       "checkedAt": "2026-11-14T12:08:08.873Z",
@@ -85,16 +85,6 @@
       "price": "Adult €7"
     },
     {
-      "id": "111103",
-      "title": "Blue Heron",
-      "url": "https://www.limerick.ie/discover/whats-on/theatre-film-dance/blue-heron",
-      "start": "2026-11-16T19:30:00.000Z",
-      "end": "2026-11-16T21:30:00.000Z",
-      "place": "University Concert Hall, Limerick City",
-      "price": "€7.50",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
-    },
-    {
       "id": "108420",
       "title": "National Hunt Racing",
       "url": "https://www.limerick.ie/discover/whats-on/sport/national-hunt-racing-11",
@@ -102,7 +92,7 @@
       "end": "2026-11-17T14:30:00.000Z",
       "place": "Limerick Racecourse, Limerick City",
       "price": "Adult €18",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "111105",
@@ -112,7 +102,7 @@
       "end": "2026-11-17T21:30:00.000Z",
       "place": "University Concert Hall, Limerick City",
       "price": "€20",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "109317",
@@ -123,7 +113,7 @@
       "place": "Limerick City Library",
       "price": "FREE",
       "free": true,
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "111811",
@@ -133,7 +123,7 @@
       "end": "2026-11-18T20:30:00.000Z",
       "place": "Limerick City",
       "price": "€37",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "110427",
@@ -143,7 +133,7 @@
       "end": "2026-11-21T22:30:00.000Z",
       "place": "Lime Tree Theatre, Limerick City",
       "price": "Standard €30",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "111252",
@@ -153,7 +143,7 @@
       "end": "2026-11-18T22:00:00.000Z",
       "place": "Fitzgerald's Woodlands House Hotel, Adare",
       "price": "€25",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
       "id": "111607",
@@ -163,9 +153,10 @@
       "end": "2026-11-18T23:00:00.000Z",
       "place": "Kasbah Social Club, Limerick City",
       "price": "€17",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "checkedAt": "2026-11-16T22:51:49.743Z"
     },
     {
+      "checkedAt": "2026-11-16T19:33:28.264Z",
       "id": "107608",
       "title": "Storytime for young Children",
       "url": "https://www.limerick.ie/discover/whats-on/kids-family-fun/storytime-for-young-children-162",
@@ -173,17 +164,16 @@
       "end": "2026-11-19T16:30:00.000Z",
       "place": "Watch House Cross Community Library, Limerick City",
       "price": "Free",
-      "free": true,
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "free": true
     },
     {
+      "checkedAt": "2026-11-16T19:33:28.264Z",
       "id": "106839",
       "title": "Wickham Way",
       "url": "https://www.limerick.ie/discover/whats-on/food-drink/wickham-way-230",
       "start": "2026-11-19T16:00:00.000Z",
       "end": "2026-11-22T18:00:00.000Z",
-      "place": "Wickham Way, Limerick City",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "place": "Wickham Way, Limerick City"
     },
     {
       "checkedAt": "2026-11-16T13:39:04.735Z",
@@ -535,14 +525,14 @@
       "price": "€60"
     },
     {
+      "checkedAt": "2026-11-16T19:33:28.264Z",
       "id": "110444",
       "title": "Castleconnell Autumn Concert Series - Gealán String Quartet",
       "url": "https://www.limerick.ie/discover/whats-on/music/castleconnell-autumn-concert-series-gealan-string-quartet",
       "start": "2026-11-24T20:00:00.000Z",
       "end": "2026-11-24T21:00:00.000Z",
       "place": "Castleconnell",
-      "price": "Standard €15",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "price": "Standard €15"
     },
     {
       "checkedAt": "2026-11-14T12:08:08.873Z",
@@ -799,16 +789,22 @@
       "price": "€65"
     },
     {
+      "checkedAt": "2026-11-16T19:33:28.264Z",
       "id": "110796",
       "title": "John Luke",
       "url": "https://www.limerick.ie/discover/whats-on/music/john-luke",
       "start": "2026-11-27T19:30:00.000Z",
       "end": "2026-11-27T23:30:00.000Z",
       "place": "The Commercial, Limerick City",
-      "price": "€19.70",
-      "checkedAt": "2026-11-16T19:33:28.264Z"
+      "price": "€19.70"
     }
   ],
-  "past": [],
+  "past": [
+    {
+      "id": "111103",
+      "title": "Blue Heron",
+      "checkedAt": "2026-11-16T22:51:49.743Z"
+    }
+  ],
   "failed": []
 }
