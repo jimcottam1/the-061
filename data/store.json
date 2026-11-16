@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-16T13:33:06.929Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-16T19:29:50.398Z",
+    "totalArticles": 36
   },
   "articles": {
     "8353171": {
@@ -4139,6 +4139,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T13:32:57.415Z"
     },
+    "9347305": {
+      "id": "9347305",
+      "title": "Boots unveils £93 Liz Earle skincare gift set for just £38 - that’s 59% off ",
+      "link": "https://www.limerickleader.ie/recommended/boots-liz-earle-star-gift-liz-earle-ultimate-collection-boots-christmas-gifts-2026-liz-earle-skincare-gift-set-boots-deals-9354251",
+      "description": "The Boots-exclusive Liz Earle Ultimate Collection features four full-sized skincare favourites, two cleansing cloths and a luxurious vanity case, with a £55 saving.",
+      "pubDate": "Mon, 16 Nov 2026 15:15:50 GMT",
+      "author": "Julie Bayley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/13/32/Liz-Earle-Radiant-Skincare-Collection.png?width=1200&auto=webp&trim=0%2C130%2C0%2C130",
+      "imageCredit": "Liz Earle",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
+    },
     "9347375": {
       "id": "9347375",
       "title": "Ukraine dominates Dublin summit amid warnings over Europe’s security framework",
@@ -4732,6 +4744,73 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/12/cs-4e62a6dd-ad6b-4723-aa48-38983b9f2c93.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T13:32:57.415Z"
+    },
+    "9353906": {
+      "id": "9353906",
+      "title": "DUP urged not to ‘punish’ people of NI and take part in cross-border meeting",
+      "link": "https://www.limerickleader.ie/national/dup-urged-not-to-punish-people-of-ni-and-take-part-in-cross-border-meeting-9353906",
+      "description": "DUP leader Gavin Robinson said his party understood its legal obligations to attend the North South Ministerial Council in Dublin on Friday.",
+      "pubDate": "Mon, 16 Nov 2026 13:57:04 GMT",
+      "author": "Jonathan McCambridge and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/14/cs-f4363d9a-11de-4caf-9954-40b3ebd69290.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.170Z"
+    },
+    "9354257": {
+      "id": "9354257",
+      "title": "Michelle O’Neill urges DUP to stop ‘punishing’ the people of Northern Ireland",
+      "link": "https://www.limerickleader.ie/national/michelle-oneill-urges-dup-to-stop-punishing-the-people-of-northern-ireland-9354257",
+      "description": "The two largest parties in the powersharing Executive have been involved in a simmering political fallout.",
+      "pubDate": "Mon, 16 Nov 2026 15:09:59 GMT",
+      "author": "Jonathan McCambridge and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/cs-04dd1d1e-ceb9-42ce-9f1f-0ec30d3cc3a3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
+    },
+    "9354280": {
+      "id": "9354280",
+      "title": "Limerick ‘paedophile’ sentenced for sexually abusing teenage boys in Dublin",
+      "link": "https://www.limerickleader.ie/news/crime-courts/limerick-paedophile-sentenced-for-sexually-abusing-teenage-boys-in-dublin-9354280",
+      "description": "Each of the five complainants, who are now in their 60s, described how the abuse affected their education, their mental health, their relationships and the course of their lives",
+      "pubDate": "Mon, 16 Nov 2026 15:30:51 GMT",
+      "author": "Isabel Hayes",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/20/iconic-upload-2022_03_07-pexels-ekaterina-bolovtsova-6077326-1646667773506.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
+    },
+    "9354549": {
+      "id": "9354549",
+      "title": "O’Neill rejects claim Sinn Fein ‘content’ with bombing campaign in 1998",
+      "link": "https://www.limerickleader.ie/national/oneill-rejects-claim-sinn-fein-content-with-bombing-campaign-in-1998-9354549",
+      "description": "The Sinn Fein vice president said her party had always been unequivocal in opposition to the Omagh bomb.",
+      "pubDate": "Mon, 16 Nov 2026 16:25:29 GMT",
+      "author": "Jonathan McCambridge and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/16/cs-bc9d372d-e1df-4236-a918-82bbf3a33cbb.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
+    },
+    "9354897": {
+      "id": "9354897",
+      "title": "Taoiseach ‘concerned’ as hospital staff fear meetings recorded without consent",
+      "link": "https://www.limerickleader.ie/national/taoiseach-concerned-as-hospital-staff-fear-meetings-recorded-without-consent-9354897",
+      "description": "Health Service Executive chief Anne O’Connor said staff in CUH are apprehensive of attending meetings for fear they are being recorded.",
+      "pubDate": "Mon, 16 Nov 2026 17:54:48 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/17/cs-ce96bbdd-63bc-480d-99b9-a0eca7845058.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
+    },
+    "9354906": {
+      "id": "9354906",
+      "title": "Man jailed over €21m cocaine seizure in Limerick withdraws appeal",
+      "link": "https://www.limerickleader.ie/news/crime-courts/man-jailed-over-eur21m-cocaine-seizure-in-limerick-withdraws-appeal-9354906",
+      "description": "Nikola Penchev had admitted his part in a Brazilian drug cartel's operation to smuggle €21 million of cocaine into Ireland",
+      "pubDate": "Mon, 16 Nov 2026 18:15:35 GMT",
+      "author": "Ryan Dunne",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/23/09/iconic-upload-Photo_2_Detector_Dog_Harley_Foynes_cocaine_seizure-1703850439212.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-16T19:29:39.169Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -7844,6 +7923,66 @@
       "author": "Tara Lowth",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-16T13:32:58.009Z"
+    },
+    "https://www.limerickpost.ie/?p=363434": {
+      "id": "https://www.limerickpost.ie/?p=363434",
+      "title": "Limerick businesses want accelerator pedal pressed on rail transport, Chamber awards hear",
+      "link": "https://www.limerickpost.ie/2026/11/16/limerick-business-wants-accelerator-pedal-pressed-on-rail-transport-chamber-awards-hear/",
+      "description": "THE PRESIDENT of Limerick Chamber called on the Government to accelerate investment in regional rail connectivity and unlock the potential of the Shannon Estuary, warning that infrastructure constraints and rising business costs risk undermining future investment in the Mid West. Speaking at the Limerick Chamber President&#8217;s Dinner and Regional Business Awards, attended by Tánaiste and [&#8230;]\nThe post Limerick businesses want accelerator pedal pressed on rail transport, Chamber awards hear appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 18:30:06 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363449": {
+      "id": "https://www.limerickpost.ie/?p=363449",
+      "title": "Sister of Limerick man made to dig his own grave before being shot says he was ‘heartbeat of our home’",
+      "link": "https://www.limerickpost.ie/2026/11/16/sister-of-limerick-man-made-to-dig-his-own-grave-before-being-shot-says-he-was-heartbeat-of-our-home/",
+      "description": "THE SISTER of a man who was made to dig his own grave before being shot twice and killed in Limerick in 2010 has spoken about the day “our lives changed … and our world fell apart”. 25-year-old Lee Slattery’s remains were discovered in a shallow grave at Delmege Estate, Knockalisheen Road, on May 31, [&#8230;]\nThe post Sister of Limerick man made to dig his own grave before being shot says he was &#8216;heartbeat of our home&#8217; appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 18:06:47 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363240": {
+      "id": "https://www.limerickpost.ie/?p=363240",
+      "title": "Limerick TD speaks out on Garda presence in County Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/16/limerick-td-speaks-out-on-garda-presence-in-county-limerick/",
+      "description": "THE lack of a Garda presence in rural County Limerick has been raised by Independent Ireland TD Richard O&#8217;Donoghue with the Justice Minister, Jim O’Callagahan. A concerned Deputy Richard O’Donoghue asked the Minister of &#8220;the commitment he will provide to people in urban and rural areas that there will be a higher Garda presence for [&#8230;]\nThe post Limerick TD speaks out on Garda presence in County Limerick appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 18:00:30 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363444": {
+      "id": "https://www.limerickpost.ie/?p=363444",
+      "title": "Block Rockin’ Beats Live at King John’s Castle for May Bank Holiday Weekend",
+      "link": "https://www.limerickpost.ie/2026/11/16/block-rockin-beats-live-at-king-johns-castle-for-may-bank-holiday-weekend/",
+      "description": "DEC Pierce’s Block Rockin’ Beats will return to King John’s Castle on Sunday May 2, 2027, as part of the May Bank Holiday Weekend. The live dance show, which celebrates the biggest anthems of The Prodigy, Faithless, Underworld, The Chemical Brothers and more, will be performed by a full live band and special guest vocalists [&#8230;]\nThe post Block Rockin’ Beats Live at King John’s Castle for May Bank Holiday Weekend appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 17:47:10 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363239": {
+      "id": "https://www.limerickpost.ie/?p=363239",
+      "title": "Iconic painting arrives in Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/16/iconic-painting-arrives-in-limerick/",
+      "description": "AN ICONIC painting from the National Gallery of Ireland has arrived to The Hunt Museum in Limerick. Roderic O&#8217;Connor&#8217;s, La Jeune Bretonne is on special loan as part of the cultural programme celebrating Ireland’s Presidency of the Council of the European Union. The loan also highlights the longstanding cultural connections between Ireland and Brittany, as [&#8230;]\nThe post Iconic painting arrives in Limerick appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 16:30:29 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
+    },
+    "https://www.limerickpost.ie/?p=363225": {
+      "id": "https://www.limerickpost.ie/?p=363225",
+      "title": "Loving sister’s walk for Eoin",
+      "link": "https://www.limerickpost.ie/2026/11/16/loving-sisters-walk-for-eoin/",
+      "description": "ONE year on from his tragic passing, the loving sister of a late Limerick man embarked on a brave 121-kilometre walk to the place her brother left this world. Eoin Joy was reported missing from his home in Limerick City on November 3, 2025. His sister said their family&#8217;s lives “changed forever” after he died [&#8230;]\nThe post Loving sister’s walk for Eoin appeared first on Limerick Post.",
+      "pubDate": "Mon, 16 Nov 2026 15:00:07 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-16T19:29:38.844Z"
     }
   },
   "rewritten": {
@@ -12355,6 +12494,23 @@
       "imageCredit": "Conor McCabe Photography",
       "rewrittenAt": "2026-11-16T13:37:04.273Z"
     },
+    "9347305": {
+      "headline": "Boots offers Liz Earle skincare gift set at over half price",
+      "summary": "Boots has launched the Liz Earle Ultimate Collection skincare gift set at a 59% discount.",
+      "story": "The exclusive collection includes four full-sized skincare favourites, two cleansing cloths, and a vanity case, resulting in a £55 saving.",
+      "localAngle": "The promotional offer is available to shoppers in Limerick through the retailer.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Boots unveils £93 Liz Earle skincare gift set for just £38 - that’s 59% off ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/boots-liz-earle-star-gift-liz-earle-ultimate-collection-boots-christmas-gifts-2026-liz-earle-skincare-gift-set-boots-deals-9354251",
+      "publishedAt": "Mon, 16 Nov 2026 15:15:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/12/13/32/Liz-Earle-Radiant-Skincare-Collection.png?width=1200&auto=webp&trim=0%2C130%2C0%2C130",
+      "imageCredit": "Liz Earle",
+      "rewrittenAt": "2026-11-16T19:33:03.871Z"
+    },
     "9347375": {
       "skipped": true,
       "duplicateOf": "9346330",
@@ -12871,6 +13027,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/cs-5b8658c8-92d8-40bb-8f47-c30b6ac42d9b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-15T16:15:05.442Z"
     },
+    "9352160": {
+      "headline": "Testing the Andersen Quartz EV Charger: Style Meets Smart Features",
+      "summary": "A recent review tests whether the Andersen Quartz EV charger lives up to its stylish design and smart features.",
+      "story": "The review looks at the Andersen Quartz EV charger, which offers nearly 200 colour and finish combinations for home charging. It also examines how well its smart features and installation service perform alongside its looks.",
+      "localAngle": "Limerick readers interested in electric vehicle accessories can read the full review via the Limerick Leader.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Andersen Quartz review: We test an EV charger worth putting on show ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/andersen-quartz-charging-electric-review-ev-9352191",
+      "publishedAt": "Sun, 15 Nov 2026 19:32:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/15/16/59/Andersen-charging-socket-flap-open.png?width=1200&auto=webp&trim=0%2C6%2C422%2C0",
+      "imageCredit": "Andersen EV",
+      "rewrittenAt": "2026-11-16T19:33:25.146Z"
+    },
     "9352167": {
       "headline": "Road Traffic Victims Remembered at Special Gathering",
       "summary": "Families recently gathered to remember loved ones lost on Irish roads at an event organised by the Irish Road Victims Association and the Road Safety Authority.",
@@ -13010,6 +13183,70 @@
       "skipped": true,
       "duplicateOf": "9353438",
       "rewrittenAt": "2026-11-16T13:34:51.215Z"
+    },
+    "9353906": {
+      "skipped": true,
+      "duplicateOf": "9354257",
+      "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "9354257": {
+      "headline": "Michelle O'Neill Calls on DUP to End Northern Ireland 'Punishment'",
+      "summary": "Michelle O'Neill has called on the DUP to stop punishing the people of Northern Ireland amid a political fallout.",
+      "story": "The two largest parties in the powersharing Executive have been involved in a simmering political fallout, prompting Michelle O'Neill to urge the DUP to stop punishing the public.",
+      "localAngle": "While this is a regional political development in Northern Ireland, it is of general interest to readers across the island following national affairs.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Michelle O’Neill urges DUP to stop ‘punishing’ the people of Northern Ireland",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/michelle-oneill-urges-dup-to-stop-punishing-the-people-of-northern-ireland-9354257",
+      "publishedAt": "Mon, 16 Nov 2026 15:09:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/cs-04dd1d1e-ceb9-42ce-9f1f-0ec30d3cc3a3.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-16T19:33:19.884Z"
+    },
+    "9354280": {
+      "headline": "Limerick Man Sentenced for Dublin Sexual Abuse of Teenage Boys",
+      "summary": "A Limerick man has been sentenced in a Dublin case involving the sexual abuse of five teenage boys decades ago.",
+      "story": "Five complainants, now in their 60s, described to the court how the abuse impacted their education, mental health, relationships, and the course of their lives.",
+      "localAngle": "The man sentenced for the offences is from Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Limerick ‘paedophile’ sentenced for sexually abusing teenage boys in Dublin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/limerick-paedophile-sentenced-for-sexually-abusing-teenage-boys-in-dublin-9354280",
+      "publishedAt": "Mon, 16 Nov 2026 15:30:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/20/iconic-upload-2022_03_07-pexels-ekaterina-bolovtsova-6077326-1646667773506.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-16T19:32:49.984Z"
+    },
+    "9354549": {
+      "skipped": true,
+      "duplicateOf": "9350127",
+      "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "9354897": {
+      "skipped": true,
+      "duplicateOf": "9352159",
+      "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "9354906": {
+      "headline": "Nikola Penchev drops challenge against prison sentence for Limerick cocaine haul",
+      "summary": "Nikola Penchev has withdrawn his appeal after being jailed for his role in a €21 million cocaine smuggling operation linked to a Brazilian cartel in Limerick.",
+      "story": "Nikola Penchev previously admitted his involvement in the Brazilian drug cartel's operation to smuggle €21 million of cocaine into Ireland before withdrawing his appeal against being jailed.",
+      "localAngle": "The case involves a massive €21 million cocaine seizure connected to an international cartel operating in Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Man jailed over €21m cocaine seizure in Limerick withdraws appeal",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/man-jailed-over-eur21m-cocaine-seizure-in-limerick-withdraws-appeal-9354906",
+      "publishedAt": "Mon, 16 Nov 2026 18:15:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/23/09/iconic-upload-Photo_2_Detector_Dog_Harley_Foynes_cocaine_seizure-1703850439212.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-16T19:31:46.594Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -17236,6 +17473,80 @@
       "rewrittenAt": "2026-11-16T13:38:32.364Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Captain.jpg",
       "imageCheckedAt": "2026-11-16T13:39:02.911Z"
+    },
+    "https://www.limerickpost.ie/?p=363444": {
+      "skipped": true,
+      "duplicateOf": "9352891",
+      "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "https://www.limerickpost.ie/?p=363225": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363449",
+      "rewrittenAt": "2026-11-16T19:31:07.272Z"
+    },
+    "https://www.limerickpost.ie/?p=363434": {
+      "headline": "Limerick Chamber Urges Faster Rail Investment and Shannon Estuary Development",
+      "summary": "At the annual Regional Business Awards, Limerick Chamber President Maria Gleeson called on Tánaiste Simon Harris to accelerate regional rail connectivity and develop the Shannon Estuary. The gala event also celebrated local business achievements, with Croom Medical taking home Overall Business of the Year.",
+      "story": "Limerick business leaders have pressed the Government to accelerate regional rail connectivity and unlock the potential of the Shannon Estuary, warning that infrastructure bottlenecks and rising operational costs threaten future investment in the Mid West. Speaking at the Limerick Chamber President’s Dinner and Regional Business Awards, Chamber President Maria Gleeson told Tánaiste and Minister for Finance Simon Harris that local companies are ready to drive job creation and innovation given the right conditions.\n\nMs Gleeson urged the Government to fund All-Island Strategic Rail Review projects for the Limerick-Shannon area, building upon the recent reinstatement of the Limerick-Foynes freight railway and planned temporary passenger services for the 2027 Ryder Cup. She also called for a dedicated delivery programme to align offshore renewable energy development in the Shannon Estuary with port infrastructure, industrial policy, and grid investment.\n\nTánaiste Simon Harris acknowledged the region's strong enterprise sector, skilled workforce, and solid track record in drawing investment from both indigenous and multinational firms. \n\nThe evening also celebrated regional business success, with Catherine Duffy receiving the President’s Award for her leadership at Northern Trust and her contributions to the Mid West community. Croom Medical claimed the Overall Business of the Year award, alongside the Best SME prize. Other winners included Fíor Jewellery for Best Emerging Business, BD RCI for Best Employer, Narrative 4 for Best Not-for-Profit Impact, CD Environmental for Sustainability, WrxFlo for Innovation, University Concert Hall Limerick for Customer Experience, and Conack Construction for community impact.",
+      "localAngle": "The story centers on infrastructure demands and business achievements directly impacting the Limerick and Mid West regional economy.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Limerick businesses want accelerator pedal pressed on rail transport, Chamber awards hear",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/limerick-business-wants-accelerator-pedal-pressed-on-rail-transport-chamber-awards-hear/",
+      "publishedAt": "Mon, 16 Nov 2026 18:30:06 +0000",
+      "rewrittenAt": "2026-11-16T19:31:32.825Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/KRB-13-11-2026-Chamber-Awards-1099.jpg",
+      "imageCheckedAt": "2026-11-16T19:33:25.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363449": {
+      "headline": "Kurt Ryan Pleads Guilty to 2010 Murder of Limerick Man Lee Slattery",
+      "summary": "Kurt Ryan has pleaded guilty to the 2010 murder of 25-year-old Lee Slattery, who was forced to dig his own grave before being shot twice in Limerick. The case was brought back to court after being reopened by a cold case unit in 2021.",
+      "story": "The sister of Lee Slattery told the Central Criminal Court in Cork that her brother was the \"heartbeat of our home\" during a harrowing victim impact statement. Twenty-five-year-old Mr Slattery's remains were discovered in a shallow grave at Delmege Estate, Knockalisheen Road, on May 31, 2010, after being reported missing days earlier.\n\nThirty-two-year-old Kurt Ryan, of Moylish Crescent, Limerick—who was 17 at the time of the incident—pleaded guilty to murder in association with a criminal organisation and to possession of a firearm with intent to endanger life. Prosecution counsel stated that Mr Slattery was coerced and lured to an abandoned property during the early hours of May 28, 2010, after refusing to participate in a local gang feud.\n\nWitness Charlene Costello told Gardaí that Mr Ryan returned home on the night of the killing and admitted to the shooting. Defence counsel challenged the credibility of the witness due to past addiction and health conditions, though the guilty plea brought a new development to the cold case, which was reopened in 2021.",
+      "localAngle": "The case involves a tragic crime that occurred within Limerick communities, affecting a local family and involving city-based criminal organisations.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Sister of Limerick man made to dig his own grave before being shot says he was ‘heartbeat of our home’",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/sister-of-limerick-man-made-to-dig-his-own-grave-before-being-shot-says-he-was-heartbeat-of-our-home/",
+      "publishedAt": "Mon, 16 Nov 2026 18:06:47 +0000",
+      "rewrittenAt": "2026-11-16T19:32:08.956Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/LEE-Slattery-Murder.jpg",
+      "imageCheckedAt": "2026-11-16T19:33:26.082Z"
+    },
+    "https://www.limerickpost.ie/?p=363240": {
+      "headline": "O'Donoghue Presses Justice Minister Over Rural Garda Shortages in Limerick",
+      "summary": "Independent Ireland TD Richard O'Donoghue has raised concerns with Justice Minister Jim O'Callaghan over the lack of Garda presence in rural County Limerick. In response, Minister O'Callaghan stated that recruitment is ongoing and national Garda numbers are expected to reach 15,000.",
+      "story": "The absence of a visible Garda presence across rural County Limerick has been brought directly to the Dáil. Independent Ireland TD Richard O'Donoghue challenged Justice Minister Jim O'Callaghan on the issue, seeking guarantees regarding security for local residents.\n\nDuring the exchanges, Deputy O'Donoghue pressed the Minister for a firm commitment on the level of policing that urban and rural communities across the county can expect going forward to ensure public safety.\n\nIn response, Minister O'Callaghan pointed to ongoing recruitment efforts as a driver for increased deployments. He noted that additional Gardaí will be allocated to both frontline duties and specialist units, which include dedicated Community Policing teams.\n\n\"I expect that Garda numbers will reach 15,000 in the near future, and numbers will continue to grow beyond 15,000 over the coming years,\" Minister O'Callaghan stated, adding that An Garda Síochána remains fully committed to tackling all forms of crime.",
+      "localAngle": "The security and policing levels across urban and rural areas of County Limerick were the central focus of the Dáil exchange.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Limerick TD speaks out on Garda presence in County Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/limerick-td-speaks-out-on-garda-presence-in-county-limerick/",
+      "publishedAt": "Mon, 16 Nov 2026 18:00:30 +0000",
+      "rewrittenAt": "2026-11-16T19:32:24.771Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Meals-on-wheels.jpg",
+      "imageCheckedAt": "2026-11-16T19:33:26.382Z"
+    },
+    "https://www.limerickpost.ie/?p=363239": {
+      "headline": "National Gallery masterpiece La Jeune Bretonne arrives at The Hunt Museum",
+      "summary": "Roderic O'Connor's iconic painting La Jeune Bretonne is now on special display at The Hunt Museum in Limerick. The artwork will remain on exhibition until January 2027.",
+      "story": "An iconic painting from the National Gallery of Ireland has officially arrived at The Hunt Museum in Limerick. Roderic O’Connor’s *La Jeune Bretonne* is on special loan to the city as part of the cultural programme celebrating Ireland’s Presidency of the Council of the European Union.\n\nThe high-profile loan highlights longstanding cultural connections between Ireland and Brittany, as well as Limerick’s historic friendship with its twin city of Quimper. Alongside the headline piece, visitors to the museum will also be able to view other works by the artist, including *Breton Woman* and *Red Firs*.\n\nThe special exhibition will remain on display for local art enthusiasts and visitors at The Hunt Museum until January 2027.",
+      "localAngle": "The exhibition reinforces Limerick's historic friendship with its twin city of Quimper through a major cultural loan from the National Gallery of Ireland.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Iconic painting arrives in Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/16/iconic-painting-arrives-in-limerick/",
+      "publishedAt": "Mon, 16 Nov 2026 16:30:29 +0000",
+      "rewrittenAt": "2026-11-16T19:32:32.301Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/1dd48b6e-f605-ea40-2100-6b11b12725b4.jpg",
+      "imageCheckedAt": "2026-11-16T19:33:26.587Z"
     }
   }
 }
