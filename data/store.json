@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-17T18:24:50.189Z",
-    "totalArticles": 39
+    "lastScrape": "2026-11-17T21:41:04.527Z",
+    "totalArticles": 41
   },
   "articles": {
     "8353171": {
@@ -4815,6 +4815,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T13:32:57.415Z"
     },
+    "9353808": {
+      "id": "9353808",
+      "title": "PICTURES: Fairview Rangers take on Athlunkard Villa in FAI Junior Cup",
+      "link": "https://www.limerickleader.ie/sport/soccer/junior-soccer/pictures-fairview-rangers-take-on-athlunkard-villa-in-fai-junior-cup-9353808",
+      "description": "Fairview Rangers A booked their place in the next round with a 2–0 victory over Athlunkard Villa at Fairgreen last Thursday evening.",
+      "pubDate": "Tue, 17 Nov 2026 20:30:00 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/26/MixCollage-16-Nov-2026-01-08-PM-3183-7c934678.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T21:40:54.288Z"
+    },
     "9353906": {
       "id": "9353906",
       "title": "DUP urged not to ‘punish’ people of NI and take part in cross-border meeting",
@@ -5087,6 +5099,40 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/17/35/Untitled-design-(100).jpeg?width=1200&auto=webp&trim=0%2C2%2C162%2C0",
       "source": "limerickleader",
       "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
+    "9357546": {
+      "id": "9357546",
+      "title": "Discovery of suspicious device sparks alert at Limerick business park",
+      "link": "https://www.limerickleader.ie/news/discovery-of-suspicious-device-sparks-alert-at-limerick-business-park-9357546",
+      "description": "Gardaí have confirmed a safety cordon was established at Raheen Business Park and that a Defence Forces' Explosive Ordnance Disposal Team attended the scene",
+      "pubDate": "Tue, 17 Nov 2026 20:15:19 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/19/cs-21ed0362-dd93-45bf-84f9-a141f5f3580e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "FILE PHOTO",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T21:40:54.288Z"
+    },
+    "9357603": {
+      "id": "9357603",
+      "title": "Two arrested after teenager dies in stabbing attack on Cork street",
+      "link": "https://www.limerickleader.ie/national/two-arrested-after-teenager-dies-in-stabbing-attack-on-cork-street-9357603",
+      "description": "Gardaí in Cork have commenced a murder investigation into the incident and two males, an adult teenager and a juvenile have been arrested.",
+      "pubDate": "Tue, 17 Nov 2026 19:39:51 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/19/cs-21ed0362-dd93-45bf-84f9-a141f5f3580e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T21:40:54.288Z"
+    },
+    "9357650": {
+      "id": "9357650",
+      "title": "Irish man charged by US with destroying 60m dollar military plane at Shannon",
+      "link": "https://www.limerickleader.ie/national/irish-man-charged-by-us-with-destroying-60m-dollar-military-plane-at-shannon-9357650",
+      "description": "The 48-year-old Irish national is claimed to have carried out the attack after months of planning and preparation.",
+      "pubDate": "Tue, 17 Nov 2026 21:01:12 GMT",
+      "author": "Nick Lester and  Press Association US Editor in Washington DC",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/21/cs-135adcbf-6e40-49f9-a092-1515dc4ccd5a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T21:40:54.288Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -8479,6 +8525,46 @@
       "author": "Rowan Kelly",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-17T18:24:38.687Z"
+    },
+    "https://www.limerickpost.ie/?p=363422": {
+      "id": "https://www.limerickpost.ie/?p=363422",
+      "title": "LIMERICK IN PHOTOS: Garryowen leadership lunch",
+      "link": "https://www.limerickpost.ie/2026/11/17/limerick-in-photos-garryowen-leadership-lunch/",
+      "description": "THE 2026 Garryowen Leadership and Business lunch was hosted at Gardens International last week. Hosted by rugby legend Keith Wood, the event saw special guest Sam Torrance – eight-time Ryder Cup player and winning captain – in conversation with Shane O’Donoghue.\nThe post LIMERICK IN PHOTOS: Garryowen leadership lunch appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 21:00:44 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T21:40:53.885Z"
+    },
+    "https://www.limerickpost.ie/?p=363560": {
+      "id": "https://www.limerickpost.ie/?p=363560",
+      "title": "Murder accused said text messages sent about victim Scarlett Faulkner were ‘just ranting’",
+      "link": "https://www.limerickpost.ie/2026/11/17/murder-accused-said-text-messages-sent-about-victim-scarlett-faulkner-were-just-ranting/",
+      "description": "A 41-YEAR old woman accused of murdering Limerick woman, Scarlett Faulkner, says text messages saying she would cause serious harm to her was &#8220;just ranting&#8221;, a jury heard at the Central Criminal Court today (Tuesday, November 17). The messages &#8211; sent to her sister &#8211; which included the accused saying she &#8220;would draw a map [&#8230;]\nThe post Murder accused said text messages sent about victim Scarlett Faulkner were &#8216;just ranting&#8217; appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 19:54:27 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T21:40:53.885Z"
+    },
+    "https://www.limerickpost.ie/?p=363437": {
+      "id": "https://www.limerickpost.ie/?p=363437",
+      "title": "LIMERICK IN PHOTOS: What a Leger final in store at Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/17/limerick-in-photos-what-a-leger-final-in-store-at-limerick/",
+      "description": "A FASCINATING final of the 94th 1XBet Irish St. Leger will be run this Saturday night at Limerick, with an attractive support card from 7.30pm onwards.   Local interest this time around is with Drombeg King, trained in Athlacca by last year’s winning handler, Evan McAuliffe. The stellar line-up also includes Solo and Go (Kingdom [&#8230;]\nThe post LIMERICK IN PHOTOS: What a Leger final in store at Limerick appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 19:30:53 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T21:40:53.885Z"
+    },
+    "https://limerickvoice.com/?p=53858": {
+      "id": "https://limerickvoice.com/?p=53858",
+      "title": "Limerick boxer Lee Reeves to receive military honours at funeral",
+      "link": "https://limerickvoice.com/news/limerick-boxer-lee-reeves-to-receive-military-honours-at-funeral/",
+      "description": "Lee Reeves to receive military honours at his funeral this Friday. THE 31-YEAR-OLD professional boxer and Defence Forces member will be laid to rest on Friday following Requiem Mass at Our Lady Queen of Peace Church. Limerick boxer Lee Reeves will receive military honours at his funeral on Friday, November 20, following his death at [&#8230;]\nThe post Limerick boxer Lee Reeves to receive military honours at funeral appeared first on .",
+      "pubDate": "Tue, 17 Nov 2026 20:15:23 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-17T21:40:54.751Z"
     }
   },
   "rewritten": {
@@ -13768,6 +13854,23 @@
       "duplicateOf": "9353438",
       "rewrittenAt": "2026-11-16T13:34:51.215Z"
     },
+    "9353808": {
+      "headline": "Fairview Rangers secure 2-0 win against Athlunkard Villa in FAI Junior Cup",
+      "summary": "Fairview Rangers A defeated Athlunkard Villa 2-0 at Fairgreen last Thursday evening to advance in the FAI Junior Cup.",
+      "story": "Fairview Rangers A booked their place in the next round of the FAI Junior Cup following a 2–0 victory over Athlunkard Villa at Fairgreen last Thursday evening.",
+      "localAngle": "The match took place locally at Fairgreen between Limerick-based sides Fairview Rangers A and Athlunkard Villa.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Fairview Rangers take on Athlunkard Villa in FAI Junior Cup",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/junior-soccer/pictures-fairview-rangers-take-on-athlunkard-villa-in-fai-junior-cup-9353808",
+      "publishedAt": "Tue, 17 Nov 2026 20:30:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/26/MixCollage-16-Nov-2026-01-08-PM-3183-7c934678.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-17T21:45:34.111Z"
+    },
     "9353906": {
       "skipped": true,
       "duplicateOf": "9354257",
@@ -14080,6 +14183,55 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363403",
       "rewrittenAt": "2026-11-17T18:25:54.045Z"
+    },
+    "9357546": {
+      "headline": "Army Bomb Squad Deployed After Suspicious Object Found in Raheen",
+      "summary": "Gardaí established a cordon at Raheen Business Park following the discovery of a suspicious device.",
+      "story": "Gardaí confirmed that a safety cordon was put in place at Raheen Business Park after a suspicious device was discovered, prompting an appearance by the Defence Forces' Explosive Ordnance Disposal Team at the scene.",
+      "localAngle": "The security alert took place at the Raheen Business Park in Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Discovery of suspicious device sparks alert at Limerick business park",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/discovery-of-suspicious-device-sparks-alert-at-limerick-business-park-9357546",
+      "publishedAt": "Tue, 17 Nov 2026 20:15:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/19/cs-21ed0362-dd93-45bf-84f9-a141f5f3580e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "FILE PHOTO",
+      "rewrittenAt": "2026-11-17T21:45:41.544Z"
+    },
+    "9357603": {
+      "headline": "Cork murder investigation launched following fatal teenage stabbing",
+      "summary": "Gardaí have launched a murder inquiry after a teenager died in a Cork street stabbing attack.",
+      "story": "Two males, including an adult teenager and a juvenile, have been arrested by Gardaí following the fatal incident.",
+      "localAngle": "While the incident occurred in Cork, major criminal investigations of this nature are of significant interest to readers across Munster, including Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Two arrested after teenager dies in stabbing attack on Cork street",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/two-arrested-after-teenager-dies-in-stabbing-attack-on-cork-street-9357603",
+      "publishedAt": "Tue, 17 Nov 2026 19:39:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/19/cs-21ed0362-dd93-45bf-84f9-a141f5f3580e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-17T21:45:50.713Z"
+    },
+    "9357650": {
+      "headline": "Irish Citizen Charged in US Over Shannon Military Aircraft Destruction",
+      "summary": "A 48-year-old Irish national has been charged by the US with destroying a $60 million military plane at Shannon following months of preparation.",
+      "story": "The 48-year-old Irish national is alleged to have carried out the attack on the $60 million military plane after months of planning and preparation.",
+      "localAngle": "The incident allegedly took place at Shannon, which is located in the region.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Irish man charged by US with destroying 60m dollar military plane at Shannon",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-man-charged-by-us-with-destroying-60m-dollar-military-plane-at-shannon-9357650",
+      "publishedAt": "Tue, 17 Nov 2026 21:01:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/21/cs-135adcbf-6e40-49f9-a092-1515dc4ccd5a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-17T21:45:14.682Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -18655,6 +18807,48 @@
       "rewrittenAt": "2026-11-17T18:27:28.326Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/12/KRB-01-12-2024-LCCC-Christmas-Parade-1014-scaled.jpg",
       "imageCheckedAt": "2026-11-17T18:27:56.424Z"
+    },
+    "https://limerickvoice.com/?p=53858": {
+      "skipped": true,
+      "duplicateOf": "9354198",
+      "rewrittenAt": "2026-11-17T21:45:08.834Z"
+    },
+    "https://www.limerickpost.ie/?p=363560": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363403",
+      "rewrittenAt": "2026-11-17T21:45:08.834Z"
+    },
+    "https://www.limerickpost.ie/?p=363422": {
+      "headline": "Gardens International hosts annual Garryowen Business and Leadership Lunch",
+      "summary": "Rugby legend Keith Wood hosted the 2026 Garryowen Leadership and Business lunch at Gardens International last week, featuring special guest Sam Torrance.",
+      "story": "Gardens International provided the venue last week for the 2026 Garryowen Leadership and Business lunch, drawing local business figures and sports fans alike.\n\nIrish rugby legend Keith Wood served as host for the event, which featured eight-time Ryder Cup player and winning captain Sam Torrance as the special guest. Torrance took part in an on-stage conversation led by Shane O’Donoghue.\n\nAttendees at the city centre lunch included John Mark Griffin, Dave Sherry, Michael Sherry, Liam Glynn, and Audrey Fehily, with photography on the day captured by Kieran Ryan-Benson.",
+      "localAngle": "The high-profile business and leadership lunch was held locally at Gardens International in Limerick city.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Garryowen leadership lunch",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/limerick-in-photos-garryowen-leadership-lunch/",
+      "publishedAt": "Tue, 17 Nov 2026 21:00:44 +0000",
+      "rewrittenAt": "2026-11-17T21:45:24.670Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/KRB-13-11-2026-Garryowen-Lunch-1002.jpg",
+      "imageCheckedAt": "2026-11-17T21:46:02.169Z"
+    },
+    "https://www.limerickpost.ie/?p=363437": {
+      "headline": "Athlacca handler Evan McAuliffe chases back-to-back titles in St Leger final",
+      "summary": "Local trainer Evan McAuliffe is bidding to retain the Irish St. Leger crown this Saturday night as Drombeg King lines up for the 94th final at Limerick Greyhound Stadium.",
+      "story": "Local hopes rest firmly on the shoulders of Athlacca trainer Evan McAuliffe this weekend as he prepares Drombeg King for the 94th 1XBet Irish St. Leger final at Limerick Greyhound Stadium this Saturday night.\n\nMcAuliffe is bidding to retain the prestigious title he won last year with Drombeg Banner. Securing back-to-back victories will be no small task, however, as Drombeg King faces a stellar line-up on the night.\n\nThe final brings together some of the sport's biggest names, including Kingdom Derby winner Solo and Go, Irish Derby champion Bockos Gold, and English Derby winner Lennies Eddie. Also joining the field are Irish Puppy Derby champion Getup The Boy and Ballymac Deniro, the English Derby runner-up and holder of the 550 track record at Limerick.\n\nRacing gets underway with an attractive support card from 7.30pm ahead of the headline final.",
+      "localAngle": "Athlacca trainer Evan McAuliffe is aiming to keep the Irish St. Leger title in Limerick by defending his crown at the local greyhound stadium.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: What a Leger final in store at Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/limerick-in-photos-what-a-leger-final-in-store-at-limerick/",
+      "publishedAt": "Tue, 17 Nov 2026 19:30:53 +0000",
+      "rewrittenAt": "2026-11-17T21:46:01.667Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/1XBet-Irish-St.-Leger-1st-Semi-Final-winner-Ballymac-Deniro-1-1.jpg",
+      "imageCheckedAt": "2026-11-17T21:46:02.947Z"
     }
   }
 }
