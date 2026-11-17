@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-17T14:18:23.892Z",
-    "totalArticles": 40
+    "lastScrape": "2026-11-17T18:24:50.189Z",
+    "totalArticles": 39
   },
   "articles": {
     "8353171": {
@@ -5031,6 +5031,63 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-17T14:18:12.634Z"
     },
+    "9356764": {
+      "id": "9356764",
+      "title": "Family of Limerick nurse says sentence was ‘an insult to Áine’s memory’",
+      "link": "https://www.limerickleader.ie/news/crime-courts/family-of-limerick-nurse-says-sentence-was-an-insult-to-aines-memory-9356764",
+      "description": "The family of nurse Áine O’Reilly spoke outside Limerick Circuit Court, where Keelan O’Connell was sentenced for dangerous driving causing death, among other charges",
+      "pubDate": "Tue, 17 Nov 2026 14:49:26 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/14/04/Aine-OReilly-2.jpeg?width=1200&auto=webp&trim=0%2C3%2C202%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
+    "9356854": {
+      "id": "9356854",
+      "title": "Where the Limerick hurlers headed on their post-season holiday",
+      "link": "https://www.limerickleader.ie/sport/gaa/where-the-limerick-hurlers-headed-on-their-post-season-holiday-9356854",
+      "description": "The travelling party includes members of the playing panel, backroom team and their partners, with the group taking in two destinations during their post-season break",
+      "pubDate": "Tue, 17 Nov 2026 16:00:20 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/14/23/3517141.jpeg?width=1200&auto=webp&trim=0%2C274%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
+    "9356869": {
+      "id": "9356869",
+      "title": "Tánaiste: Government must be willing to consider greyhound funding report",
+      "link": "https://www.limerickleader.ie/national/tanaiste-government-must-be-willing-to-consider-greyhound-funding-report-9356869",
+      "description": "A review has suggested there should be an updated cost-benefit analysis for TDs deciding whether to support 20 million euro funding for the industry.",
+      "pubDate": "Tue, 17 Nov 2026 14:55:24 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/15/cs-9b9ee91a-2398-4845-8eb8-03197103178e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
+    "9356989": {
+      "id": "9356989",
+      "title": "Taoiseach and Sinn Féin accuse each other of endangering Irish troops in Lebanon",
+      "link": "https://www.limerickleader.ie/national/taoiseach-and-sinn-fein-accuse-each-other-of-endangering-irish-troops-in-lebanon-9356989",
+      "description": "A Bill to end the requirement for UN approval of Irish troop deployment was passed on October 21, with 79 TDs voting in favour versus 71 against.",
+      "pubDate": "Tue, 17 Nov 2026 15:31:59 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/15/cs-70241715-59f0-49ee-941d-becefba2713d.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
+    "9357414": {
+      "id": "9357414",
+      "title": "Murder accused denies she ‘drove’ teen to assault Limerick’s Scarlett Faulkner",
+      "link": "https://www.limerickleader.ie/news/crime-courts/murder-accused-denies-she-drove-teen-to-assault-limericks-scarlett-faulkner-9357414",
+      "description": "Woman and teenager have pleaded not guilty to murdering the 29-year-old native of Longpavement in Limerick city",
+      "pubDate": "Tue, 17 Nov 2026 17:10:34 GMT",
+      "author": "Eoin Reynolds",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/17/35/Untitled-design-(100).jpeg?width=1200&auto=webp&trim=0%2C2%2C162%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-17T18:24:37.934Z"
+    },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
       "title": "Zero gravity machine hitting heights in biodiversity",
@@ -8352,6 +8409,76 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-17T14:18:13.250Z"
+    },
+    "https://www.limerickpost.ie/?p=363246": {
+      "id": "https://www.limerickpost.ie/?p=363246",
+      "title": "Limerick councillor has questions on funding for West Wall Walkway in Kilmallock",
+      "link": "https://www.limerickpost.ie/2026/11/17/limerick-councillor-has-questions-on-funding-for-west-wall-walkway-in-kilmallock/",
+      "description": "SINN Féin councillor PJ Carey has asked the Council if funding will be sought for low level wildlife-friendly at the West Wall Walkway in Kilmallock. Cllr Carey was informed at the monthly district meeting that four walkways were recently assessed in relation to potential for this type of lighting, with the West Wall Walkway identified [&#8230;]\nThe post Limerick councillor has questions on funding for West Wall Walkway in Kilmallock appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 18:00:38 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.289Z"
+    },
+    "https://www.limerickpost.ie/?p=363232": {
+      "id": "https://www.limerickpost.ie/?p=363232",
+      "title": "Council figures tell story of incredible Limerick librarians",
+      "link": "https://www.limerickpost.ie/2026/11/17/council-figures-tell-story-of-incredible-limerick-librarians/",
+      "description": "THE 4,000+ free public events, 910 school classes facilitated, and 900,000 books borrowed in Limerick Council&#8217;s three city libraries between 2022 and 2025 are &#8220;testament to the tireless work of incredible librarians&#8221;. This was the high praise from Social Democrats councillor Shane Hickey-O&#8217;Mara, after receiving figures requested to highlight the significant work carried out by [&#8230;]\nThe post Council figures tell story of incredible Limerick librarians appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 16:30:41 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.289Z"
+    },
+    "https://www.limerickpost.ie/?p=363526": {
+      "id": "https://www.limerickpost.ie/?p=363526",
+      "title": "Family of nurse killed by drug-driver seeking appeal against ‘insulting’ dangerous driving causing death sentence",
+      "link": "https://www.limerickpost.ie/2026/11/17/family-of-nurse-killed-by-drug-driver-seeking-appeal-against-insulting-dangerous-driving-causing-death-sentence/",
+      "description": "THE family of Aine O’Reilly, who was killed in a collision caused by a disqualified, speeding, and high driver, described his sentence as “outrageously lenient” and “an insult” to the Limerick nurse’s memory. Keelan O’Connell (19), who had fled the fatal fatal scene, was jailed at Limerick Circuit Criminal Court for five years and 11 [&#8230;]\nThe post Family of nurse killed by drug-driver seeking appeal against ‘insulting’ dangerous driving causing death sentence appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 16:03:56 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.289Z"
+    },
+    "https://www.limerickpost.ie/?p=363523": {
+      "id": "https://www.limerickpost.ie/?p=363523",
+      "title": "Funeral arrangements announced for ‘proud Limerick man’ Lee Reeves",
+      "link": "https://www.limerickpost.ie/2026/11/17/funeral-arrangements-announced-for-proud-limerick-man-lee-reeves/",
+      "description": "A “PROUD Limerick man” who “fought so hard till the end” will be laid to rest this Friday in his native Treaty City. A notice on RIP.ie this Tuesday afternoon on behalf of his heartbroken family said that “it is with deep sadness we announce the death of Lee Reeves, of Chestnut Court, Kennedy Park, [&#8230;]\nThe post Funeral arrangements announced for ‘proud Limerick man’ Lee Reeves appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 15:09:03 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.290Z"
+    },
+    "https://www.limerickpost.ie/?p=363248": {
+      "id": "https://www.limerickpost.ie/?p=363248",
+      "title": "Security of Limerick CCTV funding urged once again",
+      "link": "https://www.limerickpost.ie/2026/11/17/security-of-limerick-cctv-funding-urged-once-again/",
+      "description": "LABOUR Party councillor Pádraigh Reale has urged Mayor John Moran to intervene and secure a further year of funding for Limerick&#8217;s CCTV network. He warned that the future of the system, along with 20 jobs, is now at risk. Cllr Reale said that while he agrees that neither the Mayor nor Limerick City and County Council [&#8230;]\nThe post Security of Limerick CCTV funding urged once again appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 15:00:42 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.290Z"
+    },
+    "https://www.limerickpost.ie/?p=363520": {
+      "id": "https://www.limerickpost.ie/?p=363520",
+      "title": "CHRISTMAS LINE-UP REVEALED: Christmas starts here as lights blaze across Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/17/christmas-line-up-revealed-christmas-starts-here-as-lights-blaze-across-limerick/",
+      "description": "THIS SATURDAY, the switch will be officially thrown on Christmas in Limerick, with Light Up Limerick to bring a world of magical colour and fun to the city. A trail of Christmas experiences stretching from King John&#8217;s Castle through the city centre to The Crescent on O&#8217;Connell Avenue is at the heart of Limerick City [&#8230;]\nThe post CHRISTMAS LINE-UP REVEALED: Christmas starts here as lights blaze across Limerick appeared first on Limerick Post.",
+      "pubDate": "Tue, 17 Nov 2026 14:50:51 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-17T18:24:37.290Z"
+    },
+    "https://limerickvoice.com/?p=53848": {
+      "id": "https://limerickvoice.com/?p=53848",
+      "title": "Tributes pour in for Limerick boxing hero Lee Reeves following tragic death",
+      "link": "https://limerickvoice.com/news/tributes-pour-in-for-limerick-boxing-hero-lee-reeves-following-tragic-death/",
+      "description": "He is being remembered for his sporting achievements and community advocacy following his death at the age of 31. TRIBUTES continue to pour in today for Limerick boxing stalwart Lee Reeves, following news of his death late last night.  Reeves, who was just 31 years old, had been receiving treatment following an incident during a [&#8230;]\nThe post Tributes pour in for Limerick boxing hero Lee Reeves following tragic death appeared first on .",
+      "pubDate": "Tue, 17 Nov 2026 15:00:41 +0000",
+      "author": "Rowan Kelly",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-17T18:24:38.687Z"
     }
   },
   "rewritten": {
@@ -13570,6 +13697,39 @@
       "duplicateOf": "9351463",
       "rewrittenAt": "2026-11-16T13:34:51.215Z"
     },
+    "9353241": {
+      "headline": "Redemptorists Launch Appeal for 7,000 Limerick Christmas Hampers",
+      "summary": "The Redemptorists have launched an appeal to provide over 7,000 Christmas hampers for families in Limerick.",
+      "story": "The Redemptorists have launched a Christmas hamper appeal aiming to distribute more than 7,000 hampers to help put food on the table for Limerick families.",
+      "localAngle": "The Christmas hamper appeal directly supports families across Limerick during the festive season.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Support appeal to put food on the table this Christmas with 7,000 Limerick hampers",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/support-appeal-to-put-food-on-the-table-this-christmas-with-7000-limerick-hampers-9353241",
+      "publishedAt": "Tue, 17 Nov 2026 07:30:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/11/54/Redemptorist-Food-Appeal.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "rewrittenAt": "2026-11-17T18:27:36.427Z"
+    },
+    "9353261": {
+      "headline": "Abbeyfeale Derelict Homes Approved for Refurbishment and Fair Rents",
+      "summary": "Refurbished derelict properties in Abbeyfeale have secured approval to be let at fair rents, with applications and allocations set for December and early January.",
+      "story": "Approval has been secured for derelict homes across Abbeyfeale to be let at fair rents following refurbishment. Applications and allocations for these properties will be handled during December and early January after the works are completed.",
+      "localAngle": "This housing initiative directly impacts the local community in Abbeyfeale, County Limerick.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Mayor secures approval for derelict homes across Abbeyfeale to be let at fair rents after refurbishments ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/business/mayor-secures-approval-for-derelict-homes-across-abbeyfeale-to-be-let-at-fair-rents-9353261",
+      "publishedAt": "Tue, 17 Nov 2026 07:00:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/08/21/12/59/ilim-Mayor-John-Moran-11-9-24-2_29501432.jpeg?width=1200&auto=webp&trim=157%2C0%2C157%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-17T18:27:46.328Z"
+    },
     "9353264": {
       "headline": "Róisín Ní Riain Named Swim Ireland Performance Athlete of the Year",
       "summary": "Limerick's Róisín Ní Riain has been awarded Swim Ireland's Performance Athlete of the Year alongside Ellen Walshe and Daniel Wiffen.",
@@ -13693,6 +13853,22 @@
       "skipped": true,
       "duplicateOf": "9354198",
       "rewrittenAt": "2026-11-17T14:25:32.051Z"
+    },
+    "9355136": {
+      "headline": "Social Media Platforms Fail to Remove Reported Scam Content",
+      "summary": "Research from the Appeals Centre Europe reveals that people across the EU submitted more eligible disputes regarding fraud and scams than any other category.",
+      "story": "A recent finding by the Dublin-based Appeals Centre Europe shows that scam and fraud content remains on social media sites despite being reported. The data indicates that EU residents sent more eligible disputes concerning fraud and scams than for any other issue.",
+      "localAngle": "While the report focuses on EU-wide data from a Dublin-based center, online scams frequently impact internet users in Limerick and across Ireland.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Social media sites leaving up scam content despite reports",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/social-media-sites-leaving-up-scam-content-despite-reports-9355136",
+      "publishedAt": "Tue, 17 Nov 2026 06:00:48 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/06/cs-4c50aeb5-f091-471a-9e75-489e7a97048a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-17T18:27:54.750Z"
     },
     "9355643": {
       "headline": "Limerick trio collect All-Star and coaching accolades in Croke Park",
@@ -13845,6 +14021,65 @@
       "publishedAt": "Tue, 17 Nov 2026 13:23:30 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/13/cs-7e4ea4c4-5bc7-432e-9dbc-0f56f6dbeced.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-17T14:26:05.483Z"
+    },
+    "9356764": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363515",
+      "rewrittenAt": "2026-11-17T18:25:54.046Z"
+    },
+    "9356854": {
+      "headline": "Details emerge on Limerick hurlers' two-destination post-season trip",
+      "summary": "Limerick hurlers have set off on a post-season holiday taking in two destinations with players, backroom staff, and partners.",
+      "story": "The travelling party for the post-season break includes members of the playing panel, the backroom team, and their partners as they visit two locations.",
+      "localAngle": "The holiday involves members of the Limerick senior hurling panel and their travelling party.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Where the Limerick hurlers headed on their post-season holiday",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/where-the-limerick-hurlers-headed-on-their-post-season-holiday-9356854",
+      "publishedAt": "Tue, 17 Nov 2026 16:00:20 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/14/23/3517141.jpeg?width=1200&auto=webp&trim=0%2C274%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-17T18:26:51.591Z"
+    },
+    "9356869": {
+      "headline": "Tánaiste States Government Must Weigh Report on Greyhound Industry Funding",
+      "summary": "A recent review recommends an updated cost-benefit analysis before TDs decide on backing 20 million euro in funding for the greyhound sector.",
+      "story": "The Tánaiste indicated the Government must be open to considering a report regarding greyhound funding. The review proposes a fresh cost-benefit analysis to assist TDs in deciding whether to support the 20 million euro allocation for the industry.",
+      "localAngle": "This national funding decision and review directly impacts local greyhound interests and representatives in the 061 region.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tánaiste: Government must be willing to consider greyhound funding report",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tanaiste-government-must-be-willing-to-consider-greyhound-funding-report-9356869",
+      "publishedAt": "Tue, 17 Nov 2026 14:55:24 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/15/cs-9b9ee91a-2398-4845-8eb8-03197103178e.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-17T18:27:19.371Z"
+    },
+    "9356989": {
+      "headline": "Taoiseach and Sinn Féin clash over Irish troops in Lebanon",
+      "summary": "The Taoiseach and Sinn Féin have accused each other of endangering Irish troops in Lebanon following the passage of a Bill on October 21.",
+      "story": "The political leaders traded accusations regarding the safety of Irish troops after 79 TDs voted in favour of a Bill to end the requirement for UN approval of troop deployments, with 71 voting against.",
+      "localAngle": "As national political figures debate defense policy affecting Irish troops abroad, the decision holds relevance for families and communities across Limerick with ties to the Defence Forces.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Taoiseach and Sinn Féin accuse each other of endangering Irish troops in Lebanon",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/taoiseach-and-sinn-fein-accuse-each-other-of-endangering-irish-troops-in-lebanon-9356989",
+      "publishedAt": "Tue, 17 Nov 2026 15:31:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/15/cs-70241715-59f0-49ee-941d-becefba2713d.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-17T18:27:00.573Z"
+    },
+    "9357414": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363403",
+      "rewrittenAt": "2026-11-17T18:25:54.045Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -18341,6 +18576,85 @@
       "rewrittenAt": "2026-11-17T14:33:34.470Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Jack.jpg",
       "imageCheckedAt": "2026-11-17T14:33:38.478Z"
+    },
+    "https://www.limerickpost.ie/?p=363526": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363515",
+      "rewrittenAt": "2026-11-17T18:25:54.046Z"
+    },
+    "https://www.limerickpost.ie/?p=363523": {
+      "skipped": true,
+      "duplicateOf": "9354198",
+      "rewrittenAt": "2026-11-17T18:25:54.046Z"
+    },
+    "https://limerickvoice.com/?p=53848": {
+      "skipped": true,
+      "duplicateOf": "9354198",
+      "rewrittenAt": "2026-11-17T18:25:54.046Z"
+    },
+    "https://www.limerickpost.ie/?p=363246": {
+      "headline": "Kilmallock's West Wall Walkway identified as prime location for wildlife lighting",
+      "summary": "Sinn Féin Councillor PJ Carey has pressed Limerick City and County Council on funding options for low-level, wildlife-friendly lighting along the West Wall Walkway in Kilmallock.",
+      "story": "Sinn Féin Councillor PJ Carey has asked Limerick City and County Council whether funding will be sought to install low-level, wildlife-friendly lighting at the West Wall Walkway in Kilmallock.\n\nDuring a recent monthly district meeting, Cllr Carey was informed that four local walkways were recently assessed for their suitability for this specific type of lighting. The West Wall Walkway emerged as the most appropriate location, largely due to a limited amount of recorded bat activity and the existing level of surrounding illumination.\n\nHowever, implementing the lighting will require a specific funding allocation. According to council officials, this would need to be secured through either the General Municipal Allocation (GMA) or the Development Fund, as other funding streams included in the schedule of municipal district works do not cover projects of this nature.",
+      "localAngle": "The proposed lighting project directly impacts local infrastructure and residents using the West Wall Walkway in Kilmallock.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Limerick councillor has questions on funding for West Wall Walkway in Kilmallock",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/limerick-councillor-has-questions-on-funding-for-west-wall-walkway-in-kilmallock/",
+      "publishedAt": "Tue, 17 Nov 2026 18:00:38 +0000",
+      "rewrittenAt": "2026-11-17T18:26:33.966Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/01/Cllr-PJ-Carey.jpg",
+      "imageCheckedAt": "2026-11-17T18:27:55.264Z"
+    },
+    "https://www.limerickpost.ie/?p=363232": {
+      "headline": "Limerick Council libraries record 900,000 book loans and 4,000 events in three years",
+      "summary": "New figures show Limerick's three city libraries recorded 900,000 book loans, 4,000 public events, and 910 school class visits between 2022 and 2025. The data was released ahead of the council's statutory budget meeting following a request by Cllr Shane Hickey-O'Mara.",
+      "story": "New figures released to Limerick City and County Council reveal that city libraries recorded over 900,000 book borrows, facilitated 910 school classes, and hosted upwards of 4,000 free public events between 2022 and 2025. \n\nSocial Democrats councillor Shane Hickey-O'Mara requested the statistics ahead of the upcoming statutory budget meeting. The data covers council-run library facilities across the Metropolitan District, highlighting community engagement through art exhibitions, local history lectures, book clubs, and adult education classes.\n\nCllr Hickey-O'Mara also pointed to recent service expansions, including the installation of communication boards across all 16 county branches to assist library users with different abilities. The roll-out builds on previous accessibility measures, such as the sensory room opened at Watch House Cross Library in Moyross in 2019.\n\nAdditionally, the library service launched the inaugural 'One Limerick, One Book' initiative this year, selecting local author Karen Fitzgibbon's psychological thriller *Tell the Truth*. Cllr Hickey-O'Mara stated that the council's libraries remain essential free public amenities for residents of all ages and abilities across the city.",
+      "localAngle": "The figures highlight the usage and ongoing community impact of local library services across Limerick city and county.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Council figures tell story of incredible Limerick librarians",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/council-figures-tell-story-of-incredible-limerick-librarians/",
+      "publishedAt": "Tue, 17 Nov 2026 16:30:41 +0000",
+      "rewrittenAt": "2026-11-17T18:26:43.361Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Shane-Hickey-OMara-Holly-Cairns-1.jpg",
+      "imageCheckedAt": "2026-11-17T18:27:55.889Z"
+    },
+    "https://www.limerickpost.ie/?p=363248": {
+      "headline": "Labour Councillor Urges Mayor Moran to Secure Funding for Limerick CCTV Network",
+      "summary": "Cllr Pádraigh Reale has called on Mayor John Moran to intervene and secure a further year of funding for Limerick's CCTV network to protect the system and 20 local jobs. He argues a 12-month extension will give the newly established Community Safety Partnership time to become operational.",
+      "story": "The future of Limerick's CCTV network and 20 local jobs are currently at risk, according to Labour Party councillor Pádraigh Reale. Cllr Reale has formally urged Mayor John Moran to intervene and secure an additional year of funding for the system.\n\nWhile acknowledging that neither the Mayor nor Limerick City and County Council should be expected to finance the CCTV network over the long term, Cllr Reale insisted that local authorities maintain a duty of care to the people of Limerick. He emphasized the need for a proactive approach to safeguard both the infrastructure and the staff affected by the funding uncertainty.\n\n“I believe we need to take a proactive approach to protecting the system and the people affected. Securing funding for one further year would provide a vital opportunity for the newly established Community Safety Partnership to get to work,” Cllr Reale said.",
+      "localAngle": "The funding shortfall threatens Limerick's city-wide CCTV network and puts 20 local jobs at risk.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Security of Limerick CCTV funding urged once again",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/security-of-limerick-cctv-funding-urged-once-again/",
+      "publishedAt": "Tue, 17 Nov 2026 15:00:42 +0000",
+      "rewrittenAt": "2026-11-17T18:27:10.029Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/cctv-security-camera-nick-loggie-fRVPzBYcd5A-unsplash.jpg",
+      "imageCheckedAt": "2026-11-17T18:27:56.169Z"
+    },
+    "https://www.limerickpost.ie/?p=363520": {
+      "headline": "Light Up Limerick procession kicks off city Christmas festival this Saturday",
+      "summary": "Limerick City and County Council has unveiled its 2026 Christmas festival line-up, starting this Saturday with the Light Up Limerick procession. The festive trail spans from King John's Castle to The Crescent, featuring a new Georgian Christmas Fayre and ice skating.",
+      "story": "The festive season officially gets underway in Limerick this Saturday (November 21) with the return of the Light Up Limerick procession and Christmas lights switch-on ceremony. Produced by LUXE, the procession will depart from Brown Thomas at 7pm, travelling along O’Connell Street before a grand finale and pyrotechnic display at Lower Glentworth Street.\n\nThis year's festival centres on a trail of experiences stretching from King John's Castle through the city centre to The Crescent on O’Connell Avenue. Major new additions include a Georgian Christmas Fayre running at The Crescent until December 23, featuring market stalls, artisan gifts, food, and a traditional carousel. Arthur's Quay Park will also host ice skating, entertainment, and a panoramic wheel.\n\nMayor of Limerick John Moran said the programme reflects the warmth and goodwill of people across the county. “From King John’s Castle to The Crescent, there’s magic around every corner,” he said. “I’m confident that children right across the country will discover that, this year, Limerick even beats Lapland.”\n\nPríomh Chomhairleoir Cllr Tom Ruddle encouraged locals to engage with the more than 150 listings now live on Limerick.ie/Christmas, which include theatre, live music, comedy, and community celebrations spanning both the city and county.",
+      "localAngle": "The festival spans key Limerick landmarks from King John's Castle to The Crescent, bringing festive events and community celebrations directly to local residents.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "CHRISTMAS LINE-UP REVEALED: Christmas starts here as lights blaze across Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/17/christmas-line-up-revealed-christmas-starts-here-as-lights-blaze-across-limerick/",
+      "publishedAt": "Tue, 17 Nov 2026 14:50:51 +0000",
+      "rewrittenAt": "2026-11-17T18:27:28.326Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/12/KRB-01-12-2024-LCCC-Christmas-Parade-1014-scaled.jpg",
+      "imageCheckedAt": "2026-11-17T18:27:56.424Z"
     }
   }
 }
