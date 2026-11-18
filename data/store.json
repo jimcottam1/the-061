@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-18T13:51:43.991Z",
-    "totalArticles": 33
+    "lastScrape": "2026-11-18T17:56:33.373Z",
+    "totalArticles": 34
   },
   "articles": {
     "8353171": {
@@ -3862,6 +3862,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T12:39:22.379Z"
     },
+    "9344190": {
+      "id": "9344190",
+      "title": "Appeal lodged over rejection of medical centre plan in Limerick estate",
+      "link": "https://www.limerickleader.ie/news/planning/appeal-lodged-over-rejection-of-medical-centre-plan-in-limerick-estate-9344190",
+      "description": "The original planning application was refused due to traffic hazards in the surrounding residential estates",
+      "pubDate": "Wed, 18 Nov 2026 17:00:50 GMT",
+      "author": "Olivia O’Dwyer",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/52/Raheen-Medical-Centre.jpeg?width=1200&auto=webp&trim=0%2C318%2C0%2C318",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
     "9344211": {
       "id": "9344211",
       "title": "‘Urgent inquiries’ after threatening email sent to hundreds of schools",
@@ -5228,6 +5240,86 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/cs-199d3eda-e9e8-4def-abf5-c9d3e161df33.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T13:51:31.914Z"
+    },
+    "9359185": {
+      "id": "9359185",
+      "title": "‘Far too good for this world’: Son’s tribute at Carrie Mullane funeral",
+      "link": "https://www.limerickleader.ie/national/far-too-good-for-this-world-sons-tribute-at-carrie-mullane-funeral-9359185",
+      "description": "Hundreds attended the funeral mass of the 39-year-old woman who was murdered after going missing in Northern Ireland.",
+      "pubDate": "Wed, 18 Nov 2026 15:02:40 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/cs-6fabbed3-f712-42af-a51b-fbc76965424f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359290": {
+      "id": "9359290",
+      "title": "Castletroy College finish Harty Cup campaign with defeat to Blackwater",
+      "link": "https://www.limerickleader.ie/sport/hurling/castletroy-college-finish-harty-cup-campaign-with-defeat-to-blackwater-9359290",
+      "description": "Castletroy College knew coming into this round 3 clash that they would be unable to progress to the last eight regardless of the result",
+      "pubDate": "Wed, 18 Nov 2026 14:50:39 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/49/ilim-Harty-cup-Castletroy-College-v-St-Colmans-12-10-26-8.jpeg?width=1200&auto=webp&trim=54%2C2%2C96%2C0",
+      "imageCredit": "ADRIAN BUTLER",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359601": {
+      "id": "9359601",
+      "title": "Ardscoil Ris exit Dr Harty Cup after dramatic late defeat to Nenagh CBS",
+      "link": "https://www.limerickleader.ie/sport/hurling/ardscoil-ris-exit-dr-harty-cup-after-dramatic-late-defeat-to-nenagh-cbs-9359601",
+      "description": "There was late drama in Newport as Ardscoil Ris were defeated by Nenagh CBS in a crucial Dr Harty Cup clash",
+      "pubDate": "Wed, 18 Nov 2026 15:50:14 GMT",
+      "author": "Tom Clancy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/55/1Y3A0322.jpeg?width=1200&auto=webp&trim=32%2C2%2C89%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359794": {
+      "id": "9359794",
+      "title": "Irish peacekeepers ‘said goodbyes’ during fatal attack on vehicle, inquest hears",
+      "link": "https://www.limerickleader.ie/national/irish-peacekeepers-said-goodbyes-during-fatal-attack-on-vehicle-inquest-hears-9359794",
+      "description": "Private Sean Rooney showed skilful driving as he attempted to get his fellow peacekeepers out of an attack, the inquest into his death was told.",
+      "pubDate": "Wed, 18 Nov 2026 16:22:31 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/16/cs-1f702d70-345a-4348-9661-680d460dfeba.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359831": {
+      "id": "9359831",
+      "title": "Social Democrats accuse Taoiseach of ‘dismiss, deflect, repeat’ amid CUH row",
+      "link": "https://www.limerickleader.ie/national/social-democrats-accuse-taoiseach-of-dismiss-deflect-repeat-amid-cuh-row-9359831",
+      "description": "Opposition TDs said the Government needs to take responsibility for not resolving a row over patient safety concerns in Cork University Hospital.",
+      "pubDate": "Wed, 18 Nov 2026 16:33:32 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/16/cs-876b4f99-fbc3-44b3-9fa0-ac5ba278f586.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359983": {
+      "id": "9359983",
+      "title": "Sister of boy killed by Omagh bomb speaks of ‘deep hurt’ at lack of Irish probe",
+      "link": "https://www.limerickleader.ie/national/sister-of-boy-killed-by-omagh-bomb-speaks-of-deep-hurt-at-lack-of-irish-probe-9359983",
+      "description": "Lisa Dillon said her younger brother Oran, born in Co Donegal, was an eight-year-old Irish citizen and their family deserve answers.",
+      "pubDate": "Wed, 18 Nov 2026 17:12:22 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/17/cs-c65847d4-a38b-4233-9bae-462f35fa4dbc.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359984": {
+      "id": "9359984",
+      "title": "‘It all got out of hand’: Trial hears interviews with teen accused of murder of Limerick’s Scarlett",
+      "link": "https://www.limerickleader.ie/news/crime-courts/it-all-got-out-of-hand-trial-hears-interviews-with-teen-accused-of-murder-of-limericks-scarlett-9359984",
+      "description": "The prosecution alleges that the 17-year-old inflicted all the injuries to Ms Faulkner using an iron bar",
+      "pubDate": "Wed, 18 Nov 2026 17:16:35 GMT",
+      "author": "Alison O'Riordan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T17:56:23.683Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -8770,6 +8862,66 @@
       "author": "Kayleigh Downey",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-18T13:51:32.860Z"
+    },
+    "https://www.limerickpost.ie/?p=363537": {
+      "id": "https://www.limerickpost.ie/?p=363537",
+      "title": "Gardaí investigating tool thefts in Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/18/gardai-investigating-tool-thefts-in-limerick/",
+      "description": "GARDAÍ are investigating a number of tool thefts across the county in recent weeks. On October 30, between 3.15pm and 3.30pm, tools were stolen from a van parked at a hotel in Adare, Sergeant Michelle O’Halloran revealed. Between October 24 and 27, in a separate incident, power tools were stolen from a construction site on [&#8230;]\nThe post Gardaí investigating tool thefts in Limerick appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 16:30:45 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T17:56:23.222Z"
+    },
+    "https://www.limerickpost.ie/?p=363661": {
+      "id": "https://www.limerickpost.ie/?p=363661",
+      "title": "Book of condolence opened for Lee Reeves by Limerick Council",
+      "link": "https://www.limerickpost.ie/2026/11/18/book-of-condolence-opened-for-lee-reeves-by-limerick-council/",
+      "description": "BOOKS of condolence have been opened at Limerick City and County Council headquarters in City Hall, Merchant&#8217;s Quay, and County Hall on the Dooradoyle Road, for the late hero Limerick boxer Lee Reeves. Members of the public are invited to sign the books and pay their respects to a young man whose achievements in sport and positive [&#8230;]\nThe post Book of condolence opened for Lee Reeves by Limerick Council appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 15:46:42 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T17:56:23.222Z"
+    },
+    "https://www.limerickpost.ie/?p=363642": {
+      "id": "https://www.limerickpost.ie/?p=363642",
+      "title": "Teen accused in Scarlett murder claims victim was hit with a hatchet",
+      "link": "https://www.limerickpost.ie/2026/11/18/teen-accused-in-scarlett-murder-claims-victim-was-hit-with-a-hatchet/",
+      "description": "A TEENAGE girl accused of the murder of Limerick woman Scarlett Faulkner alleged to Gardai that her co-accused&#8217;s former partner hit the victim with a hatchet. She also told Gardaí that she herself hit Ms Faulkner “with a pole”, a trial at the Central Criminal Court has heard. During the course of five interviews with [&#8230;]\nThe post Teen accused in Scarlett murder claims victim was hit with a hatchet appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 15:02:37 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T17:56:23.223Z"
+    },
+    "https://www.limerickpost.ie/?p=363535": {
+      "id": "https://www.limerickpost.ie/?p=363535",
+      "title": "435 children homeless in the Mid West",
+      "link": "https://www.limerickpost.ie/2026/11/18/435-children-homeless-in-the-mid-west/",
+      "description": "THE NUMBER of children homeless in Limerick and Clare has shot up in the last year to 435 recorded as having accessed emergency accommodation in September 2026. And the total number of people homeless in the region has also risen to 809 compared to 619 in September 2025. In September 2025, Government figures recorded 269 [&#8230;]\nThe post 435 children homeless in the Mid West appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 15:00:27 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T17:56:23.223Z"
+    },
+    "https://www.limerickpost.ie/?p=363639": {
+      "id": "https://www.limerickpost.ie/?p=363639",
+      "title": "‘We all miss you mum’: Limerick mother Carrie ‘always put everyone before herself’",
+      "link": "https://www.limerickpost.ie/2026/11/18/we-all-miss-you-mum-limerick-mother-carrie-always-put-everyone-before-herself/",
+      "description": "THE DAUGHTER and son of a Limerick woman found murdered in County Fermanagh received ovations as they paid emotional tributes to her at her funeral mass. The body of Carrie Mullane-Noonan was recovered from Lough Erne on November 9, almost a month after she was last seen alive on October 10. Three people, with addresses [&#8230;]\nThe post ‘We all miss you mum’: Limerick mother Carrie ‘always put everyone before herself’ appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 14:50:30 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T17:56:23.223Z"
+    },
+    "https://limerickvoice.com/?p=53861": {
+      "id": "https://limerickvoice.com/?p=53861",
+      "title": "Artists Carol Ahern and Aly Harte bring floral painting workshop to Granagh Community Centre",
+      "link": "https://limerickvoice.com/arts-and-culture/artists-carol-ahern-and-aly-harte-bring-floral-painting-workshop-to-granagh-community-centre/",
+      "description": "Limerick artist Carol Ahern and Belfast artist Aly Harte will bring their &#8216;Loosen Up Your Floral Painting&#8217; workshop to local community centre. PAINTBRUSHES, colour palettes and creative conversations will fill Granagh Community Centre on November 29 when Limerick artist Carol Ahern brings award-winning Belfast painter Aly Harte to the rural community for a day-long workshop [&#8230;]\nThe post Artists Carol Ahern and Aly Harte bring floral painting workshop to Granagh Community Centre appeared first on .",
+      "pubDate": "Wed, 18 Nov 2026 16:00:21 +0000",
+      "author": "Kayleigh Downey",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-18T17:56:24.192Z"
     }
   },
   "rewritten": {
@@ -12999,6 +13151,23 @@
       "imageCredit": "Stock",
       "rewrittenAt": "2026-11-11T12:41:04.253Z"
     },
+    "9344190": {
+      "headline": "Planning Appeal Filed Following Refusal of Limerick Estate Medical Facility",
+      "summary": "An appeal has been lodged after an initial plan for a medical centre in a Limerick estate was turned down.",
+      "story": "The original planning application was refused because of traffic hazards in the surrounding residential estates. An appeal has now been lodged against this decision.",
+      "localAngle": "The proposed medical centre development is located within a Limerick residential estate.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Appeal lodged over rejection of medical centre plan in Limerick estate",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/planning/appeal-lodged-over-rejection-of-medical-centre-plan-in-limerick-estate-9344190",
+      "publishedAt": "Wed, 18 Nov 2026 17:00:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/11/52/Raheen-Medical-Centre.jpeg?width=1200&auto=webp&trim=0%2C318%2C0%2C318",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-18T17:58:19.959Z"
+    },
     "9344211": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363138",
@@ -14560,6 +14729,76 @@
       "publishedAt": "Wed, 18 Nov 2026 13:40:57 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/cs-199d3eda-e9e8-4def-abf5-c9d3e161df33.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-18T13:54:45.196Z"
+    },
+    "9359185": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363492",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "9359290": {
+      "headline": "Castletroy College Conclude Harty Cup Journey With Blackwater Defeat",
+      "summary": "Castletroy College ended their Harty Cup campaign with a defeat against Blackwater in round three.",
+      "story": "Castletroy College entered the round three clash already knowing they could not progress to the last eight regardless of the outcome. The match concluded their run in the competition.",
+      "localAngle": "Castletroy College represents Limerick in this schools hurling competition.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Castletroy College finish Harty Cup campaign with defeat to Blackwater",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/castletroy-college-finish-harty-cup-campaign-with-defeat-to-blackwater-9359290",
+      "publishedAt": "Wed, 18 Nov 2026 14:50:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/49/ilim-Harty-cup-Castletroy-College-v-St-Colmans-12-10-26-8.jpeg?width=1200&auto=webp&trim=54%2C2%2C96%2C0",
+      "imageCredit": "ADRIAN BUTLER",
+      "rewrittenAt": "2026-11-18T17:59:18.991Z"
+    },
+    "9359601": {
+      "skipped": true,
+      "duplicateOf": "9357829",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "9359794": {
+      "skipped": true,
+      "duplicateOf": "9359032",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "9359831": {
+      "headline": "Social Democrats Criticise Taoiseach Over Cork University Hospital Dispute",
+      "summary": "Opposition TDs have accused the Government of failing to take responsibility for an unresolved patient safety dispute at Cork University Hospital.",
+      "story": "Social Democrats have accused the Taoiseach of a 'dismiss, deflect, repeat' strategy amid the ongoing row. Opposition TDs stated that the Government needs to take responsibility for not resolving the patient safety concerns.",
+      "localAngle": "This national political debate involving opposition TDs addresses wider health service governance and patient safety standards that are of interest to readers in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Social Democrats accuse Taoiseach of ‘dismiss, deflect, repeat’ amid CUH row",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/social-democrats-accuse-taoiseach-of-dismiss-deflect-repeat-amid-cuh-row-9359831",
+      "publishedAt": "Wed, 18 Nov 2026 16:33:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/16/cs-876b4f99-fbc3-44b3-9fa0-ac5ba278f586.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-18T17:58:31.373Z"
+    },
+    "9359983": {
+      "skipped": true,
+      "duplicateOf": "9355841",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "9359984": {
+      "headline": "Teen Trial Hears Accused Told Gardaí Murder of Scarlett 'Got Out of Hand'",
+      "summary": "The prosecution in the trial of a 17-year-old accused of murdering Limerick's Scarlett alleges he inflicted all injuries with an iron bar.",
+      "story": "During the trial, the court heard police interviews with the 17-year-old defendant in which he stated that 'it all got out of hand.' The prosecution alleges that the teenager inflicted all of the injuries to Ms Faulkner using an iron bar.",
+      "localAngle": "The trial concerns the alleged murder of Scarlett Faulkner in Limerick.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘It all got out of hand’: Trial hears interviews with teen accused of murder of Limerick’s Scarlett",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/it-all-got-out-of-hand-trial-hears-interviews-with-teen-accused-of-murder-of-limericks-scarlett-9359984",
+      "publishedAt": "Wed, 18 Nov 2026 17:16:35 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-18T17:58:07.612Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -19353,6 +19592,70 @@
       "rewrittenAt": "2026-11-18T14:00:57.747Z",
       "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Gaelic-Grounds.jpeg",
       "imageCheckedAt": "2026-11-18T14:01:34.822Z"
+    },
+    "https://www.limerickpost.ie/?p=363661": {
+      "skipped": true,
+      "duplicateOf": "9354198",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "https://www.limerickpost.ie/?p=363642": {
+      "skipped": true,
+      "duplicateOf": "9359984",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "https://www.limerickpost.ie/?p=363639": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363492",
+      "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "https://www.limerickpost.ie/?p=363537": {
+      "headline": "Gardaí issue security warning following recent tool thefts in Limerick",
+      "summary": "Limerick Gardaí are investigating a series of tool thefts from a van in Adare and a construction site on the Dock Road. Officers have urged local tradespeople to secure their vehicles and avoid leaving valuables in plain sight.",
+      "story": "Gardaí in Limerick are investigating a number of tool thefts across the county following separate incidents reported in recent weeks. \n\nTools were stolen from a van parked at a hotel in Adare on October 30 between 3.15pm and 3.30pm. In a separate incident between October 24 and 27, power tools were taken from a construction site on the Dock Road in Limerick City, according to Sergeant Michelle O’Halloran.\n\nFollowing the incidents, Sergeant O’Halloran has urged tradespeople across the county to always lock their vehicles and avoid leaving spare keys or valuables in obvious locations. She also advised workers to choose well-lit areas covered by CCTV where possible when parking near jobs or work sites.",
+      "localAngle": "The thefts and subsequent Garda warnings directly impact tradespeople and construction workers operating across Limerick city and county.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Gardaí investigating tool thefts in Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/18/gardai-investigating-tool-thefts-in-limerick/",
+      "publishedAt": "Wed, 18 Nov 2026 16:30:45 +0000",
+      "rewrittenAt": "2026-11-18T17:58:44.062Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/07/Garda.jpg",
+      "imageCheckedAt": "2026-11-18T17:59:19.508Z"
+    },
+    "https://limerickvoice.com/?p=53861": {
+      "headline": "Granagh Community Centre to Host Floral Painting Workshop with Carol Ahern and Aly Harte",
+      "summary": "Limerick artist Carol Ahern and Belfast painter Aly Harte are hosting their 'Loosen Up Your Floral Painting' day-long workshop at Granagh Community Centre on November 29.",
+      "story": "Paintbrushes, colour palettes and creative conversations will fill the rural community centre for the upcoming event led by the two artists. Readers can view the full story on Limerick Voice.",
+      "localAngle": "The workshop takes place at Granagh Community Centre and is co-hosted by Limerick artist Carol Ahern.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Artists Carol Ahern and Aly Harte bring floral painting workshop to Granagh Community Centre",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/artists-carol-ahern-and-aly-harte-bring-floral-painting-workshop-to-granagh-community-centre/",
+      "publishedAt": "Wed, 18 Nov 2026 16:00:21 +0000",
+      "rewrittenAt": "2026-11-18T17:58:56.908Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_6765_ULStudentKAYLEIGH.DO_.jpeg",
+      "imageCheckedAt": "2026-11-18T17:59:20.193Z"
+    },
+    "https://www.limerickpost.ie/?p=363535": {
+      "headline": "Mid West homeless children figures surge to 435 in emergency accommodation",
+      "summary": "The number of homeless children across Limerick and Clare rose to 435 in September, while overall regional homelessness climbed to 809. Limerick alone accounted for 702 people in emergency accommodation.",
+      "story": "The number of children experiencing homelessness in Limerick and Clare has increased significantly over the past year, with 435 children recorded in emergency accommodation in September 2026. This compares to 269 children recorded in emergency accommodation during the same month in 2025.\n\nAcross the Mid West region, the total number of homeless people reached 809 in September, up from 619 in September 2025. In Limerick specifically, the number of people in emergency accommodation rose to 702 from 543 the previous year, while the number of homeless families in the region climbed from 163 to 233.\n\nNationally, Department of Housing figures showed the total number of homeless people topped 18,000 for the first time, reaching 18,065 in September. These figures include nearly 6,000 children across the country, though they exclude rough sleepers and individuals accessing domestic violence refuges.\n\nFocus Ireland Director of Advocacy Mike Allen attributed the ongoing rise to difficulties people face in exiting homelessness. Speaking on RTÉ’s Morning Ireland, Mr Allen said the capacity for people to leave homelessness has declined because individuals are less able to transition to the private rented sector without increased government subsidies.",
+      "localAngle": "The figures highlight a sharp rise in family and child homelessness specifically impacting Limerick and Clare.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "435 children homeless in the Mid West",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/18/435-children-homeless-in-the-mid-west/",
+      "publishedAt": "Wed, 18 Nov 2026 15:00:27 +0000",
+      "rewrittenAt": "2026-11-18T17:59:12.368Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/homeless-isolation-bench-pexels-vitalyagorbachev-10821849.jpg",
+      "imageCheckedAt": "2026-11-18T17:59:20.700Z"
     }
   }
 }
