@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-18T17:56:33.373Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-18T21:20:22.064Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -4862,6 +4862,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T19:29:39.170Z"
     },
+    "9353909": {
+      "id": "9353909",
+      "title": "PICTURES: Templeglantine crowed Munster Junior Camogie champions",
+      "link": "https://www.limerickleader.ie/sport/camogie/pictures-templeglantine-crowed-munster-junior-camogie-champions-9353909",
+      "description": "The big-name players stood up for Templeglantine with Sarah O’Brien (2) and Michelle Curtin getting the goals and Stephanie Woulfe reliable over placed balls",
+      "pubDate": "Wed, 18 Nov 2026 20:30:10 GMT",
+      "author": "Photographer Dermot Lynch",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/58/MixCollage-16-Nov-2026-01-53-PM-209.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Dermot Lynch",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T21:20:09.845Z"
+    },
     "9354198": {
       "id": "9354198",
       "title": "PICTURES: Remembering the life of Limerick’s Lee Reeves ",
@@ -5206,6 +5218,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T13:51:31.914Z"
     },
+    "9358118": {
+      "id": "9358118",
+      "title": "‘Variety of drugs interacting’ caused deaths, Limerick inquests hear",
+      "link": "https://www.limerickleader.ie/news/variety-of-drugs-interacting-caused-deaths-limerick-inquests-hear-9358118",
+      "description": "Drugs and alcohol played a part in a number of deaths, Limerick Coroner’s Court in Kilmallock heard at inquests",
+      "pubDate": "Wed, 18 Nov 2026 20:00:24 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T21:20:09.845Z"
+    },
     "9358788": {
       "id": "9358788",
       "title": "Young Limerick hurlers celebrate Tony Forristal Cup success at event",
@@ -5264,6 +5288,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T17:56:23.683Z"
     },
+    "9359576": {
+      "id": "9359576",
+      "title": "Four Munster Rugby players to start for Ireland U20s against Scotland",
+      "link": "https://www.limerickleader.ie/sport/rugby/four-munster-rugby-players-to-start-for-ireland-u20s-against-scotland-9359576",
+      "description": "Head Coach Cullie Tucker has named his Ireland U20s team for Friday night’s challenge match against Scotland U20s at Virgin Media Park (Kick-off 5pm).",
+      "pubDate": "Wed, 18 Nov 2026 18:59:54 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/43/3504496.jpeg?width=1200&auto=webp&trim=163%2C0%2C950%2C9",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T21:20:09.845Z"
+    },
     "9359601": {
       "id": "9359601",
       "title": "Ardscoil Ris exit Dr Harty Cup after dramatic late defeat to Nenagh CBS",
@@ -5275,6 +5311,18 @@
       "imageCredit": "BRENDAN GLEESON",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359708": {
+      "id": "9359708",
+      "title": "Four Munster Rugby players to start for Ireland XV in Fiji clash",
+      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/four-munster-rugby-players-to-start-for-ireland-xv-in-fiji-clash-9359708",
+      "description": "The Ireland XV Match Day Squad has been named for Friday night’s clash against Fijian Latui at Virgin Media Park (Kick-off 7.45pm).",
+      "pubDate": "Wed, 18 Nov 2026 18:30:15 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/16/44/3398376.jpeg?width=1200&auto=webp&trim=187%2C0%2C1708%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-18T21:20:09.845Z"
     },
     "9359794": {
       "id": "9359794",
@@ -8922,6 +8970,36 @@
       "author": "Kayleigh Downey",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-18T17:56:24.192Z"
+    },
+    "https://www.limerickpost.ie/?p=363423": {
+      "id": "https://www.limerickpost.ie/?p=363423",
+      "title": "LIMERICK IN PHOTOS: St Leger semi finals",
+      "link": "https://www.limerickpost.ie/2026/11/18/limerick-in-photos-st-leger-semi-finals/",
+      "description": "LIMERICK Greyhound Stadium hosted the semi finals of the 1X Bet Irish St Leger 550 at the weekend. Do you know someone spotted enjoying the fun? Share and let them know.\nThe post LIMERICK IN PHOTOS: St Leger semi finals appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 21:00:45 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T21:20:09.444Z"
+    },
+    "https://www.limerickpost.ie/?p=363618": {
+      "id": "https://www.limerickpost.ie/?p=363618",
+      "title": "All-Star Awards for Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/18/all-star-awards-for-limerick/",
+      "description": "LIMERICK pair Maurice Noonan (Granagh/Ballingarry) and Ellie Sheehy (Newcastle West) have collected deserved Wheelchair Hurling/Camogie All-Star Awards at Croke Park. David Fitzgerald (Limerick, Munster and Kildimo/Pallaskenry) was named Coach of the Year at the ceremony. Speaking ahead of the event, GAA President Jarlath Burns said: “The Wheelchair Hurling and Camogie community represents the very best [&#8230;]\nThe post All-Star Awards for Limerick appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 19:30:17 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T21:20:09.445Z"
+    },
+    "https://www.limerickpost.ie/?p=363538": {
+      "id": "https://www.limerickpost.ie/?p=363538",
+      "title": "Limerick TD calls for Government to publish HAP rent limit review",
+      "link": "https://www.limerickpost.ie/2026/11/18/limerick-td-calls-for-government-to-publish-hap-rent-limit-review/",
+      "description": "THE Housing Minister must publish a Housing Assistance Payment rent limits review and set a date to raise them. That’s according to Limerick Labour TD Conor Sheehan following correspondence revealing 72.4 per cent of HAP tenancies nationwide receive a discretionary top-up. “When almost three in four HAP tenancies need a discretionary top-up, the HAP limits [&#8230;]\nThe post Limerick TD calls for Government to publish HAP rent limit review appeared first on Limerick Post.",
+      "pubDate": "Wed, 18 Nov 2026 18:00:46 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-18T21:20:09.445Z"
     }
   },
   "rewritten": {
@@ -14267,6 +14345,23 @@
       "duplicateOf": "9354257",
       "rewrittenAt": "2026-11-16T19:31:07.272Z"
     },
+    "9353909": {
+      "headline": "Templeglantine Clinches Munster Junior Camogie Title",
+      "summary": "Templeglantine secured the Munster Junior Camogie championship following strong performances from key players.",
+      "story": "Sarah O’Brien scored two goals alongside a goal from Michelle Curtin, while Stephanie Woulfe proved reliable over placed balls to help secure the championship win.",
+      "localAngle": "This victory marks a major sports success for the West Limerick club in provincial competition.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Templeglantine crowed Munster Junior Camogie champions",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/camogie/pictures-templeglantine-crowed-munster-junior-camogie-champions-9353909",
+      "publishedAt": "Wed, 18 Nov 2026 20:30:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/58/MixCollage-16-Nov-2026-01-53-PM-209.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Dermot Lynch",
+      "rewrittenAt": "2026-11-18T21:20:56.244Z"
+    },
     "9354198": {
       "headline": "Limerick mourns passing of popular boxer Lee Reeves",
       "summary": "Limerick is experiencing shock and sadness following the death of well-known boxer Lee Reeves.",
@@ -14692,6 +14787,23 @@
       "imageCredit": "Brendan Gleeson",
       "rewrittenAt": "2026-11-18T13:58:56.214Z"
     },
+    "9358118": {
+      "headline": "Limerick Inquests Attribute Deaths to Multiple Drug Interactions and Alcohol",
+      "summary": "Limerick Coroner’s Court in Kilmallock was told that a variety of drugs interacting alongside alcohol played a role in multiple deaths.",
+      "story": "Recent inquests held at Limerick Coroner’s Court in Kilmallock heard evidence that a variety of drugs interacting together, as well as alcohol, played a part in a number of deaths.",
+      "localAngle": "The inquests took place at the Limerick Coroner’s Court located in Kilmallock.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘Variety of drugs interacting’ caused deaths, Limerick inquests hear",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/variety-of-drugs-interacting-caused-deaths-limerick-inquests-hear-9358118",
+      "publishedAt": "Wed, 18 Nov 2026 20:00:24 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-18T21:21:06.198Z"
+    },
     "9358788": {
       "headline": "Limerick Hurlers Mark Tony Forristal Cup Success",
       "summary": "Young Limerick hurlers have celebrated their Tony Forristal Cup success following an incredible campaign.",
@@ -14752,10 +14864,44 @@
       "imageCredit": "ADRIAN BUTLER",
       "rewrittenAt": "2026-11-18T17:59:18.991Z"
     },
+    "9359576": {
+      "headline": "Four Munster players selected for Ireland U20s to face Scotland",
+      "summary": "Head Coach Cullie Tucker has named four Munster Rugby players in the starting XV to face Scotland U20s this Friday.",
+      "story": "The Ireland U20s team will play a challenge match against Scotland U20s at Virgin Media Park with kick-off scheduled for 5pm.",
+      "localAngle": "Four Munster Rugby players have been named in the starting lineup for the upcoming international fixture.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Four Munster Rugby players to start for Ireland U20s against Scotland",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/four-munster-rugby-players-to-start-for-ireland-u20s-against-scotland-9359576",
+      "publishedAt": "Wed, 18 Nov 2026 18:59:54 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/43/3504496.jpeg?width=1200&auto=webp&trim=163%2C0%2C950%2C9",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-18T21:21:14.383Z"
+    },
     "9359601": {
       "skipped": true,
       "duplicateOf": "9357829",
       "rewrittenAt": "2026-11-18T17:57:54.698Z"
+    },
+    "9359708": {
+      "headline": "Four Munster players named in Ireland XV to face Fiji",
+      "summary": "Four Munster Rugby players have been selected to start for the Ireland XV against the Fijian Latui at Virgin Media Park this Friday night.",
+      "story": "The Ireland XV Match Day Squad has been named ahead of Friday's clash against the Fijian Latui, with kick-off scheduled for 7.45pm at Virgin Media Park.",
+      "localAngle": "Four Munster Rugby players have been selected to start in the fixture.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Four Munster Rugby players to start for Ireland XV in Fiji clash",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/four-munster-rugby-players-to-start-for-ireland-xv-in-fiji-clash-9359708",
+      "publishedAt": "Wed, 18 Nov 2026 18:30:15 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/16/44/3398376.jpeg?width=1200&auto=webp&trim=187%2C0%2C1708%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-18T21:21:22.814Z"
     },
     "9359794": {
       "skipped": true,
@@ -19656,6 +19802,32 @@
       "rewrittenAt": "2026-11-18T17:59:12.368Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/homeless-isolation-bench-pexels-vitalyagorbachev-10821849.jpg",
       "imageCheckedAt": "2026-11-18T17:59:20.700Z"
+    },
+    "https://www.limerickpost.ie/?p=363423": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363437",
+      "rewrittenAt": "2026-11-18T21:20:49.948Z"
+    },
+    "https://www.limerickpost.ie/?p=363618": {
+      "skipped": true,
+      "duplicateOf": "9355643",
+      "rewrittenAt": "2026-11-18T21:20:49.948Z"
+    },
+    "https://www.limerickpost.ie/?p=363538": {
+      "headline": "Limerick TD Conor Sheehan demands immediate publication of HAP rent limit review",
+      "summary": "Labour TD Conor Sheehan is calling on the Housing Minister to publish a delayed review of Housing Assistance Payment limits and set a date for increases. The demand follows new figures showing that nearly three-quarters of HAP tenancies nationwide rely on discretionary top-ups.",
+      "story": "Labour TD for Limerick City Conor Sheehan has called on the Housing Minister to immediately publish the Housing Assistance Payment (HAP) rent limits review and establish a firm date for increases. \n\nThe demand follows newly revealed figures showing that 72.4 per cent of HAP tenancies across the country currently receive a discretionary top-up. \n\n\"When almost three in four HAP tenancies need a discretionary top-up, the HAP limits must be urgently reviewed. What was meant to give councils some flexibility has become the way they keep most HAP tenancies within reach,\" Deputy Sheehan said.\n\nThe Limerick TD added that the Government has failed to deliver an adequate supply of social and affordable homes. He noted that while HAP was originally introduced as a temporary measure, a persistent lack of State housing investment has turned it into the default system rather than an exception.",
+      "localAngle": "Limerick Labour TD Conor Sheehan is demanding national housing policy changes to address how the HAP system impacts renters locally and nationwide.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Limerick TD calls for Government to publish HAP rent limit review",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/18/limerick-td-calls-for-government-to-publish-hap-rent-limit-review/",
+      "publishedAt": "Wed, 18 Nov 2026 18:00:46 +0000",
+      "rewrittenAt": "2026-11-18T21:21:33.290Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/11/Kings-Island-conor-sheehan.webp",
+      "imageCheckedAt": "2026-11-18T21:21:33.863Z"
     }
   }
 }
