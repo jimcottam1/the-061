@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-18T21:20:22.064Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-19T14:20:40.936Z",
+    "totalArticles": 39
   },
   "articles": {
     "8353171": {
@@ -3720,6 +3720,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-10T16:57:38.629Z"
     },
+    "9342747": {
+      "id": "9342747",
+      "title": "'It was all so surreal' Limerick's Chloe Keogh on World Title success",
+      "link": "https://www.limerickleader.ie/sport/other-sport/it-was-all-so-surreal-limericks-chloe-keogh-on-world-title-success-9342747",
+      "description": "Moyross native Chloe Keogh recently travelled to the International Sporting Karate Association  (ISKA) World Championships in Madrid, taking home the gold medal",
+      "pubDate": "Thu, 19 Nov 2026 11:30:58 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/06/1000012822.jpeg?width=1200&auto=webp&trim=290%2C0%2C508%2C0",
+      "imageCredit": "Chloe Keogh",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
     "9342925": {
       "id": "9342925",
       "title": "RIP: Funeral details announced for boy who died from injuries in Waterford arson attack ",
@@ -4610,6 +4622,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-15T12:40:26.643Z"
     },
+    "9351797": {
+      "id": "9351797",
+      "title": "Omoda 9 review: Luxury, performance and plug-in hybrid appeal ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/omoda-suv-hybrid-luxury-review-car-review-9361552",
+      "description": "A luxurious cabin, impressive electric range and a generous equipment list make the Omoda 9 a tempting alternative to familiar premium SUVs. But there are compromises behind the numbers",
+      "pubDate": "Thu, 19 Nov 2026 13:42:37 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/41/jpeg-optimizer_OMODA-9-press-pack-5.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Omoda UK",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
     "9352098": {
       "id": "9352098",
       "title": "Cost of hosting EU summits worth it as Ireland will get lot in return – minister",
@@ -4873,6 +4897,17 @@
       "imageCredit": "Dermot Lynch",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T21:20:09.845Z"
+    },
+    "9353978": {
+      "id": "9353978",
+      "title": "Roadworks to be banned in Limerick city for busy festive season ",
+      "link": "https://www.limerickleader.ie/traffic-updates/roadworks-to-be-banned-in-limerick-city-for-busy-festive-season-9353978",
+      "description": "Limerick City and County Council says the ban on roadworks will come into effect on Monday, November 30",
+      "pubDate": "Thu, 19 Nov 2026 09:00:25 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/18/christmas-in-Limerick.jpg?width=1200&auto=webp&trim=0%2C48%2C0%2C19",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
     "9354198": {
       "id": "9354198",
@@ -5230,6 +5265,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T21:20:09.845Z"
     },
+    "9358259": {
+      "id": "9358259",
+      "title": "‘It’s very hard to compete with clubs who can help out with jobs’",
+      "link": "https://www.limerickleader.ie/sport/rugby/its-very-hard-to-compete-with-clubs-who-can-help-out-with-jobs-9358259",
+      "description": "After six games in seven weeks, Limerick’s seven Energia All-Ireland League clubs have a first opportunity for some respite as the competition sits in the middle of a three-week break.",
+      "pubDate": "Thu, 19 Nov 2026 08:30:19 GMT",
+      "author": "Oisín Nolan and Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/10/44/Old-Crescent-v-Thomond-in-the-AIL-Division-2B-South-3.jpeg?width=1200&auto=webp&trim=48%2C0%2C154%2C3",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9358705": {
+      "id": "9358705",
+      "title": "Limerick sustainable commercial development named ‘Construction Project of the Year’",
+      "link": "https://www.limerickleader.ie/news/eco-live/limerick-sustainable-commercial-development-secures-top-award-in-building-industry-9358705",
+      "description": "The building has achieved LEED Platinum, WELL Platinum and WiredScore Platinum certification, placing it among Ireland's most sustainable commercial developments",
+      "pubDate": "Thu, 19 Nov 2026 07:00:02 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/12/28/2_Construction-Project-Award_Non-Residential_Sisk.jpg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
     "9358788": {
       "id": "9358788",
       "title": "Young Limerick hurlers celebrate Tony Forristal Cup success at event",
@@ -5368,6 +5427,96 @@
       "imageCredit": "LL",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9360230": {
+      "id": "9360230",
+      "title": "UK ministers to push for answers for Troubles victims at British-Irish talks",
+      "link": "https://www.limerickleader.ie/national/uk-ministers-to-push-for-answers-for-troubles-victims-at-british-irish-talks-9360230",
+      "description": "The BIIGC was established under the Good Friday Agreement to allow ministers from the UK and Irish governments to discuss issues of mutual interest.",
+      "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
+      "author": "Mícheál Ó Scannáil and Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/00/cs-ec60948e-36c4-4d0a-a54a-848399e733f5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9360238": {
+      "id": "9360238",
+      "title": "Pressures associated with traditional ideas of masculinity ‘rife’ in Ireland",
+      "link": "https://www.limerickleader.ie/national/pressures-associated-with-traditional-ideas-of-masculinity-rife-in-ireland-9360238",
+      "description": "Men’s Development Network said men have a lot to contribute to the conversation on equality but need reassured their contribution is welcome.",
+      "pubDate": "Thu, 19 Nov 2026 00:01:00 GMT",
+      "author": "Rebecca Black and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/00/cs-fe04b74a-0b02-4620-b1c2-fb58494a456f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9360511": {
+      "id": "9360511",
+      "title": "Northern Ireland Secretary says border poll at his ‘discretion’",
+      "link": "https://www.limerickleader.ie/national/northern-ireland-secretary-says-border-poll-at-his-discretion-9360511",
+      "description": "The Northern Ireland Secretary has repeatedly refused to elaborate on what would make him decide to call a border poll.",
+      "pubDate": "Thu, 19 Nov 2026 09:33:08 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/09/cs-92bb11ea-6d7c-408f-8193-ac7b1cb21f52.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9360658": {
+      "id": "9360658",
+      "title": "Clare All-Ireland winner takes over as Mary I hurling manager",
+      "link": "https://www.limerickleader.ie/sport/hurling/clare-all-ireland-winner-takes-over-as-mary-i-hurling-manager-9360658",
+      "description": "He takes over from Jamie Wall - his cousin - who had a successful stint with the teacher-training institution, winning three Fitzgibbon Cup titles in the last decade",
+      "pubDate": "Thu, 19 Nov 2026 13:00:16 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/10/57/3358437.jpeg?width=1200&auto=webp&trim=0%2C2%2C366%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9360832": {
+      "id": "9360832",
+      "title": "‘Inconceivable’ that Ireland will not hold its own Omagh bomb inquiry – Bryant",
+      "link": "https://www.limerickleader.ie/national/inconceivable-that-ireland-will-not-hold-its-own-omagh-bomb-inquiry-bryant-9360832",
+      "description": "The Northern Ireland Secretary said he expects the issue to be discussed at a summit on Dublin on Thursday.",
+      "pubDate": "Thu, 19 Nov 2026 11:27:24 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/11/cs-d25a4313-14a9-480e-aa59-59f6dcf921a6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9361446": {
+      "id": "9361446",
+      "title": "Peacekeeper ‘angry’ at commanding officer after convoy separated, inquest told",
+      "link": "https://www.limerickleader.ie/national/peacekeeper-angry-at-commanding-officer-after-convoy-separated-inquest-told-9361446",
+      "description": "Corporal Josh Phelan was giving evidence on Thursday at the inquest into the death of Private Sean Rooney in Lebanon in 2022.",
+      "pubDate": "Thu, 19 Nov 2026 13:06:32 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/13/cs-e26385fb-3212-4f09-83ad-96ab867f672c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9361510": {
+      "id": "9361510",
+      "title": "Siptu executive backs public sector pay deal",
+      "link": "https://www.limerickleader.ie/national/siptu-executive-backs-public-sector-pay-deal-9361510",
+      "description": "Siptu members are to be balloted on the public sector pay deal after the union’s national executive recommended it be accepted.",
+      "pubDate": "Thu, 19 Nov 2026 13:22:05 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/13/cs-4b428ee9-ac45-476c-9946-5edf3c6e1e61.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9361695": {
+      "id": "9361695",
+      "title": "Irish team named for mouth-watering South Africa clash in Dublin",
+      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/irish-team-named-for-mouth-watering-south-africa-clash-in-dublin-9361695",
+      "description": "Andy Farrell has named the Ireland Match Day Squad for Saturday’s Nations Championship clash against South Africa at a sold-out Aviva Stadium (Kick-off 4.40pm).",
+      "pubDate": "Thu, 19 Nov 2026 14:16:14 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/07/3623498.jpeg?width=1200&auto=webp&trim=178%2C12%2C1610%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -9000,6 +9149,126 @@
       "author": "Adam Leahy",
       "source": "limerickpost",
       "scrapedAt": "2026-11-18T21:20:09.445Z"
+    },
+    "https://www.limerickpost.ie/?p=363542": {
+      "id": "https://www.limerickpost.ie/?p=363542",
+      "title": "Free filmmaking workshops in Limerick this winter",
+      "link": "https://www.limerickpost.ie/2026/11/19/free-filmmaking-workshops-in-limerick-this-winter/",
+      "description": "THREE free workshops in producing, screenwriting, and directing are taking place in Limerick across November and December. Film in Limerick, in partnership with the local authorities in Tipperary, Limerick and Clare, and the Limerick and Clare Education and Training Board, is part of the Engine Shorts Film Training and Production Scheme. The workshops are particularly [&#8230;]\nThe post Free filmmaking workshops in Limerick this winter appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 13:30:39 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.366Z"
+    },
+    "https://www.limerickpost.ie/?p=363670": {
+      "id": "https://www.limerickpost.ie/?p=363670",
+      "title": "Judge tells Curtin family ‘sentencing is not about retribution’ as dangerous driver given suspended sentence",
+      "link": "https://www.limerickpost.ie/2026/11/19/judge-tells-curtin-family-sentencing-is-not-about-retribution-as-dangerous-driver-given-suspended-sentence/",
+      "description": "A JUDGE gave a fully suspended three-year sentence to a man convicted of dangerous driving causing another man’s death, and told the victim’s family: “Sentencing is not about retribution.” At the outset of Petr Danis’ sentencing hearing at Limerick Circuit Criminal Court, Judge Mary Morrissey told the family of the victim, Dan Curtin, that he [&#8230;]\nThe post Judge tells Curtin family &#8216;sentencing is not about retribution&#8217; as dangerous driver given suspended sentence appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 13:03:50 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363552": {
+      "id": "https://www.limerickpost.ie/?p=363552",
+      "title": "Not a single Affordable Purchase Home delivered in Limerick City West or North since scheme introduced",
+      "link": "https://www.limerickpost.ie/2026/11/19/not-a-single-affordable-purchase-home-delivered-in-limerick-city-west-or-north-since-scheme-introduced/",
+      "description": "FIGURES provided by Limerick Council in response to a question at November&#8217;s Metropolitan District Meeting confirm that just 41 affordable purchase homes were delivered across the three Limerick City electoral areas over the past five years. All of these homes, it was revealed, were located in Limerick City East, with neither Limerick City West nor Limerick [&#8230;]\nThe post Not a single Affordable Purchase Home delivered in Limerick City West or North since scheme introduced appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 12:00:34 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363541": {
+      "id": "https://www.limerickpost.ie/?p=363541",
+      "title": "Limerick to host Mid West Construct conference",
+      "link": "https://www.limerickpost.ie/2026/11/19/limerick-to-host-mid-west-construct-conference/",
+      "description": "GOVERNMENT figures, industry leaders, and State agency decision makers from across the Mid West region are set to explore the construction sector’s most urgent challenges and opportunities at the Construction Industry Federation’s Mid West Construct event on November 20 at the Castletroy Park Hotel. Minister Kieran O’Donnell will open the conference. Iarnród Éireann (Irish Rail) [&#8230;]\nThe post Limerick to host Mid West Construct conference appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 10:30:48 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363549": {
+      "id": "https://www.limerickpost.ie/?p=363549",
+      "title": "‘Patrick Sarsfield deserves better’ says former Mayor",
+      "link": "https://www.limerickpost.ie/2026/11/19/patrick-sarsfield-deserves-better-says-former-mayor/",
+      "description": "FORMER mayor John Gilligan believes that Patrick Sarsfield and Limerick deserve better than the &#8220;narrow parochialism&#8221;, he claims, the historical figure is currently receiving. Mr Gilligan was responding to recent comments from Labour Party councillor Pádraigh Reale, who called for the bronze statue of Patrick Sarsfield to stay where it is at Cathedral Place. According [&#8230;]\nThe post &#8216;Patrick Sarsfield deserves better&#8217; says former Mayor appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 09:00:42 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363568": {
+      "id": "https://www.limerickpost.ie/?p=363568",
+      "title": "Ballet Ireland to perform Romeo & Juliet at Lime Tree Theatre",
+      "link": "https://www.limerickpost.ie/2026/11/19/ballet-ireland-to-perform-romeo-juliet-at-lime-tree-theatre/",
+      "description": "BALLET Ireland will present its production of Romeo &#38; Juliet at Lime Tree Theatre on Thursday November 26. Set to Prokofiev’s soaring score, the production blends choreography with raw emotion, following two young lovers caught in a whirlwind of desire, danger and heartbreak. The company promises a story where “every glance, every movement, and every [&#8230;]\nThe post Ballet Ireland to perform Romeo &#038; Juliet at Lime Tree Theatre appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 08:40:27 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363502": {
+      "id": "https://www.limerickpost.ie/?p=363502",
+      "title": "SPORT ROUND-UP: Historic win for Templeglantine, Irish St Leger continues, Munster Junior Cup gets underway, and more",
+      "link": "https://www.limerickpost.ie/2026/11/19/sport-round-up-historic-win-for-templeglantine-irish-st-leger-continues-munster-junior-cup-gets-underway-and-more/",
+      "description": "CAMOGIE: Templeglantine overcame Cillard (Kerry), 3-12 to 4-6, to capture the Munster Junior Camogie Championship title after an exciting final in Charleville. Goals for Pat McInerney-managed ‘Glantine were flashed to the net by Sarah O’Brien (2) and Player of the Match Michelle Curtin, while important points were also knocked over by this pair, along with [&#8230;]\nThe post SPORT ROUND-UP: Historic win for Templeglantine, Irish St Leger continues, Munster Junior Cup gets underway, and more appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 08:15:34 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363562": {
+      "id": "https://www.limerickpost.ie/?p=363562",
+      "title": "Limerick Milk Market Christmas Programme brings Santa, live music and local crafts to the city",
+      "link": "https://www.limerickpost.ie/2026/11/19/limerick-milk-market-christmas-programme-brings-santa-live-music-and-local-crafts-to-the-city/",
+      "description": "LIMERICK Milk Market will host a month of festive markets, Santa visits, live music and family entertainment, with events running on select dates from Saturday November 28 to Thursday December 24. The programme opens on Saturday November 28 with the Christmas Opening Weekend from 8am to 3pm. A charity Santa will raise funds for Limerick [&#8230;]\nThe post Limerick Milk Market Christmas Programme brings Santa, live music and local crafts to the city appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 08:10:15 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363603": {
+      "id": "https://www.limerickpost.ie/?p=363603",
+      "title": "Remembering the Edmond: 176 years since the Kilkee tragedy",
+      "link": "https://www.limerickpost.ie/2026/11/19/remembering-the-edmond-176-years-since-the-kilkee-tragedy/",
+      "description": "Limerick writer Maureen Sparling’s new book, Mystery at Sykes House – A Tribute to Kilkee, draws on the wreck of the Edmond, which will be marked on its 176th anniversary on Thursday November 19. The emigrant vessel Edmond, travelling from Limerick towards New York, was driven into Kilkee Bay during a violent Atlantic storm on [&#8230;]\nThe post Remembering the Edmond: 176 years since the Kilkee tragedy appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 07:45:13 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://www.limerickpost.ie/?p=363183": {
+      "id": "https://www.limerickpost.ie/?p=363183",
+      "title": "Council Affairs: Christmas is still on the cards",
+      "link": "https://www.limerickpost.ie/2026/11/19/council-affairs-christmas-is-still-on-the-cards/",
+      "description": "LAST week’s special meeting on the controversial Christmas Fayre up at The Crescent was not for the faint of heart. Of course, when it comes to Christmas in Limerick, two things always come to mind, ‘booze fest’ and ‘brewery’. Oh, if only it were that simple to organise! While Galway, Waterford, and the rest of the [&#8230;]\nThe post Council Affairs: Christmas is still on the cards appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 07:30:18 +0000",
+      "author": "Sean Mellor",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T14:20:31.367Z"
+    },
+    "https://limerickvoice.com/?p=53875": {
+      "id": "https://limerickvoice.com/?p=53875",
+      "title": "‘We were his voice’ as Jonathan O’Brien pays emotional tribute to Lee Reeves",
+      "link": "https://limerickvoice.com/news/we-were-his-voice-as-jonathan-obrien-pays-emotional-tribute-to-lee-reeves/",
+      "description": "O’Brien reflects on Lee’s final fight, thanking those who supported him throughout his recovery.  FOR almost three months, Jonathan O’Brien became one of the main sources of information for a Limerick community anxiously following the recovery of boxer Lee Reeves.   Now, following the death of his close friend, the former boxer and trainer has [&#8230;]\nThe post ‘We were his voice’ as Jonathan O’Brien pays emotional tribute to Lee Reeves appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 12:00:20 +0000",
+      "author": "Emma Dineen and Olatunji Ojo",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-19T14:20:32.270Z"
+    },
+    "https://limerickvoice.com/?p=53872": {
+      "id": "https://limerickvoice.com/?p=53872",
+      "title": "Limerick District Leagues taking shape with title races heating up",
+      "link": "https://limerickvoice.com/sport/limerick-district-leagues-taking-shape-with-title-races-heating-up/",
+      "description": "Farview Rangers lead the way in the Premier League with Geraldines and Aisling Annacotty in hot pursuit.   CORBALLY United are the front-runners in the Premier A division with Hyde Rangers, Caherdavin Celtic and Charleville their nearest competitors.  In division 1A, Pike Rovers B have a healthy lead with Cappamore, Holycross and Ballynanty Rovers B closest in the chasing [&#8230;]\nThe post Limerick District Leagues taking shape with title races heating up appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 09:46:45 +0000",
+      "author": "Ruairi Connelly",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-19T14:20:32.270Z"
     }
   },
   "rewritten": {
@@ -13087,6 +13356,23 @@
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-10T16:59:34.366Z"
     },
+    "9342747": {
+      "headline": "Moyross native Chloe Keogh wins gold at karate world championships",
+      "summary": "Moyross native Chloe Keogh won a gold medal at the ISKA World Championships in Madrid.",
+      "story": "Moyross native Chloe Keogh recently travelled to the International Sporting Karate Association World Championships in Madrid, where she took home the gold medal and described the experience as surreal.",
+      "localAngle": "The gold medal-winning karate champion is a native of Moyross in Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 5,
+      "brief": true,
+      "originalTitle": "'It was all so surreal' Limerick's Chloe Keogh on World Title success",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/it-was-all-so-surreal-limericks-chloe-keogh-on-world-title-success-9342747",
+      "publishedAt": "Thu, 19 Nov 2026 11:30:58 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/10/15/06/1000012822.jpeg?width=1200&auto=webp&trim=290%2C0%2C508%2C0",
+      "imageCredit": "Chloe Keogh",
+      "rewrittenAt": "2026-11-19T14:27:24.683Z"
+    },
     "9342925": {
       "headline": "Funeral arrangements set for young boy lost in Waterford arson fire",
       "summary": "Funeral details have been announced for Elliot English following his death from injuries sustained in a fatal arson attack in Waterford city last month.",
@@ -14052,6 +14338,23 @@
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-15T12:42:37.246Z"
     },
+    "9351797": {
+      "headline": "Omoda 9 SUV Reviewed: Luxury Cabin and Plug-In Hybrid Performance",
+      "summary": "A recent review examines the Omoda 9, highlighting its luxury cabin, electric range, and equipment list alongside some compromises.",
+      "story": "The Omoda 9 offers a tempting alternative to familiar premium SUVs with its luxurious interior, impressive electric range, and generous equipment, though it comes with certain compromises behind the numbers.",
+      "localAngle": "Motorists and car buyers in Limerick following new vehicle releases may find this review of interest.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Omoda 9 review: Luxury, performance and plug-in hybrid appeal ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/omoda-suv-hybrid-luxury-review-car-review-9361552",
+      "publishedAt": "Thu, 19 Nov 2026 13:42:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/41/jpeg-optimizer_OMODA-9-press-pack-5.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Omoda UK",
+      "rewrittenAt": "2026-11-19T14:25:07.139Z"
+    },
     "9352098": {
       "skipped": true,
       "duplicateOf": "9346330",
@@ -14361,6 +14664,22 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/58/MixCollage-16-Nov-2026-01-53-PM-209.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Dermot Lynch",
       "rewrittenAt": "2026-11-18T21:20:56.244Z"
+    },
+    "9353978": {
+      "headline": "Limerick City Set to Halt Roadworks for Christmas Period",
+      "summary": "Limerick City and County Council has announced that a ban on roadworks will begin on Monday, November 30, for the festive season.",
+      "story": "Limerick City and County Council announced that roadworks will be banned across Limerick city starting Monday, November 30, for the busy festive season.",
+      "localAngle": "This decision directly affects motorists, businesses, and shoppers navigating Limerick city during the busy Christmas period.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Roadworks to be banned in Limerick city for busy festive season ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/traffic-updates/roadworks-to-be-banned-in-limerick-city-for-busy-festive-season-9353978",
+      "publishedAt": "Thu, 19 Nov 2026 09:00:25 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/18/christmas-in-Limerick.jpg?width=1200&auto=webp&trim=0%2C48%2C0%2C19",
+      "rewrittenAt": "2026-11-19T14:36:06.318Z"
     },
     "9354198": {
       "headline": "Limerick mourns passing of popular boxer Lee Reeves",
@@ -14804,6 +15123,28 @@
       "imageCredit": "Iconic Media Group",
       "rewrittenAt": "2026-11-18T21:21:06.198Z"
     },
+    "9358259": {
+      "headline": "Limerick AIL clubs enjoy break after busy six-game run",
+      "summary": "Limerick's seven Energia All-Ireland League clubs are currently on a three-week break following a demanding schedule of six games in seven weeks.",
+      "story": "The county's seven Energia All-Ireland League clubs finally have a chance to catch their breath as the competition enters the middle of a three-week break following six games played over seven weeks.",
+      "localAngle": "The story directly impacts Limerick's seven Energia All-Ireland League rugby clubs and their local supporters during the current league break.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "‘It’s very hard to compete with clubs who can help out with jobs’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/its-very-hard-to-compete-with-clubs-who-can-help-out-with-jobs-9358259",
+      "publishedAt": "Thu, 19 Nov 2026 08:30:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/10/44/Old-Crescent-v-Thomond-in-the-AIL-Division-2B-South-3.jpeg?width=1200&auto=webp&trim=48%2C0%2C154%2C3",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-19T14:36:44.664Z"
+    },
+    "9358705": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363422",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
     "9358788": {
       "headline": "Limerick Hurlers Mark Tony Forristal Cup Success",
       "summary": "Young Limerick hurlers have celebrated their Tony Forristal Cup success following an incredible campaign.",
@@ -14945,6 +15286,114 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-18T17:58:07.612Z"
+    },
+    "9360230": {
+      "headline": "UK Ministers Demand Answers for Troubles Victims at British-Irish Talks",
+      "summary": "UK ministers are pressing for answers for Troubles victims during meetings of the British-Irish Intergovernmental Conference.",
+      "story": "The British-Irish Intergovernmental Conference, established under the Good Friday Agreement, enables ministers from the UK and Irish governments to discuss issues of mutual interest.",
+      "localAngle": "Readers can view the original article on the Limerick Leader website for further updates on these intergovernmental talks.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "UK ministers to push for answers for Troubles victims at British-Irish talks",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/uk-ministers-to-push-for-answers-for-troubles-victims-at-british-irish-talks-9360230",
+      "publishedAt": "Thu, 19 Nov 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/00/cs-ec60948e-36c4-4d0a-a54a-848399e733f5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-19T14:39:11.981Z"
+    },
+    "9360238": {
+      "headline": "Traditional Masculinity Pressures 'Rife' Across Ireland",
+      "summary": "The Men’s Development Network reports that pressures tied to traditional ideas of masculinity remain widespread in Ireland.",
+      "story": "According to the Men’s Development Network, men have a lot to contribute to the equality conversation but require reassurance that their input is welcome. Read the full report on the Limerick Leader.",
+      "localAngle": "This national report on men and equality is of interest to readers in Limerick following its publication by the Limerick Leader.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Pressures associated with traditional ideas of masculinity ‘rife’ in Ireland",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/pressures-associated-with-traditional-ideas-of-masculinity-rife-in-ireland-9360238",
+      "publishedAt": "Thu, 19 Nov 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/00/cs-fe04b74a-0b02-4620-b1c2-fb58494a456f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-19T14:41:44.830Z"
+    },
+    "9360511": {
+      "headline": "Northern Ireland Secretary Declines to Clarify Border Poll Triggers",
+      "summary": "The Northern Ireland Secretary has repeatedly declined to specify the criteria that would prompt him to call a border poll, stating the decision rests at his discretion.",
+      "story": "The Northern Ireland Secretary has stated that calling a border poll remains at his discretion, though he has repeatedly refused to elaborate on what specific circumstances would lead him to make that decision.",
+      "localAngle": "While this political development is of national interest, readers in Limerick and across the Republic continue to monitor cross-border affairs and constitutional discussions closely.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Northern Ireland Secretary says border poll at his ‘discretion’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/northern-ireland-secretary-says-border-poll-at-his-discretion-9360511",
+      "publishedAt": "Thu, 19 Nov 2026 09:33:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/09/cs-92bb11ea-6d7c-408f-8193-ac7b1cb21f52.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-19T14:35:47.761Z"
+    },
+    "9360658": {
+      "headline": "New hurling manager appointed at Mary I",
+      "summary": "A Clare All-Ireland winner has been appointed as the new hurling manager at Mary I, succeeding his cousin Jamie Wall.",
+      "story": "A Clare All-Ireland winner has taken over as the new hurling manager at Mary I, succeeding his cousin Jamie Wall. Wall previously had a successful stint with the teacher-training institution, winning three Fitzgibbon Cup titles in the last decade.",
+      "localAngle": "The appointment concerns Mary I, a key higher education institution based in Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Clare All-Ireland winner takes over as Mary I hurling manager",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/clare-all-ireland-winner-takes-over-as-mary-i-hurling-manager-9360658",
+      "publishedAt": "Thu, 19 Nov 2026 13:00:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/10/57/3358437.jpeg?width=1200&auto=webp&trim=0%2C2%2C366%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-19T14:26:00.367Z"
+    },
+    "9360832": {
+      "skipped": true,
+      "duplicateOf": "9355974",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "9361446": {
+      "skipped": true,
+      "duplicateOf": "9359032",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "9361510": {
+      "headline": "Siptu National Executive Recommends Acceptance of Public Sector Pay Deal",
+      "summary": "Siptu members will vote on the proposed public sector pay agreement following a recommendation from the union's national executive.",
+      "story": "The union's national executive has backed the public sector pay deal, meaning Siptu members are now set to be balloted on whether to accept it.",
+      "localAngle": "This national pay ballot will directly impact public sector workers based in Limerick and across the county.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Siptu executive backs public sector pay deal",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/siptu-executive-backs-public-sector-pay-deal-9361510",
+      "publishedAt": "Thu, 19 Nov 2026 13:22:05 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/13/cs-4b428ee9-ac45-476c-9946-5edf3c6e1e61.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-19T14:25:45.249Z"
+    },
+    "9361695": {
+      "headline": "Andy Farrell Announces Ireland Squad to Face South Africa",
+      "summary": "Ireland manager Andy Farrell has named his match-day squad for Saturday's Nations Championship game against South Africa at the Aviva Stadium.",
+      "story": "The sold-out fixture is scheduled to kick off at 4.40pm on Saturday in Dublin.",
+      "localAngle": "Rugby fans across Limerick and the rest of the country will be tuning in to see the Ireland match-day squad take on South Africa.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Irish team named for mouth-watering South Africa clash in Dublin",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/irish-team-named-for-mouth-watering-south-africa-clash-in-dublin-9361695",
+      "publishedAt": "Thu, 19 Nov 2026 14:16:14 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/07/3623498.jpeg?width=1200&auto=webp&trim=178%2C12%2C1610%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-19T14:24:49.020Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -19828,6 +20277,154 @@
       "rewrittenAt": "2026-11-18T21:21:33.290Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/11/Kings-Island-conor-sheehan.webp",
       "imageCheckedAt": "2026-11-18T21:21:33.863Z"
+    },
+    "https://www.limerickpost.ie/?p=363670": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363515",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "https://www.limerickpost.ie/?p=363549": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363248",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "https://www.limerickpost.ie/?p=363502": {
+      "skipped": true,
+      "duplicateOf": "9353909",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "https://www.limerickpost.ie/?p=363183": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363520",
+      "rewrittenAt": "2026-11-19T14:24:16.295Z"
+    },
+    "https://www.limerickpost.ie/?p=363542": {
+      "headline": "Film in Limerick launches free winter workshops in producing, screenwriting and directing",
+      "summary": "Emerging filmmakers in Limerick can now apply for three free training workshops taking place across November and December as part of the Engine Shorts scheme.",
+      "story": "Aspiring filmmakers across Limerick have been given a boost with the launch of three free workshops focusing on producing, screenwriting, and directing. Running through November and December, the sessions are designed to support local talent looking to break into the industry.\n\nThe training initiative is being delivered by Film in Limerick in partnership with local authorities in Limerick, Clare, and Tipperary, alongside the Limerick and Clare Education and Training Board. The workshops form part of the wider Engine Shorts Film Training and Production Scheme.\n\nOrganisers have noted that the sessions are particularly recommended for creatives considering applying for funding to produce a short film through the Engine Shorts scheme or other similar funding programmes. \n\nAll workshops are completely free to attend and are open to emerging filmmakers aged 18 and over. Applications are currently open, with further information and application forms available directly through the Engine scheme.",
+      "localAngle": "The workshops are part of a regional initiative delivered in partnership with Limerick City and County Council and the Limerick and Clare Education and Training Board to support local filmmakers.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Free filmmaking workshops in Limerick this winter",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/free-filmmaking-workshops-in-limerick-this-winter/",
+      "publishedAt": "Thu, 19 Nov 2026 13:30:39 +0000",
+      "rewrittenAt": "2026-11-19T14:25:27.333Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/film-filming-stock-phil-hearing-a-8FracGWiY-unsplash.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:45.329Z"
+    },
+    "https://www.limerickpost.ie/?p=363552": {
+      "headline": "Zero Affordable Homes Delivered in Limerick City West and North in Five Years",
+      "summary": "Figures revealed at a Limerick Council meeting show that all 41 affordable purchase homes delivered across the city's three electoral areas in the past five years went to Limerick City East, with neither City West nor City North receiving any.",
+      "story": "Just 41 affordable purchase homes have been delivered across the three Limerick City electoral areas over the past five years, figures provided by Limerick City and County Council have confirmed.\n\nRevealed at November’s Metropolitan District Meeting, the data shows that every single one of those 41 homes was located in Limerick City East. Neither Limerick City West nor Limerick City North saw a single affordable purchase home delivered during the five-year period. Furthermore, Limerick City West is not currently projected to receive its first affordable homes until 2028, with no units scheduled for 2027.\n\nFine Gael councillor Dan McSweeney described the figures as extremely disappointing and frustrating, pointing out that despite significant residential developments in areas like Mungret, Raheen, and Patrickswell, no families have been able to buy an affordable home through the scheme in City West.\n\nCllr McSweeney contrasted Limerick's output with Waterford City and County Council, which delivered 204 affordable purchase homes from an original target of 76 during the same timeframe. He called on the local authority to work closely with the Department of Housing, private developers, and the Land Development Agency to accelerate delivery across the Metropolitan District.",
+      "localAngle": "The figures highlight a stark disparity in affordable housing delivery across Limerick City's electoral areas, directly impacting families trying to get on the property ladder locally.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Not a single Affordable Purchase Home delivered in Limerick City West or North since scheme introduced",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/not-a-single-affordable-purchase-home-delivered-in-limerick-city-west-or-north-since-scheme-introduced/",
+      "publishedAt": "Thu, 19 Nov 2026 12:00:34 +0000",
+      "rewrittenAt": "2026-11-19T14:26:24.639Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/06/housing-houses-homes-richard-bell-Yp3tEw_vu2I-unsplash.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:46.824Z"
+    },
+    "https://limerickvoice.com/?p=53875": {
+      "headline": "Former Boxer Jonathan O’Brien Pays Emotional Tribute to Late Friend Lee Reeves",
+      "summary": "Former boxer and trainer Jonathan O’Brien has paid an emotional tribute to his close friend Lee Reeves, who died at University Hospital Limerick on November 16 following a critical brain injury.",
+      "story": "For almost three months, Jonathan O’Brien served as a vital source of information for a Limerick community following the condition of boxer Lee Reeves. Following Reeves' death at University Hospital Limerick on November 16, O'Brien spoke of his heartbreak, admitting he broke down several times while recording a tribute to the 31-year-old.\n\nReeves suffered a critical brain injury during his August 1 bout against Gary Cully at Dublin’s 3Arena. Throughout his hospitalisation, O’Brien kept the public informed. Reflecting on that period, he said: “We screamed out for Lee, we were fighting for him, we were his voice. It wasn’t the outcome we were all looking for.”\n\nO’Brien thanked the medical staff at the hospitals who cared for Reeves, as well as the public for their messages and contributions to a GoFundMe campaign established to support the family. He described Reeves as a young man who left a lasting positive impact on those around him.\n\nReeves will be laid to rest on Friday, November 20, following funeral arrangements at Our Lady Queen of Peace Church in Limerick, where he will be honoured with full military honours.",
+      "localAngle": "Lee Reeves was a 31-year-old from Limerick who passed away at University Hospital Limerick and will be laid to rest in the city.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "‘We were his voice’ as Jonathan O’Brien pays emotional tribute to Lee Reeves",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/we-were-his-voice-as-jonathan-obrien-pays-emotional-tribute-to-lee-reeves/",
+      "publishedAt": "Thu, 19 Nov 2026 12:00:20 +0000",
+      "rewrittenAt": "2026-11-19T14:26:43.389Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/10/843493592_1669239004914786_789277404524331560_Emma-Dineen.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:47.596Z"
+    },
+    "https://www.limerickpost.ie/?p=363541": {
+      "headline": "Castletroy Park Hotel hosts Construction Industry Federation Mid West conference",
+      "summary": "Government figures, industry leaders, and State agencies gather at the Castletroy Park Hotel on November 20 for the Construction Industry Federation’s Mid West Construct event, opened by Minister Kieran O’Donnell.",
+      "story": "Government figures, industry leaders, and State agency decision makers from across the Mid West region gathered at the Castletroy Park Hotel on November 20 for the Construction Industry Federation’s Mid West Construct event. Minister Kieran O’Donnell officially opened the conference, which focused on exploring the construction sector’s most urgent challenges and opportunities.\n\nA key address at the event was delivered by Iarnród Éireann (Irish Rail) CEO Mary Considine. The former Shannon Airport Group leader provided a strategic overview of Irish Rail’s ongoing developments and emphasized the critical role of transport connectivity in driving regional economic growth.\n\nDiscussions throughout the day centered heavily on regional development and housing. Delegates examined housing prospects for 2027, strategies for financing the future of housing, and insights shared by local authorities, the Housing Agency, and Uisce Éireann.",
+      "localAngle": "The conference brings key national and regional decision-makers to Limerick's Castletroy Park Hotel to address local housing and construction challenges.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Limerick to host Mid West Construct conference",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/limerick-to-host-mid-west-construct-conference/",
+      "publishedAt": "Thu, 19 Nov 2026 10:30:48 +0000",
+      "rewrittenAt": "2026-11-19T14:27:54.922Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/01/Spotlight-AA-scaled.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:48.101Z"
+    },
+    "https://limerickvoice.com/?p=53872": {
+      "headline": "Fairview Rangers Lead Premier League as FAI Junior Cup Action Heats Up",
+      "summary": "Fairview Rangers top the Limerick District Premier League standings while local clubs battle through a busy weekend of FAI Junior Cup fixtures.",
+      "story": "Fairview Rangers currently set the pace at the summit of the Premier League, holding a lead over Geraldines and Aisling Annacotty who remain in hot pursuit. Meanwhile, Corbally United lead the charge in the Premier A division, closely tracked by Hyde Rangers, Caherdavin Celtic, and Charleville. In division 1A, Pike Rovers B hold a healthy advantage at the top of the table ahead of chasing sides Cappamore, Holycross, and Ballynanty Rovers B. Aisling Annacotty’s D side face strong pressure from Caherconlish and Kilmallock United B in division 1B after nine games played.\n\nDomestic league action took a backseat over the weekend as the FAI Junior Cup took centre stage. Pike Rovers delivered a commanding performance to hit ten goals past Shelbourne, while Regional United were forced into extra time before overcoming Ballynanty Rovers. Other sides to advance in Sunday's fixtures included Aisling Annacotty, Geraldines, Nenagh, Kilmallock, Summerville Rovers, Star Rovers, and Mungret Regional.\n\nThe cup fixtures brought an end to the run for several local teams. Hyde Rangers, Brazuca United, Herbertstown, Carew Park, Patrickswell, Murroe, and Corbally United all bowed out of the competition and will now turn their full attention back to their respective league campaigns. The cup action concludes its latest round on Thursday evening when Fairview Rangers face Newport Town.",
+      "localAngle": "The report covers the latest standings and cup results across Limerick's district soccer leagues and clubs.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Limerick District Leagues taking shape with title races heating up",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/limerick-district-leagues-taking-shape-with-title-races-heating-up/",
+      "publishedAt": "Thu, 19 Nov 2026 09:46:45 +0000",
+      "rewrittenAt": "2026-11-19T14:31:15.150Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/pitch-scaled.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:48.674Z"
+    },
+    "https://www.limerickpost.ie/?p=363568": {
+      "headline": "Ballet Ireland Brings Romeo & Juliet to Limerick's Lime Tree Theatre",
+      "summary": "Ballet Ireland will stage its production of Romeo & Juliet at the Lime Tree Theatre on Thursday, November 26, featuring Prokofiev's score and choreography exploring the Shakespearean tragedy.",
+      "story": "Theatregoers in Limerick will have the chance to see Ballet Ireland's production of Romeo & Juliet when it comes to the Lime Tree Theatre on Thursday, November 26.\n\nSet to Sergei Prokofiev’s score, the production portrays the story of the star-crossed lovers against a backdrop of ancient feuds and gang warfare. The company describes the performance as a blend of choreography and emotion, following the pair as they defy their families.\n\nThe performance begins at 7.30pm. Tickets are priced at €32 or €27, with a family ticket available for €90 covering two adults and two children. \n\nBallet Ireland’s tour of the production is sponsored by EY, with support from RTÉ Supporting the Arts.",
+      "localAngle": "The acclaimed dance production is coming to Limerick's Lime Tree Theatre for a single night performance.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Ballet Ireland to perform Romeo & Juliet at Lime Tree Theatre",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/ballet-ireland-to-perform-romeo-juliet-at-lime-tree-theatre/",
+      "publishedAt": "Thu, 19 Nov 2026 08:40:27 +0000",
+      "rewrittenAt": "2026-11-19T14:36:30.604Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Image-NO-Text.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:48.883Z"
+    },
+    "https://www.limerickpost.ie/?p=363562": {
+      "headline": "Limerick Milk Market unveils month-long Christmas programme with Santa and local crafts",
+      "summary": "The Limerick Milk Market will run a festive programme featuring Santa visits, live music, and local craft stalls from November 28 to December 24. Events include charity fundraisers, pet-friendly photo sessions, and artisan markets.",
+      "story": "The historic heart of Limerick is getting ready for the festive season as the Milk Market announces its comprehensive Christmas programme, running on select dates from Saturday, November 28, to Thursday, December 24.\n\nOpening weekend kicks off at 8am on November 28 with a charity Santa raising funds for Limerick Suicide Watch, accompanied by Christmas elves from Fidget Feet and a market featuring local food and crafts. The schedule also includes a \"Santa Paws\" event on November 29 for pet owners, a Christmas Cupcake Day on December 4 supporting Rising Together Training Centre, and the return of the Festive Food and Craft Market on December 5 with over 80 traders.\n\nFurther highlights across the month include a Christmas Art Fair on December 6, a Transition Year student enterprise market on December 11, a free Boherbuoy Band concert on December 13, and a sensory Santa's grotto paired with an open-air car showroom by Lyons of Limerick on December 18. The seasonal series will wrap up with a final market on Christmas Eve from 8am to 2pm.\n\nMilk Market manager David Fitzgerald expressed enthusiasm for the upcoming events. “We’re thrilled to welcome everyone back for another magical Christmas series. Our community spirit, local food and festive atmosphere make the market a truly special place to celebrate Christmas in Limerick,” he said.",
+      "localAngle": "The Limerick Milk Market serves as a central festive hub for the city, bringing together local traders, charities, and families throughout December.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick Milk Market Christmas Programme brings Santa, live music and local crafts to the city",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/limerick-milk-market-christmas-programme-brings-santa-live-music-and-local-crafts-to-the-city/",
+      "publishedAt": "Thu, 19 Nov 2026 08:10:15 +0000",
+      "rewrittenAt": "2026-11-19T14:37:05.154Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/0N0A2351.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:50.647Z"
+    },
+    "https://www.limerickpost.ie/?p=363603": {
+      "headline": "Limerick author marks 176th anniversary of Kilkee emigrant ship disaster in new book",
+      "summary": "Limerick writer Maureen Sparling has released a new book commemorating the 1850 wreck of the emigrant vessel Edmond, which claimed 98 lives after setting sail from Limerick for New York.",
+      "story": "Limerick writer Maureen Sparling has drawn on one of the region's most tragic maritime histories for her new book, *Mystery at Sykes House – A Tribute to Kilkee*, which marks the 176th anniversary of the sinking of the emigrant vessel Edmond.\n\nThe ship, travelling from Limerick towards New York with 216 people on board, was driven into Kilkee Bay during a violent Atlantic storm on the night of November 19, 1850. The vessel struck the rocks near Sykes House and broke apart, resulting in the deaths of 98 passengers and crew.\n\nIn the aftermath of the disaster, local residents mounted an immediate rescue response. Richard Russell opened Sykes House to survivors, while others in Kilkee provided food, shelter, and assistance. The site of the wreck subsequently became known as Edmond Point.\n\nSparling's book, launched in Kilkee during the summer as part of the Kilkee Civic Trust programme, features a novella following characters Nell and Daniel against the backdrop of the tragedy. It also includes local stories, memories, poetry, and reflections, and is available online via Buythebook.ie.",
+      "localAngle": "The book examines the legacy of the emigrant vessel Edmond, which departed from Limerick carrying local passengers before its tragic wreck in 1850.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Remembering the Edmond: 176 years since the Kilkee tragedy",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/remembering-the-edmond-176-years-since-the-kilkee-tragedy/",
+      "publishedAt": "Thu, 19 Nov 2026 07:45:13 +0000",
+      "rewrittenAt": "2026-11-19T14:38:57.590Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/SYKES_HOUSE_FRONT_COVER-copy.jpg",
+      "imageCheckedAt": "2026-11-19T14:41:50.895Z"
     }
   }
 }
