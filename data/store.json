@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastScrape": "2026-11-19T18:10:10.214Z",
+    "lastScrape": "2026-11-19T21:23:06.726Z",
     "totalArticles": 37
   },
   "articles": {
@@ -5289,6 +5289,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T21:20:09.845Z"
     },
+    "9358175": {
+      "id": "9358175",
+      "title": "Burning cigarettes were possible cause for two Limerick house fires",
+      "link": "https://www.limerickleader.ie/news/burning-cigarettes-were-possible-cause-for-two-limerick-house-fires-9358175",
+      "description": "Limerick Coroner’s Court in Kilmallock heard at inquests that lit cigarettes could have been the cause of house fires",
+      "pubDate": "Thu, 19 Nov 2026 20:00:51 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/10/20/Cigarette-image.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T21:22:58.020Z"
+    },
     "9358259": {
       "id": "9358259",
       "title": "‘It’s very hard to compete with clubs who can help out with jobs’",
@@ -5542,6 +5554,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
+    "9362120": {
+      "id": "9362120",
+      "title": "‘A clean town is a happy town’: Big Limerick Clean-up for Christmas",
+      "link": "https://www.limerickleader.ie/news/christmas/a-clean-town-is-a-happy-town-big-limerick-clean-up-for-christmas-9362120",
+      "description": "Limerick traders and businesses lend a hand cleaning the city’s streets ahead of Christmas in Limerick 2026",
+      "pubDate": "Thu, 19 Nov 2026 21:00:24 GMT",
+      "author": "Olivia O’Dwyer and Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/17/29/ilim-Business-Clean-Up-19-11-26-3.jpeg?width=1200&auto=webp&trim=136%2C3%2C0%2C0",
+      "imageCredit": "PICTURE: Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T21:22:58.020Z"
+    },
     "9362237": {
       "id": "9362237",
       "title": "Limerick coroner has “concerns” about communication and escalating care as inquest verdict delivered",
@@ -5587,6 +5611,28 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/17/cs-d21d88e8-8e5c-4a7e-96fd-d9c9e3b78d44.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
+    "9362552": {
+      "id": "9362552",
+      "title": "Delay in reporting separation of UN convoy before fatal shooting, inquest told",
+      "link": "https://www.limerickleader.ie/national/delay-in-reporting-separation-of-un-convoy-before-fatal-shooting-inquest-told-9362552",
+      "description": "Private Sean Rooney was shot dead in December 2022 after the UN vehicle he was driving was attacked while on a transport mission in Lebanon.",
+      "pubDate": "Thu, 19 Nov 2026 19:11:35 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/19/cs-a9041a62-032e-4eae-9430-7bf16c2808c4.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T21:22:58.020Z"
+    },
+    "9362610": {
+      "id": "9362610",
+      "title": "‘Bale spike’ found in embankment close to where Scarlett Faulkner was attacked",
+      "link": "https://www.limerickleader.ie/news/crime-courts/bale-spike-found-in-embankment-close-to-where-scarlett-faulkner-was-attacked-9362610",
+      "description": "A 17-year-old girl and a 41-year-old woman are on trial at the Central Criminal Court accused of the Limerick woman’s murder.",
+      "pubDate": "Thu, 19 Nov 2026 18:50:44 GMT",
+      "author": "Alison O' Riordan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T21:22:58.020Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -9389,6 +9435,46 @@
       "author": "Kayleigh Downey",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-19T18:10:00.491Z"
+    },
+    "https://www.limerickpost.ie/?p=363424": {
+      "id": "https://www.limerickpost.ie/?p=363424",
+      "title": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "link": "https://www.limerickpost.ie/2026/11/19/limerick-in-photos-out-and-about-in-limerick-city-41/",
+      "description": "THE Limerick Post photographer got out and about on the Treaty streets this weekend snapping up all the celebratory scenes as the Christmas chill started to appear in the air. Do you know someone spotted out and about? Share and let them know.\nThe post LIMERICK IN PHOTOS: Out and about in Limerick City appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 21:00:47 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T21:22:57.428Z"
+    },
+    "https://www.limerickpost.ie/?p=363513": {
+      "id": "https://www.limerickpost.ie/?p=363513",
+      "title": "Tasty finals ahead in Munster Club Hurling C’ship",
+      "link": "https://www.limerickpost.ie/2026/11/19/tasty-finals-ahead-in-munster-club-hurling-cship/",
+      "description": "LIMERICK hurling supporters have a couple of tasty Munster Finals to look forward to the weekend after next, courtesy of Dromin/Athlacca, DA, (Intermediate) and Caherline (Junior). In front of a great crowd at Kilmallock’s Fitzgerald Park, James Kennedy-tutored DA squeezed past odds-on shots Clarecastle in a lively semi-final, 1-20 to 0-22. The visitors were under [&#8230;]\nThe post Tasty finals ahead in Munster Club Hurling C’ship appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 19:30:39 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T21:22:57.428Z"
+    },
+    "https://www.limerickpost.ie/?p=363709": {
+      "id": "https://www.limerickpost.ie/?p=363709",
+      "title": "Jury in murder trial shown zoomed in camera recording of attack on Scarlett Faulkner",
+      "link": "https://www.limerickpost.ie/2026/11/19/jury-in-murder-trial-shown-zoomed-in-camera-recording-of-attack-on-limerick-woman-scarlett-faulkner/",
+      "description": "A JURY at the Central Criminal Court was shown explicit zoomed in footage of the attack on Limerick woman Scarlett Faulkner today (Thursday, November 19). Ms Faulkner with an address at Longpavement in Limerick died on April 13 after an incident in Birdhill, Co. Tipperary on March 21. The twelve jurors saw zoomed in footage [&#8230;]\nThe post Jury in murder trial shown zoomed in camera recording of attack on Scarlett Faulkner appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 19:02:04 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T21:22:57.429Z"
+    },
+    "https://limerickvoice.com/?p=53902": {
+      "id": "https://limerickvoice.com/?p=53902",
+      "title": "Three times the applause: UCH takes home business award for third consecutive year",
+      "link": "https://limerickvoice.com/entertainment/three-times-the-applause-uch-takes-home-business-award-for-third-consecutive-year/",
+      "description": "UCH celebrates winning Customer Experience Excellence Award for the third time. MARKING its third consecutive win of the Customer Experience Excellence Award at the Limerick Chamber Regional Business Awards, University Concert Hall (UCH) celebrates the people and passion that make the magic happen, both on stage and beyond the curtain.  More than a venue where [&#8230;]\nThe post Three times the applause: UCH takes home business award for third consecutive year appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 18:30:28 +0000",
+      "author": "Khushi Verma",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-19T21:22:58.675Z"
     }
   },
   "rewritten": {
@@ -15265,6 +15351,23 @@
       "imageCredit": "Iconic Media Group",
       "rewrittenAt": "2026-11-18T21:21:06.198Z"
     },
+    "9358175": {
+      "headline": "Limerick Coroner's Court hears lit cigarettes may have sparked two house fires",
+      "summary": "Inquests at Kilmallock heard that burning cigarettes were a possible cause for two Limerick house fires.",
+      "story": "Limerick Coroner's Court in Kilmallock was told during inquests that lit cigarettes could have been behind two separate house fires in the county. The findings emerged as the court examined the potential causes of the blazes.",
+      "localAngle": "The inquests took place at the Limerick Coroner's Court in Kilmallock, examining fires that occurred locally.",
+      "section": "Courts",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Burning cigarettes were possible cause for two Limerick house fires",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/burning-cigarettes-were-possible-cause-for-two-limerick-house-fires-9358175",
+      "publishedAt": "Thu, 19 Nov 2026 20:00:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/17/10/20/Cigarette-image.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-19T21:24:04.239Z"
+    },
     "9358259": {
       "headline": "Limerick AIL clubs enjoy break after busy six-game run",
       "summary": "Limerick's seven Energia All-Ireland League clubs are currently on a three-week break following a demanding schedule of six games in seven weeks.",
@@ -15537,6 +15640,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-19T14:24:49.020Z"
     },
+    "9362120": {
+      "headline": "Limerick businesses clean city streets ahead of Christmas celebrations",
+      "summary": "Traders and local businesses are helping to clean Limerick's streets ahead of the Christmas season.",
+      "story": "Local traders and businesses are lending a hand to clean the city's streets ahead of Christmas in Limerick 2026.",
+      "localAngle": "The cleanup effort directly involves Limerick businesses working to prepare the city's streets for the festive season.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘A clean town is a happy town’: Big Limerick Clean-up for Christmas",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/christmas/a-clean-town-is-a-happy-town-big-limerick-clean-up-for-christmas-9362120",
+      "publishedAt": "Thu, 19 Nov 2026 21:00:24 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/17/29/ilim-Business-Clean-Up-19-11-26-3.jpeg?width=1200&auto=webp&trim=136%2C3%2C0%2C0",
+      "imageCredit": "PICTURE: Adrian Butler",
+      "rewrittenAt": "2026-11-19T21:23:55.246Z"
+    },
     "9362237": {
       "skipped": true,
       "duplicateOf": "9362315",
@@ -15579,6 +15699,16 @@
       "skipped": true,
       "duplicateOf": "9360230",
       "rewrittenAt": "2026-11-19T18:10:56.545Z"
+    },
+    "9362552": {
+      "skipped": true,
+      "duplicateOf": "9359032",
+      "rewrittenAt": "2026-11-19T21:23:39.632Z"
+    },
+    "9362610": {
+      "skipped": true,
+      "duplicateOf": "9359984",
+      "rewrittenAt": "2026-11-19T21:23:39.633Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -20679,6 +20809,59 @@
       "rewrittenAt": "2026-11-19T18:11:59.722Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/11/Housing-Panel-scaled.jpg",
       "imageCheckedAt": "2026-11-19T18:12:01.782Z"
+    },
+    "https://www.limerickpost.ie/?p=363709": {
+      "skipped": true,
+      "duplicateOf": "9359984",
+      "rewrittenAt": "2026-11-19T21:23:39.633Z"
+    },
+    "https://www.limerickpost.ie/?p=363424": {
+      "headline": "Limerick locals brave the Christmas chill as weekend social scenes captured on Treaty streets",
+      "summary": "Photographer Brendan Gleeson captured locals enjoying the weekend atmosphere across Limerick City as festive temperatures began to set in. Residents were spotted out and about at local spots including the Locke Bar and Mother Mac's.",
+      "story": "As the winter weather begins to settle over the Treaty City, locals have been spotted making the most of the weekend atmosphere. Photographer Brendan Gleeson was out capturing the celebratory scenes across Limerick as the seasonal chill arrived.\n\nAmong those snapped enjoying the weekend across the city were Aoife Rhatigan, Aine Moloney, and Diarmuid Layden. Also spotted taking in the early festive air were Isobel, Mike, Alisona, and Neil Heffernan.\n\nThe camera also caught Deirdre and Theresa Lynott, alongside Daniel Lynch and Serena Stewart, as they made their way around local establishments including the Locke Bar and Mother Mac's.\n\nThe series of snapshots offers a glimpse into everyday life on the city's streets as the community transitions into the winter months. Locals who recognise friends or family members in the published photographs are being encouraged to share the images.",
+      "localAngle": "The photos capture familiar faces enjoying popular social spots across Limerick City centre as winter sets in.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/limerick-in-photos-out-and-about-in-limerick-city-41/",
+      "publishedAt": "Thu, 19 Nov 2026 21:00:47 +0000",
+      "rewrittenAt": "2026-11-19T21:23:47.527Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Mothermacs-7-1.jpg",
+      "imageCheckedAt": "2026-11-19T21:24:31.196Z"
+    },
+    "https://www.limerickpost.ie/?p=363513": {
+      "headline": "Dromin/Athlacca and Caherline Reach Munster Hurling Finals",
+      "summary": "Limerick clubs Dromin/Athlacca and Caherline have advanced to their respective Munster hurling finals following semi-final victories over Clarecastle and Dr Crokes.",
+      "story": "Limerick hurling supporters have two Munster finals to look forward to the weekend after next after Dromin/Athlacca and Caherline secured provincial final berths.\n\nAt Fitzgerald Park in Kilmallock, James Kennedy-tutored Dromin/Athlacca edged past Clarecastle on a scoreline of 1-20 to 0-22 in a lively intermediate semi-final. The winners were propelled by the dependable David Reidy, who contributed 0-10, alongside a 1-3 haul from prolific goal scorer Jack Fitzgibbon and contributions from Cian Scully. On the eve of the club's 75th anniversary, Dromin/Athlacca will now face Tipperary's St Mary's of Clonmel in the decider on November 29.\n\nIn the junior semi-final at Fr Hayes Park in Caherconlish, Caherline comfortably defeated Killarney's Dr Crokes 2-20 to 0-13. Hugh Murnane led the scoring for the Limerick side with 2-5, while man-of-the-match Andrew Brennan added 0-6. Mike Hickey's team will meet Cork's Kilshannig in the silver anniversary final on November 28.\n\nMeanwhile, in the senior semi-final, Kilmallock's provincial campaign came to an end following a 1-20 to 1-11 defeat to All-Ireland champions Ballygunner at Walsh Park in Waterford. A crucial double-save from Conor Hanley-Clarke kept Kilmallock in contention before a late scoring burst from the Waterford side. Elsewhere, Patrickswell has been confirmed as Limerick's representative in the provincial Junior B Championship Tournament, which Killeedy will host in the New Year.",
+      "localAngle": "Limerick clubs Dromin/Athlacca, Caherline, Kilmallock, and Patrickswell are all featured in major Munster club hurling championship fixtures and provincial tournaments.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Tasty finals ahead in Munster Club Hurling C’ship",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/tasty-finals-ahead-in-munster-club-hurling-cship/",
+      "publishedAt": "Thu, 19 Nov 2026 19:30:39 +0000",
+      "rewrittenAt": "2026-11-19T21:24:15.408Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Post-One-1.jpg",
+      "imageCheckedAt": "2026-11-19T21:24:31.921Z"
+    },
+    "https://limerickvoice.com/?p=53902": {
+      "headline": "University Concert Hall Wins Limerick Chamber Regional Business Award for Third Time",
+      "summary": "University Concert Hall has won the Customer Experience Excellence Award at the Limerick Chamber Regional Business Awards for the third consecutive year. The achievement follows the venue's recent Creative Access Award win in September.",
+      "story": "University Concert Hall (UCH) has taken home the Customer Experience Excellence Award at the Limerick Chamber Regional Business Awards for the third year in a row. The win marks a significant milestone for the Midwest’s largest concert venue, recognizing the collective efforts of staff across box office, front-of-house, administration, marketing, and technical departments.\n\nInterim Director Máire Logue congratulated staff on the achievement and paid tribute to outgoing Director Sinéad Hope, who departed last week after more than 13 years at the helm. Administration Manager Marie Healy, who has served at UCH for over 28 years, noted that the venue also picked up the Creative Access Award this past September.\n\nStaff pointed to practical changes driven by audience feedback, such as earlier door openings and the provision of booster seats, as key factors in improving the customer experience. UCH has also focused on accessibility under Programming and Business Development Manager Jennifer Flewett, introducing dementia-friendly concerts through a partnership with Music & Health Ireland and adding captioning to cinema screenings.",
+      "localAngle": "The University Concert Hall is the Midwest’s largest concert venue, serving the local Limerick community through music, theatre, and cultural events.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Three times the applause: UCH takes home business award for third consecutive year",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/entertainment/three-times-the-applause-uch-takes-home-business-award-for-third-consecutive-year/",
+      "publishedAt": "Thu, 19 Nov 2026 18:30:28 +0000",
+      "rewrittenAt": "2026-11-19T21:24:30.671Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-12.53.21.jpeg",
+      "imageCheckedAt": "2026-11-19T21:24:32.193Z"
     }
   }
 }
