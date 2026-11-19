@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-19T14:20:40.936Z",
-    "totalArticles": 39
+    "lastScrape": "2026-11-19T18:10:10.214Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -4944,6 +4944,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T19:29:39.169Z"
     },
+    "9354423": {
+      "id": "9354423",
+      "title": "PICTURES: 1XBet Irish St. Leger 550 at Limerick Greyhound Stadium ",
+      "link": "https://www.limerickleader.ie/sport/pictures-1xbet-irish-st-leger-550-at-limerick-greyhound-stadium-9354423",
+      "description": "With just two to qualify from each of the three semi-finals, there was little margin for error in the 1XBet Irish St. Leger 550 at Limerick Greyhound Stadium on Saturday night, however, the action didn’t disappoint",
+      "pubDate": "Thu, 19 Nov 2026 16:00:15 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/16/MixCollage-16-Nov-2026-03-27-PM-4041-4d5c31a3.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
+    "9354538": {
+      "id": "9354538",
+      "title": "Munster Intermediate and Club gold double for Limerick AC",
+      "link": "https://www.limerickleader.ie/sport/athletics/munster-intermediate-and-club-gold-double-for-limerick-ac-9354538",
+      "description": "There was plenty of Limerick success at the Munster Intermediate and Juvenile Cross Country Championships",
+      "pubDate": "Thu, 19 Nov 2026 17:30:03 GMT",
+      "author": "Karen Raine",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/16/04/Screenshot-2026-11-15-at-17-37-53.png?width=1200&auto=webp&trim=158%2C0%2C153%2C3",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
     "9354549": {
       "id": "9354549",
       "title": "O’Neill rejects claim Sinn Fein ‘content’ with bombing campaign in 1998",
@@ -5517,6 +5541,52 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9362237": {
+      "id": "9362237",
+      "title": "Limerick coroner has “concerns” about communication and escalating care as inquest verdict delivered",
+      "link": "https://www.limerickleader.ie/news/limerick-coroner-has-concerns-about-communication-and-escalating-care-as-inquest-verdict-delivered-9362237",
+      "description": "Limerick coroner John McNamara recorded a verdict of medical misadventure at the inquest of Geraldine O’Loughlin who died in University Hospital Limerick on July 7, 2023",
+      "pubDate": "Thu, 19 Nov 2026 16:30:46 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/15/59/Geraldine-OLoughlin-RIP-2.jpeg?width=1200&auto=webp&trim=0%2C3%2C269%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
+    "9362315": {
+      "id": "9362315",
+      "title": "Family of Limerick woman welcome verdict of medical misadventure",
+      "link": "https://www.limerickleader.ie/news/family-of-limerick-woman-welcome-verdict-of-medical-misadventure-9362315",
+      "description": "The family of Geraldine O’Loughlin who died at University Hospital Limerick welcomed a verdict  of medical misadventure at her inquest in Kilmallock",
+      "pubDate": "Thu, 19 Nov 2026 17:01:39 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/15/Geraldine-OLoughlin-RIP-1.jpeg?width=1200&auto=webp&trim=37%2C6%2C667%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
+    "9362322": {
+      "id": "9362322",
+      "title": "Irish justice minister has ‘open mind’ to Omagh inquiry after NI probe concludes",
+      "link": "https://www.limerickleader.ie/national/irish-justice-minister-has-open-mind-to-omagh-inquiry-after-ni-probe-concludes-9362322",
+      "description": "Jim O’Callaghan also denied the Irish Government is ‘foot-dragging’ in respect of their co-operation with the inquiry currently sitting in Belfast.",
+      "pubDate": "Thu, 19 Nov 2026 16:49:39 GMT",
+      "author": "Claudia Savage, Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/cs-4c39d5ca-90c8-4111-862a-0688189c527b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
+    },
+    "9362482": {
+      "id": "9362482",
+      "title": "UK and Irish Governments pledge co-operation on NI Troubles legacy",
+      "link": "https://www.limerickleader.ie/national/uk-and-irish-governments-pledge-co-operation-on-ni-troubles-legacy-9362482",
+      "description": "Irish Minister for Foreign Affairs Helen McEntee hailed a ‘really positive relationship not just north-south, but east-west’.",
+      "pubDate": "Thu, 19 Nov 2026 17:32:07 GMT",
+      "author": "Rebecca Black and Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/17/cs-d21d88e8-8e5c-4a7e-96fd-d9c9e3b78d44.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-19T18:10:00.077Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -9269,6 +9339,56 @@
       "author": "Ruairi Connelly",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-19T14:20:32.270Z"
+    },
+    "https://www.limerickpost.ie/?p=363706": {
+      "id": "https://www.limerickpost.ie/?p=363706",
+      "title": "The passing of ‘Mr Darts’ Tony Hickey",
+      "link": "https://www.limerickpost.ie/2026/11/19/the-passing-of-mr-darts-tony-hickey/",
+      "description": "MANY warm tributes have been paid to Tony Hickey of Ballinacurra Weston and Pennywell. Affectionaltely know as ‘Mr Darts’, he passed away peacefully on Wednesday (November 18) at Riverdale Nursing Home in Ardnacrusha, surrounded by his loving family. The Irish National Darts Oganisation noted: “Tony was a true gentleman and a tremendous ambassador for our [&#8230;]\nThe post The passing of ‘Mr Darts’ Tony Hickey appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 18:00:42 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T18:09:59.683Z"
+    },
+    "https://www.limerickpost.ie/?p=363546": {
+      "id": "https://www.limerickpost.ie/?p=363546",
+      "title": "Enable helping turn forgotten favourites into festive finds for Christmas",
+      "link": "https://www.limerickpost.ie/2026/11/19/enable-helping-turn-forgotten-favourites-into-festive-finds-for-christmas/",
+      "description": "A LIMERICK charity shop is appealing to people to turn their forgotten favourites into festive finds to support Enable Ireland&#8217;s disability services this Christmas. In the run-up to the festive season, the shop on Honan&#8217;s Quay is calling on local families to think ahead and donate pre-loved toys and Christmas decorations. 100 per cent of [&#8230;]\nThe post Enable helping turn forgotten favourites into festive finds for Christmas appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 16:30:08 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T18:09:59.684Z"
+    },
+    "https://www.limerickpost.ie/?p=363554": {
+      "id": "https://www.limerickpost.ie/?p=363554",
+      "title": "Call for Limerick Council to implement five-step Active Travel consultation process",
+      "link": "https://www.limerickpost.ie/2026/11/19/call-for-limerick-council-to-implement-five-step-active-travel-consultation-process/",
+      "description": "SOCIAL Democrats councillor Elisa O&#8217;Donovan has called on the Council to immediately implement a five-step non-statutory consultation process for Active Travel schemes throughout the city. This process was developed by the Council&#8217;s Active Travel team in conjunction with the Travel and Transportation Strategic Policy Committee (SPC) in December 2023. Speaking at November&#8217;s meeting of the [&#8230;]\nThe post Call for Limerick Council to implement five-step Active Travel consultation process appeared first on Limerick Post.",
+      "pubDate": "Thu, 19 Nov 2026 15:00:09 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-19T18:09:59.684Z"
+    },
+    "https://limerickvoice.com/?p=53880": {
+      "id": "https://limerickvoice.com/?p=53880",
+      "title": "Books of Condolence open for Limerick’s boxing hero ‘El Champo’ Lee Reeves",
+      "link": "https://limerickvoice.com/news/books-of-condolence-open-for-limericks-boxing-hero-el-champo-lee-reeves/",
+      "description": "Members of the public can pay their respects to the young man who sadly passed away this week.  BOOKS of condolence have opened for Limerick boxer Lee Reeves, with members of the public invited to sign and pay their respects to &#8220;a young man whose achievements in sport and positive impact on the community touched many lives.&#8221;  [&#8230;]\nThe post Books of Condolence open for Limerick&#8217;s boxing hero &#8216;El Champo&#8217; Lee Reeves appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 18:00:23 +0000",
+      "author": "Rowan Kelly",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-19T18:10:00.491Z"
+    },
+    "https://limerickvoice.com/?p=53898": {
+      "id": "https://limerickvoice.com/?p=53898",
+      "title": "REVIEW: From the lounge to the library, relive the mystery of MIDAS’s new play ‘Clue’",
+      "link": "https://limerickvoice.com/arts-and-culture/review-from-the-lounge-to-the-library-relive-the-mystery-of-midass-new-play-clue/",
+      "description": "Belltable Theatre welcomes two nights of acclaimed play &#8216;Clue&#8217; performed by MIDAS. OPENING night of &#8216;Clue&#8217; on November 18 at the Belltable showcased an ambitious, fast-paced and plot-twist-driven production. Originally directed by Sandy Rustin and performed by Mary Immaculate Dramatic Arts Society (MIDAS), the production demonstrated both the talent and dedication of the student cast. [&#8230;]\nThe post REVIEW: From the lounge to the library, relive the mystery of MIDAS&#8217;s new play &#8216;Clue&#8217; appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 17:45:15 +0000",
+      "author": "Kayleigh Downey",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-19T18:10:00.491Z"
     }
   },
   "rewritten": {
@@ -14731,6 +14851,28 @@
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-16T19:32:49.984Z"
     },
+    "9354423": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363437",
+      "rewrittenAt": "2026-11-19T18:10:56.546Z"
+    },
+    "9354538": {
+      "headline": "Limerick AC Secures Munster Intermediate and Club Gold",
+      "summary": "Limerick AC achieved double gold success at the recent Munster Intermediate and Juvenile Cross Country Championships.",
+      "story": "Limerick AC secured a Munster Intermediate and Club gold double at the cross country championships, alongside success in the juvenile events.",
+      "localAngle": "The achievements highlight local athletic success representing Limerick at the provincial cross country championships.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Munster Intermediate and Club gold double for Limerick AC",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/athletics/munster-intermediate-and-club-gold-double-for-limerick-ac-9354538",
+      "publishedAt": "Thu, 19 Nov 2026 17:30:03 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/16/04/Screenshot-2026-11-15-at-17-37-53.png?width=1200&auto=webp&trim=158%2C0%2C153%2C3",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-19T18:11:20.926Z"
+    },
     "9354549": {
       "skipped": true,
       "duplicateOf": "9350127",
@@ -15394,6 +15536,49 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/07/3623498.jpeg?width=1200&auto=webp&trim=178%2C12%2C1610%2C0",
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-19T14:24:49.020Z"
+    },
+    "9362237": {
+      "skipped": true,
+      "duplicateOf": "9362315",
+      "rewrittenAt": "2026-11-19T18:10:56.546Z"
+    },
+    "9362315": {
+      "headline": "Medical Misadventure Verdict Welcomed by Family of Late Limerick Woman",
+      "summary": "The family of Geraldine O’Loughlin has welcomed a verdict of medical misadventure following her inquest in Kilmallock regarding her death at University Hospital Limerick.",
+      "story": "The inquest into the death of Geraldine O’Loughlin at University Hospital Limerick concluded in Kilmallock with a verdict of medical misadventure, which her family has welcomed.",
+      "localAngle": "The inquest took place in Kilmallock following a death at University Hospital Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Family of Limerick woman welcome verdict of medical misadventure",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/family-of-limerick-woman-welcome-verdict-of-medical-misadventure-9362315",
+      "publishedAt": "Thu, 19 Nov 2026 17:01:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/15/Geraldine-OLoughlin-RIP-1.jpeg?width=1200&auto=webp&trim=37%2C6%2C667%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-19T18:11:30.617Z"
+    },
+    "9362322": {
+      "headline": "Irish Justice Minister Open to Omagh Inquiry Following Northern Ireland Probe",
+      "summary": "Jim O’Callaghan has stated he has an open mind regarding an Omagh inquiry and denied any foot-dragging by the Irish Government over co-operation.",
+      "story": "Speaking after the conclusion of the Northern Ireland probe, Jim O'Callaghan addressed the inquiry currently sitting in Belfast. He denied that the Irish Government is delaying its co-operation with the proceedings.",
+      "localAngle": "This national political development is being followed by readers across Limerick and the wider country.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Irish justice minister has ‘open mind’ to Omagh inquiry after NI probe concludes",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-justice-minister-has-open-mind-to-omagh-inquiry-after-ni-probe-concludes-9362322",
+      "publishedAt": "Thu, 19 Nov 2026 16:49:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/cs-4c39d5ca-90c8-4111-862a-0688189c527b.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-19T18:11:38.987Z"
+    },
+    "9362482": {
+      "skipped": true,
+      "duplicateOf": "9360230",
+      "rewrittenAt": "2026-11-19T18:10:56.545Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -20425,6 +20610,75 @@
       "rewrittenAt": "2026-11-19T14:38:57.590Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/SYKES_HOUSE_FRONT_COVER-copy.jpg",
       "imageCheckedAt": "2026-11-19T14:41:50.895Z"
+    },
+    "https://limerickvoice.com/?p=53880": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-19T18:10:56.545Z"
+    },
+    "https://www.limerickpost.ie/?p=363706": {
+      "headline": "Tributes paid following the passing of Limerick darts figure Tony Hickey",
+      "summary": "Tony Hickey, affectionately known as 'Mr Darts' across Limerick and the wider Irish sporting community, has passed away at the age of 82. Tributes have poured in from world champions and local players alike following his death on Wednesday.",
+      "story": "Tributes have been paid across the sporting world following the death of Tony Hickey, a familiar face in the Limerick darts community from Ballinacurra Weston and Pennywell. Known widely as 'Mr Darts', he passed away peacefully on Wednesday, November 18, at Riverdale Nursing Home in Ardnacrusha, surrounded by his family.\n\nThe Irish National Darts Organisation led the tributes, describing him as a true gentleman and a tremendous ambassador who travelled the length and breadth of Ireland to support players at all levels, from grassroots events to the national calendar. International figures also shared their condolences, including 16-time World Champion Phil Taylor and local professional player William 'The Magpie' O'Connor, who remembered him for his friendship, humour, and dedication to the sport.\n\nMr Hickey is survived by his daughter Celine, son-in-law Gordon, grandchildren Emily, Naoise, Zachary, and Ethan, alongside his extended family, friends, and the wider darts community. \n\nHis remains will repose at Cross’s Funeral Home on Lower Gerald Griffin Street on Friday from 5pm to 6.30pm. His Requiem Mass will take place at St John’s Cathedral at 11am the following morning, followed by burial at Mount St Oliver Cemetery.",
+      "localAngle": "Tony Hickey was a well-known local figure from Ballinacurra Weston and Pennywell who made a lasting impact on the Limerick and national darts communities.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "The passing of ‘Mr Darts’ Tony Hickey",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/the-passing-of-mr-darts-tony-hickey/",
+      "publishedAt": "Thu, 19 Nov 2026 18:00:42 +0000",
+      "rewrittenAt": "2026-11-19T18:11:04.334Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/TH.jpg",
+      "imageCheckedAt": "2026-11-19T18:12:00.151Z"
+    },
+    "https://limerickvoice.com/?p=53898": {
+      "headline": "Mary Immaculate student society MIDAS debuts at Belltable with 90-minute play 'Clue'",
+      "summary": "The Mary Immaculate Dramatic Arts Society is staging its debut Belltable Theatre production with a two-night run of the murder mystery comedy 'Clue', concluding tonight.",
+      "story": "The Mary Immaculate Dramatic Arts Society (MIDAS) is making its debut at the Belltable Theatre with a two-night run of the murder mystery play 'Clue'. Opening night took place on November 18, with the final performance scheduled for this evening, Thursday, November 19, with doors opening at 8pm.\n\nBased on the 1985 film and the Cluedo board game, the 90-minute production marks a significant step up for the student society, which typically performs 45-minute pieces. Cast member Scott Callaghan, who plays Colonel Mustard, noted that moving to the Belltable is a major milestone for MIDAS. Rehearsals for the ambitious, fast-paced show have run up to four days a week since the start of November.\n\nThe production features a six-person dinner guest cast alongside physical comedy, quick exchanges, and atmospheric lighting and sound design. Following positive audience reactions on opening night, the student cast and crew return to the Belltable stage for the final performance of the run tonight.",
+      "localAngle": "The Mary Immaculate Dramatic Arts Society is staging its debut production at Limerick's Belltable Theatre.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "REVIEW: From the lounge to the library, relive the mystery of MIDAS’s new play ‘Clue’",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/review-from-the-lounge-to-the-library-relive-the-mystery-of-midass-new-play-clue/",
+      "publishedAt": "Thu, 19 Nov 2026 17:45:15 +0000",
+      "rewrittenAt": "2026-11-19T18:11:13.152Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/MIDAS-Image-1.jpg",
+      "imageCheckedAt": "2026-11-19T18:12:00.777Z"
+    },
+    "https://www.limerickpost.ie/?p=363546": {
+      "headline": "Limerick Enable Ireland shop launches Christmas toy and decoration donation drive",
+      "summary": "Enable Ireland's shop on Honan's Quay is asking Limerick families to donate pre-loved toys and Christmas decorations to fund local disability services. All profits from the holiday items will go directly toward supporting the charity's services.",
+      "story": "A Limerick charity shop is calling on local families to donate pre-loved toys and Christmas decorations in the run-up to the festive season. The Enable Ireland shop located on Honan's Quay launched the appeal to turn forgotten items into festive finds to help support the organization's disability services.\n\nOne hundred per cent of the profits generated from the sale of the donated toys and decorations will go directly toward funding vital disability services provided by Enable Ireland across the country.\n\nAs part of the 'Pass Christmas On' campaign, anyone who makes a donation to the Honan's Quay shop will also be automatically entered into a raffle for a chance to win a Christmas hamper.",
+      "localAngle": "The fundraising campaign takes place at the Enable Ireland shop on Honan's Quay in Limerick city.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Enable helping turn forgotten favourites into festive finds for Christmas",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/enable-helping-turn-forgotten-favourites-into-festive-finds-for-christmas/",
+      "publishedAt": "Thu, 19 Nov 2026 16:30:08 +0000",
+      "rewrittenAt": "2026-11-19T18:11:49.577Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Enable-Ireland-Pass-Christmas-On-Image-2.jpg",
+      "imageCheckedAt": "2026-11-19T18:12:01.316Z"
+    },
+    "https://www.limerickpost.ie/?p=363554": {
+      "headline": "O'Donovan Urges Limerick Council to Adopt Five-Step Active Travel Consultation",
+      "summary": "Social Democrats councillor Elisa O'Donovan has called for the immediate implementation of a structured five-step consultation process for Active Travel schemes across Limerick city. Council officials have agreed to deliver a presentation to Metropolitan District members on the framework's ongoing rollout.",
+      "story": "Social Democrats councillor Elisa O'Donovan has pressed Limerick City and County Council to immediately enforce a five-step non-statutory consultation process for Active Travel projects throughout the city. The framework was originally devised by the Council's Active Travel team alongside the Travel and Transportation Strategic Policy Committee (SPC) in December 2023.\n\nSpeaking at the November meeting of the Metropolitan District, Cllr O'Donovan stated she has repeatedly raised concerns regarding a lack of community consultation on local Active Travel schemes. She emphasized the need for a transparent process ensuring early engagement with residents and stakeholders, option examinations, public submissions, and further information sharing before statutory procedures begin. \"If we genuinely want to bring people together and communities together and bring them along on better pedestrian and cycling infrastructure, we have to start with meaningful communication and engagement,\" she said.\n\nHer party colleague, Cllr Shane Hickey-O'Mara, seconded the proposal, arguing that abandoning established frameworks leaves the Council isolated and residents uninformed. In response, Patricia Liddy, the Council's Director of Transportation, Mobility, and Public Realm, welcomed the notice of motion. She confirmed that the Active Travel team will schedule a presentation for Metropolitan District members to discuss the consultation process and its implementation.",
+      "localAngle": "The proposed consultation process directly impacts residential communities across Limerick city where pedestrian and cycling infrastructure projects are planned.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Call for Limerick Council to implement five-step Active Travel consultation process",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/19/call-for-limerick-council-to-implement-five-step-active-travel-consultation-process/",
+      "publishedAt": "Thu, 19 Nov 2026 15:00:09 +0000",
+      "rewrittenAt": "2026-11-19T18:11:59.722Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/11/Housing-Panel-scaled.jpg",
+      "imageCheckedAt": "2026-11-19T18:12:01.782Z"
     }
   }
 }
