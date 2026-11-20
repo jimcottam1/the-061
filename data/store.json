@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-19T21:23:06.726Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-20T13:57:58.506Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -1021,6 +1021,17 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/cs-79f49915-1c2d-4cb5-bafc-93649fdd60f6.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T15:54:37.383Z"
+    },
+    "9316342": {
+      "id": "9316342",
+      "title": "‘The sap burned the skin off my hand’: Limerick’s battle against invasive species",
+      "link": "https://www.limerickleader.ie/news/eco-live/the-sap-burned-the-skin-off-my-hand-limericks-battle-against-an-invasive-species-9316342",
+      "description": "Hogweed is a threat to biodiversity and can cause third-degree burns if its toxic sap comes into contact with skin",
+      "pubDate": "Fri, 20 Nov 2026 13:00:46 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/47/IMG20260627120926.jpg?width=1200&auto=webp&trim=1249%2C0%2C1249%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
     "9316641": {
       "id": "9316641",
@@ -5301,6 +5312,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T21:22:58.020Z"
     },
+    "9358211": {
+      "id": "9358211",
+      "title": "Hollywood swing and swag to comes to Limerick venue this Christmas ",
+      "link": "https://www.limerickleader.ie/news/hollywood-swing-and-swag-to-comes-to-limerick-venue-this-christmas-9358211",
+      "description": "Luke Thomas and The Swing Cats will bring their show Swingin’ Christmas to Dolan’s, Limerick, this December",
+      "pubDate": "Fri, 20 Nov 2026 10:00:02 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/10/05/NO-FEE-PIC-Captioned-Image-Luke-Thomas-and-The-Swing-Cats-Tour-2025.jpeg?width=1200&auto=webp&trim=0%2C7%2C5%2C0",
+      "imageCredit": "Evan Doherty",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
     "9358259": {
       "id": "9358259",
       "title": "‘It’s very hard to compete with clubs who can help out with jobs’",
@@ -5382,6 +5405,18 @@
       "imageCredit": "ADRIAN BUTLER",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T17:56:23.683Z"
+    },
+    "9359329": {
+      "id": "9359329",
+      "title": "My Smart Home: I put off replacing my old boiler, but the installation surprised me ",
+      "link": "https://www.limerickleader.ie/opinion/boxt-boiler-heating-installation-hive-review-9363097",
+      "description": "An ageing boiler was one of the compromises we made when buying our house. When the chance came to replace it, I discovered how much difference good advice and a straightforward installation can make",
+      "pubDate": "Fri, 20 Nov 2026 09:57:15 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/14/59/Twilight-Home-Modern-Heating.png?width=1200&auto=webp&trim=0%2C261%2C0%2C0",
+      "imageCredit": "Gareth Butterfield/Boxt",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
     "9359576": {
       "id": "9359576",
@@ -5520,6 +5555,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
+    "9361141": {
+      "id": "9361141",
+      "title": "Pinergy Munster Schools Boys Senior Cup state of play",
+      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/pinergy-munster-schools-boys-senior-cup-state-of-play-9361141",
+      "description": "The Pinergy Munster Schools Boys Senior Cup competition is well underway with two rounds remaining in the group stage and while the qualifier has reached the final stage.",
+      "pubDate": "Fri, 20 Nov 2026 10:30:15 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/12/21/ilim-munchins-v-cbc-25-3-26-(2).jpeg?width=1200&auto=webp&trim=107%2C13%2C19%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
     "9361446": {
       "id": "9361446",
       "title": "Peacekeeper ‘angry’ at commanding officer after convoy separated, inquest told",
@@ -5553,6 +5600,18 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
+    },
+    "9361799": {
+      "id": "9361799",
+      "title": "LeaderSport pundits pick their Limerick SFC teams of the year",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/leadersport-pundits-pick-their-limerick-sfc-teams-of-the-year-9361799",
+      "description": "LeaderSport’s contributors pick their Irish Wire Products Senior Football Championship team of the season",
+      "pubDate": "Fri, 20 Nov 2026 11:30:12 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/04/Fr-Caseys-v-Kildimo-Pallaskenry-3-(1).jpeg?width=1200&auto=webp&trim=102%2C3%2C100%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
     "9362120": {
       "id": "9362120",
@@ -5601,6 +5660,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T18:10:00.077Z"
     },
+    "9362470": {
+      "id": "9362470",
+      "title": "‘Suitable for adults only’: Limerick school warns parents as GTA 6 is released",
+      "link": "https://www.limerickleader.ie/news/school-education/suitable-for-adults-only-limerick-school-warns-parents-as-gta-6-is-released-9362470",
+      "description": "Parents of children attending a Limerick school have been advised that Grand Theft Auto VI carries a PEGI 18 rating in Ireland",
+      "pubDate": "Fri, 20 Nov 2026 09:00:21 GMT",
+      "author": "Olivia O’Dwyer",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/18/00/GTA-6.jpeg?width=1200&auto=webp&trim=0%2C110%2C0%2C90",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
     "9362482": {
       "id": "9362482",
       "title": "UK and Irish Governments pledge co-operation on NI Troubles legacy",
@@ -5633,6 +5703,41 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/19/14/ILIM-Scarlett-Faulkner-trial-CCOJ-inset.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T21:22:58.020Z"
+    },
+    "9363026": {
+      "id": "9363026",
+      "title": "Limerick footballers learn 2027 Munster Championship opponents",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/limerick-footballers-learn-2027-munster-championship-opponents-9363026",
+      "description": "It will be the first season that manager Micheál Cahill will be at the helm of the Limerick senior footballers",
+      "pubDate": "Fri, 20 Nov 2026 09:32:08 GMT",
+      "author": "John Keogh",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/9/07/3427199.jpeg?width=1200&auto=webp&trim=280%2C11%2C1286%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
+    "9363130": {
+      "id": "9363130",
+      "title": "Gift voucher complaints spark major warning to Irish businesses ahead of Christmas",
+      "link": "https://www.limerickleader.ie/national/gift-voucher-complaints-spark-major-warning-to-irish-businesses-ahead-of-christmas-9363130",
+      "description": "The CCPC has warned further enforcement action could follow after identifying businesses potentially breaching gift voucher legislation",
+      "pubDate": "Fri, 20 Nov 2026 10:15:34 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/10/13/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-20T100549-245.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
+    "9363253": {
+      "id": "9363253",
+      "title": "Inmate found dead at Limerick Prison",
+      "link": "https://www.limerickleader.ie/news/crime-courts/inmate-found-dead-at-limerick-prison-9363253",
+      "description": "The cause of death will be determined by the Coroner Office but Limerick Live understands that foul play is not suspected at this time",
+      "pubDate": "Fri, 20 Nov 2026 11:00:24 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/01/01/iconic-upload-GN4_DAT_8446681.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -9475,6 +9580,106 @@
       "author": "Khushi Verma",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-19T21:22:58.675Z"
+    },
+    "https://www.limerickpost.ie/?p=363716": {
+      "id": "https://www.limerickpost.ie/?p=363716",
+      "title": "‘Monster’ paedophile jailed after admitting indecent assaults on third young victim",
+      "link": "https://www.limerickpost.ie/2026/11/20/monster-paedophile-jailed-after-admitting-indecent-assaults-on-third-young-victim/",
+      "description": "A MAN currently serving nine years in prison for sexually assaulting his daughter and sister-in-law when they were children was jailed for 16 months after he pleaded guilty to indecently assaulting a third victim. Christopher O’Mahony (68), of Kerrykyle, Ardagh, County Limerick, admitted two counts of indecently assaulting the victim when she was aged five [&#8230;]\nThe post ‘Monster’ paedophile jailed after admitting indecent assaults on third young victim appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 13:30:56 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.639Z"
+    },
+    "https://www.limerickpost.ie/?p=363629": {
+      "id": "https://www.limerickpost.ie/?p=363629",
+      "title": "Irish film business legend steps down at Troy",
+      "link": "https://www.limerickpost.ie/2026/11/20/irish-film-business-legend-steps-down-at-troy/",
+      "description": "ARDMORE Studios and the Limerick-based Troy Studios, owned by an affiliate of Hackman Capital Partners, announced that Elaine Geraghty will step down as managing director of both studios at the end of December 2026. Her departure follows a highly successful tenure, adding to a distinguished 30-year leadership career across Ireland&#8217;s media, broadcasting, and screen production [&#8230;]\nThe post Irish film business legend steps down at Troy appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 12:00:03 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.639Z"
+    },
+    "https://www.limerickpost.ie/?p=363713": {
+      "id": "https://www.limerickpost.ie/?p=363713",
+      "title": "Investigation launched after prisoner found dead at Limerick Prison",
+      "link": "https://www.limerickpost.ie/2026/11/20/investigation-launched-after-prisoner-found-dead-at-limerick-prison/",
+      "description": "THE Irish Prison Service is investigating the circumstances around the death of a male inmate at Limerick Prison. The man, aged in his 20s, was discovered unresponsive in a cell at the prison, located at Mulgrave Street in the city, close to 5pm on Thursday evening (November 19). Paramedics were alerted to the prison and [&#8230;]\nThe post Investigation launched after prisoner found dead at Limerick Prison appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 11:44:02 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.640Z"
+    },
+    "https://www.limerickpost.ie/?p=363627": {
+      "id": "https://www.limerickpost.ie/?p=363627",
+      "title": "Limerick councillor calls for Castleconnell/Annacotty inclusion in Bus Connects",
+      "link": "https://www.limerickpost.ie/2026/11/20/limerick-councillor-calls-for-castleconnell-annacotty-inclusion-in-bus-connects/",
+      "description": "INDEPENDENT councillor Ursula Gavan has called on the National Transport Authority (NTA) to include Castleconnell and Annacotty in the long-planned roll out of BusConnects plan for Limerick. Speaking at November&#8217;s Metropolitan District meeting, Cllr Gavan took the view that while BusConnects represents a significant investment in improving public transport across the city and suburbs, Castleconnell [&#8230;]\nThe post Limerick councillor calls for Castleconnell/Annacotty inclusion in Bus Connects appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 10:30:53 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.640Z"
+    },
+    "https://www.limerickpost.ie/?p=363621": {
+      "id": "https://www.limerickpost.ie/?p=363621",
+      "title": "‘I wish I could have had more time with my father’: Family of murdered Jeffrey Hannan appeal for witnesses to come forward on 19th anniversary",
+      "link": "https://www.limerickpost.ie/2026/11/20/i-wish-i-could-have-had-more-time-with-my-father-family-of-murdered-jeffrey-hannan-appeal-for-witnesses-to-come-forward-on-19th-anniversary/",
+      "description": "The FAMILY of an innocent Limerick teenager, murdered 19 years ago this weekend, made a fresh appeal for information to help bring his killer to justice. 19-year-old Jeffrey Hannan was bludgeoned to death with an axe as he attended a bonfire near his home at O’Malley Park, Southill, on November 22, 2007. Despite Gardaí making [&#8230;]\nThe post ‘I wish I could have had more time with my father’: Family of murdered Jeffrey Hannan appeal for witnesses to come forward on 19th anniversary appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 09:00:30 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.640Z"
+    },
+    "https://www.limerickpost.ie/?p=363564": {
+      "id": "https://www.limerickpost.ie/?p=363564",
+      "title": "University Concert Hall aims to bring panto magic to 1,500 children and families this Christmas",
+      "link": "https://www.limerickpost.ie/2026/11/20/university-concert-hall-aims-to-bring-panto-magic-to-1500-children-and-families-this-christmas/",
+      "description": "University Concert Hall (UCH) is calling on charities, community groups, businesses and the public to help it reach a milestone of 1,500 children and families through its Panto For All campaign. Charities and community organisations are being invited to apply for free tickets to this year’s Specsavers Limerick Panto, Jack &#38; the Beanstalk, which runs [&#8230;]\nThe post University Concert Hall aims to bring panto magic to 1,500 children and families this Christmas appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 08:15:06 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.640Z"
+    },
+    "https://www.limerickpost.ie/?p=363665": {
+      "id": "https://www.limerickpost.ie/?p=363665",
+      "title": "Schools football finals at Gaelic Grounds",
+      "link": "https://www.limerickpost.ie/2026/11/20/schools-football-finals-at-gaelic-grounds/",
+      "description": "ON a chilly autumn night, the Allianz Cumann na mBunscol Interdivisonal football finals served-up a couple of warm finals. Holders South Limerick retained the girls’ title with a merited 4-6 to 3-2 win over their City counterparts. For the winers, Chloe Lynch scored two great goals, while captain Lucie Fitzgerald (Herbertstown NS) hit an impressive [&#8230;]\nThe post Schools football finals at Gaelic Grounds appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 07:30:37 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T13:57:50.640Z"
+    },
+    "https://limerickvoice.com/?p=53918": {
+      "id": "https://limerickvoice.com/?p=53918",
+      "title": "€3m identified for refurbishment of Limerick’s historic Theatre Royal",
+      "link": "https://limerickvoice.com/arts-and-culture/e3m-identified-for-refurbishment-of-limericks-historic-theatre-royal/",
+      "description": "Approximately €3m has been identified for the refurbishment of Limerick&#8217;s historic Theatre Royal, as plans progress to restore one of the city&#8217;s most iconic cultural landmarks. THE FUNDING plans were revealed by Limerick Councillor Maria Donoghue following a question she raised at a Metropolitan District meeting this week.  The project, which aims to restore the [&#8230;]\nThe post €3m identified for refurbishment of Limerick&#8217;s historic Theatre Royal appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 11:00:01 +0000",
+      "author": "Greg King",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T13:57:51.478Z"
+    },
+    "https://limerickvoice.com/?p=53905": {
+      "id": "https://limerickvoice.com/?p=53905",
+      "title": "Treaty United attendances contribute to League of Ireland’s million milestone",
+      "link": "https://limerickvoice.com/sport/treaty-united-attendances-contribute-to-league-of-irelands-million-milestone/",
+      "description": "The Limerick club averaged 738 supporters per game in the Men&#8217;s First Division. AS League of Ireland attendances surpass one million, Treaty United&#8217;s home attendance in the Men&#8217;s First Division has decreased by almost 28 percent.  This is the third consecutive year that League of Ireland attendances have surpassed one million.  Treaty United have recorded an average home attendance of [&#8230;]\nThe post Treaty United attendances contribute to League of Ireland&#8217;s million milestone appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 09:00:56 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T13:57:51.478Z"
+    },
+    "https://limerickvoice.com/?p=53933": {
+      "id": "https://limerickvoice.com/?p=53933",
+      "title": "All-Ireland winner takes over as Mary I senior hurling manager",
+      "link": "https://limerickvoice.com/sport/podge-collins-mary-immaculate-college-fitzgibbon-cup/",
+      "description": "Podge Collins will lead Mary Immaculate College into Fitzgibbon Cup action, taking over from stalwart Jamie Wall.  THE 2013 All-Ireland winner will take over from his cousin Wall who has been at the helm since 2017.   Wall has stepped away having been involved in all three of Mary I&#8217;s Fitzgibbon Cup successes.  The Mary I [&#8230;]\nThe post All-Ireland winner takes over as Mary I senior hurling manager appeared first on .",
+      "pubDate": "Thu, 19 Nov 2026 23:51:09 +0000",
+      "author": "Stephen Kelly",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T13:57:51.478Z"
     }
   },
   "rewritten": {
@@ -10555,6 +10760,22 @@
       "publishedAt": "Wed, 28 Oct 2026 15:17:08 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/cs-79f49915-1c2d-4cb5-bafc-93649fdd60f6.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-01T11:50:45.213Z"
+    },
+    "9316342": {
+      "headline": "Limerick Faces Threat From Toxic Hogweed Plant",
+      "summary": "Toxic hogweed sap can cause third-degree burns and poses a significant threat to local biodiversity.",
+      "story": "Limerick is battling an invasive species of hogweed, a plant whose toxic sap can burn the skin off a hand and cause third-degree burns upon contact.",
+      "localAngle": "The report highlights Limerick's ongoing battle against the invasive hogweed species.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘The sap burned the skin off my hand’: Limerick’s battle against invasive species",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/eco-live/the-sap-burned-the-skin-off-my-hand-limericks-battle-against-an-invasive-species-9316342",
+      "publishedAt": "Fri, 20 Nov 2026 13:00:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/47/IMG20260627120926.jpg?width=1200&auto=webp&trim=1249%2C0%2C1249%2C0",
+      "rewrittenAt": "2026-11-20T13:59:54.492Z"
     },
     "9316641": {
       "headline": "Winter Festival Programme Announced for Limerick",
@@ -15368,6 +15589,23 @@
       "imageCredit": "Iconic Media Group",
       "rewrittenAt": "2026-11-19T21:24:04.239Z"
     },
+    "9358211": {
+      "headline": "Luke Thomas and The Swing Cats to Play Dolan's",
+      "summary": "Luke Thomas and The Swing Cats are set to perform their Swingin' Christmas show at Dolan's in Limerick this December.",
+      "story": "Luke Thomas and The Swing Cats will bring their Swingin' Christmas show to Dolan's venue in Limerick this December, according to the Limerick Leader.",
+      "localAngle": "The Christmas music event will take place at Dolan's venue in Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Hollywood swing and swag to comes to Limerick venue this Christmas ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/hollywood-swing-and-swag-to-comes-to-limerick-venue-this-christmas-9358211",
+      "publishedAt": "Fri, 20 Nov 2026 10:00:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/10/05/NO-FEE-PIC-Captioned-Image-Luke-Thomas-and-The-Swing-Cats-Tour-2025.jpeg?width=1200&auto=webp&trim=0%2C7%2C5%2C0",
+      "imageCredit": "Evan Doherty",
+      "rewrittenAt": "2026-11-20T14:02:59.570Z"
+    },
     "9358259": {
       "headline": "Limerick AIL clubs enjoy break after busy six-game run",
       "summary": "Limerick's seven Energia All-Ireland League clubs are currently on a three-week break following a demanding schedule of six games in seven weeks.",
@@ -15449,6 +15687,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/49/ilim-Harty-cup-Castletroy-College-v-St-Colmans-12-10-26-8.jpeg?width=1200&auto=webp&trim=54%2C2%2C96%2C0",
       "imageCredit": "ADRIAN BUTLER",
       "rewrittenAt": "2026-11-18T17:59:18.991Z"
+    },
+    "9359329": {
+      "headline": "Homeowner shares surprising experience of replacing an ageing boiler",
+      "summary": "A homeowner who delayed replacing their old boiler found that good advice and a straightforward installation made a big difference.",
+      "story": "After putting off the replacement of an ageing boiler that came with their house, the owner discovered how straightforward the installation process could be with proper guidance.",
+      "localAngle": "This property feature offers local homeowners insight into managing home improvements and appliance upgrades in the region.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "My Smart Home: I put off replacing my old boiler, but the installation surprised me ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/opinion/boxt-boiler-heating-installation-hive-review-9363097",
+      "publishedAt": "Fri, 20 Nov 2026 09:57:15 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/14/59/Twilight-Home-Modern-Heating.png?width=1200&auto=webp&trim=0%2C261%2C0%2C0",
+      "imageCredit": "Gareth Butterfield/Boxt",
+      "rewrittenAt": "2026-11-20T14:03:22.816Z"
     },
     "9359576": {
       "headline": "Four Munster players selected for Ireland U20s to face Scotland",
@@ -15602,6 +15857,23 @@
       "duplicateOf": "9355974",
       "rewrittenAt": "2026-11-19T14:24:16.295Z"
     },
+    "9361141": {
+      "headline": "Current Standings in the Pinergy Munster Schools Boys Senior Cup",
+      "summary": "The group stage of the Pinergy Munster Schools Boys Senior Cup has two rounds left while the qualifier reaches its final stage.",
+      "story": "The Pinergy Munster Schools Boys Senior Cup competition is currently underway with two rounds remaining in the group stage, alongside the final stage of the qualifier.",
+      "localAngle": "This schools rugby competition features teams relevant to young sports fans and schools across the 061 region.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Pinergy Munster Schools Boys Senior Cup state of play",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/munster-rugby/pinergy-munster-schools-boys-senior-cup-state-of-play-9361141",
+      "publishedAt": "Fri, 20 Nov 2026 10:30:15 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/12/21/ilim-munchins-v-cbc-25-3-26-(2).jpeg?width=1200&auto=webp&trim=107%2C13%2C19%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-20T14:02:45.212Z"
+    },
     "9361446": {
       "skipped": true,
       "duplicateOf": "9359032",
@@ -15639,6 +15911,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/07/3623498.jpeg?width=1200&auto=webp&trim=178%2C12%2C1610%2C0",
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-19T14:24:49.020Z"
+    },
+    "9361799": {
+      "headline": "LeaderSport Selects Limerick Senior Football Championship Team of the Season",
+      "summary": "Contributors for LeaderSport have chosen their selections for the Irish Wire Products Senior Football Championship team of the season.",
+      "story": "LeaderSport contributors have picked their Irish Wire Products Senior Football Championship team of the season.",
+      "localAngle": "The selections focus on the Limerick Senior Football Championship.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "LeaderSport pundits pick their Limerick SFC teams of the year",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/leadersport-pundits-pick-their-limerick-sfc-teams-of-the-year-9361799",
+      "publishedAt": "Fri, 20 Nov 2026 11:30:12 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/04/Fr-Caseys-v-Kildimo-Pallaskenry-3-(1).jpeg?width=1200&auto=webp&trim=102%2C3%2C100%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-20T14:00:37.543Z"
     },
     "9362120": {
       "headline": "Limerick businesses clean city streets ahead of Christmas celebrations",
@@ -15695,6 +15984,22 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/cs-4c39d5ca-90c8-4111-862a-0688189c527b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-19T18:11:38.987Z"
     },
+    "9362470": {
+      "headline": "Limerick School Issues Warning to Parents Over GTA 6 Release",
+      "summary": "Parents with children at a local school have received a warning regarding the PEGI 18 age rating of Grand Theft Auto VI.",
+      "story": "Following the release of Grand Theft Auto VI, a Limerick school has advised parents that the video game carries a PEGI 18 rating in Ireland. The advisory highlights that the title is suitable for adults only.",
+      "localAngle": "A school in Limerick has issued a direct advisory to local parents regarding the game's age rating.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "‘Suitable for adults only’: Limerick school warns parents as GTA 6 is released",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/school-education/suitable-for-adults-only-limerick-school-warns-parents-as-gta-6-is-released-9362470",
+      "publishedAt": "Fri, 20 Nov 2026 09:00:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/18/00/GTA-6.jpeg?width=1200&auto=webp&trim=0%2C110%2C0%2C90",
+      "rewrittenAt": "2026-11-20T14:04:18.325Z"
+    },
     "9362482": {
       "skipped": true,
       "duplicateOf": "9360230",
@@ -15709,6 +16014,45 @@
       "skipped": true,
       "duplicateOf": "9359984",
       "rewrittenAt": "2026-11-19T21:23:39.633Z"
+    },
+    "9363026": {
+      "headline": "Limerick Senior Footballers Discover Their 2027 Munster Championship Opponents",
+      "summary": "Limerick's senior footballers have found out who they will face in the 2027 Munster Championship.",
+      "story": "The upcoming campaign will mark the first season under the management of Micheál Cahill.",
+      "localAngle": "The announcement outlines the upcoming championship path for the Limerick senior football team.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Limerick footballers learn 2027 Munster Championship opponents",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaelic-football/limerick-footballers-learn-2027-munster-championship-opponents-9363026",
+      "publishedAt": "Fri, 20 Nov 2026 09:32:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/9/07/3427199.jpeg?width=1200&auto=webp&trim=280%2C11%2C1286%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-20T14:03:34.647Z"
+    },
+    "9363130": {
+      "headline": "CCPC Warns Irish Businesses Over Gift Voucher Rules Before Christmas",
+      "summary": "The CCPC has warned that further enforcement action could follow after identifying businesses potentially breaching gift voucher legislation.",
+      "story": "Following the identification of businesses potentially breaching gift voucher legislation, the CCPC has issued a major warning that further enforcement action could follow ahead of Christmas.",
+      "localAngle": "This CCPC warning applies to businesses across Ireland, including those operating locally in Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Gift voucher complaints spark major warning to Irish businesses ahead of Christmas",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gift-voucher-complaints-spark-major-warning-to-irish-businesses-ahead-of-christmas-9363130",
+      "publishedAt": "Fri, 20 Nov 2026 10:15:34 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/10/13/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-20T100549-245.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "rewrittenAt": "2026-11-20T14:02:52.786Z"
+    },
+    "9363253": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363713",
+      "rewrittenAt": "2026-11-20T13:59:39.456Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -20862,6 +21206,139 @@
       "rewrittenAt": "2026-11-19T21:24:30.671Z",
       "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/WhatsApp-Image-2026-11-19-at-12.53.21.jpeg",
       "imageCheckedAt": "2026-11-19T21:24:32.193Z"
+    },
+    "https://limerickvoice.com/?p=53933": {
+      "skipped": true,
+      "duplicateOf": "9360658",
+      "rewrittenAt": "2026-11-20T13:59:39.456Z"
+    },
+    "https://www.limerickpost.ie/?p=363629": {
+      "headline": "Troy Studios Managing Director Elaine Geraghty to Step Down in December",
+      "summary": "Elaine Geraghty is stepping down as managing director of Limerick's Troy Studios and Ardmore Studios at the end of December 2026 after six years in the role. A global search is underway for her successor, while Geraghty will stay on temporarily as a strategic advisor.",
+      "story": "Elaine Geraghty is stepping down from her role as managing director of both Troy Studios in Limerick and Ardmore Studios in Wicklow at the end of December 2026. Her departure marks the end of a successful tenure that formed part of a 30-year leadership career across Ireland's media, broadcasting, and screen production sectors.\n\nSince taking the helm in autumn 2020, Geraghty has overseen significant infrastructure expansions at both campuses and helped solidify Ireland's position on the global production map. Among her key achievements was orchestrating a landmark €10 million, multi-year agreement with independent production company BiggerStage to establish a state-of-the-art global television production hub at the Limerick facility, backed by Ireland's unscripted tax credit.\n\n\"It has been an absolute privilege to lead Ardmore Studios and Troy Studios during a transformative period for the Irish creative screen sector,\" Ms Geraghty said. \"I am incredibly proud of what we have built alongside Hackman Capital and our teams at The MBS Group, who operate and service these iconic studios.\"\n\nAlastair Boucaut, Executive Vice President of Hackman Capital’s global studio team, thanked Geraghty for her vision and dedication in elevating the two studio hubs into internationally revered production ecosystems. A global executive search is currently underway to find her successor. To ensure an orderly transition, Geraghty will be retained as a strategic advisor to support the recruitment and onboarding of the new managing director while providing continued guidance to both studios.",
+      "localAngle": "The departure of managing director Elaine Geraghty directly impacts Limerick's Troy Studios, a major local employer and production hub for the region.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Irish film business legend steps down at Troy",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/irish-film-business-legend-steps-down-at-troy/",
+      "publishedAt": "Fri, 20 Nov 2026 12:00:03 +0000",
+      "rewrittenAt": "2026-11-20T14:00:04.371Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Elaine-Geraghty.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:37.552Z"
+    },
+    "https://www.limerickpost.ie/?p=363713": {
+      "headline": "Investigation Underway After 25-Year-Old Man Found Dead in Limerick Prison Cell",
+      "summary": "Keith Craughwell was found unresponsive at the Mulgrave Street facility on Thursday evening. Paramedics pronounced him dead at the scene, with foul play currently not suspected.",
+      "story": "An investigation has been launched by the Irish Prison Service following the death of a 25-year-old inmate at Limerick Prison.\n\nGuards and paramedics rushed to the Mulgrave Street facility shortly before 5pm on Thursday (November 19) after the man was discovered unresponsive in his cell. Despite the arrival of emergency services, he was pronounced dead at the scene.\n\nThe man has been named locally as Keith Craughwell, originally from Athlone, County Westmeath. He had been serving a two-year and seven-month sentence after being convicted of robbery-related offences at Mullingar Circuit Criminal Court.\n\nA spokesperson for the Irish Prison Service confirmed the death in custody at the Limerick male prison. Authorities stated that while foul play is not suspected, standard procedures will be followed. All deaths in custody are subject to independent investigations by the Irish Prison Service, An Garda Síochána, and the Office of the Inspector of Prisons, with the final cause of death to be determined by the Coroner's Office.",
+      "localAngle": "The incident occurred at Limerick Prison on Mulgrave Street in the city.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Investigation launched after prisoner found dead at Limerick Prison",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/investigation-launched-after-prisoner-found-dead-at-limerick-prison/",
+      "publishedAt": "Fri, 20 Nov 2026 11:44:02 +0000",
+      "rewrittenAt": "2026-11-20T14:00:14.431Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/01/Limerick-Prison-scaled.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:37.985Z"
+    },
+    "https://limerickvoice.com/?p=53918": {
+      "headline": "€3m Secured to Refurbish Limerick's Historic Theatre Royal on Cecil Street",
+      "summary": "Approximately €3m has been allocated to restore the historic Theatre Royal on Cecil Street. Limerick Twenty Thirty will manage the project following an agreement with Mayor John Moran.",
+      "story": "Plans to restore Limerick’s historic Theatre Royal have taken a major step forward with approximately €3m identified for the refurbishment of the Cecil Street venue. The funding details were revealed by Councillor Maria Donoghue following a question at a Metropolitan District meeting this week.\n\nThe project will be managed by Limerick Twenty Thirty under an agreement with Mayor John Moran, with a significant portion of the funding drawn from this year’s Mayoral Fund. Cllr Donoghue confirmed that the development is currently undergoing feasibility work, investigative surveys, and emergency repairs, alongside the procurement of an architect-led multidisciplinary design team and planning consultant.\n\nWork has already begun on the site, though temporary cultural use of the building will continue where appropriate. Further funding applications are anticipated as the long-term redevelopment progresses over the coming years.\n\nThe 19th-century landmark, which originally opened as the Limerick Athenaeum and later operated as the Royal Cinema, has a storied past hosting major acts from The Cranberries to Billy Connolly, as well as serving as a filming location for ‘Father Ted’. After decades of closure, the venue recently welcomed audiences back in October 2025 for a production celebrating Limerick-born Hollywood actress Constance Smith.",
+      "localAngle": "The refurbishment breathes new life into a landmark Limerick cultural venue with over 170 years of local history.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "€3m identified for refurbishment of Limerick’s historic Theatre Royal",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/e3m-identified-for-refurbishment-of-limericks-historic-theatre-royal/",
+      "publishedAt": "Fri, 20 Nov 2026 11:00:01 +0000",
+      "rewrittenAt": "2026-11-20T14:02:07.500Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/TheatreSeats_ULStudentGREG.KING_.png",
+      "imageCheckedAt": "2026-11-20T14:04:38.199Z"
+    },
+    "https://www.limerickpost.ie/?p=363627": {
+      "headline": "Councillors urge NTA to include Castleconnell and Annacotty in Limerick BusConnects",
+      "summary": "Independent councillor Ursula Gavan has called on the NTA to extend BusConnects to Castleconnell and Annacotty. Metropolitan District councillors backed the motion and expanded it to include Patrickswell, Clarina, and Mungret.",
+      "story": "Limerick councillors have called on the National Transport Authority (NTA) to expand the upcoming BusConnects network to include Castleconnell and Annacotty. Raising the issue at November’s Metropolitan District meeting, Independent councillor Ursula Gavan argued that the fast-growing areas have been left behind in public transport planning despite significant population and business growth.\n\nCllr Gavan pointed out that the current lack of a proper service leaves thousands of residents, students, and workers—including over 3,000 employees in the Annacotty Business Park—entirely reliant on cars. She noted that Montpelier has been without a bus service since COVID-19, and called for an hourly service to help ease daily traffic congestion around the Mackey roundabout. \"The present timetable has gaping holes with workers and students resorting to travel by car, adding to the logjam,\" she said.\n\nSocial Democrats councillor Elisa O’Donovan seconded the motion, acknowledging that while Limerick City West is better served, areas like Castleconnell and Annacotty urgently need prioritisation. Following the discussion, councillors agreed to amend the proposal to also incorporate Patrickswell, Clarina, and Mungret into the joint call for better suburban transport connections.",
+      "localAngle": "The motion addresses public transport gaps and traffic congestion affecting commuters travelling into Limerick city from surrounding suburbs and villages.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Limerick councillor calls for Castleconnell/Annacotty inclusion in Bus Connects",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/limerick-councillor-calls-for-castleconnell-annacotty-inclusion-in-bus-connects/",
+      "publishedAt": "Fri, 20 Nov 2026 10:30:53 +0000",
+      "rewrittenAt": "2026-11-20T14:02:14.552Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/Cllr-Ursula-Gavan-Castleconnell-1.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:39.003Z"
+    },
+    "https://limerickvoice.com/?p=53905": {
+      "headline": "Treaty United Attendances Fall 28% as League of Ireland Crosses One Million",
+      "summary": "Treaty United averaged 738 supporters per game in the Men’s First Division this season, marking a 28 percent drop from the previous year. Nationally, League of Ireland attendances surpassed one million for the third consecutive season.",
+      "story": "Treaty United saw a notable decline in home support during the 2026 season, with average attendances in the Men’s First Division falling by almost 28 percent. The Limerick club recorded an average of 738 supporters per game, down from 1,022 in 2025—a decrease of 284 supporters per match.\n\nMeanwhile, the club's Women’s Premier Division side averaged 226 supporters per game, placing them sixth in their division. Bohemians topped the women's league with an average of 521 attendees.\n\nThe figures, released by the League of Ireland on Monday, November 16, show that total attendances across all national competitions reached 1,053,947 for the 2026 season. This marks the third consecutive year that national league attendances have exceeded the one-million milestone.\n\nAcross the Men’s First Division, combined attendances reached 167,091—up seven percent from 155,259 in 2025—with an average of 894 per game. The Men’s Premier Division remained the highest-attended competition, drawing 645,694 spectators across the season, led by Shamrock Rovers with an average home attendance of 5,921.",
+      "localAngle": "Treaty United's home attendances at Markets Field experienced a significant drop as national league figures crossed the one million mark for the third year running.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Treaty United attendances contribute to League of Ireland’s million milestone",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/treaty-united-attendances-contribute-to-league-of-irelands-million-milestone/",
+      "publishedAt": "Fri, 20 Nov 2026 09:00:56 +0000",
+      "rewrittenAt": "2026-11-20T14:03:42.956Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Markets-Field-Hill_ULStudentEMMA.DINEEN-scaled.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:39.324Z"
+    },
+    "https://www.limerickpost.ie/?p=363621": {
+      "headline": "Family of Jeffrey Hannan issue fresh appeal 19 years after Southill murder",
+      "summary": "The family of 19-year-old Jeffrey Hannan have renewed calls for information on the 19th anniversary of his murder in Southill. No one has ever been charged for the killing, despite Gardaí making over 20 arrests.",
+      "story": "Nineteen years after 19-year-old Jeffrey Hannan was bludgeoned to death with an axe in Limerick, his family have made a fresh public appeal for information to bring his killer to justice. Mr Hannan was attacked on November 22, 2007, as he attended a bonfire near his home at O’Malley Park in Southill. He sustained at least 10 blows to the head, and his body was dragged across a green area.\n\nDespite Gardaí making more than 20 arrests and submitting a file to the Director of Public Prosecutions over the last nearly two decades, no charges have ever been brought in connection with the killing. Investigators believe the innocent teenager, who had no links to crime, was attacked in front of several witnesses while walking home from a house party.\n\nSpeaking ahead of the anniversary, the victim's father, Alan Hannan, urged anyone with knowledge of the night's events to come forward to Gardaí at any station in Ireland. He stated that Gardaí have indicated further information is needed to resubmit an investigation file to the DPP. The victim's 20-year-old daughter, Nikita Hannan, who was a toddler when her father died, also pleaded for witnesses to speak up.\n\n\"I’m begging people who know what happened to contact the guards, I’m just looking for someone to tell the Gardaí what happened,\" she said. While repeated family requests for a cold case review have been unsuccessful, local Gardaí have conducted a peer review of the case.",
+      "localAngle": "The murder and the ongoing campaign for justice centre on the O'Malley Park area of Southill in Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "‘I wish I could have had more time with my father’: Family of murdered Jeffrey Hannan appeal for witnesses to come forward on 19th anniversary",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/i-wish-i-could-have-had-more-time-with-my-father-family-of-murdered-jeffrey-hannan-appeal-for-witnesses-to-come-forward-on-19th-anniversary/",
+      "publishedAt": "Fri, 20 Nov 2026 09:00:30 +0000",
+      "rewrittenAt": "2026-11-20T14:03:53.533Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/11/Alan-and-Nikita-Hannan-3.webp",
+      "imageCheckedAt": "2026-11-20T14:04:39.514Z"
+    },
+    "https://www.limerickpost.ie/?p=363564": {
+      "headline": "UCH aims to give 1,500 children free panto tickets this Christmas",
+      "summary": "The University Concert Hall is calling for public and business support to reach its goal of providing 1,500 free tickets for 'Jack & the Beanstalk' to local children and families. Every donation made to the Panto For All campaign is matched by UCH and Specsavers Limerick.",
+      "story": "The University Concert Hall (UCH) has launched an appeal for charities, community groups, businesses, and the public to help fund free panto tickets for local children and families this Christmas.\n\nThe venue aims to reach a milestone of 1,500 total beneficiaries through its Panto For All campaign by the end of this year's run of the Specsavers Limerick Panto, 'Jack & the Beanstalk'. Since the initiative started in 2024, more than 930 children and families have attended the show for free. The campaign recently won the Creative Access Award at the Business to Arts Awards 2026.\n\nCharities and community organisations supporting families who might otherwise miss out are now invited to apply for tickets. Every donation to the campaign is matched by UCH and Specsavers Limerick, doubling the impact of each contribution.\n\n\"Panto is such a special Christmas tradition and we want as many children and families as possible to have the chance to experience it,\" said UCH director Sinéad Hope. The panto runs at the venue from December 14 to January 10, 2027. Donations and community applications can be made at uch.ie/donate.",
+      "localAngle": "The Panto For All campaign provides free University Concert Hall panto tickets to children and families across Limerick who might otherwise not be able to attend.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "University Concert Hall aims to bring panto magic to 1,500 children and families this Christmas",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/university-concert-hall-aims-to-bring-panto-magic-to-1500-children-and-families-this-christmas/",
+      "publishedAt": "Fri, 20 Nov 2026 08:15:06 +0000",
+      "rewrittenAt": "2026-11-20T14:04:28.199Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/UCH-Panto-204-1.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:39.766Z"
+    },
+    "https://www.limerickpost.ie/?p=363665": {
+      "headline": "South Limerick and City Share Spoils in Cumann na mBunscol Football Finals",
+      "summary": "South Limerick retained the girls' title with a 4-6 to 3-2 win over City, while Limerick City claimed the boys' Sarsfield Cup 4-9 to 3-4 at the Gaelic Grounds.",
+      "story": "The Gaelic Grounds provided the venue for a chilly autumn night of schools football as the Allianz Cumann na mBunscol Interdivisional finals delivered two competitive encounters.\n\nIn the girls' decider, holders South Limerick successfully retained their title with a hard-fought 4-6 to 3-2 victory over their City counterparts. Chloe Lynch contributed two goals for the winners, while captain Lucie Fitzgerald of Herbertstown NS added an impressive 1-3.\n\nMeanwhile, Limerick City secured the Sarsfield Cup in the boys' final, overcoming South Limerick on a scoreline of 4-9 to 3-4. Triumphant captain Conor English of Gaelscoil Chaladh an Treoigh led the way with a standout 2-3. For the runners-up, Tomás Fox of Ballylander NS put in a strong performance with a superb 3-2. Philip Dee officiated the matches as referee.",
+      "localAngle": "The annual Allianz Cumann na mBunscol Interdivisional finals showcase young Gaelic football talent from across Limerick City and County at the Gaelic Grounds.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Schools football finals at Gaelic Grounds",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/schools-football-finals-at-gaelic-grounds/",
+      "publishedAt": "Fri, 20 Nov 2026 07:30:37 +0000",
+      "rewrittenAt": "2026-11-20T14:04:37.117Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/A.jpg",
+      "imageCheckedAt": "2026-11-20T14:04:39.940Z"
     }
   }
 }
