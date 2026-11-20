@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-20T13:57:58.506Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-20T17:42:38.112Z",
+    "totalArticles": 36
   },
   "articles": {
     "8353171": {
@@ -4473,6 +4473,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.888Z"
     },
+    "9350226": {
+      "id": "9350226",
+      "title": "‘Ambitious’ proposal for Limerick village receives council support",
+      "link": "https://www.limerickleader.ie/community/ambitious-proposal-for-limerick-village-receives-council-support-9350226",
+      "description": "Croom Community Enterprise Centre is set to quadruple in size and a previously derelict building on Main Street will be renovated  as part of €22.5m plan",
+      "pubDate": "Fri, 20 Nov 2026 17:00:46 GMT",
+      "author": "Conor Curran",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/08/19/9/49/ilim-Croom-Development-Association-launch-of-new-plans-18-8-26-4-d322b2a4.jpeg?width=1200&auto=webp&trim=128%2C508%2C359%2C20",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.934Z"
+    },
     "9350624": {
       "id": "9350624",
       "title": "WATCH: The brand-new Late Late Toy Show trailer has just landed! ",
@@ -5589,6 +5601,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
+    "9361635": {
+      "id": "9361635",
+      "title": "Limerick swimmer to represent Ireland at World Championships in China",
+      "link": "https://www.limerickleader.ie/sport/limerick-swimmer-to-represent-ireland-at-world-championships-in-china-9361635",
+      "description": "Swim Ireland have announce a ten-strong team that will represent Ireland at the World Aquatics Swimming Championships (25m) in Beijing, China, from December 1-6, 2026.",
+      "pubDate": "Fri, 20 Nov 2026 16:30:27 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/34/2028778.jpeg?width=1200&auto=webp&trim=0%2C109%2C81%2C109",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
     "9361695": {
       "id": "9361695",
       "title": "Irish team named for mouth-watering South Africa clash in Dublin",
@@ -5704,6 +5728,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T21:22:58.020Z"
     },
+    "9362962": {
+      "id": "9362962",
+      "title": "PICTURES: Victorious Limerick Tony Forristal side receive medals",
+      "link": "https://www.limerickleader.ie/sport/hurling/pictures-victorious-limerick-tony-forristal-side-receive-medals-9362962",
+      "description": "An incredible campaign saw Limerick field three teams with a panel of 67 players from 33 different clubs involved",
+      "pubDate": "Fri, 20 Nov 2026 14:30:57 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/11/19/ilim-Tony-Forristal-Tournament-night-at-Woodlands-Adare-17-11-26-17-ade27ae0.jpeg?width=1200&auto=webp&trim=60%2C2%2C290%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
     "9363026": {
       "id": "9363026",
       "title": "Limerick footballers learn 2027 Munster Championship opponents",
@@ -5738,6 +5774,62 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/05/01/01/iconic-upload-GN4_DAT_8446681.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
+    },
+    "9363938": {
+      "id": "9363938",
+      "title": "‘Wow, this is fantastic’: Excitement as Spiegeltent Pavilion opens in Limerick",
+      "link": "https://www.limerickleader.ie/whats-on/wow-this-is-fantastic-excitement-as-spiegeltent-pavilion-opens-in-limerick-9363938",
+      "description": "Live at The Spiegeltent Pavilion, a spectacular new venue in the Dolans roster, kicks off tonight, Friday, November 20, with a sold out performance from The Proclaimers",
+      "pubDate": "Fri, 20 Nov 2026 16:46:10 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/13/08/20261120_111924.jpg?width=1200&auto=webp&trim=0%2C754%2C0%2C0",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.934Z"
+    },
+    "9364121": {
+      "id": "9364121",
+      "title": "Lucky Limerick winner scoops €100,000 with Prize Bonds",
+      "link": "https://www.limerickleader.ie/community/lucky-limerick-winner-scoops-eur100000-with-prize-bonds-9364121",
+      "description": "Purchased in 2018, the weekly prize has been awarded to Prize Bond number AMV100173, held in County Limerick",
+      "pubDate": "Fri, 20 Nov 2026 14:30:05 GMT",
+      "author": "Limerick Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/16/iconic-upload-1536527366201_1648814431.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
+    "9364382": {
+      "id": "9364382",
+      "title": "Irish TDs hail ‘significant step forward’ in EU-UK relationship as deal agreed",
+      "link": "https://www.limerickleader.ie/national/irish-tds-hail-significant-step-forward-in-eu-uk-relationship-as-deal-agreed-9364382",
+      "description": "Andy Burnham was in Brussels to agree a deal with the EU on food and agriculture exports, emissions trading and a youth scheme.",
+      "pubDate": "Fri, 20 Nov 2026 15:17:52 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/cs-3b9c9a38-9eaf-411e-9ca0-e535de6ba4d2.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
+    "9364384": {
+      "id": "9364384",
+      "title": "Legacy of Irish boxer Lee Reeves will ‘live on’, family tells his funeral",
+      "link": "https://www.limerickleader.ie/national/legacy-of-irish-boxer-lee-reeves-will-live-on-family-tells-his-funeral-9364384",
+      "description": "The 31-year-old died in hospital on Monday after failing to recover from injuries suffered during a fight in August.",
+      "pubDate": "Fri, 20 Nov 2026 15:17:49 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/cs-d5451eeb-2f5b-4d9b-afe0-dfb06760e891.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
+    "9364903": {
+      "id": "9364903",
+      "title": "Tánaiste says ‘definitively no’ to Government TDs breaking whip on triple lock",
+      "link": "https://www.limerickleader.ie/national/tanaiste-says-definitively-no-to-government-tds-breaking-whip-on-triple-lock-9364903",
+      "description": "Ten Fianna Fáil TDs are supporting an amendment to the bill to reform the system around the deployment of Irish peacekeeping troops.",
+      "pubDate": "Fri, 20 Nov 2026 16:58:42 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/17/cs-a730254f-a633-4c1e-b409-5f4470e5c54f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T17:42:29.934Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -9680,6 +9772,76 @@
       "author": "Stephen Kelly",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-20T13:57:51.478Z"
+    },
+    "https://www.limerickpost.ie/?p=363636": {
+      "id": "https://www.limerickpost.ie/?p=363636",
+      "title": "A good man and a good neighbour to be remembered in song at St Mary’s Cathedral",
+      "link": "https://www.limerickpost.ie/2026/11/20/a-good-man-and-a-good-neighbour-to-be-remembered-in-song-at-st-marys-cathedral/",
+      "description": "THIS Friday (November 20), the memory of a good man and a good neighbour will be celebrated. Saint Mary’s Cathedral will host ‘When I Needed a Neighbour’, a night of song, community, and compassion in memory of the late Michael Plowman, who sadly passed away in August. Performances on the night will come from ICO [&#8230;]\nThe post A good man and a good neighbour to be remembered in song at St Mary&#8217;s Cathedral appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 16:30:09 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T17:42:29.771Z"
+    },
+    "https://www.limerickpost.ie/?p=363753": {
+      "id": "https://www.limerickpost.ie/?p=363753",
+      "title": "Council completes acquisition of iconic Sailors’ Home",
+      "link": "https://www.limerickpost.ie/2026/11/20/council-completes-acquisition-of-iconic-sailors-home/",
+      "description": "LIMERICK City and County Council has secured the future of the iconic Sailors&#8217; Home on O&#8217;Curry Street in the city after completing the purchase of the landmark property this week. One of Limerick&#8217;s most distinctive heritage buildings, the Council said that it occupies a strategic position within an area undergoing significant regeneration and renewal. Its [&#8230;]\nThe post Council completes acquisition of iconic Sailors&#8217; Home appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 15:45:02 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T17:42:29.772Z"
+    },
+    "https://www.limerickpost.ie/?p=363635": {
+      "id": "https://www.limerickpost.ie/?p=363635",
+      "title": "Call for Limerick charities to apply for €100,000 creative fund",
+      "link": "https://www.limerickpost.ie/2026/11/20/call-for-limerick-charities-to-apply-for-e100000-creative-fund/",
+      "description": "CREATIVE charities in Limerick are being invited to apply for grants as part of the €100,000 Regional Creatives Fund Ireland. The Regional Creatives Fund Ireland is Amazon’s annual grant programme supporting charities that help people from underserved communities build skills, confidence and careers in the creative industries. The programme offers grants of up to €12,000 [&#8230;]\nThe post Call for Limerick charities to apply for €100,000 creative fund appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 15:00:08 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T17:42:29.772Z"
+    },
+    "https://www.limerickpost.ie/?p=363751": {
+      "id": "https://www.limerickpost.ie/?p=363751",
+      "title": "‘Mama said you were the golden one’: Boxing hero Lee Reeves laid to rest",
+      "link": "https://www.limerickpost.ie/2026/11/20/mama-said-you-were-the-golden-one-boxing-hero-lee-reeves-laid-to-rest/",
+      "description": "BOXING star and soldier Lee Reeves was given a military guard of honour by his Defence Forces comrades as he was laid to rest in his native Limerick this Friday (November 20). The 31-year-old died surrounded by his family at University Hospital Limerick on November 16, over three months after he suffered a brain injury [&#8230;]\nThe post ‘Mama said you were the golden one’: Boxing hero Lee Reeves laid to rest appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 14:24:23 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T17:42:29.772Z"
+    },
+    "https://limerickvoice.com/?p=53946": {
+      "id": "https://limerickvoice.com/?p=53946",
+      "title": "‘A role model, a fighter and a family man’ – Limerick bids farewell to Lee Reeves",
+      "link": "https://limerickvoice.com/news/a-role-model-a-fighter-and-a-family-man-limerick-bids-farewell-to-lee-reeves/",
+      "description": "Family, friends, and Defence Forces colleagues gathered in Roxboro to bid farewell to 31-year-old boxer Lee Reeves.  “WE, his sisters, were his life. Everything he did in life was for us.”  Those were the heartfelt words of Lee Reeves’ sisters at his funeral Mass on Friday, as they paid tribute to a man remembered not [&#8230;]\nThe post ‘A role model, a fighter and a family man’ &#8211; Limerick bids farewell to Lee Reeves appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 16:15:05 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T17:42:30.287Z"
+    },
+    "https://limerickvoice.com/?p=53922": {
+      "id": "https://limerickvoice.com/?p=53922",
+      "title": "Christmas takes centre stage at UCH with festive favourites",
+      "link": "https://limerickvoice.com/arts-and-culture/christmas-takes-centre-stage-at-uch-with-festive-favourites/",
+      "description": "UCH’s seasonal programme brings a mix of music and entertainment to Limerick this festive season. WITH Christmas just around the corner, University Concert Hall (UCH) is inviting everyone to celebrate the festive season together through a programme of performances bringing music, nostalgia, and Christmas cheer to the stage.  From timeless seasonal traditions to feel-good hits, [&#8230;]\nThe post Christmas takes centre stage at UCH with festive favourites appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 16:00:25 +0000",
+      "author": "Khushi Verma",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T17:42:30.287Z"
+    },
+    "https://limerickvoice.com/?p=53937": {
+      "id": "https://limerickvoice.com/?p=53937",
+      "title": "Treaty United captain picks up prestigious league award",
+      "link": "https://limerickvoice.com/sport/treaty-united-captain-picks-up-prestigious-league-award/",
+      "description": "The Treaty United captain was named the 2026 SSE Airtricity Women&#8217;s Premier Division Young Player of the Year at Thursday night&#8217;s awards ceremony. THE MIDFIELDER received the accolade at the event, held at Dublin&#8217;s Stella Cinema on November 19, having been shortlisted alongside Shelbourne duo Halle Harcourt and Maeve Wollmer.  The award recognises the division&#8217;s [&#8230;]\nThe post Treaty United captain picks up prestigious league award appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 15:15:51 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T17:42:30.287Z"
     }
   },
   "rewritten": {
@@ -14591,6 +14753,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/15/Threebytwo-for-Flow-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "rewrittenAt": "2026-11-13T17:09:33.499Z"
     },
+    "9350226": {
+      "headline": "Council Backs €22.5m Croom Plan to Expand Enterprise Centre and Renovate Building",
+      "summary": "A €22.5m plan has received council support to quadruple the size of the Croom Community Enterprise Centre and renovate a derelict Main Street building.",
+      "story": "Croom Community Enterprise Centre is set to quadruple in size alongside the renovation of a previously derelict building on Main Street as part of an ambitious €22.5m proposal backed by the council.",
+      "localAngle": "The €22.5m development project directly impacts the local community of Croom in County Limerick.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘Ambitious’ proposal for Limerick village receives council support",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/ambitious-proposal-for-limerick-village-receives-council-support-9350226",
+      "publishedAt": "Fri, 20 Nov 2026 17:00:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/08/19/9/49/ilim-Croom-Development-Association-launch-of-new-plans-18-8-26-4-d322b2a4.jpeg?width=1200&auto=webp&trim=128%2C508%2C359%2C20",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-20T17:45:31.282Z"
+    },
     "9350624": {
       "headline": "First Television Broadcast Set For New Late Late Toy Show Trailer",
       "summary": "The brand-new 60-second Late Late Toy Show trailer is scheduled to make its television debut tonight.",
@@ -15895,6 +16074,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/13/cs-4b428ee9-ac45-476c-9946-5edf3c6e1e61.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-19T14:25:45.249Z"
     },
+    "9361635": {
+      "headline": "Limerick Swimmer Named in Ireland Squad for World Championships in China",
+      "summary": "A local swimmer is among ten athletes chosen by Swim Ireland to compete in Beijing this December.",
+      "story": "Swim Ireland has announced a ten-strong team to represent Ireland at the World Aquatics Swimming Championships (25m) in Beijing, China, which takes place from December 1-6, 2026, including a Limerick swimmer.",
+      "localAngle": "A Limerick swimmer has been selected to represent Ireland on the international stage at the upcoming World Aquatics Swimming Championships.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick swimmer to represent Ireland at World Championships in China",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/limerick-swimmer-to-represent-ireland-at-world-championships-in-china-9361635",
+      "publishedAt": "Fri, 20 Nov 2026 16:30:27 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/34/2028778.jpeg?width=1200&auto=webp&trim=0%2C109%2C81%2C109",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-20T17:46:15.475Z"
+    },
     "9361695": {
       "headline": "Andy Farrell Announces Ireland Squad to Face South Africa",
       "summary": "Ireland manager Andy Farrell has named his match-day squad for Saturday's Nations Championship game against South Africa at the Aviva Stadium.",
@@ -16015,6 +16211,23 @@
       "duplicateOf": "9359984",
       "rewrittenAt": "2026-11-19T21:23:39.633Z"
     },
+    "9362962": {
+      "headline": "Limerick Tony Forristal Squad Honoured With Medals After Historic Campaign",
+      "summary": "Limerick's victorious Tony Forristal panel has been presented with their medals following a campaign featuring three teams and 67 players from 33 clubs.",
+      "story": "The victorious Limerick Tony Forristal side received their medals following an incredible campaign that saw three teams and a panel of 67 players from 33 different clubs take part. Pictures from the event capture the squad celebrating their successful run.",
+      "localAngle": "The story features Limerick players representing 33 different clubs across the county.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Victorious Limerick Tony Forristal side receive medals",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/pictures-victorious-limerick-tony-forristal-side-receive-medals-9362962",
+      "publishedAt": "Fri, 20 Nov 2026 14:30:57 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/11/19/ilim-Tony-Forristal-Tournament-night-at-Woodlands-Adare-17-11-26-17-ade27ae0.jpeg?width=1200&auto=webp&trim=60%2C2%2C290%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-20T17:48:41.200Z"
+    },
     "9363026": {
       "headline": "Limerick Senior Footballers Discover Their 2027 Munster Championship Opponents",
       "summary": "Limerick's senior footballers have found out who they will face in the 2027 Munster Championship.",
@@ -16053,6 +16266,76 @@
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363713",
       "rewrittenAt": "2026-11-20T13:59:39.456Z"
+    },
+    "9363938": {
+      "headline": "Spiegeltent Pavilion Launches in Limerick with Sold-Out Proclaimers Gig",
+      "summary": "The new Spiegeltent Pavilion venue at Dolans opens tonight with a sold-out performance by The Proclaimers.",
+      "story": "Live at The Spiegeltent Pavilion kicks off tonight, Friday, November 20, as a spectacular new venue in the Dolans roster opens with a sold-out performance from The Proclaimers.",
+      "localAngle": "The new venue is part of the Dolans roster in Limerick, hosting its opening night event in the city.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘Wow, this is fantastic’: Excitement as Spiegeltent Pavilion opens in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/wow-this-is-fantastic-excitement-as-spiegeltent-pavilion-opens-in-limerick-9363938",
+      "publishedAt": "Fri, 20 Nov 2026 16:46:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/13/08/20261120_111924.jpg?width=1200&auto=webp&trim=0%2C754%2C0%2C0",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-20T17:46:01.680Z"
+    },
+    "9364121": {
+      "headline": "County Limerick Prize Bond Holder Wins €100,000 Jackpot",
+      "summary": "A Prize Bond purchased in County Limerick in 2018 has won the weekly prize of €100,000.",
+      "story": "Prize Bond number AMV100173, held in County Limerick and bought in 2018, has been awarded the weekly prize of €100,000.",
+      "localAngle": "The winning Prize Bond was purchased and held in County Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Lucky Limerick winner scoops €100,000 with Prize Bonds",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/lucky-limerick-winner-scoops-eur100000-with-prize-bonds-9364121",
+      "publishedAt": "Fri, 20 Nov 2026 14:30:05 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/16/iconic-upload-1536527366201_1648814431.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-20T17:48:51.562Z"
+    },
+    "9364382": {
+      "headline": "Irish TDs Welcome EU-UK Agreement Finalised in Brussels",
+      "summary": "Irish TDs have praised a new EU-UK deal covering food exports, emissions trading, and a youth scheme agreed by Andy Burnham in Brussels.",
+      "story": "Andy Burnham travelled to Brussels to secure an agreement with the EU regarding food and agriculture exports, emissions trading, and a youth scheme, prompting Irish TDs to hail the development as a significant step forward.",
+      "localAngle": "Irish TDs, including representatives relevant to constituents in Limerick, have welcomed the new EU-UK agreement.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Irish TDs hail ‘significant step forward’ in EU-UK relationship as deal agreed",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-tds-hail-significant-step-forward-in-eu-uk-relationship-as-deal-agreed-9364382",
+      "publishedAt": "Fri, 20 Nov 2026 15:17:52 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/cs-3b9c9a38-9eaf-411e-9ca0-e535de6ba4d2.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-20T17:47:01.912Z"
+    },
+    "9364384": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-20T17:45:23.442Z"
+    },
+    "9364903": {
+      "headline": "Tánaiste Rules Out Government TDs Breaking Whip on Triple Lock Reform",
+      "summary": "The Tánaiste has firmly rejected the possibility of Government TDs breaking the whip regarding an amendment supported by ten Fianna Fáil TDs to reform the deployment of Irish peacekeeping troops.",
+      "story": "Ten Fianna Fáil TDs are backing an amendment to a bill that would reform the system surrounding the deployment of Irish peacekeeping troops. In response, the Tánaiste has stated 'definitively no' to Government TDs breaking the whip on the matter.",
+      "localAngle": "This national political development involves local representatives and affects policy decisions relevant to voters in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tánaiste says ‘definitively no’ to Government TDs breaking whip on triple lock",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tanaiste-says-definitively-no-to-government-tds-breaking-whip-on-triple-lock-9364903",
+      "publishedAt": "Fri, 20 Nov 2026 16:58:42 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/17/cs-a730254f-a633-4c1e-b409-5f4470e5c54f.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-20T17:45:46.774Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -21339,6 +21622,85 @@
       "rewrittenAt": "2026-11-20T14:04:37.117Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/A.jpg",
       "imageCheckedAt": "2026-11-20T14:04:39.940Z"
+    },
+    "https://limerickvoice.com/?p=53946": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-20T17:45:23.442Z"
+    },
+    "https://limerickvoice.com/?p=53922": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363564",
+      "rewrittenAt": "2026-11-20T17:45:23.442Z"
+    },
+    "https://www.limerickpost.ie/?p=363751": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-20T17:45:23.443Z"
+    },
+    "https://www.limerickpost.ie/?p=363636": {
+      "headline": "St Mary’s Cathedral to host memorial concert for late Michael Plowman",
+      "summary": "A special night of music and community will be held at St Mary’s Cathedral on Friday, November 20, to remember Michael Plowman and support the King’s Island Family and Community Resource Centre.",
+      "story": "St Mary’s Cathedral will host ‘When I Needed a Neighbour’ this Friday night (November 20), a special event of song, community, and compassion dedicated to the memory of the late Michael Plowman, who passed away in August.\n\nThe evening will feature performances from a host of musical acts, including ICO Youth and Friends, the Irish Chamber Orchestra Youth Orchestra, Yonit Kosovske, Wolodymyr Smishkewych, Shirley Keane, and Janet Woods.\n\nAdmission to the cathedral event is free, with donations being gratefully accepted on the night in support of the King’s Island Family and Community Resource Centre.",
+      "localAngle": "The memorial event takes place at St Mary's Cathedral in support of the King's Island Family and Community Resource Centre, remembering a valued local neighbour.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "A good man and a good neighbour to be remembered in song at St Mary’s Cathedral",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/a-good-man-and-a-good-neighbour-to-be-remembered-in-song-at-st-marys-cathedral/",
+      "publishedAt": "Fri, 20 Nov 2026 16:30:09 +0000",
+      "rewrittenAt": "2026-11-20T17:46:31.076Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/12/Saint-Marys-Cathedral.webp",
+      "imageCheckedAt": "2026-11-20T17:48:58.586Z"
+    },
+    "https://www.limerickpost.ie/?p=363753": {
+      "headline": "Limerick City and County Council buys historic Sailors' Home on O'Curry Street",
+      "summary": "Limerick City and County Council has completed the purchase of the landmark Sailors' Home on O'Curry Street, bringing the 170-year-old heritage building back into public ownership to be developed as a cultural facility.",
+      "story": "Limerick City and County Council has secured the future of the iconic Sailors’ Home on O’Curry Street after completing the purchase of the landmark property this week. Originally designed in 1854 and constructed between 1856 and 1857, the building was created to provide accommodation and support for seafarers arriving into Limerick during its era as one of Ireland's major trading ports.\n\nThe acquisition fulfills a commitment in the mayor’s programme and places the distinctive heritage structure back into public hands via the mayor’s fund. Local authorities plan to bring the building back into active use as a cultural, community, and civic asset, while tying its restoration into ongoing regeneration efforts across the O’Curry Street, Mallow Street, Henry Street, and Steamboat Quay areas.\n\n\"Securing the Sailors’ Home was a commitment in my mayor’s programme, and today it has been delivered,\" Mayor John Moran said. \"Our aim is not just to preserve it but to bring it back to life, so that it once again welcomes locals through its doors and serves Limerick for generations to come.\"\n\nDr Pat Daly, Council Director General, noted that public ownership allows the local authority to plan for the building's long-term future. The Council stated that further details regarding the future development and use of the site will be announced as plans progress.",
+      "localAngle": "The purchase secures the future of one of Limerick's most distinctive maritime heritage buildings located on O'Curry Street.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Council completes acquisition of iconic Sailors’ Home",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/council-completes-acquisition-of-iconic-sailors-home/",
+      "publishedAt": "Fri, 20 Nov 2026 15:45:02 +0000",
+      "rewrittenAt": "2026-11-20T17:46:54.459Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/02/The-Sailors-Home.jpg",
+      "imageCheckedAt": "2026-11-20T17:48:58.995Z"
+    },
+    "https://limerickvoice.com/?p=53937": {
+      "headline": "Treaty United captain named SSE Airtricity Women's Premier Division Young Player of the Year",
+      "summary": "Treaty United captain Lawlee was named Young Player of the Year at Dublin's Stella Cinema on November 19. She also earned a spot in the Team of the Year following an impressive season.",
+      "story": "Treaty United's captain capped off an impressive season by winning the 2026 SSE Airtricity Women’s Premier Division Young Player of the Year award. The midfielder received the prestigious accolade at Thursday night’s ceremony, held at Dublin’s Stella Cinema on November 19, having beaten off competition from the Shelbourne duo of Halle Harcourt and Maeve Wollmer.\n\nThe award recognises the division’s standout emerging talent and crowns a stellar individual campaign for the Treaty skipper, who has led the senior women's side throughout 2026. Lawlee was also named in the Women’s Premier Division Team of the Year in midfield, alongside Shelbourne’s Alex Kavanagh, Sligo Rovers’ Cara Jordan, and Athlone Town captain Hannah Waesch.\n\nHer latest recognition follows a strong year that also saw her claim the league’s Player of the Month award for June, highlighted by a memorable long-range equaliser against Sligo Rovers. The young talent could secure even more silverware this weekend, as she is nominated for Young Player of the Year and shortlisted once again for the Team of the Year at the upcoming Professional Footballers’ Association of Ireland (PFA Ireland) Awards, where she is joined by Treaty teammate Madison McGuane.",
+      "localAngle": "The Treaty United captain's national recognition highlights a strong year of individual achievements for the Limerick club's senior women's side.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Treaty United captain picks up prestigious league award",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/treaty-united-captain-picks-up-prestigious-league-award/",
+      "publishedAt": "Fri, 20 Nov 2026 15:15:51 +0000",
+      "rewrittenAt": "2026-11-20T17:48:06.384Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/KL-3_ULStudentEMMA.DINEEN-scaled.jpg",
+      "imageCheckedAt": "2026-11-20T17:48:59.180Z"
+    },
+    "https://www.limerickpost.ie/?p=363635": {
+      "headline": "Limerick charities can now apply for a share of €100,000 creative fund",
+      "summary": "Creative charities across Limerick have until midnight on November 30 to apply for grants of up to €12,000 from Amazon's Regional Creatives Fund Ireland.",
+      "story": "Creative charities in Limerick are being urged to apply for funding as part of the €100,000 Regional Creatives Fund Ireland. The Amazon annual grant programme is designed to support charities that help people from underserved communities build skills, confidence, and careers within the creative industries.\n\nThe initiative offers grants of up to €12,000 to organisations registered with the Charities Regulator. Funding is targeted at supporting individuals pursuing careers in sectors such as publishing, music, gaming, film, television, fashion, visual arts, and podcasting.\n\nOrganisations interested in applying must submit their applications via smartsheet.com before the deadline at midnight on November 30.",
+      "localAngle": "Local Limerick charities have the opportunity to secure up to €12,000 each to support creative skills development in underserved communities.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Call for Limerick charities to apply for €100,000 creative fund",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/call-for-limerick-charities-to-apply-for-e100000-creative-fund/",
+      "publishedAt": "Fri, 20 Nov 2026 15:00:08 +0000",
+      "rewrittenAt": "2026-11-20T17:48:19.087Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/Cash-stock-photo-money-immo-wegmann-scaled.jpg",
+      "imageCheckedAt": "2026-11-20T17:48:59.643Z"
     }
   }
 }
