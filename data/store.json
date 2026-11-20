@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-20T17:42:38.112Z",
-    "totalArticles": 36
+    "lastScrape": "2026-11-20T21:00:35.108Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -4967,6 +4967,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-16T19:29:39.169Z"
     },
+    "9354285": {
+      "id": "9354285",
+      "title": "PICTURES: Dromin-Athlacca produce stunning Munster Intermediate win",
+      "link": "https://www.limerickleader.ie/sport/gaa/hurling/pictures-dromin-athlacca-produce-stunning-munster-intermediate-win-9354285",
+      "description": "In a fiercely contested encounter, the south Limerick side showed composure, quality and resilience when it mattered most",
+      "pubDate": "Fri, 20 Nov 2026 20:30:53 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/41/MixCollage-16-Nov-2026-03-16-PM-2660.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T21:00:24.221Z"
+    },
     "9354423": {
       "id": "9354423",
       "title": "PICTURES: 1XBet Irish St. Leger 550 at Limerick Greyhound Stadium ",
@@ -5371,6 +5383,17 @@
       "imageCredit": "ADRIAN BUTLER",
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T13:51:31.914Z"
+    },
+    "9358942": {
+      "id": "9358942",
+      "title": "Limerick school throws a retirement party for their beloved principal",
+      "link": "https://www.limerickleader.ie/community/limerick-school-throws-a-retirement-party-for-their-beloved-principal-9358942",
+      "description": "Galbally National School threw a retirement celebration in honour of their long-serving principal Martin Kearney",
+      "pubDate": "Fri, 20 Nov 2026 18:00:30 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/31/IMG_0383.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T21:00:24.221Z"
     },
     "9359014": {
       "id": "9359014",
@@ -5819,6 +5842,18 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/cs-d5451eeb-2f5b-4d9b-afe0-dfb06760e891.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T17:42:29.935Z"
+    },
+    "9364447": {
+      "id": "9364447",
+      "title": "PICTURES: Limerick pays its final respects to iconic boxer Lee Reeves",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-pays-its-final-respects-to-iconic-boxer-lee-reeves-9364447",
+      "description": "There was a military presence at the funeral of Limerick boxer Lee Reeves at  Our Lady Queen of Peace Church in Roxboro",
+      "pubDate": "Fri, 20 Nov 2026 20:15:32 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/52/ilim-Lee-Reeves-funeral-20-11-26-3-216bddf8.jpeg?width=1200&auto=webp&trim=0%2C2%2C39%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-20T21:00:24.221Z"
     },
     "9364903": {
       "id": "9364903",
@@ -9842,6 +9877,36 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-20T17:42:30.287Z"
+    },
+    "https://www.limerickpost.ie/?p=363719": {
+      "id": "https://www.limerickpost.ie/?p=363719",
+      "title": "Top accolade for Katie Lawlee",
+      "link": "https://www.limerickpost.ie/2026/11/20/top-accolade-for-katie-lawlee/",
+      "description": "TREATY United captain Katie Lawlee has been named the 2026 SSE Airtricity Women’s Premier Division Young Player of the Year.  She received the award at the league’s annual awards ceremony at the Stella Cinema in Dublin. The accolade caps a landmark season for Lawlee and her club. In her first season as skipper, Lawlee helped Treaty [&#8230;]\nThe post Top accolade for Katie Lawlee appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 19:30:56 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T21:00:23.677Z"
+    },
+    "https://www.limerickpost.ie/?p=363632": {
+      "id": "https://www.limerickpost.ie/?p=363632",
+      "title": "Abbeyfeale musician wins bursary at national final",
+      "link": "https://www.limerickpost.ie/2026/11/20/abbeyfeale-musician-wins-bursary-at-national-final/",
+      "description": "ABBEYFEALE pianist Oluwalonimi Adegbola, a sixth-year student at Colaiste Ide agus Iosef, proved he has the magic touch having become a finalist at the 2026 TopSec Frank Maher Classical Music Awards, Ireland’s largest classical music competition for secondary schools. Oluwalonimi was one of only six finalists at the competition in the Royal College of Physicians [&#8230;]\nThe post Abbeyfeale musician wins bursary at national final appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 18:00:28 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-20T21:00:23.678Z"
+    },
+    "https://limerickvoice.com/?p=53891": {
+      "id": "https://limerickvoice.com/?p=53891",
+      "title": "‘More than just a sports team’ as American Football grows in Limerick",
+      "link": "https://limerickvoice.com/sport/ul-vikings-american-football-limerick/",
+      "description": "UL&#8217;s American Football team is welcoming new players as it looks to build on a successful season.  FOUNDED in 1999 by two American students studying abroad at the University of Limerick (UL), the UL Vikings began as a Flag Football team before expanding into the full-contact format of the sport.  &#8220;With support from UL, the [&#8230;]\nThe post &#8216;More than just a sports team&#8217; as American Football grows in Limerick appeared first on .",
+      "pubDate": "Fri, 20 Nov 2026 19:00:53 +0000",
+      "author": "Mairéad Hughes",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-20T21:00:25.121Z"
     }
   },
   "rewritten": {
@@ -15337,6 +15402,11 @@
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-16T19:32:49.984Z"
     },
+    "9354285": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363513",
+      "rewrittenAt": "2026-11-20T21:01:02.830Z"
+    },
     "9354423": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363437",
@@ -15823,6 +15893,22 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/12/24/ilim-Tony-Forristal-Tournament-night-at-Woodlands-Adare-17-11-26-18.jpeg?width=1200&auto=webp&trim=20%2C0%2C0%2C0",
       "imageCredit": "ADRIAN BUTLER",
       "rewrittenAt": "2026-11-18T13:56:56.120Z"
+    },
+    "9358942": {
+      "headline": "Galbally National School bids farewell to principal Martin Kearney",
+      "summary": "Galbally National School has hosted a retirement celebration to honour long-serving principal Martin Kearney.",
+      "story": "Staff and students at Galbally National School recently held a retirement party to mark the departure of their long-serving principal, Martin Kearney. The event celebrated his tenure leading the school community.",
+      "localAngle": "The retirement celebration took place at Galbally National School in County Limerick.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 5,
+      "brief": true,
+      "originalTitle": "Limerick school throws a retirement party for their beloved principal",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/limerick-school-throws-a-retirement-party-for-their-beloved-principal-9358942",
+      "publishedAt": "Fri, 20 Nov 2026 18:00:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/13/31/IMG_0383.jpeg?width=1200&auto=webp&trim=42%2C0%2C42%2C0",
+      "rewrittenAt": "2026-11-20T21:01:18.247Z"
     },
     "9359014": {
       "skipped": true,
@@ -16320,6 +16406,11 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53875",
       "rewrittenAt": "2026-11-20T17:45:23.442Z"
+    },
+    "9364447": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-20T21:01:02.831Z"
     },
     "9364903": {
       "headline": "Tánaiste Rules Out Government TDs Breaking Whip on Triple Lock Reform",
@@ -21701,6 +21792,43 @@
       "rewrittenAt": "2026-11-20T17:48:19.087Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/Cash-stock-photo-money-immo-wegmann-scaled.jpg",
       "imageCheckedAt": "2026-11-20T17:48:59.643Z"
+    },
+    "https://www.limerickpost.ie/?p=363719": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53937",
+      "rewrittenAt": "2026-11-20T21:01:02.831Z"
+    },
+    "https://limerickvoice.com/?p=53891": {
+      "headline": "UL Vikings American Football Club Welcomes New Players Following Historic Season",
+      "summary": "The University of Limerick's American Football team is recruiting new players after securing a sixth-place finish in Denmark and a fifth-place spot in the Premier Division. Both squads are now turning their attention to upcoming college championship fixtures against UCD.",
+      "story": "The University of Limerick (UL) American Football team is currently welcoming new players of all experience levels as it builds on a successful domestic and international season. Founded in 1999 by two American exchange students, the club developed into a senior kitted team with support from UL and has competed in the Irish American Football League since 2001.\n\nHead coach Reece Moloney noted that the club benefits from a unique local advantage at Maguires Pitches, housing Ireland's only purpose-built American Football pitch complete with dedicated goalposts. The team offers both non-contact flag football and 11-a-side full contact kitted football, with no prior experience required for newcomers.\n\nOn the pitch, the UL Vikings made history in May by competing in their first international tournament, travelling to Denmark for the Copenhagen Bowl and placing sixth in their division after defeating teams from Germany, Denmark, and Finland. Domestically, the senior kitted team finished fifth in the Premier Division, marking their best finish since returning to the top tier in 2024.\n\nAttention now shifts to college competitions, with the Kitted Intervarsity squad facing University College Dublin (UCD) on November 21 in the College Championship. The Flag Football Intervarsity squad will follow on November 28, travelling to UCD as they begin their campaign to retain the College Championship title.",
+      "localAngle": "Based at the University of Limerick, the UL Vikings provide the local area with Ireland's only purpose-built American Football facilities and compete nationally and internationally representing Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "‘More than just a sports team’ as American Football grows in Limerick",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/ul-vikings-american-football-limerick/",
+      "publishedAt": "Fri, 20 Nov 2026 19:00:53 +0000",
+      "rewrittenAt": "2026-11-20T21:01:09.712Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Sport_UL_Vikings_teamshot_19-11-2026-scaled.jpg",
+      "imageCheckedAt": "2026-11-20T21:01:35.847Z"
+    },
+    "https://www.limerickpost.ie/?p=363632": {
+      "headline": "Abbeyfeale pianist claims €300 bursary at national classical music final",
+      "summary": "Colaiste Ide agus Iosef student Oluwalonimi Adegbola reached the final of Ireland's largest secondary schools classical music competition in Dublin, earning a €300 bursary for his performance.",
+      "story": "Abbeyfeale musician Oluwalonimi Adegbola has been named a finalist at the 2026 TopSec Frank Maher Classical Music Awards, Ireland's largest classical music competition for secondary schools. \n\nThe sixth-year student at Colaiste Ide agus Iosef was selected as one of only six finalists to perform at the Royal College of Physicians in Dublin. Hosted by Lyric FM presenter Marty Whelan, the evening featured performances of two pieces by the young pianist: Sergei Rachmaninov's 'Romances Opus 21, No 5' and Claude Debussy's 'Prelude La fille aux cheveux de lin'. \n\nFollowing the performances, Oluwalonimi and the other five finalists each received a €300 bursary. The awards, established in 2001 by Top Security chairman Emmet O’Rafferty, mark their 25th anniversary this year and were created to honour his late teacher, Fr Frank Maher.\n\nEmmet O’Rafferty praised the standard of talent at the milestone event. \"It was a great pleasure to celebrate the 25th anniversary of the TopSec Frank Maher Classical Music Awards and to experience the extraordinary standard of young musical talent coming through Irish schools,\" he said.",
+      "localAngle": "An Abbeyfeale secondary school student represented Limerick at a prestigious national music competition in Dublin.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Abbeyfeale musician wins bursary at national final",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/abbeyfeale-musician-wins-bursary-at-national-final/",
+      "publishedAt": "Fri, 20 Nov 2026 18:00:28 +0000",
+      "rewrittenAt": "2026-11-20T21:01:27.782Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Oluwalonimi-Adegbola-finalist-Frank-Maher-2026-011.jpg",
+      "imageCheckedAt": "2026-11-20T21:01:36.612Z"
     }
   }
 }
