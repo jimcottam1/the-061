@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-20T21:00:35.108Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-21T13:24:59.256Z",
+    "totalArticles": 29
   },
   "articles": {
     "8353171": {
@@ -5384,6 +5384,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-18T13:51:31.914Z"
     },
+    "9358804": {
+      "id": "9358804",
+      "title": "Limerick and Kerry organisations awarded over €146,000 in funding for community projects",
+      "link": "https://www.limerickleader.ie/news/eco-live/limerick-and-kerry-organisations-awarded-over-eur146000-in-funding-for-community-projects-9358804",
+      "description": "The annual fund awarded €138,939 to 19 community projects this year, alongside €7,344 in microgrants supporting a further 10 local initiatives",
+      "pubDate": "Sat, 21 Nov 2026 08:00:21 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/12/15/Capture-r.JPG?width=1200&auto=webp&trim=22%2C2%2C34%2C0",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T13:24:51.301Z"
+    },
     "9358942": {
       "id": "9358942",
       "title": "Limerick school throws a retirement party for their beloved principal",
@@ -5660,6 +5672,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
+    "9362014": {
+      "id": "9362014",
+      "title": "Council acquisition marks ‘significant milestone’ in restoration of historic Limerick building",
+      "link": "https://www.limerickleader.ie/news/business/council-acquisition-marks-significant-milestone-in-restoration-of-historic-limerick-building-9362014",
+      "description": "The contracts were formally signed at the Sailors’ Home on O’Curry Street, completing the purchase of the landmark property through the Mayor’s Fund and securing its future in public ownership",
+      "pubDate": "Sat, 21 Nov 2026 10:00:47 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/21/Press-Release-Image.jpg?width=1200&auto=webp&trim=89%2C110%2C118%2C201",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T13:24:51.300Z"
+    },
     "9362120": {
       "id": "9362120",
       "title": "‘A clean town is a happy town’: Big Limerick Clean-up for Christmas",
@@ -5821,6 +5845,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T17:42:29.935Z"
     },
+    "9364200": {
+      "id": "9364200",
+      "title": "Thief smashes car window and steals items in Limerick city",
+      "link": "https://www.limerickleader.ie/news/crime-courts/thief-smashes-car-window-and-steals-items-in-limerick-city-9364200",
+      "description": "With the busy Christmas shopping season approaching, Sergeant Michelle O’Halloran, Crime Prevention Officer at Henry Street garda station, issued precautionary advice to motorists",
+      "pubDate": "Sat, 21 Nov 2026 07:00:30 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/21/19/Iconicstockimage_backs-of-two-gardai-(new-uniforms).png?width=1200&auto=webp&trim=0%2C31%2C0%2C57",
+      "imageCredit": "File photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T13:24:51.301Z"
+    },
     "9364382": {
       "id": "9364382",
       "title": "Irish TDs hail ‘significant step forward’ in EU-UK relationship as deal agreed",
@@ -5854,6 +5890,18 @@
       "imageCredit": "Adrian Butler",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T21:00:24.221Z"
+    },
+    "9364764": {
+      "id": "9364764",
+      "title": "EDITORIAL: Sore heads but no major headaches at College Christmas in Limerick",
+      "link": "https://www.limerickleader.ie/opinion/comment/editorial-sore-heads-but-no-major-headaches-at-college-christmas-in-limerick-9364764",
+      "description": "While the students were boisterous and messy there were no major incidents reported in Limerick city",
+      "pubDate": "Fri, 20 Nov 2026 21:30:34 GMT",
+      "author": "Áine Fitzgerald",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/16/37/pexels-karola-g-5469826.jpeg?width=1200&auto=webp&trim=1981%2C0%2C797%2C1",
+      "imageCredit": "FILE PICTURE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T13:24:51.301Z"
     },
     "9364903": {
       "id": "9364903",
@@ -9907,6 +9955,66 @@
       "author": "Mairéad Hughes",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-20T21:00:25.121Z"
+    },
+    "https://www.limerickpost.ie/?p=363647": {
+      "id": "https://www.limerickpost.ie/?p=363647",
+      "title": "Citizen’s Corner – Understanding the Back to Work Family Dividend",
+      "link": "https://www.limerickpost.ie/2026/11/21/citizens-corner-understanding-the-back-to-work-family-dividend/",
+      "description": "Q. I am on Jobseekers Allowance, my wife does not work and we have two school-going children. I have recently been offered a full-time job. I am aware of the Working Family Payment and intend to claim that, but the other day someone told me that when you come off social welfare there is also [&#8230;]\nThe post Citizen’s Corner – Understanding the Back to Work Family Dividend appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 12:00:54 +0000",
+      "author": "Citizens Information Limerick",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T13:24:50.852Z"
+    },
+    "https://www.limerickpost.ie/?p=363774": {
+      "id": "https://www.limerickpost.ie/?p=363774",
+      "title": "Christmas in Limerick 2026 Creates Festive Trail Across the City",
+      "link": "https://www.limerickpost.ie/2026/11/21/christmas-in-limerick-2026-creates-festive-trail-across-the-city/",
+      "description": "A trail of Christmas experiences stretching from King John’s Castle through the city centre to The Crescent on O’Connell Avenue is at the heart of Limerick City and County Council’s Christmas in Limerick 2026 festival. A Georgian Christmas Fayre, a magical journey to meet Santa, a festive train through the city and a park transformed [&#8230;]\nThe post Christmas in Limerick 2026 Creates Festive Trail Across the City appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 10:27:11 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T13:24:50.853Z"
+    },
+    "https://www.limerickpost.ie/?p=363591": {
+      "id": "https://www.limerickpost.ie/?p=363591",
+      "title": "Free RTÉ 2fm live recording comes to Dolans with all-Limerick line-up",
+      "link": "https://www.limerickpost.ie/2026/11/21/free-rte-2fm-live-recording-comes-to-dolans-with-all-limerick-line-up/",
+      "description": "Four Limerick acts will be recorded live for RTÉ 2fm at a free gig in Dolans on Thursday November 26, as Sessions from Oblivion (SFO) stages its first Limerick show. Strange Boy, Layen, T.A. Narrative and Mother of Pearl will play on the night, with the performances recorded for broadcast on 2fm. Strange Boy is [&#8230;]\nThe post Free RTÉ 2fm live recording comes to Dolans with all-Limerick line-up appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 09:10:45 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T13:24:50.853Z"
+    },
+    "https://www.limerickpost.ie/?p=363508": {
+      "id": "https://www.limerickpost.ie/?p=363508",
+      "title": "Timely launch of Christmas Racing Festival",
+      "link": "https://www.limerickpost.ie/2026/11/21/timely-launch-of-christmas-racing-festival/",
+      "description": "LIMERICK Racecourse has launched its four-day Mr Binman Christmas Racing Festival (December 26 &#8211; 29) at Greenmount Park, Patrickswell. Thousands of punters are expected across the 26th edition of the programme at the venue. Locally based Big Boss Group is again a partner to the venture. Its director Riann O’Dwyer said: “It’s a partnership we’re [&#8230;]\nThe post Timely launch of Christmas Racing Festival appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 09:00:59 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T13:24:50.853Z"
+    },
+    "https://www.limerickpost.ie/?p=363425": {
+      "id": "https://www.limerickpost.ie/?p=363425",
+      "title": "LIMERICK IN PHOTOS: Crescent College past pupils dinner",
+      "link": "https://www.limerickpost.ie/2026/11/20/limerick-in-photos-crescent-college-past-pupils-dinner/",
+      "description": "THE Class of 86 were celebrated at the Crescent College past pupils dinner this past weekend. Among the honoured guests were the 1986 Munster Senior Rugby Cup winning team, marking 40 years since their win, as well as Limerick athlete Ava Crean and Dr Patrick O’Donnell, who were honoured with a Special Recognition Award. Brian [&#8230;]\nThe post LIMERICK IN PHOTOS: Crescent College past pupils dinner appeared first on Limerick Post.",
+      "pubDate": "Fri, 20 Nov 2026 21:00:48 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T13:24:50.853Z"
+    },
+    "https://limerickvoice.com/?p=53942": {
+      "id": "https://limerickvoice.com/?p=53942",
+      "title": "Brady and Boevi lead first Limerick FC retentions",
+      "link": "https://limerickvoice.com/sport/brady-and-boevi-lead-first-limerick-fc-retentions/",
+      "description": "Goalkeeper Jack Brady and defender Richkov Boevi will remain with Tommy Barrett&#8217;s squad as the club prepares to compete as Limerick FC in 2027.  TREATY United have confirmed their first two player re-signings ahead of the 2027 League of Ireland season, with goalkeeper Jack Brady and defender Richkov Boevi committing to the club for the [&#8230;]\nThe post Brady and Boevi lead first Limerick FC retentions appeared first on .",
+      "pubDate": "Sat, 21 Nov 2026 09:00:12 +0000",
+      "author": "Emma Dineen",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-21T13:24:52.076Z"
     }
   },
   "rewritten": {
@@ -15894,6 +16002,23 @@
       "imageCredit": "ADRIAN BUTLER",
       "rewrittenAt": "2026-11-18T13:56:56.120Z"
     },
+    "9358804": {
+      "headline": "Community Projects in Limerick and Kerry Share €146,000 in Funding",
+      "summary": "Nineteen community projects and ten local initiatives have shared over €146,000 in funding through an annual grants scheme.",
+      "story": "The annual fund awarded €138,939 to 19 community projects alongside €7,344 in microgrants supporting 10 further local initiatives across Limerick and Kerry. Read the full story on the Limerick Leader.",
+      "localAngle": "The funding directly supports community projects and local initiatives located within Limerick and Kerry.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick and Kerry organisations awarded over €146,000 in funding for community projects",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/eco-live/limerick-and-kerry-organisations-awarded-over-eur146000-in-funding-for-community-projects-9358804",
+      "publishedAt": "Sat, 21 Nov 2026 08:00:21 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/12/15/Capture-r.JPG?width=1200&auto=webp&trim=22%2C2%2C34%2C0",
+      "imageCredit": "3rd Party Image",
+      "rewrittenAt": "2026-11-21T13:26:36.688Z"
+    },
     "9358942": {
       "headline": "Galbally National School bids farewell to principal Martin Kearney",
       "summary": "Galbally National School has hosted a retirement celebration to honour long-serving principal Martin Kearney.",
@@ -16211,6 +16336,11 @@
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-20T14:00:37.543Z"
     },
+    "9362014": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363753",
+      "rewrittenAt": "2026-11-21T13:25:44.975Z"
+    },
     "9362120": {
       "headline": "Limerick businesses clean city streets ahead of Christmas celebrations",
       "summary": "Traders and local businesses are helping to clean Limerick's streets ahead of the Christmas season.",
@@ -16386,6 +16516,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/16/iconic-upload-1536527366201_1648814431.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-20T17:48:51.562Z"
     },
+    "9364200": {
+      "headline": "Limerick Motorists Warned After Window Smashed And Valuables Stolen",
+      "summary": "Gardaí have issued safety advice to drivers ahead of the Christmas shopping period following a vehicle break-in in Limerick city.",
+      "story": "A thief smashed a car window and stole items in Limerick city, prompting Sergeant Michelle O’Halloran of Henry Street garda station to issue precautionary advice to motorists as the busy Christmas shopping season approaches.",
+      "localAngle": "The incident and subsequent Garda warning directly affect motorists parking and shopping in Limerick city.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Thief smashes car window and steals items in Limerick city",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/thief-smashes-car-window-and-steals-items-in-limerick-city-9364200",
+      "publishedAt": "Sat, 21 Nov 2026 07:00:30 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/21/19/Iconicstockimage_backs-of-two-gardai-(new-uniforms).png?width=1200&auto=webp&trim=0%2C31%2C0%2C57",
+      "imageCredit": "File photo",
+      "rewrittenAt": "2026-11-21T13:26:45.298Z"
+    },
     "9364382": {
       "headline": "Irish TDs Welcome EU-UK Agreement Finalised in Brussels",
       "summary": "Irish TDs have praised a new EU-UK deal covering food exports, emissions trading, and a youth scheme agreed by Andy Burnham in Brussels.",
@@ -16411,6 +16558,23 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53875",
       "rewrittenAt": "2026-11-20T21:01:02.831Z"
+    },
+    "9364764": {
+      "headline": "Limerick Avoids Major Incidents During College Christmas Celebrations",
+      "summary": "College Christmas celebrations in Limerick city saw boisterous and messy student behavior, but no major incidents were reported.",
+      "story": "While students were boisterous and messy during the recent College Christmas events, authorities reported no major incidents in Limerick city.",
+      "localAngle": "The events took place in Limerick city, impacting the local area with boisterous student activity.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "EDITORIAL: Sore heads but no major headaches at College Christmas in Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/opinion/comment/editorial-sore-heads-but-no-major-headaches-at-college-christmas-in-limerick-9364764",
+      "publishedAt": "Fri, 20 Nov 2026 21:30:34 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/16/37/pexels-karola-g-5469826.jpeg?width=1200&auto=webp&trim=1981%2C0%2C797%2C1",
+      "imageCredit": "FILE PICTURE",
+      "rewrittenAt": "2026-11-21T13:26:54.311Z"
     },
     "9364903": {
       "headline": "Tánaiste Rules Out Government TDs Breaking Whip on Triple Lock Reform",
@@ -21829,6 +21993,102 @@
       "rewrittenAt": "2026-11-20T21:01:27.782Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Oluwalonimi-Adegbola-finalist-Frank-Maher-2026-011.jpg",
       "imageCheckedAt": "2026-11-20T21:01:36.612Z"
+    },
+    "https://www.limerickpost.ie/?p=363647": {
+      "headline": "Limerick workers coming off social welfare could claim Back to Work Family Dividend",
+      "summary": "Parents in Limerick transitioning from jobseeker payments into full-time work may be eligible for a two-year financial boost. The Back to Work Family Dividend offers weekly payments per child to help families make the switch to employment.",
+      "story": "Families across Limerick navigating the transition from social welfare into full-time employment are being reminded of additional financial supports available to them. While many jobseekers are familiar with the Working Family Payment, the Back to Work Family Dividend (BTWFD) provides an extra layer of assistance for parents leaving primary social welfare schemes for work or self-employment.\n\nThe dividend is paid for up to two years to eligible claimants with children who stop claiming a jobseeker’s payment or a One-Parent Family Payment. During the first year in employment, recipients receive a weekly Child Support Payment—formerly known as the Increase for a Qualified Child—for up to four children. This amount is then halved for the second year.\n\nRates introduced in January 2026 stand at €58 per week for a child under 12, and €78 for a child aged 12 and over, dropping to €29 and €39 respectively in the second year. To qualify, all family members must sign off primary social welfare payments, and applicants must satisfy the habitual residence condition. The payment is not taxable and can be combined with the Working Family Payment.\n\nApplicants looking to secure the dividend must complete the BTWFD1 application form and submit it alongside supporting documentation to their local Intreo Centre or Social Welfare Branch Office. While payments generally begin from the claim date, deciding officers can backdate the support for up to six months if there is good cause for a delay.",
+      "localAngle": "The financial support is available to Limerick jobseekers transitioning into employment through local Intreo Centres and Social Welfare Branch Offices.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Citizen’s Corner – Understanding the Back to Work Family Dividend",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/citizens-corner-understanding-the-back-to-work-family-dividend/",
+      "publishedAt": "Sat, 21 Nov 2026 12:00:54 +0000",
+      "rewrittenAt": "2026-11-21T13:25:52.232Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2020/02/4646-scaled.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:11.985Z"
+    },
+    "https://www.limerickpost.ie/?p=363774": {
+      "headline": "Limerick Council Launches 2026 Christmas Festival Featuring City-Wide Festive Trail",
+      "summary": "Limerick City and County Council has officially launched its Christmas in Limerick 2026 festival, featuring a connected festive trail from King John's Castle to The Crescent. The programme kicks off with the Light Up Limerick procession on Saturday, 21 November.",
+      "story": "A new trail of Christmas experiences stretching from King John’s Castle through the city centre to The Crescent on O’Connell Avenue forms the core of Limerick City and County Council’s Christmas in Limerick 2026 festival. The full programme was unveiled at King John’s Castle ahead of the official start of principal events on Saturday, 21 November, running under the theme ‘Together for Christmas in Limerick'.\n\nThe festive lineup introduces several major attractions, including a new Georgian Christmas Fayre at The Crescent on O’Connell Avenue, running from 21 November to 23 December. The fayre will transform the distinctive Georgian setting with market stalls, artisan gifts, festive food, and a traditional carousel. Other headline features include Castle Christmas at King John’s Castle, festive activities at Arthur’s Quay Park—complete with ice skating and a panoramic wheel—and a festive train through the city.\n\nThe celebrations officially begin on Saturday, 21 November, with the Light Up Limerick Procession produced by LUXE. Departing from Brown Thomas at 7pm, the procession will travel down O’Connell Street to Lower Glentworth Street for live entertainment, performances, and the switching on of the city's Christmas lights. Over 150 listings are available on Limerick.ie/Christmas, incorporating both Council-supported programming and community-led events designed to encourage visitors to explore the city and support local traders.",
+      "localAngle": "The festival spans key locations across Limerick city centre, aiming to boost local trade and community engagement throughout the holiday season.",
+      "section": "Arts & Culture",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Christmas in Limerick 2026 Creates Festive Trail Across the City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/christmas-in-limerick-2026-creates-festive-trail-across-the-city/",
+      "publishedAt": "Sat, 21 Nov 2026 10:27:11 +0000",
+      "rewrittenAt": "2026-11-21T13:26:01.110Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/01_christmas-in-limerick_261117-2.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:12.641Z"
+    },
+    "https://www.limerickpost.ie/?p=363591": {
+      "headline": "Four Limerick acts to feature in free RTÉ 2fm live recording at Dolans",
+      "summary": "Strange Boy, Layen, T.A. Narrative and Mother of Pearl will perform at Dolans on Thursday, November 26, as RTÉ 2fm's Sessions from Oblivion stages its first live Limerick show.",
+      "story": "Music fans in Limerick will have the chance to attend a free live broadcast recording next week when RTÉ 2fm's Sessions from Oblivion (SFO) brings an all-Limerick line-up to Dolans on Thursday, November 26.\n\nThe bill features acclaimed Limerick rapper Strange Boy, alt-rock and metal crossover artist Layen, eclectic outfit T.A. Narrative, and post-hardcore, shoegaze and grunge-influenced band Mother of Pearl. Beta Da Silva of 2fm's New Music Show will compere the evening.\n\nIn keeping with SFO tradition, the running order for the night will be drawn from a hat on the day and will not be announced in advance, meaning audience members must arrive early to catch specific acts. \n\nLimerick is the first stop on a four-date live tour for the current season of SFO, which will also visit Dublin and Belfast. While SFO has previously recorded live shows in Cork and Galway, this marks the first time the programme has staged a live recording in Limerick. Free tickets can be booked through the Dolans website.",
+      "localAngle": "The event marks the first time RTÉ 2fm's Sessions from Oblivion has staged a live recording in Limerick, showcasing four homegrown musical acts to a national audience.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Free RTÉ 2fm live recording comes to Dolans with all-Limerick line-up",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/free-rte-2fm-live-recording-comes-to-dolans-with-all-limerick-line-up/",
+      "publishedAt": "Sat, 21 Nov 2026 09:10:45 +0000",
+      "rewrittenAt": "2026-11-21T13:26:09.997Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Strange-Boy-Credit-Vadim-Woinski.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:13.061Z"
+    },
+    "https://www.limerickpost.ie/?p=363508": {
+      "headline": "Greenmount Park launches 26th annual Christmas Racing Festival",
+      "summary": "Limerick Racecourse has officially launched its four-day Mr Binman Christmas Racing Festival, expecting over 20,000 racegoers to attend Greenmount Park in Patrickswell between December 26 and 29.",
+      "story": "Greenmount Park in Patrickswell has officially launched its four-day Mr Binman Christmas Racing Festival, marking the 26th edition of the popular post-Christmas sporting fixture.\n\nThousands of punters are expected to pass through the gates between December 26 and 29, with organisers targeting attendances of over 5,000 people each day. Locally based Big Boss Group is returning as a partner for the event.\n\nRiann O’Dwyer, director at Big Boss Group, said: “It’s a partnership we’re incredibly grateful for, and we’re thankful to the directors and the entire Limerick Racecourse team for their continued trust in us.”\n\nThe four-day festival features a diverse lineup of events, beginning with the atmosphere of St Stephen’s Day, followed by Ladies Day on December 27. The racing highlight takes place on December 28 with the Grade One Diageo Faugheen Novice Steeplechase, concluding with a Family Fun Day on December 29.",
+      "localAngle": "The four-day Christmas racing festival takes place locally at Greenmount Park in Patrickswell, drawing thousands of attendees from across Limerick and the wider region.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Timely launch of Christmas Racing Festival",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/timely-launch-of-christmas-racing-festival/",
+      "publishedAt": "Sat, 21 Nov 2026 09:00:59 +0000",
+      "rewrittenAt": "2026-11-21T13:26:18.947Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Post-Three-2.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:13.329Z"
+    },
+    "https://limerickvoice.com/?p=53942": {
+      "headline": "Jack Brady and Richkov Boevi sign as first players for Limerick FC in 2027",
+      "summary": "Goalkeeper Jack Brady and defender Richkov Boevi have become the first two players to re-sign for Tommy Barrett’s squad ahead of the club's return as Limerick FC next season.",
+      "story": "Goalkeeper Jack Brady and defender Richkov Boevi have committed to Tommy Barrett’s squad as the club prepares to officially compete as Limerick FC in February 2027.\n\nBrady returns following an impressive 2026 campaign at the Markets Field where he made 34 appearances, kept nine clean sheets, and swept the club's player of the year awards. The 2027 season marks another chapter for the goalkeeper, who previously represented Limerick FC in 2018. Meanwhile, 22-year-old defender Boevi enters his third full senior season after breaking into the first team in 2024 and helping Treaty United reach the First Division play-off final in 2025.\n\nWelcoming the retentions, manager Tommy Barrett said: “Jack was a big player for us last season. He made saves that won us points, and the younger lads have someone they can lean on in him. Richkov had a frustrating year with injuries, but he worked hard to get back and showed what he can give us in those last few games. I’m delighted we’ll have both of them with us when we take to the pitch as Limerick FC in February.”\n\nThe club will mark its 90th anniversary since being founded in 1937 with a dedicated Heritage Season throughout 2027. Supporters will get their first look at the new Limerick FC identity on December 15 when the club unveils its new crest and kits, ahead of the League of Ireland fixture release on December 16.",
+      "localAngle": "The historic Limerick FC name returns to the Markets Field for the 2027 League of Ireland season, marking 90 years since the club's founding in the city.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Brady and Boevi lead first Limerick FC retentions",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/brady-and-boevi-lead-first-limerick-fc-retentions/",
+      "publishedAt": "Sat, 21 Nov 2026 09:00:12 +0000",
+      "rewrittenAt": "2026-11-21T13:26:28.069Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/Jack-Brady_ULStudentEMMA.DINEEN-scaled.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:13.625Z"
+    },
+    "https://www.limerickpost.ie/?p=363425": {
+      "headline": "Crescent College Celebrates Class of '86 and 1986 Rugby Cup Winners",
+      "summary": "Crescent College Past Pupils Union held its annual dinner at the Strand Hotel, celebrating the Class of 1986 and marking the 40th anniversary of their Munster Senior Rugby Cup victory.",
+      "story": "Alumni gathered at the Strand Hotel in Limerick on November 14 for the Crescent Comprehensive Annual Past Pupil Union Dinner. The evening was highlighted by celebrations for the Class of 1986, which included marking 40 years since the historic win by the 1986 Munster Senior Rugby Cup winning team.\n\nDuring the event, several special accolades were handed out to notable past pupils. Limerick athlete Ava Crean and Dr Patrick O’Donnell were both honoured with Special Recognition Awards for their respective achievements.\n\nAdditionally, Brian Nolan, president of the Crescent College Past Pupils Union, presented the Roll of Honour Award to Barry O’Brien. O'Brien, a Meadowvale student from the Class of 1995, currently works with Goldman Sachs in New York City.",
+      "localAngle": "The event brought together Limerick alumni at the Strand Hotel to celebrate local sporting history and community achievements.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Crescent College past pupils dinner",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/limerick-in-photos-crescent-college-past-pupils-dinner/",
+      "publishedAt": "Fri, 20 Nov 2026 21:00:48 +0000",
+      "rewrittenAt": "2026-11-21T13:27:03.965Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/1986-Class-reunion.jpg",
+      "imageCheckedAt": "2026-11-21T13:27:14.431Z"
     }
   }
 }
