@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-21T13:24:59.256Z",
-    "totalArticles": 29
+    "lastScrape": "2026-11-21T16:43:56.928Z",
+    "totalArticles": 28
   },
   "articles": {
     "8353171": {
@@ -4864,6 +4864,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-17T14:18:12.634Z"
     },
+    "9353384": {
+      "id": "9353384",
+      "title": "Community playground in Limerick town gets €80,000 facelift",
+      "link": "https://www.limerickleader.ie/community/community-playground-in-limerick-town-gets-eur80000-facelift-9353384",
+      "description": "The renovation works at Rathkeale Community Playground, are being part funded by the LEADER programme,",
+      "pubDate": "Sat, 21 Nov 2026 16:00:47 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/10/RATHKEALE-PLAYRGOUND.jpg?width=1200&auto=webp&trim=0%2C15%2C0%2C113",
+      "imageCredit": "Limerick City and Count Council",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T16:43:46.502Z"
+    },
     "9353438": {
       "id": "9353438",
       "title": "Dublin riots: How violence unfolded after attack on children",
@@ -5822,6 +5834,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
+    "9363436": {
+      "id": "9363436",
+      "title": "Limerick funeral directors and soprano join forces for charity candlelit concert",
+      "link": "https://www.limerickleader.ie/news/limerick-funeral-directors-and-soprano-join-forces-for-charity-candlelit-concert-9363436",
+      "description": "Thompson funeral directors in Limerick are joining forces with soprano Eve Stafford for a candlelit charity concert to raise funds for ALONE",
+      "pubDate": "Sat, 21 Nov 2026 14:00:34 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/11/44/Charity-Remembrance-Concert-on-the-29th-of-November-2.jpeg?width=1200&auto=webp&trim=0%2C3%2C202%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T16:43:46.502Z"
+    },
+    "9363583": {
+      "id": "9363583",
+      "title": "PICTURES: Garryowen FC host Business and Leadership Lunch ",
+      "link": "https://www.limerickleader.ie/sport/rugby/pictures-garryowen-fc-host-business-and-leadership-lunch-9363583",
+      "description": "Garryowen FC hosted their 2026 Business and Leadership Lunch at Gardens International on November 13",
+      "pubDate": "Sat, 21 Nov 2026 14:30:14 GMT",
+      "author": "Limerick Live Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/11/44/MixCollage-20-Nov-2026-11-36-AM-4409.jpeg?width=1200&auto=webp&trim=33%2C2%2C88%2C0",
+      "imageCredit": "Kieran Ryan-Benson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T16:43:46.502Z"
+    },
     "9363938": {
       "id": "9363938",
       "title": "‘Wow, this is fantastic’: Excitement as Spiegeltent Pavilion opens in Limerick",
@@ -5913,6 +5949,17 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/17/cs-a730254f-a633-4c1e-b409-5f4470e5c54f.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T17:42:29.934Z"
+    },
+    "9365708": {
+      "id": "9365708",
+      "title": "Thousands rally to defend Irish neutrality at Dublin demonstration",
+      "link": "https://www.limerickleader.ie/national/thousands-rally-to-defend-irish-neutrality-at-dublin-demonstration-9365708",
+      "description": "Demonstrators opposed the Government’s plans to reform the triple lock, governing the overseas deployment of troops.",
+      "pubDate": "Sat, 21 Nov 2026 16:37:57 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/21/16/cs-4fab143b-a300-44c2-91c2-26fa3ea3633a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-21T16:43:46.502Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -10015,6 +10062,36 @@
       "author": "Emma Dineen",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-21T13:24:52.076Z"
+    },
+    "https://www.limerickpost.ie/?p=363656": {
+      "id": "https://www.limerickpost.ie/?p=363656",
+      "title": "Limerick community groups to deliver climate action projects after funding round",
+      "link": "https://www.limerickpost.ie/2026/11/21/limerick-community-groups-to-deliver-climate-action-projects-after-funding-round/",
+      "description": "TWENTY-THREE local community groups will deliver a range of climate action projects following the allocation of almost €1million in funding under the Community Climate Action Programme. The groups took a share in a national pot of €887,575.98 as part of this round of funding. Local groups receiving the environmental funding include Southill Area Centre, Limerick [&#8230;]\nThe post Limerick community groups to deliver climate action projects after funding round appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 16:30:05 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T16:43:46.052Z"
+    },
+    "https://www.limerickpost.ie/?p=363655": {
+      "id": "https://www.limerickpost.ie/?p=363655",
+      "title": "Christmas comes to Croom this Sunday",
+      "link": "https://www.limerickpost.ie/2026/11/21/christmas-comes-to-croom-this-sunday/",
+      "description": "CHRISTMAS returns early to Croom this Sunday with the Christmas Craft Market. The fifth annual Christmas market in Croom will take place from 10am to 3pm on Sunday November 22 at the Croom Sports Hall. Organised by the Croom Development Association, the day of Christmas Cheer will include stalls from local crafters from honey to [&#8230;]\nThe post Christmas comes to Croom this Sunday appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 15:00:02 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T16:43:46.052Z"
+    },
+    "https://www.limerickpost.ie/?p=363652": {
+      "id": "https://www.limerickpost.ie/?p=363652",
+      "title": "New committee to help shape future of Bruff",
+      "link": "https://www.limerickpost.ie/2026/11/21/new-committee-to-help-shape-future-of-bruff/",
+      "description": "THERE is a renewed sense of positivity and community spirit in Bruff with the official establishment of the Bruff Traders and Community Committee. Made up of local traders, community members, and volunteers who are passionate about the future of the village, the committee has come together with one common goal: to work collaboratively on projects [&#8230;]\nThe post New committee to help shape future of Bruff appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 13:30:11 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T16:43:46.052Z"
     }
   },
   "rewritten": {
@@ -15384,6 +15461,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-17T14:33:03.140Z"
     },
+    "9353384": {
+      "headline": "Rathkeale Community Playground Receives €80,000 Renovation",
+      "summary": "Rathkeale Community Playground has undergone an €80,000 facelift with part-funding from the LEADER programme.",
+      "story": "Renovation works at the Rathkeale Community Playground are being part-funded by the LEADER programme.",
+      "localAngle": "This project directly benefits families and children in the County Limerick town of Rathkeale.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Community playground in Limerick town gets €80,000 facelift",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/community-playground-in-limerick-town-gets-eur80000-facelift-9353384",
+      "publishedAt": "Sat, 21 Nov 2026 16:00:47 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/13/10/RATHKEALE-PLAYRGOUND.jpg?width=1200&auto=webp&trim=0%2C15%2C0%2C113",
+      "imageCredit": "Limerick City and Count Council",
+      "rewrittenAt": "2026-11-21T16:44:35.033Z"
+    },
     "9353438": {
       "headline": "Timeline of Violence and Destruction During Dublin Riots Following Child Attack",
       "summary": "Vehicles were burned, shops looted, and infrastructure damaged during unrest in the capital.",
@@ -16483,6 +16577,40 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363713",
       "rewrittenAt": "2026-11-20T13:59:39.456Z"
     },
+    "9363436": {
+      "headline": "Thompson Funeral Directors Team Up With Soprano Eve Stafford For ALONE",
+      "summary": "Thompson funeral directors and soprano Eve Stafford are hosting a candlelit charity concert in Limerick to raise funds for ALONE.",
+      "story": "Thompson funeral directors have joined forces with soprano Eve Stafford to stage a candlelit charity concert in aid of the charity ALONE. Read the full story on the Limerick Leader.",
+      "localAngle": "The partnership brings together local Limerick funeral directors and a regional soprano to support a national charity operating locally.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick funeral directors and soprano join forces for charity candlelit concert",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-funeral-directors-and-soprano-join-forces-for-charity-candlelit-concert-9363436",
+      "publishedAt": "Sat, 21 Nov 2026 14:00:34 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/11/44/Charity-Remembrance-Concert-on-the-29th-of-November-2.jpeg?width=1200&auto=webp&trim=0%2C3%2C202%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-21T16:45:06.582Z"
+    },
+    "9363583": {
+      "headline": "Garryowen Football Club Holds Annual Business and Leadership Lunch",
+      "summary": "Garryowen FC held their 2026 Business and Leadership Lunch at Gardens International on November 13.",
+      "story": "Garryowen FC hosted the 2026 Business and Leadership Lunch at Gardens International on November 13, with photos from the event recently published. Read the full story on Limerick Leader.",
+      "localAngle": "The event was hosted locally in Limerick by Garryowen FC at Gardens International.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Garryowen FC host Business and Leadership Lunch ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/pictures-garryowen-fc-host-business-and-leadership-lunch-9363583",
+      "publishedAt": "Sat, 21 Nov 2026 14:30:14 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/11/44/MixCollage-20-Nov-2026-11-36-AM-4409.jpeg?width=1200&auto=webp&trim=33%2C2%2C88%2C0",
+      "imageCredit": "Kieran Ryan-Benson",
+      "rewrittenAt": "2026-11-21T16:44:53.082Z"
+    },
     "9363938": {
       "headline": "Spiegeltent Pavilion Launches in Limerick with Sold-Out Proclaimers Gig",
       "summary": "The new Spiegeltent Pavilion venue at Dolans opens tonight with a sold-out performance by The Proclaimers.",
@@ -16591,6 +16719,11 @@
       "publishedAt": "Fri, 20 Nov 2026 16:58:42 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/17/cs-a730254f-a633-4c1e-b409-5f4470e5c54f.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-20T17:45:46.774Z"
+    },
+    "9365708": {
+      "skipped": true,
+      "duplicateOf": "9364903",
+      "rewrittenAt": "2026-11-21T16:44:29.291Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -22089,6 +22222,59 @@
       "rewrittenAt": "2026-11-21T13:27:03.965Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/1986-Class-reunion.jpg",
       "imageCheckedAt": "2026-11-21T13:27:14.431Z"
+    },
+    "https://www.limerickpost.ie/?p=363656": {
+      "skipped": true,
+      "duplicateOf": "9358804",
+      "rewrittenAt": "2026-11-21T16:44:29.291Z"
+    },
+    "https://www.limerickpost.ie/?p=363655": {
+      "headline": "Croom Development Association hosts fifth annual Christmas Craft Market this Sunday",
+      "summary": "The fifth annual Christmas Craft Market takes place this Sunday at Croom Sports Hall from 10am to 3pm. Organised by the Croom Development Association, the event features local makers selling honey, handmade jewellery, and gifts.",
+      "story": "Festive events return to County Limerick early this weekend as the fifth annual Christmas Craft Market gets underway this Sunday in Croom.\n\nRunning from 10am to 3pm at the Croom Sports Hall, the market is organised by the Croom Development Association and features a range of stalls from local crafters. Visitors can browse locally produced goods ranging from honey to handmade jewellery, alongside festive treats and unique gifts.\n\nSpeaking ahead of her first craft market in the role, Croom Development Association CEO Amy White said: \"I am really looking forward to my first Croom Christmas Craft Market. It is a wonderful opportunity to bring people together, showcase the talent and creativity of local makers and small businesses, and celebrate everything that makes Croom such a great community.\"\n\nAdmission details and further information on the stalls are available through the organising association as the community event opens its doors to shoppers this Sunday.",
+      "localAngle": "The annual Christmas Craft Market brings together local makers, small businesses, and shoppers in Croom for a community festive event.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Christmas comes to Croom this Sunday",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/christmas-comes-to-croom-this-sunday/",
+      "publishedAt": "Sat, 21 Nov 2026 15:00:02 +0000",
+      "rewrittenAt": "2026-11-21T16:44:45.094Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Croom-Christmas-Amy-White-CEO-Croom-Development-Kathleen-Tracey-and-Giulia-Coli-1.png",
+      "imageCheckedAt": "2026-11-21T16:45:25.856Z"
+    },
+    "https://www.limerickpost.ie/?p=363652": {
+      "headline": "New Bruff Traders and Community Committee forms to push for local road and safety upgrades",
+      "summary": "Traders and residents in Bruff have established a new committee to lobby Limerick City and County Council for traffic calming, pedestrian crossings, and parking improvements. The group will hold its next public meeting on November 26.",
+      "story": "A new community group has been officially established in Bruff with the aim of collaborating on local projects and engaging with Limerick City and County Council on village improvements.\n\nThe Bruff Traders and Community Committee has already opened discussions with the local authority regarding several key initiatives. Among the priorities are the appointment of a traffic crossing person for Scoil Dean Cussen, traffic calming measures on approach roads, a pedestrian crossing at the church side gate, additional off-street parking, and the upgrading of the local water tower.\n\nA committee spokesperson said the group wants to ensure local voices remain at the heart of future developments in the area. \"This is about bringing people together and working positively for Bruff,\" the spokesperson said. \"There is a huge amount of pride in our village, and by working together as a community, we can help ensure that Bruff continues to thrive for future generations.\"\n\nThe committee is inviting residents, business owners, and local organisations to get involved and share their ideas. The next public meeting is scheduled for November 26 at 7.30pm at CareBright, with all members of the community welcome to attend.",
+      "localAngle": "The newly formed committee is actively engaging with Limerick City and County Council to secure infrastructure and safety improvements for the County Limerick village of Bruff.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "New committee to help shape future of Bruff",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/new-committee-to-help-shape-future-of-bruff/",
+      "publishedAt": "Sat, 21 Nov 2026 13:30:11 +0000",
+      "rewrittenAt": "2026-11-21T16:45:16.322Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/07/Bruff-Streetscapes-029.jpg",
+      "imageCheckedAt": "2026-11-21T16:45:26.502Z"
+    },
+    "https://www.limerickpost.ie/?p=363716": {
+      "headline": "Ardagh man Christopher O'Mahony jailed for 16 months over 1970s abuse",
+      "summary": "A 68-year-old County Limerick man already serving a nine-year prison sentence has been handed an additional 16-month jail term after pleading guilty to indecently assaulting a third victim in the 1970s.",
+      "story": "Christopher O’Mahony, of Kerrykyle, Ardagh, County Limerick, was sentenced at Limerick Circuit Criminal Court after admitting two counts of indecent assault. The court heard the victim came forward to the Gardaí after reading an online news article last year detailing O’Mahony’s conviction for abusing his daughter and sister-in-law.\n\nProsecuting barrister Lily Buckley BL told the court that the abuse occurred when the victim was aged five and 13. The victim remained silent for 54 years before seeing the media report that sparked her to contact Henry Street Garda Station.\n\nJudge Mary Morrissey imposed a headline sentence of 36 months, which was reduced due to an early guilty plea, expressions of remorse, and his current prison sentence. O’Mahony was handed a 20-month sentence with the final four months suspended, to run consecutively to the nine-year sentence he is currently serving at Midlands Prison.\n\nReaders affected by issues in this article can contact the 24-hour Rape Crisis Helpline on 1800 778 888 or the Garda Confidential Line on 1800 666 111.",
+      "localAngle": "The offender is from Ardagh, County Limerick, and the case was heard at Limerick Circuit Criminal Court.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "‘Monster’ paedophile jailed after admitting indecent assaults on third young victim",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/20/monster-paedophile-jailed-after-admitting-indecent-assaults-on-third-young-victim/",
+      "publishedAt": "Fri, 20 Nov 2026 13:30:56 +0000",
+      "rewrittenAt": "2026-11-21T16:45:25.390Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/03/Christopher-omahony-e1742322742464.jpeg",
+      "imageCheckedAt": "2026-11-21T16:45:26.797Z"
     }
   }
 }
