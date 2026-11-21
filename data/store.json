@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-21T16:43:56.928Z",
-    "totalArticles": 28
+    "lastScrape": "2026-11-21T20:01:39.739Z",
+    "totalArticles": 24
   },
   "articles": {
     "8353171": {
@@ -10092,6 +10092,16 @@
       "author": "Alan Jacques",
       "source": "limerickpost",
       "scrapedAt": "2026-11-21T16:43:46.052Z"
+    },
+    "https://www.limerickpost.ie/?p=363756": {
+      "id": "https://www.limerickpost.ie/?p=363756",
+      "title": "Senator Collins backs Kostal workers as SIPTU announces further industrial action",
+      "link": "https://www.limerickpost.ie/2026/11/21/senator-collins-backs-kostal-workers-as-siptu-announces-further-industrial-action/",
+      "description": "SINN Féin Senator Joanne Collins has pledged her full support for SIPTU members at Kostal in Abbeyfeale and called on management to enter talks with the union to agree fair redundancy terms and give workers clarity about the future of the plant. Senator Collins, who met workers on the picket line at their most recent [&#8230;]\nThe post Senator Collins backs Kostal workers as SIPTU announces further industrial action appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 18:00:29 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-21T20:01:30.281Z"
     }
   },
   "rewritten": {
@@ -22275,6 +22285,22 @@
       "rewrittenAt": "2026-11-21T16:45:25.390Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/03/Christopher-omahony-e1742322742464.jpeg",
       "imageCheckedAt": "2026-11-21T16:45:26.797Z"
+    },
+    "https://www.limerickpost.ie/?p=363756": {
+      "headline": "SIPTU Announces New Strikes at Abbeyfeale Kostal Plant Amid 140 Job Cuts",
+      "summary": "SIPTU members at Kostal in Abbeyfeale will stage a 24-hour stoppage, work-to-rule, and overtime ban from December 1. The escalation follows management's plan to cut 140 jobs by March 2027.",
+      "story": "Industrial unrest at the Kostal plant in Abbeyfeale is set to escalate next month after SIPTU announced a series of fresh actions, including a 24-hour stoppage, a work-to-rule, and an overtime ban starting on December 1. The dispute centres on planned redundancies that will see 140 workers lose their jobs by the end of March 2027. Workers previously held demonstrations outside the plant from Monday to Wednesday last week.\n\nSinn Féin Senator Joanne Collins has stepped into the fray, pledging her full backing to the workforce after meeting them on the picket line. She called on plant management to immediately enter negotiations with SIPTU to secure fair redundancy terms and provide clarity for employees whose jobs remain under threat.\n\nResponding to company assertions that the union's industrial action is unhelpful, Senator Collins argued that direct talks are the only way forward. She noted that the union is prepared to engage either directly or through the Workplace Relations Commission, emphasizing that West Limerick can ill afford further major job losses following a decade of economic challenges in the region.",
+      "localAngle": "The dispute directly impacts 140 jobs and the wider local economy in Abbeyfeale and West Limerick.",
+      "section": "Business",
+      "importance": 5,
+      "positivity": 2,
+      "originalTitle": "Senator Collins backs Kostal workers as SIPTU announces further industrial action",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/senator-collins-backs-kostal-workers-as-siptu-announces-further-industrial-action/",
+      "publishedAt": "Sat, 21 Nov 2026 18:00:29 +0000",
+      "rewrittenAt": "2026-11-21T20:01:47.862Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/kostal-strike.jpg",
+      "imageCheckedAt": "2026-11-21T20:01:48.231Z"
     }
   }
 }
