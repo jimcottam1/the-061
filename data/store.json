@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-21T20:01:39.739Z",
-    "totalArticles": 24
+    "lastScrape": "2026-11-22T13:16:05.622Z",
+    "totalArticles": 22
   },
   "articles": {
     "8353171": {
@@ -298,6 +298,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-24T16:59:19.235Z",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/13/54/Untitled-design-(87).jpeg?width=1200&auto=webp&trim=0%2C0%2C161%2C0"
+    },
+    "9306872": {
+      "id": "9306872",
+      "title": "Anger over use of graveyard fund for works at lane in Limerick village",
+      "link": "https://www.limerickleader.ie/community/anger-over-use-of-graveyard-fund-for-works-at-lane-in-limerick-village-9306872",
+      "description": "Located between the Holy Trinity Abbey Church and Adare Heritage Centre, Dovecot Lane is regularly used by visitors to the graveyard, Mass-goers and children walking home from school.",
+      "pubDate": "Sun, 22 Nov 2026 10:00:42 GMT",
+      "author": "Mark Cusack",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/10/55/Dovecot-lane-adare.jpg?width=1200&auto=webp&trim=0%2C1%2C36%2C0",
+      "imageCredit": "Humphrey Bolton CC",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T13:15:58.775Z"
     },
     "9306943": {
       "id": "9306943",
@@ -5684,6 +5696,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
+    "9361815": {
+      "id": "9361815",
+      "title": "Fr Caseys look for rare Limerick win over Nemo Rangers",
+      "link": "https://www.limerickleader.ie/sport/gaelic-football/fr-caseys-look-for-rare-limerick-win-over-nemo-rangers-9361815",
+      "description": "On 16 occasions, the Cork city side have won provincial honours. Only five times have Limerick teams even reached a final",
+      "pubDate": "Sun, 22 Nov 2026 08:30:54 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/14/19/Fr-Caseys-v-Kildimo-Pallaskenry-5-(2).jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T13:15:58.775Z"
+    },
     "9362014": {
       "id": "9362014",
       "title": "Council acquisition marks ‘significant milestone’ in restoration of historic Limerick building",
@@ -5960,6 +5984,30 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/21/16/cs-4fab143b-a300-44c2-91c2-26fa3ea3633a.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-21T16:43:46.502Z"
+    },
+    "9366094": {
+      "id": "9366094",
+      "title": "COMMENT: Limerick’s Lee Reeves wasn’t born with a silver spoon - he earned his place",
+      "link": "https://www.limerickleader.ie/news/comment-limericks-lee-reeves-wasnt-born-with-a-silver-spoon-he-earned-his-place-9366094",
+      "description": "In a city where young children, teens and adults can be tempted by the promise of quick money and status through the wrong means, this was a very different kind of message. It was about earning respect the hard way. The right way.",
+      "pubDate": "Sat, 21 Nov 2026 22:40:42 GMT",
+      "author": "Áine Fitzgerald",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/21/22/18/The-Defence-Forces-line-either-side-of-the-gun-carriage-with-the-hearse-carrying-the-remains-of-Lee.jpeg?width=1200&auto=webp&trim=247%2C144%2C0%2C0",
+      "imageCredit": "PICTURE:ADRIAN BUTLER",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T13:15:58.775Z"
+    },
+    "9366299": {
+      "id": "9366299",
+      "title": "Poison-pen letters referred to wife’s cancer diagnosis, reveals University of Limerick president",
+      "link": "https://www.limerickleader.ie/news/school-education/poison-pen-letters-referred-to-wifes-cancer-diagnosis-reveals-university-of-limerick-president-9366299",
+      "description": "Professor Shane Kilcommins made protected disclosure about UL’s controversial property deal in Rhebogue",
+      "pubDate": "Sun, 22 Nov 2026 12:13:38 GMT",
+      "author": "Donal O'Regan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/06/iconic-upload-Prof_Shane_Kilcommins-1655991097558.jpg?width=1200&auto=webp&trim=0%2C0%2C76%2C0",
+      "imageCredit": "FILE PICTURE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T13:15:58.774Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -10102,6 +10150,86 @@
       "author": "Alan Jacques",
       "source": "limerickpost",
       "scrapedAt": "2026-11-21T20:01:30.281Z"
+    },
+    "https://www.limerickpost.ie/?p=363676": {
+      "id": "https://www.limerickpost.ie/?p=363676",
+      "title": "Film Column – Bampire",
+      "link": "https://www.limerickpost.ie/2026/11/22/film-column-bampire/",
+      "description": "OH, deer! What really can I say about Taylor Morden&#8217;s bargain basement slasher-comedy-horror Bampire? And, no, that&#8217;s not a spelling mistake! In all seriousness, the only thing it really has going for it is the fact it doesn&#8217;t take itself too seriously. I&#8217;m not sure what they were thinking, but thankfully there&#8217;s no one here [&#8230;]\nThe post Film Column &#8211; Bampire appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 12:00:23 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.555Z"
+    },
+    "https://www.limerickpost.ie/?p=363675": {
+      "id": "https://www.limerickpost.ie/?p=363675",
+      "title": "Employment Matters: Screenshot culture and when private messages become public",
+      "link": "https://www.limerickpost.ie/2026/11/22/employment-matters-screenshot-culture-and-when-private-messages-become-public/",
+      "description": "MANY people still treat WhatsApp messages and private chats as informal conversations with little consequence. That assumption can be dangerous. In modern workplaces, screenshots have become part of everyday workplace evidence. Messages sent impulsively, frustrations shared privately, or comments made casually between colleagues can quickly become public and create significant workplace difficulties. Sometimes all it [&#8230;]\nThe post Employment Matters: Screenshot culture and when private messages become public appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 10:30:45 +0000",
+      "author": "Dr Pat Rockett",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363606": {
+      "id": "https://www.limerickpost.ie/?p=363606",
+      "title": "UK’s first touring ska theatre show brings the sound of 2 Tone to Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/22/uks-first-touring-ska-theatre-show-brings-the-sound-of-2-tone-to-limerick/",
+      "description": "Too Much Too Young – The Music of 2Tone &#38; Beyond, the UK’s first dedicated ska theatre show to tour nationally, plays University Concert Hall on Thursday November 26, ahead of its West End debut next spring. The production has direct links to the musicians who shaped 2 Tone. It has been endorsed by Lynval [&#8230;]\nThe post UK’s first touring ska theatre show brings the sound of 2 Tone to Limerick appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 09:50:23 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363511": {
+      "id": "https://www.limerickpost.ie/?p=363511",
+      "title": "Remaining football hope rests with Fr Casey’s",
+      "link": "https://www.limerickpost.ie/2026/11/22/remaining-football-hope-rests-with-fr-caseys/",
+      "description": "LIMERICK’S remaining interest in the Munster Club Football Championship 2026 rests with Fr Casey’s of Abbeyfeale who face Nemo Rangers in the senior semi-final at Páirc Uí Rinn, Cork, this Sunday, throw-in 1.15pm (referee: Eoin Morrissey, Waterford). The other semi is between Dr Crokes (Kerry) and Waterford’s Rathgormac. Earlier in the month, Na Piarsaigh (Intermediate) [&#8230;]\nThe post Remaining football hope rests with Fr Casey’s appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 09:00:56 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363576": {
+      "id": "https://www.limerickpost.ie/?p=363576",
+      "title": "Imelda May to bring Lock In show to UCH with Limerick duo The Woodgies",
+      "link": "https://www.limerickpost.ie/2026/11/22/imelda-may-to-bring-lock-in-show-to-uch-with-limerick-duo-the-woodgies/",
+      "description": "Imelda May will play University Concert Hall (UCH) on Sunday February 28, 2027, as part of her new Raised On Songs &#38; Stories: The Lock In tour, with Limerick-based duo The Woodgies joining her as special guests. The show returns to the intimate format of her recent Raised On Songs &#38; Stories tour, this time [&#8230;]\nThe post Imelda May to bring Lock In show to UCH with Limerick duo The Woodgies appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 08:45:13 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363490": {
+      "id": "https://www.limerickpost.ie/?p=363490",
+      "title": "LIMERICK IN PHOTOS: UL presents honorary doctorates to Rachael Blackmore and Jean Butler",
+      "link": "https://www.limerickpost.ie/2026/11/21/limerick-in-photos-ul-presents-honorary-doctorates-to-rachael-blackmore-and-jean-butler/",
+      "description": "GRAND national winning jockey Rachael Blackmore and internationally acclaimed dancer and choreographer Jean Butler were awarded honorary doctorates by University of Limerick. Ms Blackmore, the first female jockey to win the Grand National and who retired from racing in 2025, and Riverdance star Jean Butler received the university’s highest honour at a ceremony in UL’s [&#8230;]\nThe post LIMERICK IN PHOTOS: UL presents honorary doctorates to Rachael Blackmore and Jean Butler appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 21:00:33 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://www.limerickpost.ie/?p=363643": {
+      "id": "https://www.limerickpost.ie/?p=363643",
+      "title": "Medical marvel the namesake for well-known Limerick City bridge",
+      "link": "https://www.limerickpost.ie/2026/11/21/medical-marvel-the-namesake-for-well-known-limerick-city-bridge/",
+      "description": "WANDERING around the city you might notice a memorial bridge to Dr Sylvester O’Halloran, but what did he do to deserve such an honour? O’Halloran was born in Caherdavin, on December 31, 1728, to Michael O’Halloran and Mary McDonnell, a devout and patriotic Catholic couple. He came from a family with strong intellectual and religious [&#8230;]\nThe post Medical marvel the namesake for well-known Limerick City bridge appeared first on Limerick Post.",
+      "pubDate": "Sat, 21 Nov 2026 18:00:30 +0000",
+      "author": "Sharon Slater",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T13:15:58.556Z"
+    },
+    "https://limerickvoice.com/?p=53964": {
+      "id": "https://limerickvoice.com/?p=53964",
+      "title": "Free sporting equipment initiative launched at Mungret Park",
+      "link": "https://limerickvoice.com/news/free-sporting-equipment-initiative-launched-at-mungret-park/",
+      "description": "BoxUp initiative aimed to make sport more accessible launched at O&#8217;Brien Park. VISITORS to Mungret Park can now enjoy a range of sporting activities free of charge following the introduction of the BoxUp initiative.  The initiative, aimed at making sport more accessible to everyone, allows members of the public to borrow sporting equipment, including rugby balls, soccer [&#8230;]\nThe post Free sporting equipment initiative launched at Mungret Park appeared first on .",
+      "pubDate": "Sun, 22 Nov 2026 12:21:04 +0000",
+      "author": "Greg King",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-22T13:15:59.133Z"
     }
   },
   "rewritten": {
@@ -10469,6 +10597,23 @@
       "section": "News",
       "importance": 2,
       "positivity": 4
+    },
+    "9306872": {
+      "headline": "Adare Residents Upset Over Graveyard Fund Spent on Dovecot Lane",
+      "summary": "Anger has arisen in a Limerick village regarding the use of a graveyard fund for works on Dovecot Lane.",
+      "story": "Dovecot Lane, situated between the Holy Trinity Abbey Church and the Adare Heritage Centre, is frequently used by children walking home from school, Mass-goers, and visitors to the graveyard. The source article provides further details on the local reaction to the funding allocation.",
+      "localAngle": "The controversy affects the community in the Limerick village of Adare.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Anger over use of graveyard fund for works at lane in Limerick village",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/anger-over-use-of-graveyard-fund-for-works-at-lane-in-limerick-village-9306872",
+      "publishedAt": "Sun, 22 Nov 2026 10:00:42 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/10/55/Dovecot-lane-adare.jpg?width=1200&auto=webp&trim=0%2C1%2C36%2C0",
+      "imageCredit": "Humphrey Bolton CC",
+      "rewrittenAt": "2026-11-22T13:18:31.711Z"
     },
     "9306943": {
       "headline": "Limerick-Linked Crime Gang Targeted Museums in Daring Heists",
@@ -16440,6 +16585,11 @@
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-20T14:00:37.543Z"
     },
+    "9361815": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363511",
+      "rewrittenAt": "2026-11-22T13:17:06.505Z"
+    },
     "9362014": {
       "skipped": true,
       "duplicateOf": "https://www.limerickpost.ie/?p=363753",
@@ -16734,6 +16884,28 @@
       "skipped": true,
       "duplicateOf": "9364903",
       "rewrittenAt": "2026-11-21T16:44:29.291Z"
+    },
+    "9366094": {
+      "skipped": true,
+      "duplicateOf": "https://limerickvoice.com/?p=53875",
+      "rewrittenAt": "2026-11-22T13:17:06.505Z"
+    },
+    "9366299": {
+      "headline": "UL President Reveals Poison-Pen Letters Referenced Wife's Cancer",
+      "summary": "Professor Shane Kilcommins made a protected disclosure regarding a controversial UL property deal in Rhebogue after receiving poison-pen letters.",
+      "story": "University of Limerick president Professor Shane Kilcommins revealed that poison-pen letters sent to him referred to his wife's cancer diagnosis following a protected disclosure he made about UL’s controversial property deal in Rhebogue.",
+      "localAngle": "The story involves the president of the University of Limerick and a controversial local property deal in Rhebogue.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Poison-pen letters referred to wife’s cancer diagnosis, reveals University of Limerick president",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/school-education/poison-pen-letters-referred-to-wifes-cancer-diagnosis-reveals-university-of-limerick-president-9366299",
+      "publishedAt": "Sun, 22 Nov 2026 12:13:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/06/iconic-upload-Prof_Shane_Kilcommins-1655991097558.jpg?width=1200&auto=webp&trim=0%2C0%2C76%2C0",
+      "imageCredit": "FILE PICTURE",
+      "rewrittenAt": "2026-11-22T13:17:55.541Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -22301,6 +22473,134 @@
       "rewrittenAt": "2026-11-21T20:01:47.862Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/kostal-strike.jpg",
       "imageCheckedAt": "2026-11-21T20:01:48.231Z"
+    },
+    "https://limerickvoice.com/?p=53964": {
+      "headline": "Free sporting equipment lockers launched at Mungret Park",
+      "summary": "Visitors to Mungret Park can now borrow rugby balls, soccer balls, and other gear free of charge using a smartphone app, following the rollout of the BoxUp initiative.",
+      "story": "Visitors to Mungret Park can now enjoy a range of sporting activities free of charge following the introduction of the BoxUp initiative, which allows the public to borrow gear using a mobile app.\n\nThe scheme provides access to rugby balls, soccer balls, basketballs, and frisbees directly in the park, allowing people of all ages and abilities to get active without needing to bring their own equipment. Mungret Park joins O’Brien Park on Clare Street as the second Limerick location to offer the service.\n\nTom Clancy, Assistant Staff Officer at Limerick City and County Council’s Regeneration, Community, Sport and Rural Development Directorate, said the initiative is designed to remove financial barriers and make sports accessible to everyone. \"It also allows people from lower-income backgrounds to access sporting equipment for free, in a safe, public space,\" he said.\n\nFirst introduced to Ireland in 2023 through Local Sports Partnerships and the Active Cities programme, BoxUp stations operate across Europe and North America. Clancy confirmed that Limerick City and County Council and the Limerick Sports Partnership have ambitions to introduce further stations in the future as usage data is monitored.",
+      "localAngle": "The BoxUp initiative has expanded to Mungret Park, joining the existing station on Clare Street to give Limerick residents free access to sports equipment.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Free sporting equipment initiative launched at Mungret Park",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/news/free-sporting-equipment-initiative-launched-at-mungret-park/",
+      "publishedAt": "Sun, 22 Nov 2026 12:21:04 +0000",
+      "rewrittenAt": "2026-11-22T13:17:50.261Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/IMG_3521_ULStudentGREG.KING_-scaled.jpeg",
+      "imageCheckedAt": "2026-11-22T13:19:59.642Z"
+    },
+    "https://www.limerickpost.ie/?p=363676": {
+      "headline": "Taylor Morden’s slasher-comedy-horror 'Bampire' misses the mark with a two-star rating",
+      "summary": "Taylor Morden's bargain-basement film 'Bampire' has been awarded a two-star review following its release. The low-budget feature blends live action and hand-drawn animation in a story about a mythical fanged deer.",
+      "story": "Film critics have delivered a lukewarm verdict on Taylor Morden’s latest feature, 'Bampire', awarding the slasher-comedy-horror a modest two out of five stars. Described as a bargain-basement production, the film follows an ill-fated professor and a group of misfit students into the woods to track down a mythical fanged deer.\n\nInstead, the characters encounter a half-deer, half-human creature protesting the mistreatment of the environment. The production combines live-action footage with hand-drawn animation, drawing comparisons to an eclectic mix of styles, though reviewers noted the end result struggles to connect with audiences beyond its enthusiastic cast and crew.\n\nWhile acknowledging the production team's energetic approach and refusal to take itself too seriously, reviewers concluded that the offbeat humor and spoofs ultimately fail to land. The low-quality feature leaves viewers with a uniquely bizarre take on classic woodland tales.",
+      "localAngle": "Local film enthusiasts looking for new cinematic releases can take note of the critical reception surrounding this latest indie horror-comedy.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Film Column – Bampire",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/film-column-bampire/",
+      "publishedAt": "Sun, 22 Nov 2026 12:00:23 +0000",
+      "rewrittenAt": "2026-11-22T13:18:10.345Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/MV5BYTBmZDBkMTUtYTNhNS00ZTFkLWI4N2EtZmQ4ODZjMWM2ZDJlXkEyXkFqcGc@._V1_.jpg",
+      "imageCheckedAt": "2026-11-22T13:20:00.066Z"
+    },
+    "https://www.limerickpost.ie/?p=363675": {
+      "headline": "Limerick HR Experts Warn Workers Over Workplace Risks of Messaging Screenshots",
+      "summary": "Local employment specialists have issued a warning to Limerick workers and managers that private WhatsApp messages and informal group chats can easily be screenshotted and used as formal workplace evidence. Experts stress that digital communication often creates a false sense of privacy that can severely impact professional reputations and team relationships.",
+      "story": "Limerick-based human resource management and employment law experts HR Hub have issued a stark warning regarding the dangers of screenshot culture in modern workplaces. According to the O’Connell Street firm, many employees and managers still mistakenly treat WhatsApp messages and private chats as consequence-free, informal conversations.\n\nIn recent workplace investigations conducted by the firm, impulsive messages or shared frustrations have frequently been screenshotted and forwarded to managers, HR departments, or investigators. Experts note that digital messaging often encourages a level of casual and emotional communication that individuals would never use in formal settings, leaving comments vulnerable to being taken out of context.\n\nThe firm emphasizes that this issue affects managers just as much as employees, with internal discussions and informal staff comments risking severe damage to trust and professionalism if circulated widely. Furthermore, messages in supposedly private workplace groups are rarely secure, as they can be copied, forwarded, or retained indefinitely even after deletion.\n\nHR Hub advises that standard levels of professionalism and respect must apply across all private chats and group messages. A recommended rule of thumb for local workers is to avoid sending any digital message that they would feel uncomfortable having read aloud during an official workplace meeting.",
+      "localAngle": "The advice was issued by HR Hub, an employment law and human resource management firm based on O’Connell Street in Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 3,
+      "originalTitle": "Employment Matters: Screenshot culture and when private messages become public",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/employment-matters-screenshot-culture-and-when-private-messages-become-public/",
+      "publishedAt": "Sun, 22 Nov 2026 10:30:45 +0000",
+      "rewrittenAt": "2026-11-22T13:18:23.958Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/09/whatsapp-phone-stock-unsplash-dimitri-karastelev-ynJaWgrwSlM-unsplash.jpg",
+      "imageCheckedAt": "2026-11-22T13:20:00.455Z"
+    },
+    "https://www.limerickpost.ie/?p=363606": {
+      "headline": "Touring Ska Theatre Show Hits University Concert Hall Ahead of West End Debut",
+      "summary": "Too Much Too Young brings the history of 2 Tone to Limerick on November 26 before heading to London's West End next spring.",
+      "story": "Ska fans in Limerick will get a taste of the 2 Tone era this week when the UK's first dedicated touring ska theatre show arrives at the University Concert Hall on Thursday, November 26. \n\nToo Much Too Young – The Music of 2Tone & Beyond takes audiences through a two-hour journey from Jamaican roots to the British revival of the late 1970s and early 1980s. The production features a live band with a full brass section performing tracks by iconic acts including The Specials, Madness, The Selecter, The Beat, and Bad Manners, accompanied by narration and on-screen visuals.\n\nThe production carries direct connections to the genre's origins, having been endorsed by Lynval Golding of The Specials and Neol Davies, a founding member of The Selecter. Brian, the show's saxophonist and narrator, is also a cousin of Golding.\n\nThe Limerick performance comes just ahead of the production's West End debut at the Dominion Theatre in London on April 18, 2027.",
+      "localAngle": "The acclaimed UK touring production is stopping at the University Concert Hall on November 26 ahead of its West End debut.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "UK’s first touring ska theatre show brings the sound of 2 Tone to Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/uks-first-touring-ska-theatre-show-brings-the-sound-of-2-tone-to-limerick/",
+      "publishedAt": "Sun, 22 Nov 2026 09:50:23 +0000",
+      "rewrittenAt": "2026-11-22T13:19:09.652Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/The-Music-of-2Tone-Beyond-the-UKs-first-dedicated-ska.jpeg",
+      "imageCheckedAt": "2026-11-22T13:20:00.633Z"
+    },
+    "https://www.limerickpost.ie/?p=363511": {
+      "headline": "Fr Casey's carry Limerick's last Munster club football hopes against Nemo Rangers",
+      "summary": "Abbeyfeale's Fr Casey's face Cork's Nemo Rangers in the Munster Senior Club Football Championship semi-final at Páirc Uí Rinn this Sunday. They are Limerick's last remaining representatives in provincial club competitions this season.",
+      "story": "Limerick's remaining interest in the 2026 Munster Club Football Championship rests entirely with Fr Casey's of Abbeyfeale this weekend. The newly crowned county champions travel to Páirc Uí Rinn in Cork on Sunday to face Nemo Rangers in the senior semi-final, with throw-in scheduled for 1.15pm under referee Eoin Morrissey of Waterford. \n\nKeith Harnett's side secured their place in the provincial series three weeks ago by bridging a 20-year gap to claim the Limerick title against Kildimo/Pallaskenry in Rathkeale, backboned by standout players including captain Diarmuid Buckley, Seán Kilbridge, and Man of the Match Adrian Enright. Sunday's challenge is formidable, however, as Nemo Rangers hold a record 17 Munster titles.\n\nOnly one Limerick team, Dromcollogher/Broadford in 2008, has ever won the Munster Senior crown. While an upset by the nine-time Limerick champions is seen as unlikely, a strong showing on Leeside remains the immediate goal.\n\nElsewhere in provincial action earlier in the month, Na Piarsaigh and Athea were narrowly defeated in the intermediate and premier junior grades respectively, while Galtee Gaels prepare to enter the upcoming Munster Junior B Competition in Knockaderry.",
+      "localAngle": "Fr Casey's carry the final piece of Limerick silverware hopes in the Munster Club Football Championship after a historic county final win last month.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 3,
+      "originalTitle": "Remaining football hope rests with Fr Casey’s",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/remaining-football-hope-rests-with-fr-caseys/",
+      "publishedAt": "Sun, 22 Nov 2026 09:00:56 +0000",
+      "rewrittenAt": "2026-11-22T13:19:22.674Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Post-Two.jpg",
+      "imageCheckedAt": "2026-11-22T13:20:00.821Z"
+    },
+    "https://www.limerickpost.ie/?p=363576": {
+      "headline": "Imelda May announces UCH concert with Limerick duo The Woodgies",
+      "summary": "Imelda May will bring her new 'Raised On Songs & Stories: The Lock In' tour to the University Concert Hall on Sunday, February 28, 2027, featuring Limerick-based sibling duo The Woodgies as special guests.",
+      "story": "Irish singer-songwriter Imelda May has announced a Limerick date for her upcoming tour, confirming she will play the University Concert Hall (UCH) on Sunday, February 28, 2027. She will be joined on the night by Limerick-based duo The Woodgies as special guests.\n\nThe show forms part of May’s new Raised On Songs & Stories: The Lock In tour, which follows her recent nationwide run. The upcoming performances shift from a sitting room setting to a traditional Irish lock-in format, featuring stripped-back versions of her own catalogue alongside audience participation and personal storytelling.\n\n“I’m bringing my Raised on Songs & Stories tour back to you this spring thanks to your requests,” May said. “It’s not the exact same show as before, but it’ll have the same elements of being a loose, intimate, personal night of story and song, but this time in a lock-in environment instead of the previous sitting room.”\n\nThe concert will also feature The Woodgies, a duo formed by sisters who grew up in Geneva before relocating to Limerick to immerse themselves in the local traditional music scene. The pair studied traditional song and chant, building a distinct vocal-focused sound connected to their family's musical background.",
+      "localAngle": "Limerick-based sibling duo The Woodgies will join Imelda May as special guests for her University Concert Hall performance.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Imelda May to bring Lock In show to UCH with Limerick duo The Woodgies",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/imelda-may-to-bring-lock-in-show-to-uch-with-limerick-duo-the-woodgies/",
+      "publishedAt": "Sun, 22 Nov 2026 08:45:13 +0000",
+      "rewrittenAt": "2026-11-22T13:19:34.259Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/IMELDA-MAY-The-Lock-In-Tour-Colour_Justin-Farrelly.jpg",
+      "imageCheckedAt": "2026-11-22T13:20:00.983Z"
+    },
+    "https://www.limerickpost.ie/?p=363490": {
+      "headline": "UL presents honorary doctorates to Rachael Blackmore and Jean Butler",
+      "summary": "Grand National-winning jockey Rachael Blackmore and Riverdance star Jean Butler have been awarded honorary doctorates by the University of Limerick at a ceremony in Plassey House.",
+      "story": "Trailblazing jockey Rachael Blackmore and internationally acclaimed dancer and choreographer Jean Butler were presented with honorary doctorates by the University of Limerick during a ceremony at Plassey House.\n\nMs Blackmore, who made history as the first female jockey to win the Grand National before retiring from racing in 2025, was conferred as an Honorary Doctor of Science. A native of Killenaule, County Tipperary, she is also a graduate of UL’s Equine Science programme.\n\nShe was joined at the ceremony by Riverdance star Jean Butler, with both figures receiving the university’s highest honour in recognition of their respective achievements in sport and the arts.",
+      "localAngle": "The University of Limerick hosted the conferring ceremony for both high-profile figures at Plassey House, with Rachael Blackmore also being an alumnus of the institution's Equine Science programme.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: UL presents honorary doctorates to Rachael Blackmore and Jean Butler",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/limerick-in-photos-ul-presents-honorary-doctorates-to-rachael-blackmore-and-jean-butler/",
+      "publishedAt": "Sat, 21 Nov 2026 21:00:33 +0000",
+      "rewrittenAt": "2026-11-22T13:19:42.676Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Jean-Butler-Rachael-Blackmore-0011.jpg",
+      "imageCheckedAt": "2026-11-22T13:20:01.157Z"
+    },
+    "https://www.limerickpost.ie/?p=363643": {
+      "headline": "The History of Dr Sylvester O'Halloran, Namesake of Limerick's Memorial Bridge",
+      "summary": "We look at the life and legacy of 18th-century Caherdavin-born surgeon and historian Dr Sylvester O'Halloran, whose pioneering medical work and advocacy led to the creation of the Royal College of Surgeons in Ireland.",
+      "story": "Wandering around Limerick City, locals and visitors alike may cross the Sylvester O’Halloran Bridge, but many might wonder what the medical pioneer did to earn the tribute. Born in Caherdavin on December 31, 1728, to a devout Catholic family, O'Halloran received his early education under Gaelic poet Seán Clárach Mac Domhnaill. After witnessing the suffering caused by premature blindness and a local shortage of medical personnel, he pursued medical and surgical training in London, Leiden, and Paris, as penal laws made study in Dublin impossible for Catholics.\n\nReturning to his native city, O'Halloran dedicated his career to improving local healthcare. He served at St John’s Hospital, provided free care at a lying-in hospital for pregnant women established with Dr Patrick Unthank in 1773, and helped lay the groundwork for the Limerick County Infirmary. His medical ambitions also reached a national scale; inspired by French surgical academies, his writings helped pave the way for the establishment of the Royal College of Surgeons in Ireland in 1784. Alongside his medical achievements, he published A New Treatise on Glaucoma in 1750 and New Method of Amputation in 1765.\n\nBeyond medicine, O'Halloran was an avid historian who wrote A History of Ireland in 1774, a controversial work published three years before his death. He passed away at his home near St Mary’s Cathedral on August 11, 1807, and was laid to rest in Killeely graveyard. Today, the foundation stone of the Limerick County Infirmary—which he helped establish—is preserved at the Sylvester O’Halloran Postgraduate Centre at University Hospital Limerick.",
+      "localAngle": "The story examines the life of Limerick-born surgeon Dr Sylvester O'Halloran, the historical figure behind the city's memorial bridge and local medical institutions.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Medical marvel the namesake for well-known Limerick City bridge",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/21/medical-marvel-the-namesake-for-well-known-limerick-city-bridge/",
+      "publishedAt": "Sat, 21 Nov 2026 18:00:30 +0000",
+      "rewrittenAt": "2026-11-22T13:19:59.274Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Sylvester-OHalloran-bridge.png",
+      "imageCheckedAt": "2026-11-22T13:20:01.334Z"
     }
   }
 }
