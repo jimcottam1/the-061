@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-22T13:16:05.622Z",
-    "totalArticles": 22
+    "lastScrape": "2026-11-22T17:02:52.106Z",
+    "totalArticles": 20
   },
   "articles": {
     "8353171": {
@@ -5767,6 +5767,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T18:10:00.077Z"
     },
+    "9362428": {
+      "id": "9362428",
+      "title": "Extra jail time for Limerick man convicted of sexually abusing his daughter and sister-in-law",
+      "link": "https://www.limerickleader.ie/news/crime-courts/extra-jail-time-for-limerick-man-convicted-of-sexually-abusing-his-daughter-9362428",
+      "description": "Christopher O’Mahony received more time in prison after a third victim recently came forward and reported what happened to her in the 1970s",
+      "pubDate": "Sun, 22 Nov 2026 14:15:11 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/17/56/17181622-library.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T17:02:41.673Z"
+    },
     "9362470": {
       "id": "9362470",
       "title": "‘Suitable for adults only’: Limerick school warns parents as GTA 6 is released",
@@ -6008,6 +6020,17 @@
       "imageCredit": "FILE PICTURE",
       "source": "limerickleader",
       "scrapedAt": "2026-11-22T13:15:58.774Z"
+    },
+    "9366492": {
+      "id": "9366492",
+      "title": "Health Committee chairman condemns bid to ‘discredit’ Cork hospital chief",
+      "link": "https://www.limerickleader.ie/national/health-committee-chairman-condemns-bid-to-discredit-cork-hospital-chief-9366492",
+      "description": "Taoiseach Micheál Martin is due to meet with the chief executive of the hospital, which is in his Dáil constituency of Cork South-Central.",
+      "pubDate": "Sun, 22 Nov 2026 14:32:36 GMT",
+      "author": "Claudia Savage and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/22/14/cs-d31ce608-639b-4472-87c1-f696f134db3a.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-22T17:02:41.673Z"
     },
     "https://www.limerickpost.ie/?p=362473": {
       "id": "https://www.limerickpost.ie/?p=362473",
@@ -10230,6 +10253,46 @@
       "author": "Greg King",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-22T13:15:59.133Z"
+    },
+    "https://www.limerickpost.ie/?p=363683": {
+      "id": "https://www.limerickpost.ie/?p=363683",
+      "title": "Remembrance Mass to be held for residents and families of St Munchin’s Parish",
+      "link": "https://www.limerickpost.ie/2026/11/22/remembrance-mass-to-be-held-for-residents-and-families-of-st-munchins-parish/",
+      "description": "A SPECIAL remembrance mass will be held this coming Wednesday for late residents and bereaved families of St Munchin’s Parish. The mass will be held from 7pm on the evening of Wednesday November 25 at St Munchin’s Church on Clancy’s Strand in Limerick City. A representative has said that all are welcome to attend. The [&#8230;]\nThe post Remembrance Mass to be held for residents and families of St Munchin&#8217;s Parish appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 16:30:42 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T17:02:41.358Z"
+    },
+    "https://www.limerickpost.ie/?p=363682": {
+      "id": "https://www.limerickpost.ie/?p=363682",
+      "title": "Patchwork paradise coming to Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/22/patchwork-paradise-coming-to-limerick/",
+      "description": "A PRE-Christmas exhibition celebrating patchwork, embroidery, and traditional stitching will take place this coming week, with all of Limerick invited to take part. Supported by the Limerick Creative Ireland Creative Communities Programme, and led by artist Gerardine Cahil, the Giddygoat Patchwork project aims to showcase local makers and Limerick’s rich textile heritage. Gerardine said: &#8220;This [&#8230;]\nThe post Patchwork paradise coming to Limerick appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 15:00:41 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T17:02:41.359Z"
+    },
+    "https://www.limerickpost.ie/?p=363858": {
+      "id": "https://www.limerickpost.ie/?p=363858",
+      "title": "LIMERICK IN PHOTOS: Christmas crackers as crowds turn out for light ceremony in city",
+      "link": "https://www.limerickpost.ie/2026/11/22/limerick-in-photos-christmas-crackers-as-crowds-turn-out-for-light-ceremony-in-city/",
+      "description": "THOUSANDS gathered in Limerick City on a chilly Saturday evening to see Light Up Limerick 2026 officially launch the Christmas season in spectacular fashion, transforming the city into a vibrant festive destination and marking the beginning of a packed programme of Christmas events. Families, friends, and visitors lined O&#8217;Connell Street to enjoy a magical celebration [&#8230;]\nThe post LIMERICK IN PHOTOS: Christmas crackers as crowds turn out for light ceremony in city appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 14:15:52 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T17:02:41.359Z"
+    },
+    "https://www.limerickpost.ie/?p=363680": {
+      "id": "https://www.limerickpost.ie/?p=363680",
+      "title": "Lawlink – Shop’s wheelie bin hit my car during a big storm, can I make a claim?",
+      "link": "https://www.limerickpost.ie/2026/11/22/lawlink-shops-wheelie-bin-hit-my-car-during-a-big-storm-can-i-make-a-claim/",
+      "description": "Q. I travel to work early every morning. Recently, during a particularly windy spell, I was coming down a street when a wheelie bin rolled into the road. There was a big collision, but to be honest I was just anxious to get to work – so I pushed the bin back and went on [&#8230;]\nThe post Lawlink – Shop’s wheelie bin hit my car during a big storm, can I make a claim? appeared first on Limerick Post.",
+      "pubDate": "Sun, 22 Nov 2026 13:30:48 +0000",
+      "author": "Alex O'Neill",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-22T17:02:41.359Z"
     }
   },
   "rewritten": {
@@ -16650,6 +16713,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/16/cs-4c39d5ca-90c8-4111-862a-0688189c527b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-19T18:11:38.987Z"
     },
+    "9362428": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363716",
+      "rewrittenAt": "2026-11-22T17:03:22.444Z"
+    },
     "9362470": {
       "headline": "Limerick School Issues Warning to Parents Over GTA 6 Release",
       "summary": "Parents with children at a local school have received a warning regarding the PEGI 18 age rating of Grand Theft Auto VI.",
@@ -16906,6 +16974,11 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/06/iconic-upload-Prof_Shane_Kilcommins-1655991097558.jpg?width=1200&auto=webp&trim=0%2C0%2C76%2C0",
       "imageCredit": "FILE PICTURE",
       "rewrittenAt": "2026-11-22T13:17:55.541Z"
+    },
+    "9366492": {
+      "skipped": true,
+      "duplicateOf": "9362315",
+      "rewrittenAt": "2026-11-22T17:03:22.444Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -22601,6 +22674,59 @@
       "rewrittenAt": "2026-11-22T13:19:59.274Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Sylvester-OHalloran-bridge.png",
       "imageCheckedAt": "2026-11-22T13:20:01.334Z"
+    },
+    "https://www.limerickpost.ie/?p=363858": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363774",
+      "rewrittenAt": "2026-11-22T17:03:22.444Z"
+    },
+    "https://www.limerickpost.ie/?p=363683": {
+      "headline": "St Munchin’s Church to host remembrance mass for local families",
+      "summary": "A special service will take place at St Munchin’s Church on Clancy’s Strand this Wednesday, November 25, at 7pm to remember late residents and support bereaved families in the parish.",
+      "story": "St Munchin’s Church on Clancy’s Strand will host a special remembrance mass this coming Wednesday, November 25, starting at 7pm.\n\nThe service is dedicated to honoring beloved late members of St Munchin’s Parish and local residents who have passed away. Organisers have designed the evening to provide a welcoming space for bereaved families to unite in commemoration and shared bereavement.\n\nA representative for the parish has confirmed that all members of the public are welcome to attend the Wednesday evening service in Limerick City.",
+      "localAngle": "The remembrance mass provides a local gathering space for families in St Munchin’s Parish and Limerick City to commemorate deceased loved ones.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 3,
+      "originalTitle": "Remembrance Mass to be held for residents and families of St Munchin’s Parish",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/remembrance-mass-to-be-held-for-residents-and-families-of-st-munchins-parish/",
+      "publishedAt": "Sun, 22 Nov 2026 16:30:42 +0000",
+      "rewrittenAt": "2026-11-22T17:03:30.271Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/04/candle-rip-death-stock-paolo-nicolello-KY6NHtBWJB8-unsplash.jpg",
+      "imageCheckedAt": "2026-11-22T17:03:55.821Z"
+    },
+    "https://www.limerickpost.ie/?p=363682": {
+      "headline": "Giddygoat Patchwork exhibition and free workshops open at Ellen Street",
+      "summary": "A pre-Christmas exhibition celebrating Limerick's textile heritage opens at 14 Ellen Street this week, accompanied by free workshops led by artist Gerardine Cahil.",
+      "story": "A new pre-Christmas exhibition celebrating patchwork, embroidery, and traditional stitching opens this week at 14 Ellen Street in Limerick City, running from November 24 to 28. \n\nLed by artist Gerardine Cahil and supported by the Limerick Creative Ireland Creative Communities Programme, the Giddygoat Patchwork project showcases local makers and the city's textile heritage. \"This project celebrates the creativity of participants while helping to preserve traditional skills that have been passed from generation to generation,\" Ms Cahil said.\n\nIn addition to the exhibition, a series of free workshops will take place on November 24, 25, 26, and 28. Participants can learn to make mini Christmas tree wallhangings, baubles, table runners, and bobbin rolls. \n\nPlaces for the workshops are limited, and booking is recommended through limerick.ie.",
+      "localAngle": "The exhibition at Ellen Street celebrates Limerick's rich textile heritage and showcases local makers with support from the local Creative Ireland programme.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Patchwork paradise coming to Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/patchwork-paradise-coming-to-limerick/",
+      "publishedAt": "Sun, 22 Nov 2026 15:00:41 +0000",
+      "rewrittenAt": "2026-11-22T17:03:40.970Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Patchwork-paradise.jpg",
+      "imageCheckedAt": "2026-11-22T17:03:56.278Z"
+    },
+    "https://www.limerickpost.ie/?p=363680": {
+      "headline": "Limerick motorist facing car repairs after collision with runaway shop bin",
+      "summary": "A Limerick commuter whose car was severely damaged by a runaway wheelie bin during a recent windstorm has been advised on how to pursue compensation from the local business.",
+      "story": "A local commuter traveling to work early one morning during a recent high-wind spell collided with a wheelie bin that had rolled into the street. In a hurry to reach work, the driver simply pushed the bin back and continued on their journey, only for the car to break down later that day and require towing due to substantial suspension and bodywork damage.\n\nWith the car off the road and subsequent unpaid days off work, the motorist identified the local shop whose name was on the bin. Legal guidance indicates that property owners have a positive duty to ensure items on their land do not encroach on the public roadway, and can be strictly liable for resulting damage if the bin came directly from their property rather than a refuse company.\n\nAffected drivers are advised to retain photographs of the bin and vehicle, secure a formal written repair estimate, and check the area for CCTV footage. While some parties may attempt to defend such claims using an \"act of god\" argument due to the weather, legal experts note that this defense typically requires a once-in-a-generation storm rather than merely exceptionally bad weather.",
+      "localAngle": "The advice addresses local commuter liabilities following stormy weather on Limerick streets.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Lawlink – Shop’s wheelie bin hit my car during a big storm, can I make a claim?",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/lawlink-shops-wheelie-bin-hit-my-car-during-a-big-storm-can-i-make-a-claim/",
+      "publishedAt": "Sun, 22 Nov 2026 13:30:48 +0000",
+      "rewrittenAt": "2026-11-22T17:03:55.399Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2020/08/390390-PCBKBA-658-scaled.jpg",
+      "imageCheckedAt": "2026-11-22T17:03:56.494Z"
     }
   }
 }
