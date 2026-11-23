@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-23T15:53:38.176Z",
-    "totalArticles": 34
+    "lastScrape": "2026-11-23T21:10:56.128Z",
+    "totalArticles": 38
   },
   "articles": {
     "8353171": {
@@ -15,18 +15,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-01T18:23:12.966Z"
     },
-    "9290418": {
-      "id": "9290418",
-      "title": "Adare residents' concerns over Ryder Cup ‘2km exclusion zone’",
-      "link": "https://www.limerickleader.ie/news/adare-residents-concerns-over-ryder-cup-2km-exclusion-zone-9290418",
-      "description": "Limerick City and County Council moves to clarify reports of access restrictions in Adare during golf competition",
-      "pubDate": "Sat, 24 Oct 2026 19:00:10 GMT",
-      "author": "Conor Curran",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/03/10/25/3250266.jpeg?width=1200&auto=webp&trim=24%2C91%2C85%2C0",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T21:27:49.234Z"
-    },
     "9295963": {
       "id": "9295963",
       "title": "Give your home a glow-up with 15% off gorgeous lighting at Pagazzi ",
@@ -38,18 +26,6 @@
       "imageCredit": "Pagazzi",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
-    },
-    "9297190": {
-      "id": "9297190",
-      "title": "PICTURES: Limerick school cheers on their team ahead of county final",
-      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-limerick-school-cheers-on-their-team-ahead-of-county-final-9297190",
-      "description": "Pupils from Christ the King Caherdavin cheering on Na Piarsaigh ahead of the Limerick Senior Hurling Championship final",
-      "pubDate": "Fri, 23 Oct 2026 20:00:08 GMT",
-      "author": "Adrian Butler",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/19/15/57/ilim-Christ-the-King-Caherdavin-cheering-on-Na-Piarsaigh-19-10-26-11-30a8a693.jpeg?width=1200&auto=webp&trim=85%2C0%2C85%2C0",
-      "imageCredit": "Adrian Butler"
     },
     "9297988": {
       "id": "9297988",
@@ -75,18 +51,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-26T21:44:55.965Z"
     },
-    "9299281": {
-      "id": "9299281",
-      "title": "RIP: ’Such a lovely, kind, charming person’- Popular Limerick man is laid to rest",
-      "link": "https://www.limerickleader.ie/deaths/rip-such-a-lovely-kind-charming-person-popular-limerick-man-is-laid-to-rest-9299281",
-      "description": "The popular man was a valued member at Castletroy Golf Club, where he dedicated both his time and talents",
-      "pubDate": "Sat, 24 Oct 2026 07:00:12 GMT",
-      "author": "Limerick Live Reporter",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/14/32/RIP-Such-a-lovely-kind-charming-person-Popular-Limerick-man-is-laid-to-rest.png?width=1200&auto=webp&trim=0%2C89%2C0%2C91",
-      "imageCredit": "RIP.ie"
-    },
     "9299295": {
       "id": "9299295",
       "title": "Devolo BE6500 review: an affordable upgrade for struggling home WiFi",
@@ -110,42 +74,6 @@
       "imageCredit": "Cartwright & Butler and Prestige Hampers",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
-    },
-    "9300202": {
-      "id": "9300202",
-      "title": "AIL action returns to Limerick following two-week hiatus",
-      "link": "https://www.limerickleader.ie/sport/rugby/ail-action-returns-to-limerick-following-two-week-hiatus-9300202",
-      "description": "ALL seven Men’s sides from the Treaty County will be back in action this weekend after a two-week hiatus, as the 2026/27 season begins to take shape.",
-      "pubDate": "Fri, 23 Oct 2026 19:00:01 GMT",
-      "author": "Oisín Nolan",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/23/47/0N0A3920.jpeg?width=1200&auto=webp&trim=15%2C0%2C15%2C0",
-      "imageCredit": "Dermot Lynch"
-    },
-    "9300204": {
-      "id": "9300204",
-      "title": "Treaty United Women aim to finish season as history makers",
-      "link": "https://www.limerickleader.ie/sport/soccer/treaty-united/treaty-united-women-aim-to-finish-season-as-history-makers-9300204",
-      "description": "The Treaty United Women’s side will finish their 2026 SSE Airtricity Premier Division season as home to DLR Waves on this evening, with a kick-off time of 5pm.",
-      "pubDate": "Sat, 24 Oct 2026 10:30:15 GMT",
-      "author": "Oisín Nolan",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/23/51/3398281.jpeg?width=1200&auto=webp&trim=0%2C0%2C2024%2C0",
-      "imageCredit": "SPORTSFILE"
-    },
-    "9300781": {
-      "id": "9300781",
-      "title": "Leinster trip next up for improving Munster as focus switches to URC",
-      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/leinster-trip-next-up-for-improving-munster-as-focus-switches-to-urc-9300781",
-      "description": "Munster won the corresponding game 31-14 and will be hoping to build on recent positive performances",
-      "pubDate": "Sat, 24 Oct 2026 12:00:57 GMT",
-      "author": "John Keogh",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.234Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/9/57/3263571.jpeg?width=1200&auto=webp&trim=0%2C0%2C94%2C0",
-      "imageCredit": "SPORTSFILE"
     },
     "9301144": {
       "id": "9301144",
@@ -171,18 +99,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T11:16:40.619Z"
     },
-    "9301758": {
-      "id": "9301758",
-      "title": "Conviction for woman who assaulted a garda in Limerick station",
-      "link": "https://www.limerickleader.ie/news/crime-courts/conviction-for-woman-who-assaulted-a-garda-in-limerick-station-9301758",
-      "description": "The case involving a woman assaulting a garda at Bruff garda station was heard at Kilmallock District Court",
-      "pubDate": "Sat, 24 Oct 2026 17:00:46 GMT",
-      "author": "Sandra Quinn",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T17:22:32.715Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/12/46/Bruff-garda-station-file-pic.jpeg?width=1200&auto=webp&trim=33%2C0%2C33%2C0",
-      "imageCredit": "Iconic Media Group"
-    },
     "9301843": {
       "id": "9301843",
       "title": "Bat colony discovered at former garda station in Limerick village",
@@ -205,16 +121,6 @@
       "imageCredit": "Iconic Media Group",
       "source": "limerickleader",
       "scrapedAt": "2026-10-26T22:07:43.033Z"
-    },
-    "9302767": {
-      "id": "9302767",
-      "title": "Dromin-Athlacca hoping to return to the senior grade at first attempt",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/dromin-athlacca-hoping-to-return-to-the-senior-grade-at-first-attempt-9302767",
-      "description": "DROMIN-ATHLACCA are preparing for a Lyons of Limerick Premier Intermediate Hurling Championship Final clash with neighbours Bruff this Sunday at TUS Gaelic Grounds.",
-      "pubDate": "Fri, 23 Oct 2026 16:30:46 GMT",
-      "author": "Oisín Nolan",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z"
     },
     "9303275": {
       "id": "9303275",
@@ -276,29 +182,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
     },
-    "9305835": {
-      "id": "9305835",
-      "title": "'Forever grateful' -  Sisters injured in horror M9 crash share heartfelt message",
-      "link": "https://www.limerickleader.ie/national/forever-grateful-sisters-injured-in-horror-m9-crash-share-heartfelt-message-9307102",
-      "description": "Sisters Ella, Niamh and Alma were critically injured in the crash in August which claimed the lives of five teenage boys",
-      "pubDate": "Fri, 23 Oct 2026 18:15:04 GMT",
-      "author": "Rachel Kavanagh",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/16/06/NATIONAL-NEWS-BANNER-TEMPLATE-2026-09-14T165024-713.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "File Photo"
-    },
-    "9306638": {
-      "id": "9306638",
-      "title": "Limerick’s Scarlett Faulkner prayed for at the Vatican",
-      "link": "https://www.limerickleader.ie/news/limericks-scarlett-faulkner-prayed-for-at-the-vatican-9306638",
-      "description": "Siblings Scarlett and Jason Faulkner were in the forefront of family members’ minds during pilgramage to Italy",
-      "pubDate": "Fri, 23 Oct 2026 19:00:12 GMT",
-      "author": "Donal O'Regan",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/13/54/Untitled-design-(87).jpeg?width=1200&auto=webp&trim=0%2C0%2C161%2C0"
-    },
     "9306872": {
       "id": "9306872",
       "title": "Anger over use of graveyard fund for works at lane in Limerick village",
@@ -323,17 +206,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.423Z"
     },
-    "9307165": {
-      "id": "9307165",
-      "title": "EDITORIAL: 'Patrick O'Donovan has courage to speak out while others whisper'",
-      "link": "https://www.limerickleader.ie/news/politics/editorial-patrick-odonovan-has-courage-to-speak-out-while-others-whisper-9307165",
-      "description": "Limerick minister said he wants to show that people with a disability or neurological condition can work in government",
-      "pubDate": "Fri, 23 Oct 2026 20:30:44 GMT",
-      "author": "Aine Fizgerald",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/30/11/v2-image-production-0be94ca17543ae4c5498ac9e6e332f11Y29udGVudHNlYXJjaGFwaSwxNzkwODQ1NzEy-2.84676242.jpg?width=1200&auto=webp&crop=3%3A2"
-    },
     "9307184": {
       "id": "9307184",
       "title": "‘Incredibly rewarding’: Limerick students contribute 66,000 hours of volunteer work",
@@ -345,42 +217,6 @@
       "imageCredit": "PICTURE: ALAN PLACE",
       "source": "limerickleader",
       "scrapedAt": "2026-10-27T10:27:19.789Z"
-    },
-    "9307466": {
-      "id": "9307466",
-      "title": "Tasty west Limerick derby with Junior Hurling Championship on the line",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/tasty-west-limerick-derby-with-junior-hurling-championship-on-the-line-9307466",
-      "description": "Pay no heed to the 16-point difference when the sides met two months ago, a close battle is expected today",
-      "pubDate": "Sat, 24 Oct 2026 06:31:25 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/6/35/3524216.jpeg?width=1200&auto=webp&trim=1389%2C0%2C1389%2C0",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T21:27:49.234Z"
-    },
-    "9307472": {
-      "id": "9307472",
-      "title": "Doon looking to go one better in Premier Junior Hurling final",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/doon-looking-to-go-one-better-in-premier-junior-hurling-final-9307472",
-      "description": "Darragh Stapleton, who played in last year’s Senior Hurling Championship final, is expected to line out at center forward for Doon",
-      "pubDate": "Sat, 24 Oct 2026 07:30:00 GMT",
-      "author": "Joel Slattery",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/6/07/2353258.jpeg?width=1200&auto=webp&trim=0%2C223%2C83%2C97",
-      "imageCredit": "SPORTSFILE"
-    },
-    "9307476": {
-      "id": "9307476",
-      "title": "Bruree hoping to make it third time lucky in IHC final",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/bruree-hoping-to-make-it-third-time-lucky-in-ihc-final-9307476",
-      "description": "The south Limerick men fell at the final hurdle in each of the last two seasons and will be hoping that this is their year",
-      "pubDate": "Sat, 24 Oct 2026 08:30:58 GMT",
-      "author": "Joel Slattery",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.235Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/6/07/ILIM-18-10-25-Bruree-v-Murroe-Boher-in-the-County-Intermediate-Hurling-Final-2.jpeg?width=1200&auto=webp&trim=167%2C0%2C168%2C0",
-      "imageCredit": "BRENDAN GLEESON"
     },
     "9307480": {
       "id": "9307480",
@@ -417,66 +253,6 @@
       "imageCredit": "Jo Malone London",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
-    },
-    "9307685": {
-      "id": "9307685",
-      "title": "‘Check your tickets carefully!’: Limerick player has ‘incredible’ EuroMillions win ",
-      "link": "https://www.limerickleader.ie/news/check-your-tickets-carefully-limerick-player-has-incredible-euromillions-win-9307685",
-      "description": "National Lottery spokesperson Emma Monaghan said “there could be a very exciting Bank Holiday weekend ahead for one EuroMillions player in Limerick who is now holding a €500,000 winning ticket”.",
-      "pubDate": "Sat, 24 Oct 2026 12:11:09 GMT",
-      "author": "Reporter",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.234Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/06/10/15/21/Carrick-woman-wins-big-for-second-time-after-purchasing-lotto-ticket-near-Waterford-border.jpeg?width=1200&auto=webp&trim=24%2C0%2C25%2C0",
-      "imageCredit": "File Photo"
-    },
-    "9307767": {
-      "id": "9307767",
-      "title": "Limerick hurling star receives heartfelt best wishes on his wedding day",
-      "link": "https://www.limerickleader.ie/news/limerick-hurling-star-receives-heartfelt-best-wishes-on-his-wedding-day-9307767",
-      "description": "The wing-forward, who has six All-Ireland medals and three All-Star awards to his name, met Elaine, affectionately known as Lainey, on a night out",
-      "pubDate": "Sat, 24 Oct 2026 14:01:37 GMT",
-      "author": "Reporter",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T16:59:19.234Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/22/02/iconic-upload-2024_06_25-sandy-millar-8vaQKYnawHw-unsplash-1719310627155.jpg?width=1200&auto=webp&crop=3%3A2",
-      "imageCredit": "LL"
-    },
-    "9307849": {
-      "id": "9307849",
-      "title": "Monagea too strong for Killeedy in Limerick Junior 'A' hurling final",
-      "link": "https://www.limerickleader.ie/sport/hurling/monagea-too-strong-for-killeedy-in-limerick-junior-a-hurling-final-9307849",
-      "description": "The win sees Monagea promoted back to Premier Junior ‘A’ one year after being relegated from the same grade",
-      "pubDate": "Sat, 24 Oct 2026 16:20:48 GMT",
-      "author": "Limerick Live Reporter",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T17:22:32.715Z",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/09/26/10/15/Generic-Hurling-1.jpeg?width=1200&auto=webp&trim=0%2C28%2C0%2C28",
-      "imageCredit": "SPORTFILE"
-    },
-    "9307939": {
-      "id": "9307939",
-      "title": "Munster claim bonus point despite derby defeat to Leinster",
-      "link": "https://www.limerickleader.ie/sport/rugby/munster-claim-bonus-point-despite-derby-defeat-to-leinster-9307939",
-      "description": "While the visitors were on the backfoot for virtually all the second half, Clayton McMillan’s side left the capital with a losing bonus point courtesy of Ben O’Connor’s late try",
-      "pubDate": "Sat, 24 Oct 2026 19:02:44 GMT",
-      "author": "By The Newsroom",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/19/23/3601018.jpeg?width=1200&auto=webp&trim=0%2C209%2C0%2C208",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T21:27:49.234Z"
-    },
-    "9307944": {
-      "id": "9307944",
-      "title": "Knockaderry stun Bruree to secure back-to-back county titles",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/knockaderry-stun-bruree-to-secure-back-to-back-county-titles-9307944",
-      "description": "Coming into the game as underdogs in the eyes of many, Knockaderry have now added intermediate honours to the Premier Junior crown won 12 months ago",
-      "pubDate": "Sat, 24 Oct 2026 19:22:16 GMT",
-      "author": "Tom Clancy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/19/58/1Y3A1718.jpeg?width=1200&auto=webp&trim=80%2C0%2C40%2C0",
-      "imageCredit": "BRENDAN GLEESON",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-24T21:27:49.234Z"
     },
     "9307993": {
       "id": "9307993",
@@ -4070,6 +3846,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-11T17:02:12.952Z"
     },
+    "9345305": {
+      "id": "9345305",
+      "title": "Huawei FreeBuds SE 5 MAX review: Big battery life, small price ",
+      "link": "https://www.limerickleader.ie/recommended/huawei-earbuds-review-audio-headphones-tech-9369002",
+      "description": "Long battery life, clever noise cancellation and a tempting promotional price make Huawei’s latest earbuds worth a look. They aren’t without compromises, but there’s plenty to like for the money",
+      "pubDate": "Mon, 23 Nov 2026 16:09:27 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/11/15/53/Blue-Earbuds-in-an-Open-Case-3.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Huawei",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
+    },
     "9345504": {
       "id": "9345504",
       "title": "Limerick production to celebrate 10 years of Narrative 4",
@@ -5942,6 +5730,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-21T16:43:46.502Z"
     },
+    "9363702": {
+      "id": "9363702",
+      "title": "Cavanaghs launches 10 Days of Giftmas from November 20th to 30th  ",
+      "link": "https://www.limerickleader.ie/sponsored-content/cavanaghs-launches-10-days-of-giftmas-from-november-20th-to-30th-9369147",
+      "description": "Offers on Ford and BYD in Charleville and Suzuki in Mallow for customers planning a move to a new 271 vehicle",
+      "pubDate": "Mon, 23 Nov 2026 16:37:36 GMT",
+      "author": "Sponsored Content",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/12/08/Untitled-(1000-x-628-px)-Rheanna-Byrnes.png?width=1200&auto=webp&trim=0%2C39%2C0%2C19",
+      "imageCredit": "Supplied",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
+    },
     "9363938": {
       "id": "9363938",
       "title": "‘Wow, this is fantastic’: Excitement as Spiegeltent Pavilion opens in Limerick",
@@ -6173,6 +5973,30 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.126Z"
     },
+    "9367103": {
+      "id": "9367103",
+      "title": "PICTURES: Ardscoil Rís take on Nenagh CBS in enthralling Harty Cup tie",
+      "link": "https://www.limerickleader.ie/sport/hurling/pictures-ardscoil-ris-take-on-nenagh-cbs-in-enthralling-harty-cup-tie-9367103",
+      "description": "There was late drama in Newport as Ardscoil Ris were defeated by Nenagh CBS in a crucial Dr Harty Cup clash",
+      "pubDate": "Mon, 23 Nov 2026 20:30:26 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/9/22/MixCollage-23-Nov-2026-09-03-AM-2732.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
+    },
+    "9367314": {
+      "id": "9367314",
+      "title": "PICTURES: Big Christmas Limerick City Clean-up",
+      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-big-christmas-limerick-city-clean-up-9367314",
+      "description": "Limerick traders and businesses lend a hand cleaning the city’s streets ahead of Christmas in Limerick 2026",
+      "pubDate": "Mon, 23 Nov 2026 21:00:43 GMT",
+      "author": "Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/10/28/ilim-Business-Clean-Up-19-11-26-5-1a561f27.jpeg?width=1200&auto=webp&trim=0%2C3%2C189%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
+    },
     "9367493": {
       "id": "9367493",
       "title": "Exciting primary schools finals take place at TUS Gaelic Grounds",
@@ -6231,6 +6055,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.125Z"
     },
+    "9368406": {
+      "id": "9368406",
+      "title": "Tributes pour in for ‘Mr Garryowen’ Tommy O’Brien",
+      "link": "https://www.limerickleader.ie/sport/rugby/tributes-pour-in-following-the-passing-of-mr-garryowen-tommy-obrien-9368406",
+      "description": "Tributes from all over Limerick and all over the country continue to pour in for a man synonymous with Garryowen FC",
+      "pubDate": "Mon, 23 Nov 2026 16:00:28 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/13/02/WhatsApp-Image-2026-11-23-at-1-46-54-PM.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Kieran Ryan Benson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
+    },
     "9368498": {
       "id": "9368498",
       "title": "Jim O’Callaghan says he has no regrets over criminal legal aid dispute",
@@ -6264,145 +6100,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.125Z"
     },
-    "https://www.limerickpost.ie/?p=362473": {
-      "id": "https://www.limerickpost.ie/?p=362473",
-      "title": "Zero gravity machine hitting heights in biodiversity",
-      "link": "https://www.limerickpost.ie/2026/10/24/zero-gravity-machine-hitting-heights-in-biodiversity/",
-      "description": "A ZERO gravity machine is hitting new heights in helping to enhance biodiversity management, support climate action objectives, and improve the efficiency of meadow and open space management across the county. The machine was leased by the Council for a trial period and used to cut and collect vegetation from grasslands and pollinator-friendly meadows within [&#8230;]\nThe post Zero gravity machine hitting heights in biodiversity appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 14:00:54 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362470": {
-      "id": "https://www.limerickpost.ie/?p=362470",
-      "title": "Proposed disposal of Abbeyfeale properties to Limerick Twenty Thirty raises serious questions",
-      "link": "https://www.limerickpost.ie/2026/10/24/proposed-disposal-of-abbeyfeale-properties-to-limerick-twenty-thirty-raises-serious-questions/",
-      "description": "COUNCILLORS have warned the local authority that it could be &#8220;creating a monster&#8221; with the proposed disposal of six properties in Abbeyfeale to Limerick Twenty Thirty. At October’s Newcastle West district meeting, Mayor John Moran&#8217;s plans to allocate the Council-owned stock to the project development company to fulfil key objectives of the mayoral programme were [&#8230;]\nThe post Proposed disposal of Abbeyfeale properties to Limerick Twenty Thirty raises serious questions appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 11:00:15 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362466": {
-      "id": "https://www.limerickpost.ie/?p=362466",
-      "title": "Limerick property prices continue to rise according to new report",
-      "link": "https://www.limerickpost.ie/2026/10/24/limerick-property-prices-continue-to-rise-according-to-new-report/",
-      "description": "LIMERICK property prices have risen by €10,000 in one year, according to the latest MyHome Property Price Report. The report for quarter three of 2026 shows that the median asking price for a property in the county is now €290,000. That means prices have remained flat over the quarter. Asking prices for a three-bed semi-detached [&#8230;]\nThe post Limerick property prices continue to rise according to new report appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 09:30:26 +0000",
-      "author": "Sarah Coleman",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362391": {
-      "id": "https://www.limerickpost.ie/?p=362391",
-      "title": "Big Shots Halloween Screams returns to Belltable for another night of frights",
-      "link": "https://www.limerickpost.ie/2026/10/24/big-shots-halloween-screams-returns-to-belltable-for-another-night-of-frights/",
-      "description": "Ireland’s All-Island Horror Film Competition will return to the big screen when Big Shots Halloween Screams comes to Belltable on Saturday October 31. Teams from across the island will write, shoot and edit original short horror films throughout October. The finished entries will then be screened for a live audience, with awards and cash prizes [&#8230;]\nThe post Big Shots Halloween Screams returns to Belltable for another night of frights appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 09:20:26 +0000",
-      "author": "Eric Fitzgerald",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362371": {
-      "id": "https://www.limerickpost.ie/?p=362371",
-      "title": "Young curators bring LASTA ‘26 to Belltable with film screening and variety show",
-      "link": "https://www.limerickpost.ie/2026/10/24/young-curators-bring-lasta-26-to-belltable-with-film-screening-and-variety-show/",
-      "description": "LASTA ‘26, a festival run by the Young Curators national mentorship programme, will bring theatre, dance, music, film and performance made for young people and by young people to Belltable later this month. Co-curators Marcus Cropper and Ilinca Luca have put together a programme that welcomes their peers into the venue as a space for [&#8230;]\nThe post Young curators bring LASTA ‘26 to Belltable with film screening and variety show appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 09:05:09 +0000",
-      "author": "Eric Fitzgerald",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362464": {
-      "id": "https://www.limerickpost.ie/?p=362464",
-      "title": "Employment Matters: When WhatsApp messages become workplace evidence",
-      "link": "https://www.limerickpost.ie/2026/10/24/employment-matters-when-whatsapp-messages-become-workplace-evidence/",
-      "description": "MOST people have sent a message they later regretted. In the workplace, that message may not stay private. Messaging platforms such as WhatsApp and team chat tools are now part of everyday working life. They are quick, informal, and efficient. But that same informality can create risk. Messages sent casually or in haste can look [&#8230;]\nThe post Employment Matters: When WhatsApp messages become workplace evidence appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 08:00:29 +0000",
-      "author": "Dr Pat Rockett",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362455": {
-      "id": "https://www.limerickpost.ie/?p=362455",
-      "title": "Chamber announce business awards shortlist",
-      "link": "https://www.limerickpost.ie/2026/10/23/chamber-announce-business-awards-shortlist/",
-      "description": "LIMERICK Chamber has announced the finalists for its annual Regional Business Awards. Sponsored by the Technological University of the Shannon (TUS), the awards are now in its 15th year and celebrate a range of sectors from emerging enterprises to established companies. The winners will be announced at the Limerick Chamber President&#8217;s Dinner and Regional Business [&#8230;]\nThe post Chamber announce business awards shortlist appeared first on Limerick Post.",
-      "pubDate": "Fri, 23 Oct 2026 17:00:31 +0000",
-      "author": "Sarah Coleman",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362449": {
-      "id": "https://www.limerickpost.ie/?p=362449",
-      "title": "80 deaths last year among flu victims in Mid West",
-      "link": "https://www.limerickpost.ie/2026/10/23/80-deaths-last-year-among-flu-victims-in-mid-west/",
-      "description": "THERE were 30 deaths in the Mid West among patients who caught the flu last year and more than 800 people had to be hospitalised last winter with 1,7800 with the virus reported. The startling figures were released this week as the HSE’s Winter Vaccination Programme was launched with flu and COVID-19 vaccines now available [&#8230;]\nThe post 80 deaths last year among flu victims in Mid West appeared first on Limerick Post.",
-      "pubDate": "Fri, 23 Oct 2026 15:30:06 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362452": {
-      "id": "https://www.limerickpost.ie/?p=362452",
-      "title": "Spirit of Houdini will be one of the friendly ghosts to haunt Bunratty this weekend",
-      "link": "https://www.limerickpost.ie/2026/10/23/spirit-of-houdini-will-be-one-of-the-friendly-ghosts-to-haunt-bunratty-this-weekend/",
-      "description": "ONE Century ago this Halloween, renowned escapologist, Harry Houdini, made the greatest escape of all and left this life. This coming weekend, the man who has been called the Irish Houdini will be channelling the great man&#8217;s talent at the bank holiday event Bunratty Castle and Folk Park. Houdini is Limerick master magician, Steve Spade, [&#8230;]\nThe post Spirit of Houdini will be one of the friendly ghosts to haunt Bunratty this weekend appeared first on Limerick Post.",
-      "pubDate": "Fri, 23 Oct 2026 14:00:34 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362447": {
-      "id": "https://www.limerickpost.ie/?p=362447",
-      "title": "Limerick psychotherapist warns of dangers of fast-track training",
-      "link": "https://www.limerickpost.ie/2026/10/23/limerick-psychotherapist-warns-of-dangers-of-fast-track-training/",
-      "description": "A LIMERICK psychotherapist has warned that proposed new regulations, aimed at increasing the number of qualified psychotherapists available to deal with waiting lists, could put vulnerable people at risk. Following its annual conference, Limerick psychotherapist Trish Murphy echoed the concerns of the Irish Council for Psychotherapy that the most vulnerable in society could be failed [&#8230;]\nThe post Limerick psychotherapist warns of dangers of fast-track training appeared first on Limerick Post.",
-      "pubDate": "Fri, 23 Oct 2026 12:30:43 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T16:59:18.735Z"
-    },
-    "https://www.limerickpost.ie/?p=362476": {
-      "id": "https://www.limerickpost.ie/?p=362476",
-      "title": "New Respiratory consultant appointed at UHL",
-      "link": "https://www.limerickpost.ie/2026/10/24/new-respiratory-consultant-appointed-at-uhl/",
-      "description": "UNIVERSITY Hospital Limerick is welcoming a new Consultant as Dr Hammad Danish is appointed as Consultant Respiratory Physician at University Hospital Limerick (UHL). Dr Danish&#8217;s expertise in bronchoscopy, pleural procedures, and the care of patients requiring non-invasive ventilation will significantly enhance the provision of respiratory healthcare across the Mid West region, a hospital spokesman said. [&#8230;]\nThe post New Respiratory consultant appointed at UHL appeared first on Limerick Post.",
-      "pubDate": "Sat, 24 Oct 2026 17:00:26 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-24T17:22:32.445Z"
-    },
-    "https://limerickvoice.com/?p=53149": {
-      "id": "https://limerickvoice.com/?p=53149",
-      "title": "Limerick schools show support following shock Glenstal Abbey announcement",
-      "link": "https://limerickvoice.com/news/limerick-schools-show-support-following-shock-glenstal-abbey-announcement/",
-      "description": "Local secondary schools recognise the significance of the shocking, planned closure  AFTER the shock announcement made by Glenstal Abbey on October 23, various Limerick secondary schools have spoken out in support.   Villiers Secondary School on the North Circular Road, Limerick, released a statement in support on their website.   “Villiers School is deeply saddened to [&#8230;]\nThe post Limerick schools show support following shock Glenstal Abbey announcement appeared first on .",
-      "pubDate": "Sat, 24 Oct 2026 17:00:40 +0000",
-      "author": "Tara Lowth",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-24T17:37:46.239Z"
-    },
-    "https://limerickvoice.com/?p=53113": {
-      "id": "https://limerickvoice.com/?p=53113",
-      "title": "Storm Boelo set to hit Limerick with high winds and heavy rain",
-      "link": "https://limerickvoice.com/news/storm-boelo-set-to-hit-limerick-with-high-winds-and-heavy-rain/",
-      "description": "Difficult travelling conditions are to be expected, with disruption to outdoor events as the second storm of the season hits. STORM Boelo is set to hit Limerick in the early hours of Saturday morning, bringing rain and high winds.   This is the second named storm in Ireland this year following Storm Austen, which passed over [&#8230;]\nThe post Storm Boelo set to hit Limerick with high winds and heavy rain appeared first on .",
-      "pubDate": "Fri, 23 Oct 2026 19:00:12 +0000",
-      "author": "Tara Lowth",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-24T17:37:46.239Z"
-    },
-    "https://limerickvoice.com/?p=53125": {
-      "id": "https://limerickvoice.com/?p=53125",
-      "title": "Glenstal Abbey set to close their doors following ‘difficult decision’",
-      "link": "https://limerickvoice.com/news/glenstal-abbey-set-to-close-their-doors-following-difficult-decision/",
-      "description": "The long-standing learning institution is set to close their doors in August 2028.   IN A STATEMENT released by the secondary school on October 23, they explained the “difficult decision to wind down” the school&#8217;s operations.   The closure of Glenstal Abbey Secondary School will take place no later than August 2028.   In the statement, they said, [&#8230;]\nThe post Glenstal Abbey set to close their doors following ‘difficult decision’ appeared first on .",
-      "pubDate": "Sat, 24 Oct 2026 11:00:03 +0000",
-      "author": "Tara Lowth",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-24T21:27:52.355Z"
+    "9369273": {
+      "id": "9369273",
+      "title": "Limerick to open Munster title defence with massive home fixture",
+      "link": "https://www.limerickleader.ie/sport/hurling/limerick-to-open-munster-title-defence-with-massive-home-fixture-9369273",
+      "description": "It is the first time since 2019 that John Kiely’s men will start a Munster SHC campaign with a home fixture",
+      "pubDate": "Mon, 23 Nov 2026 17:30:53 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/17/45/3479342-(1).jpeg?width=1200&auto=webp&trim=0%2C75%2C0%2C289",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-23T21:10:44.671Z"
     },
     "https://www.limerickpost.ie/?p=362395": {
       "id": "https://www.limerickpost.ie/?p=362395",
@@ -10615,6 +10323,76 @@
       "author": "Khushi Verma",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-23T15:53:27.720Z"
+    },
+    "https://www.limerickpost.ie/?p=363736": {
+      "id": "https://www.limerickpost.ie/?p=363736",
+      "title": "LIMERICK IN PHOTOS: Two exhibitions opened at LCGA",
+      "link": "https://www.limerickpost.ie/2026/11/23/limerick-in-photos-two-exhibitions-opened-at-lcga/",
+      "description": "CROWDS turned out for two new exhibitions at the Limerick City Gallery of Art, The Death of Socrates, a new solo exhibition by Stephen Brandes, and Thinking of Place IV: Fleet, featuring a work from a collection of artists from across the world, including Argentina, Australia, New Zealand, Norway, Japan, Ireland, Guam, Serbia, and Poland.\nThe post LIMERICK IN PHOTOS: Two exhibitions opened at LCGA appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 21:00:39 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://www.limerickpost.ie/?p=364088": {
+      "id": "https://www.limerickpost.ie/?p=364088",
+      "title": "Apology 20 years after deaths of Garda and fireman ‘cold comfort’ for families, judge tells man who sought lifting of driving ban",
+      "link": "https://www.limerickpost.ie/2026/11/23/apology-20-years-after-deaths-of-garda-and-fireman-cold-comfort-for-families-judge-tells-man-who-sought-lifting-of-driving-ban/",
+      "description": "A MOTORIST who drove drunk into a road accident scene, killing a Garda and a fireman, failed in a bid to have his 20-year driving ban lifted early. When the driver, Niall Shannon (38), of Ballylongford, County Kerry, exited from his car on the night, he told Gardaí at the scene, “sorry about that, lads”, [&#8230;]\nThe post Apology 20 years after deaths of Garda and fireman ‘cold comfort’ for families, judge tells man who sought lifting of driving ban appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 20:03:44 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://www.limerickpost.ie/?p=363944": {
+      "id": "https://www.limerickpost.ie/?p=363944",
+      "title": "Super seven for Limerick Celtics",
+      "link": "https://www.limerickpost.ie/2026/11/23/super-seven-for-limerick-celtics/",
+      "description": "TONY Hehir’s Limerick Celtics landed their seventh Men’s Super League win in a row, beating Griffith College Éanna 118-99 in Crescent College. Celtics started off quick, tallying up 36 points in the opening quarter to Éanna&#8217;s 21, before extending the lead to 19 points at half-time. Philip Kearney, Peter Turay and Tiras Morton notched up [&#8230;]\nThe post Super seven for Limerick Celtics appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 19:30:30 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://www.limerickpost.ie/?p=363777": {
+      "id": "https://www.limerickpost.ie/?p=363777",
+      "title": "5 Signs You Need Better Footwear – Foot Solutions Limerick Shares Expert Advice for Healthier Feet",
+      "link": "https://www.limerickpost.ie/2026/11/23/5-signs-you-need-better-footwear-foot-solutions-limerick-shares-expert-advice-for-healthier-feet/",
+      "description": "Wearing the wrong shoes can do more than cause temporary discomfort &#8211; it may lead to ongoing foot pain, skin irritation, and even long-term posture issues. While many people choose footwear based on style or convenience, foot health experts emphasise that proper fit and support are essential for overall wellbeing. With growing awareness around foot [&#8230;]\nThe post 5 Signs You Need Better Footwear – Foot Solutions Limerick Shares Expert Advice for Healthier Feet appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 18:01:24 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://www.limerickpost.ie/?p=363955": {
+      "id": "https://www.limerickpost.ie/?p=363955",
+      "title": "LIMERICK IN PHOTOS: Crowds turn out as brilliant Deniro wins Classic at Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/23/limerick-in-photos-crowds-turn-out-as-brilliant-deniro-wins-classic-at-limerick/",
+      "description": "IN equalling his own track record time of 29.14, Ballymac Deniro &#8211; bred and owner/trained by Kerry’s Liam Dowling &#8211; was a brilliant winner of the 1X Bet Irish St Leger Final (€30,000) in front of a huge crowd at Limerick. Throughout the Classic, he was unbeaten. The clock was the fastest ever of the [&#8230;]\nThe post LIMERICK IN PHOTOS: Crowds turn out as brilliant Deniro wins Classic at Limerick appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 18:00:41 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://www.limerickpost.ie/?p=363703": {
+      "id": "https://www.limerickpost.ie/?p=363703",
+      "title": "Top scholarship award for Limerick student",
+      "link": "https://www.limerickpost.ie/2026/11/23/top-scholarship-award-for-limerick-student/",
+      "description": "A HIGH-ACHIEVING Limerick student was awarded with the prestigious 2026 Naughton Foundation Scholarship at the annual awards ceremony at Trinity College Dublin. Art Thornbury, a former pupil at Villiers School in Limerick, now studying engineering at the University of Galway, was among 37 exceptional STEM students awarded for their hard work and dedication. The annual [&#8230;]\nThe post Top scholarship award for Limerick student appeared first on Limerick Post.",
+      "pubDate": "Mon, 23 Nov 2026 16:30:24 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-23T21:10:44.374Z"
+    },
+    "https://limerickvoice.com/?p=53976": {
+      "id": "https://limerickvoice.com/?p=53976",
+      "title": "‘This is what Christmas is about,’ Limerick Mayor says about Christmas Fayre",
+      "link": "https://limerickvoice.com/arts-and-culture/this-is-what-christmas-is-about-limerick-mayor-says-about-christmas-fayre/",
+      "description": "Mayor Moran speaks about Christmas in Limerick. CHRISTMAS music filled O’Connell Avenue as visitors gathered at the Crescent on Saturday afternoon to watch Mayor John Moran officially open the Georgian Christmas Fayre.  Speaking at the entrance to the market, Mayor Moran said he was delighted to see an established Christmas market in the city.  “I [&#8230;]\nThe post ‘This is what Christmas is about,’ Limerick Mayor says about Christmas Fayre appeared first on .",
+      "pubDate": "Mon, 23 Nov 2026 18:48:44 +0000",
+      "author": "Zoey Tynan",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-23T21:10:45.380Z"
     }
   },
   "rewritten": {
@@ -17205,6 +16983,23 @@
       "imageCredit": "Kieran Ryan-Benson",
       "rewrittenAt": "2026-11-21T16:44:53.082Z"
     },
+    "9363702": {
+      "headline": "Cavanaghs Introduces Ten Days of Giftmas Promotions for 271 Vehicles",
+      "summary": "Cavanaghs is running its 10 Days of Giftmas promotion from November 20th to 30th with offers on Ford and BYD in Charleville and Suzuki in Mallow for customers planning a move to a new 271 vehicle.",
+      "story": "Running from November 20th to 30th, the promotion provides offers on Ford and BYD vehicles in Charleville and Suzuki vehicles in Mallow for customers planning a move to a new 271 vehicle.",
+      "localAngle": "Motorists in Limerick looking to upgrade to a new 271 vehicle may travel to nearby Charleville and Mallow to avail of Cavanaghs' 10 Days of Giftmas offers.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Cavanaghs launches 10 Days of Giftmas from November 20th to 30th  ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sponsored-content/cavanaghs-launches-10-days-of-giftmas-from-november-20th-to-30th-9369147",
+      "publishedAt": "Mon, 23 Nov 2026 16:37:36 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/12/08/Untitled-(1000-x-628-px)-Rheanna-Byrnes.png?width=1200&auto=webp&trim=0%2C39%2C0%2C19",
+      "imageCredit": "Supplied",
+      "rewrittenAt": "2026-11-23T21:20:42.132Z"
+    },
     "9363938": {
       "headline": "Spiegeltent Pavilion Launches in Limerick with Sold-Out Proclaimers Gig",
       "summary": "The new Spiegeltent Pavilion venue at Dolans opens tonight with a sold-out performance by The Proclaimers.",
@@ -17380,6 +17175,55 @@
       "duplicateOf": "9362315",
       "rewrittenAt": "2026-11-22T17:03:22.444Z"
     },
+    "9366653": {
+      "headline": "West Limerick Farmers Face Emotional and Financial Toll From Bovine TB Rise",
+      "summary": "Rising bovine TB levels in west Limerick are presenting emotional and financial challenges for the area.",
+      "story": "Minister of State Niall Collin has highlighted the bTB Action Plan's five measures and thirty actions, which are underpinned by scientific research, evidence, and veterinary expertise.",
+      "localAngle": "The issue directly impacts farming communities and agricultural stakeholders specifically within west Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "‘Emotional and financial challenge’ of increase in bovine TB levels in west Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/farming/emotional-and-financial-challenge-of-increase-in-bovine-tb-levels-in-west-limerick-9366653",
+      "publishedAt": "Mon, 23 Nov 2026 08:00:31 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/22/17/11/Photo-1-Minister-of-State-at-the-Department-of-Agriculture-Food-and-the-Marine-Niall-Collins-TD-spea.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "rewrittenAt": "2026-11-23T21:28:36.531Z"
+    },
+    "9366738": {
+      "headline": "Weekend success for Fairview, Regional, Pike, and Mungret",
+      "summary": "Local soccer sides secured cup and league victories over the weekend despite challenging weather conditions.",
+      "story": "Fairview and Regional enjoyed cup success while Pike and Mungret claimed league wins during an action-packed weekend of Limerick District League action despite tricky weather conditions.",
+      "localAngle": "The matches involve Limerick District League soccer clubs from across the local area.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Cup joy for ‘View and Regional while Pike and Mungret earn league wins",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/junior-soccer/cup-joy-for-view-and-regional-while-pike-and-mungret-earn-league-wins-9366738",
+      "publishedAt": "Sun, 22 Nov 2026 20:30:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/22/19/57/Shelbourne-AFC-V-Prospect-Priory-10.jpeg?width=1200&auto=webp&trim=112%2C3%2C90%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-23T21:29:03.722Z"
+    },
+    "9366829": {
+      "headline": "Christmas Tech Purchases Spark Battery Fire Safety Alert",
+      "summary": "Waste Electrical and Electronic Equipment Ireland has highlighted the recycling challenge as new figures reveal a battery fire risk warning during the Christmas tech buying boom.",
+      "story": "Waste Electrical and Electronic Equipment Ireland released new figures highlighting the scale of the recycling challenge amid a Christmas tech buying boom, alongside a battery fire risk warning.",
+      "localAngle": "This warning affects households across Limerick as they buy tech products this Christmas.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Battery fire risk warning amid Christmas tech buying boom",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/battery-fire-risk-warning-amid-christmas-tech-buying-boom-9366829",
+      "publishedAt": "Mon, 23 Nov 2026 00:01:00 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/00/cs-9ca596ad-654c-4eea-ac31-e71d423979c8.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-23T21:28:46.049Z"
+    },
     "9367021": {
       "headline": "Man in his 40s dies after car strikes pedestrian in Donegal",
       "summary": "A pedestrian has died following a collision involving a car in County Donegal.",
@@ -17429,6 +17273,28 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/9/48/Dromin-Athlacca-v-Clarecastle-5-(1).jpeg?width=1200&auto=webp&trim=150%2C3%2C52%2C0",
       "imageCredit": "BRENDAN GLEESON",
       "rewrittenAt": "2026-11-23T16:17:14.420Z"
+    },
+    "9367103": {
+      "headline": "Ardscoil Rís Suffer Defeat to Nenagh CBS in Harty Cup Clash",
+      "summary": "Ardscoil Rís lost to Nenagh CBS following late drama in Newport during a crucial Dr Harty Cup match.",
+      "story": "Photographs capture the action from Newport where Ardscoil Ris were defeated by Nenagh CBS in a crucial Dr Harty Cup clash.",
+      "localAngle": "Limerick school Ardscoil Rís featured in a crucial Dr Harty Cup encounter against Nenagh CBS.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "PICTURES: Ardscoil Rís take on Nenagh CBS in enthralling Harty Cup tie",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/pictures-ardscoil-ris-take-on-nenagh-cbs-in-enthralling-harty-cup-tie-9367103",
+      "publishedAt": "Mon, 23 Nov 2026 20:30:26 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/9/22/MixCollage-23-Nov-2026-09-03-AM-2732.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-23T21:12:56.458Z"
+    },
+    "9367314": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363774",
+      "rewrittenAt": "2026-11-23T21:12:32.221Z"
     },
     "9367493": {
       "headline": "Primary Schools Finals Held at TUS Gaelic Grounds",
@@ -17502,6 +17368,23 @@
       "imageCredit": "PICTURE: RIP.IE",
       "rewrittenAt": "2026-11-23T16:09:51.812Z"
     },
+    "9368406": {
+      "headline": "Nationwide tributes paid following the passing of Garryowen FC stalwart Tommy O’Brien",
+      "summary": "Tributes are flowing from across Limerick and the country for Tommy O’Brien, a man deeply connected to Garryowen FC.",
+      "story": "People locally and nationally have been paying tribute to Tommy O’Brien, who was synonymous with Garryowen FC.",
+      "localAngle": "The outpouring of tributes from Limerick and across the country honours a figure synonymous with the local Garryowen FC.",
+      "section": "Sport",
+      "importance": 4,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tributes pour in for ‘Mr Garryowen’ Tommy O’Brien",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/tributes-pour-in-following-the-passing-of-mr-garryowen-tommy-obrien-9368406",
+      "publishedAt": "Mon, 23 Nov 2026 16:00:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/13/02/WhatsApp-Image-2026-11-23-at-1-46-54-PM.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Kieran Ryan Benson",
+      "rewrittenAt": "2026-11-23T21:26:03.251Z"
+    },
     "9368498": {
       "headline": "Justice Minister Jim O’Callaghan Unrepentant Over Legal Aid Dispute",
       "summary": "Justice Minister Jim O’Callaghan has stated he has no regrets regarding the criminal legal aid dispute as only a small percentage of cases will qualify for enhanced payments.",
@@ -17549,6 +17432,23 @@
       "publishedAt": "Mon, 23 Nov 2026 15:43:23 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/cs-7d2b6e5c-8eff-4914-8dab-a40f4120e96b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-23T16:04:49.758Z"
+    },
+    "9369273": {
+      "headline": "Limerick Set for Home Start in Munster Hurling Championship Defence",
+      "summary": "John Kiely's team will begin their Munster SHC campaign with a home fixture for the first time since 2019.",
+      "story": "John Kiely's men will open their Munster SHC campaign with a home fixture, marking the first time they have started the championship at home since 2019. Read the full story on the Limerick Leader.",
+      "localAngle": "This fixture marks a rare home championship start for the Limerick hurling team.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick to open Munster title defence with massive home fixture",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/limerick-to-open-munster-title-defence-with-massive-home-fixture-9369273",
+      "publishedAt": "Mon, 23 Nov 2026 17:30:53 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/17/45/3479342-(1).jpeg?width=1200&auto=webp&trim=0%2C75%2C0%2C289",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-23T21:19:59.253Z"
     },
     "https://limerickvoice.com/?p=53125": {
       "skipped": true,
@@ -23382,6 +23282,117 @@
       "rewrittenAt": "2026-11-23T16:19:43.107Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Sonya-Stokes.jpeg",
       "imageCheckedAt": "2026-11-23T16:23:35.332Z"
+    },
+    "https://www.limerickpost.ie/?p=364088": {
+      "skipped": true,
+      "duplicateOf": "9361264",
+      "rewrittenAt": "2026-11-23T21:12:32.221Z"
+    },
+    "https://www.limerickpost.ie/?p=363944": {
+      "skipped": true,
+      "duplicateOf": "9367038",
+      "rewrittenAt": "2026-11-23T21:12:32.221Z"
+    },
+    "https://limerickvoice.com/?p=53976": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363774",
+      "rewrittenAt": "2026-11-23T21:12:32.221Z"
+    },
+    "https://www.limerickpost.ie/?p=363736": {
+      "headline": "Crowds pack Limerick City Gallery of Art for two new international exhibitions",
+      "summary": "Art enthusiasts turned out in force for the launch of Stephen Brandes' solo exhibition and a global collaborative showcase at LCGA.",
+      "story": "Crowds turned out in large numbers for the launch of two new major exhibitions at the Limerick City Gallery of Art (LCGA). \n\nThe first exhibition, 'The Death of Socrates', is a new solo showcase by artist Stephen Brandes. It runs alongside 'Thinking of Place IV: Fleet', an expansive collaborative project featuring works from artists across the globe, including contributions from Argentina, Australia, New Zealand, Norway, Japan, Ireland, Guam, Serbia, and Poland.\n\nAttendees at the opening night event included Alan James Burns, Elio Maeoca, Tryke Roche, Patricia Kiernan, Timothy Emelyn Jones, and Serhii Matviichuk, as the gallery welcomed the international collection to the city.",
+      "localAngle": "The Limerick City Gallery of Art hosted the launch of two major exhibitions, drawing local art enthusiasts and international artists to the city centre.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Two exhibitions opened at LCGA",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/23/limerick-in-photos-two-exhibitions-opened-at-lcga/",
+      "publishedAt": "Mon, 23 Nov 2026 21:00:39 +0000",
+      "rewrittenAt": "2026-11-23T21:12:46.270Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Two-Exhibtions-LCGA-03.jpg",
+      "imageCheckedAt": "2026-11-23T21:29:04.244Z"
+    },
+    "https://www.limerickpost.ie/?p=363955": {
+      "headline": "Ballymac Deniro claims €30,000 Irish St Leger Final in record time at Limerick",
+      "summary": "Kerry-bred greyhound Ballymac Deniro remained unbeaten throughout the Classic to win the 1X Bet Irish St Leger Final at Limerick Greyhound Stadium, equalling his own track record of 29.14.",
+      "story": "Ballymac Deniro delivered a dominant display to secure the €30,000 1X Bet Irish St Leger Final in front of a large crowd at Limerick Greyhound Stadium over the weekend.\n\nBred, owned, and trained by Liam Dowling from County Kerry, the standout greyhound completed the Classic campaign entirely unbeaten. In capturing the final, Deniro equalled his own track record time of 29.14, marking the fastest clock recorded across the 94-year history of the event.\n\nSupporters turned out in force for the feature race meeting, filling the stands as racing enthusiasts gathered to witness the historic track performance.",
+      "localAngle": "The historic greyhound racing final took place before a massive crowd at Limerick Greyhound Stadium.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Crowds turn out as brilliant Deniro wins Classic at Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/23/limerick-in-photos-crowds-turn-out-as-brilliant-deniro-wins-classic-at-limerick/",
+      "publishedAt": "Mon, 23 Nov 2026 18:00:41 +0000",
+      "rewrittenAt": "2026-11-23T21:18:43.326Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Limerick-Greyhound-Stadium-436x420.jpg",
+      "imageCheckedAt": "2026-11-23T21:29:04.803Z"
+    },
+    "https://www.limerickpost.ie/?p=363703": {
+      "headline": "Former Villiers School pupil Art Thornbury wins 2026 Naughton Foundation Scholarship",
+      "summary": "A former Limerick student now studying engineering at the University of Galway has received the prestigious 2026 Naughton Foundation Scholarship at a ceremony in Trinity College Dublin.",
+      "story": "Former Villiers School pupil Art Thornbury has been named as a recipient of the prestigious 2026 Naughton Foundation Scholarship at an annual awards ceremony held at Trinity College Dublin.\n\nMr Thornbury, who is now studying engineering at the University of Galway, was among 37 STEM students recognized at the event, which took place at the Trinity Business School. He was joined at the ceremony by school representative Jill Stoney, Carmel Naughton, and Minister for Health Jennifer Carroll MacNeill TD.\n\nThe annual scholarship program was established in 2008 by Dr Martin and Carmel Naughton to support students pursuing third-party degrees in engineering, science, technology, and mathematics. The foundation has awarded €7 million in scholarships to nearly 500 students across Ireland since its inception.",
+      "localAngle": "The recipient is a past pupil of Limerick's Villiers School who grew up in the local area before beginning his third-level engineering studies.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Top scholarship award for Limerick student",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/23/top-scholarship-award-for-limerick-student/",
+      "publishedAt": "Mon, 23 Nov 2026 16:30:24 +0000",
+      "rewrittenAt": "2026-11-23T21:20:49.497Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Naughton-Scholarship.jpg",
+      "imageCheckedAt": "2026-11-23T21:29:05.117Z"
+    },
+    "https://www.limerickpost.ie/?p=363595": {
+      "headline": "Adare comedian Marty Gleeson brings award-winning show to Dolan's Warehouse",
+      "summary": "Award-winning Limerick comedian Marty Gleeson will bring her debut show, Dog Ear, to Dolan's Warehouse on Wednesday, March 10, 2027, as part of an Irish tour. Tickets are available now on Ticketmaster.",
+      "story": "Adare comedian Marty Gleeson is bringing her critically acclaimed debut show, Dog Ear, to Dolan’s Warehouse next March. The Limerick performer will take to the stage at the Dock Road venue on Wednesday, March 10, 2027, as part of her upcoming Irish tour.\n\nGleeson recently made history at the Edinburgh Fringe, becoming the first Irish woman to win Best Newcomer at the Edinburgh Comedy Awards for the sell-out show. Her Edinburgh run also saw her claim the Comedians’ Choice Award for Best Newcomer, earn a spot on Rolling Stone’s 12 Rising Stars list, and receive a shortlist nomination for the ISH awards. Directed by Abby Wambaugh, Dog Ear is inspired by Gleeson's time in art school and features bodhrán playing, unexpected news reporters, and reflections on human flaws.\n\nA former student of Crescent College Comprehensive and the Limerick School of Art and Design, Gleeson relocated to London after selling a laptop won in a card design competition. Her career has accelerated rapidly in recent years, including a 2024 stint with the Pleasance Comedy Reserve, finalist spots for the Sean Lock Comedy Award and BBC New Comedy Award, and being named LGBTQ+ New Comedian of the Year.\n\nTickets for the Dolan’s Warehouse performance on March 10, 2027, are on sale now through Ticketmaster.",
+      "localAngle": "Limerick native and Adare comedian Marty Gleeson is returning home to perform her award-winning debut show at Dolan's Warehouse.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Adare comedian Marty Gleeson brings award-winning Dog Ear to Dolan’s Warehouse",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/23/adare-comedian-marty-gleeson-brings-award-winning-dog-ear-to-dolans-warehouse/",
+      "publishedAt": "Mon, 23 Nov 2026 09:05:51 +0000",
+      "rewrittenAt": "2026-11-23T21:26:45.115Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Marty-Gleeson-Press-Image-3-Credit-Rachel-Sherlock.jpg",
+      "imageCheckedAt": "2026-11-23T21:29:05.342Z"
+    },
+    "https://www.limerickpost.ie/?p=363579": {
+      "headline": "Limerick Choral Union performs Handel's Messiah at University Concert Hall",
+      "summary": "Limerick's longest-serving choir will stage its biennial performance of Handel's Messiah at the University Concert Hall on Saturday, November 28, featuring the LCU Orchestra and a quartet of guest soloists.",
+      "story": "Limerick Choral Union (LCU) returns to the University Concert Hall stage on Saturday, November 28, for its biennial performance of Handel’s much-loved oratorio, Messiah. The seasonal concert begins at 8pm and features the city's longest-serving choir alongside the LCU Orchestra.\n\nThe performance will be directed by Malcolm Green and features a line-up of four soloists: soprano Rachel Croash, mezzo-soprano Gemma Ni Bhriain, tenor Andrew Gavin, and bass Jakob Mahase. \n\nSpeaking ahead of the concert, LCU assistant chairperson and PRO Lorraine MacMahon highlighted the deep bonds within the choir. “In our choir, we don’t just blend our voices; we blend our lives. The unique harmony built between our choristers isn’t just made of music – it is forged in shared breaths, mutual trust, and the beautiful realisation that we are creating something greater together than we ever could alone,” she said.\n\nTickets for the University Concert Hall performance are available from the venue's box office at (061) 331549 or online via www.uch.ie.",
+      "localAngle": "The concert brings Limerick's longest-serving choir and local musicians together at the University Concert Hall to mark the start of the festive season.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick Choral Union to bring Handel’s Messiah to University Concert Hall",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/23/limerick-choral-union-to-bring-handels-messiah-to-university-concert-hall/",
+      "publishedAt": "Mon, 23 Nov 2026 08:50:40 +0000",
+      "rewrittenAt": "2026-11-23T21:28:28.910Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/LCU-Choir-Photo-2024.png",
+      "imageCheckedAt": "2026-11-23T21:29:05.552Z"
+    },
+    "https://www.limerickpost.ie/?p=363735": {
+      "headline": "Award-Winning Documentary on Mixed Ability Rugby Celebrated at Belltable",
+      "summary": "The Belltable hosted a special reception and screening for 'Try', an acclaimed documentary about mixed ability rugby directed by Oisín Misteál and produced by Claire McCabe. The award-winning film drew figures from Munster Rugby and the IRFU for the Limerick event.",
+      "story": "The Belltable in Limerick was the venue for a special reception celebrating 'Try', a critically acclaimed documentary focusing on mixed ability rugby. Directed by Oisín Misteál and produced by Claire McCabe, the film has already enjoyed significant success on the festival circuit, picking up the Audience Award at the 2026 IFI Documentary Festival as well as Best Irish Feature Documentary at the Galway Film Fleadh.\n\nA lively gathering of guests attended the Limerick screening, including notable figures from the rugby community. Among those present at the event were Munster Rugby players Calvin Nash and Peter Sileke, alongside Jim Donovan of Munster Rugby and Gerry O'Shea representing the IRFU. Also in attendance were producer Claire McCabe, Fiona O'Sullivan, Pierce Long, Liam Maher, Jim Gibson, Kelley McDaniel, Steven Casey, and Andrew and Samantha Brace.\n\nThe documentary's recent accolades highlight the growing recognition of mixed ability sports. The Limerick reception provided an opportunity for filmmakers, local sports representatives, and supporters to celebrate the feature's ongoing success following its major festival wins.",
+      "localAngle": "The acclaimed documentary was celebrated with a special reception and screening at Limerick's Belltable venue, attended by prominent figures from Munster Rugby and the IRFU.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Big Try at Belltable",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/22/limerick-in-photos-big-try-at-belltable/",
+      "publishedAt": "Sun, 22 Nov 2026 21:00:38 +0000",
+      "rewrittenAt": "2026-11-23T21:28:56.222Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/8G0A0870.jpg",
+      "imageCheckedAt": "2026-11-23T21:29:05.760Z"
     }
   }
 }
