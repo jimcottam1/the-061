@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-24T15:45:02.555Z",
-    "totalArticles": 35
+    "lastScrape": "2026-11-24T20:05:52.186Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -5753,6 +5753,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T17:42:29.935Z"
     },
+    "9364139": {
+      "id": "9364139",
+      "title": "Incredible offers are now on at Hinchys in Garryspillane and Ennis Road",
+      "link": "https://www.limerickleader.ie/sponsored-content/incredible-offers-are-now-on-at-hinchys-in-garryspillane-and-ennis-road-9371892",
+      "description": "Hinchys 271 Offers Include 0% Finance, €500 Supervalu Voucher & Free Home Charger on Electric  Models",
+      "pubDate": "Tue, 24 Nov 2026 17:04:50 GMT",
+      "author": "Sponsored Content",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/14/46/Untitled-(1000-x-628-px)-Rheanna-Byrnes.jpeg?width=1200&auto=webp&trim=0%2C19%2C0%2C39",
+      "imageCredit": "Supplied",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
+    },
     "9364200": {
       "id": "9364200",
       "title": "Thief smashes car window and steals items in Limerick city",
@@ -6183,6 +6195,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
+    "9370478": {
+      "id": "9370478",
+      "title": "Popular duo to lead champions Kilmallock into 2027 season",
+      "link": "https://www.limerickleader.ie/sport/hurling/popular-duo-to-lead-champions-kilmallock-into-2027-season-9370478",
+      "description": "‘They're savage, they're like father figures to us and we just found that whenever we needed belief, they gave it to us in spades’",
+      "pubDate": "Tue, 24 Nov 2026 17:30:23 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/58/3602448.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
+    },
     "9370660": {
       "id": "9370660",
       "title": "Irish health watchdog warns of accidental hormone exposure risk to young children",
@@ -6194,6 +6218,18 @@
       "imageCredit": "Stock",
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9370943": {
+      "id": "9370943",
+      "title": "Limerick travel influencer searches for A Place Called Home in new RTÉ show",
+      "link": "https://www.limerickleader.ie/whats-on/limerick-travel-influencer-searches-for-a-place-called-home-in-new-rte-show-9370943",
+      "description": "Sean left Ireland on the May 23, 2023. In that time, he has amassed over 2 million followers across various social media platforms",
+      "pubDate": "Tue, 24 Nov 2026 18:00:15 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/13/34/LED05452.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: LIEKE DIRKX",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
     },
     "9371000": {
       "id": "9371000",
@@ -6252,6 +6288,51 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371566": {
+      "id": "9371566",
+      "title": "HSE chief’s sacking was unanimous and not based on any single event, says board",
+      "link": "https://www.limerickleader.ie/national/hse-chiefs-sacking-was-unanimous-and-not-based-on-any-single-event-says-board-9371566",
+      "description": "The removal of Anne O’Connor was necessary for the ‘effective and efficient performance’ of the service, the board added.",
+      "pubDate": "Tue, 24 Nov 2026 15:44:14 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/15/cs-0f96cd3c-bbad-4d7f-9c6d-effc074cf7bf.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.578Z"
+    },
+    "9371968": {
+      "id": "9371968",
+      "title": "Captain recalls ‘screams’ as boot of Private Sean Rooney’s vehicle breached",
+      "link": "https://www.limerickleader.ie/national/captain-recalls-screams-as-boot-of-private-sean-rooneys-vehicle-breached-9371968",
+      "description": "A commanding officer told Irish peacekeepers to ‘blow through’ a blockade of their vehicle in Lebanon, an inquest has heard.",
+      "pubDate": "Tue, 24 Nov 2026 17:17:19 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/17/cs-df9a12a3-1da3-4d61-be5d-3c4423d3f826.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
+    },
+    "9372107": {
+      "id": "9372107",
+      "title": "Leo Varadkar calls on Burnham to discuss rejoining EU ‘sooner rather than later’",
+      "link": "https://www.limerickleader.ie/national/leo-varadkar-calls-on-burnham-to-discuss-rejoining-eu-sooner-rather-than-later-9372107",
+      "description": "Leo Varadkar delivered a keynote at an event as part of Ireland’s Presidency of the EU, discussing the EU-UK summit in Brussels last week.",
+      "pubDate": "Tue, 24 Nov 2026 18:29:02 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/18/cs-fdbd3933-6444-4b48-bdfd-6f964c5cdf8c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
+    },
+    "9372150": {
+      "id": "9372150",
+      "title": "CAB seizes vehicles, €20k and Rolex watches in searches in Limerick and Tipperary",
+      "link": "https://www.limerickleader.ie/news/cab-seizes-vehicles-eur20k-and-rolex-watches-in-searches-in-limerick-and-tipperary-9372150",
+      "description": "As part of ongoing investigations targeting burglary and theft in the Munster region and abroad, the Criminal Assets Bureau (CAB) carried out searches this Tuesday, November 24 in County Limerick and County Tipperary",
+      "pubDate": "Tue, 24 Nov 2026 19:31:51 GMT",
+      "author": "Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/19/08/Some-of-the-vehicles-seized-during-the-searches-carried-out-by-the-Criminal-Assets-Bureau-(CAB).jpeg?width=1200&auto=webp&trim=0%2C200%2C0%2C557",
+      "imageCredit": "CAB",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T20:05:42.577Z"
     },
     "https://www.limerickpost.ie/?p=362492": {
       "id": "https://www.limerickpost.ie/?p=362492",
@@ -10604,6 +10685,66 @@
       "author": "Bernie English",
       "source": "limerickpost",
       "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=364025": {
+      "id": "https://www.limerickpost.ie/?p=364025",
+      "title": "Bumper win for Áine O’Connor",
+      "link": "https://www.limerickpost.ie/2026/11/24/bumper-win-for-aine-oconnor/",
+      "description": "TALENTED Askeaton jockey Áine O’Connor scored with Ifuknowuknow (4/1) in a competitive bumper at Punchestown over the weekend. Owned by Sarah-Ann Madden, the winner is trained in county Kildare by Sonny Carey and won by three lengths. The same trio scored with this victor back in September at Downpatrick. O’Connor’s sister, Ciara and her trainer-husband [&#8230;]\nThe post Bumper win for Áine O’Connor appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 19:30:45 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=364028": {
+      "id": "https://www.limerickpost.ie/?p=364028",
+      "title": "Local reps pays tribute to ‘inspirational’ Lee Reeves",
+      "link": "https://www.limerickpost.ie/2026/11/24/local-reps-pays-tribute-to-inspirational-lee-reeves/",
+      "description": "LIMERICK Council this week passed a vote of sympathy in tribute to &#8220;inspirational&#8221; Limerick boxer Lee Reeves, following his tragic passing three months after suffering serious injuries in a bout at Dublin&#8217;s 3Arena. Fianna Fáil councillor Catherine Slattery, who held a civic reception for the Limerick southpaw during her time as Príomh Chomhairleoir of Limerick [&#8230;]\nThe post Local reps pays tribute to &#8216;inspirational&#8217; Lee Reeves appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 18:00:31 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=364129": {
+      "id": "https://www.limerickpost.ie/?p=364129",
+      "title": "Limerick schools encouraged to make more room for nature",
+      "link": "https://www.limerickpost.ie/2026/11/24/limerick-schools-encouraged-to-make-more-room-for-nature/",
+      "description": "LIMERICK Education Support Centre is delighted to support Our Dúlra Agreement, a new national initiative encouraging schools and education bodies to give nature and biodiversity a greater place in school life. Launched on November 12 by Minister Christopher O’Sullivan in Dublin, the agreement invites schools and education organisations to take practical steps to help nature [&#8230;]\nThe post Limerick schools encouraged to make more room for nature appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 16:59:30 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=363899": {
+      "id": "https://www.limerickpost.ie/?p=363899",
+      "title": "Award recognises peace and quiet at People’s Park",
+      "link": "https://www.limerickpost.ie/2026/11/24/award-recognises-peace-and-quiet-at-peoples-park/",
+      "description": "LIMERICK City and County Council was presented with the prestigious John Connell Local Authority Award for 2026, in recognition of its work in establishing the People’s Park in the city as a statutory quiet area. The award was presented at the John Connell Awards at the Palace of Westminster in London. Known as the ‘Noise [&#8230;]\nThe post Award recognises peace and quiet at People&#8217;s Park appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 16:30:09 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=364124": {
+      "id": "https://www.limerickpost.ie/?p=364124",
+      "title": "Man charged with attempted murder of boy (16) in Limerick City",
+      "link": "https://www.limerickpost.ie/2026/11/24/man-charged-with-attempted-murder-of-boy-16-in-limerick-city/",
+      "description": "A MAN appeared before Limerick District Court today (Tuesday), charged with attempting to murder a teenage boy in Limerick City. John Bourke (39), of no fixed abode, Limerick, made no reply to the charge, the court heard. Detective Garda Shane Kirwan, Roxboro Road Garda Station, told the court he arrested and charged Mr Bourke and [&#8230;]\nThe post Man charged with attempted murder of boy (16) in Limerick City appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 16:11:38 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=364119": {
+      "id": "https://www.limerickpost.ie/?p=364119",
+      "title": "Jury retires to consider verdict in attempted murder petrol attack trial",
+      "link": "https://www.limerickpost.ie/2026/11/24/jury-retires-to-consider-verdict-in-attempted-murder-petrol-attack-trial/",
+      "description": "A LIMERICK jury in the trial of a man accused of attempting to murder another man last year has retired to consider a verdict. The injured party, Patrick Williams, told the trial being held before the Central Criminal Court, sitting in Limerick, that he was doused in petrol, set on fire, beaten, and stabbed on the [&#8230;]\nThe post Jury retires to consider verdict in attempted murder petrol attack trial appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 15:45:19 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T20:05:42.228Z"
     }
   },
   "rewritten": {
@@ -16967,6 +17108,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/27/16/iconic-upload-1536527366201_1648814431.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-20T17:48:51.562Z"
     },
+    "9364139": {
+      "headline": "Hinchys Announces Special Deals Across Garryspillane and Ennis Road Locations",
+      "summary": "Hinchys has launched promotions featuring 0% finance, a €500 Supervalu voucher, and a free home charger on electric models.",
+      "story": "The current offers are available at Hinchys in Garryspillane and on the Ennis Road, including a free home charger and €500 Supervalu voucher on electric models alongside 0% finance.",
+      "localAngle": "The promotions are available at Hinchys locations in Garryspillane and on the Ennis Road in Limerick.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Incredible offers are now on at Hinchys in Garryspillane and Ennis Road",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sponsored-content/incredible-offers-are-now-on-at-hinchys-in-garryspillane-and-ennis-road-9371892",
+      "publishedAt": "Tue, 24 Nov 2026 17:04:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/14/46/Untitled-(1000-x-628-px)-Rheanna-Byrnes.jpeg?width=1200&auto=webp&trim=0%2C19%2C0%2C39",
+      "imageCredit": "Supplied",
+      "rewrittenAt": "2026-11-24T20:08:45.192Z"
+    },
     "9364200": {
       "headline": "Limerick Motorists Warned After Window Smashed And Valuables Stolen",
       "summary": "Gardaí have issued safety advice to drivers ahead of the Christmas shopping period following a vehicle break-in in Limerick city.",
@@ -17264,6 +17422,23 @@
       "duplicateOf": "https://www.limerickpost.ie/?p=363774",
       "rewrittenAt": "2026-11-23T21:12:32.221Z"
     },
+    "9367395": {
+      "headline": "Newcastle West Teen Wins Global Youth Entrepreneurship Award",
+      "summary": "Seventeen-year-old Sophie Keane from Newcastle West has won the international World Youth Entrepreneurship championship with her Bed Bug Bait Box business.",
+      "story": "Sophie Keane, a 17-year-old from Newcastle West, has secured the top international prize at the World Youth Entrepreneurship championship for her business venture, the Bed Bug Bait Box.",
+      "localAngle": "The award-winning teenager is from Newcastle West in County Limerick.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 5,
+      "brief": true,
+      "originalTitle": "Limerick teenager crowned World Youth Entrepreneurship champion",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/education/limerick-teenager-crowned-world-youth-entrepreneurship-champion-9367395",
+      "publishedAt": "Tue, 24 Nov 2026 10:00:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/10/42/5ebf79bb-482b-4297-8fe5-864d7f15b1a1.jpeg?width=1200&auto=webp&trim=251%2C0%2C553%2C6",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-24T20:12:28.868Z"
+    },
     "9367493": {
       "headline": "Primary Schools Finals Held at TUS Gaelic Grounds",
       "summary": "South Limerick retained the girl's football title and the Larkin Shield, while the City won the Sarsfield Cup.",
@@ -17435,6 +17610,23 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-23T21:19:59.253Z"
     },
+    "9369682": {
+      "headline": "Doon secure place in Munster camogie final after strong finish",
+      "summary": "Doon reached the Mai O’Connell Munster Junior ‘A’ final following a strong start and a late scoring flourish.",
+      "story": "Doon raced into a 0-7 to no score lead in the first half before needing a late flourish of scores to reach the Mai O’Connell Munster Junior ‘A’ final.",
+      "localAngle": "This match report covers the progression of local side Doon to a Munster camogie final.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Doon start - and finish - strong to reach Munster camogie final",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/camogie/doon-start-and-finish-strong-to-reach-munster-camogie-final-9369682",
+      "publishedAt": "Tue, 24 Nov 2026 08:30:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/6/35/Emma-Kennedy-Doon-Camogie.jpeg?width=1200&auto=webp&trim=0%2C2%2C0%2C0",
+      "imageCredit": "MUNSTER CAMOGIE",
+      "rewrittenAt": "2026-11-24T20:13:55.740Z"
+    },
     "9369949": {
       "headline": "Ryanair Defends New Seating Policy For Unreserved Passengers",
       "summary": "Ryanair has defended its decision to alter how and when passengers are allocated seats before their flights if they do not pay to reserve them.",
@@ -17468,6 +17660,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/cs-2bbc6ee7-ec1e-44fa-a18c-1d54a0537616.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-24T16:12:56.739Z"
     },
+    "9370478": {
+      "headline": "Kilmallock champions secure popular management duo for 2027",
+      "summary": "A popular duo described as father figures will lead Kilmallock into the 2027 hurling season.",
+      "story": "Players have praised the management pair for providing belief in spades when it was needed. Read the full report on the Limerick Leader website.",
+      "localAngle": "This appointment affects the Kilmallock hurling club ahead of the 2027 season.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Popular duo to lead champions Kilmallock into 2027 season",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/popular-duo-to-lead-champions-kilmallock-into-2027-season-9370478",
+      "publishedAt": "Tue, 24 Nov 2026 17:30:23 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/58/3602448.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-24T20:08:39.778Z"
+    },
     "9370660": {
       "headline": "Health Watchdog Warns of Accidental Hormone Exposure Risks in Young Children",
       "summary": "The Irish health watchdog has warned that accidental exposure to oestrogen sprays and gels can cause premature puberty and unexpected breast development in children.",
@@ -17484,6 +17693,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/12/51/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-24T120942-783.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Stock",
       "rewrittenAt": "2026-11-24T16:09:57.117Z"
+    },
+    "9370943": {
+      "headline": "Limerick Influencer Sean Features in New RTÉ Programme",
+      "summary": "Limerick travel influencer Sean, who left Ireland on May 23, 2023, and has gained over 2 million followers, is starring in the new RTÉ show 'A Place Called Home'.",
+      "story": "After leaving Ireland on May 23, 2023, Limerick travel influencer Sean has built a following of over 2 million across social media platforms and is now searching for 'A Place Called Home' in a new RTÉ show. Read the full story on the Limerick Leader.",
+      "localAngle": "The subject of the RTÉ show is a Limerick travel influencer.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick travel influencer searches for A Place Called Home in new RTÉ show",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/limerick-travel-influencer-searches-for-a-place-called-home-in-new-rte-show-9370943",
+      "publishedAt": "Tue, 24 Nov 2026 18:00:15 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/13/34/LED05452.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: LIEKE DIRKX",
+      "rewrittenAt": "2026-11-24T20:08:25.377Z"
     },
     "9371000": {
       "headline": "Inquest Hears Details on Private Sean Rooney's Convoy",
@@ -17544,6 +17770,49 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/15/37/3632400.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C100",
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-24T15:47:27.574Z"
+    },
+    "9371566": {
+      "skipped": true,
+      "duplicateOf": "9368160",
+      "rewrittenAt": "2026-11-24T20:07:09.632Z"
+    },
+    "9371968": {
+      "skipped": true,
+      "duplicateOf": "9371000",
+      "rewrittenAt": "2026-11-24T20:07:09.631Z"
+    },
+    "9372107": {
+      "headline": "Leo Varadkar Urges Burnham to Consider EU Return",
+      "summary": "Leo Varadkar has spoken about the EU-UK summit during an address tied to Ireland's EU Presidency.",
+      "story": "During a keynote speech as part of Ireland’s Presidency of the EU, Leo Varadkar discussed the recent EU-UK summit in Brussels and called on Burnham to talk about rejoining the EU sooner rather than later.",
+      "localAngle": "The speech was delivered as part of Ireland’s Presidency of the EU, which carries national interest for readers in Limerick.",
+      "section": "Council",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Leo Varadkar calls on Burnham to discuss rejoining EU ‘sooner rather than later’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/leo-varadkar-calls-on-burnham-to-discuss-rejoining-eu-sooner-rather-than-later-9372107",
+      "publishedAt": "Tue, 24 Nov 2026 18:29:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/18/cs-fdbd3933-6444-4b48-bdfd-6f964c5cdf8c.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-24T20:08:10.130Z"
+    },
+    "9372150": {
+      "headline": "CAB Conducts Searches Across Limerick and Tipperary",
+      "summary": "The Criminal Assets Bureau has seized vehicles, cash, and luxury watches during searches in Limerick and Tipperary.",
+      "story": "The Criminal Assets Bureau carried out searches this Tuesday, November 24, in County Limerick and County Tipperary as part of ongoing investigations targeting burglary and theft in the Munster region and abroad, resulting in the seizure of vehicles, €20,000, and Rolex watches.",
+      "localAngle": "The searches took place directly within County Limerick as part of an ongoing regional investigation.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "CAB seizes vehicles, €20k and Rolex watches in searches in Limerick and Tipperary",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/cab-seizes-vehicles-eur20k-and-rolex-watches-in-searches-in-limerick-and-tipperary-9372150",
+      "publishedAt": "Tue, 24 Nov 2026 19:31:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/19/08/Some-of-the-vehicles-seized-during-the-searches-carried-out-by-the-Criminal-Assets-Bureau-(CAB).jpeg?width=1200&auto=webp&trim=0%2C200%2C0%2C557",
+      "imageCredit": "CAB",
+      "rewrittenAt": "2026-11-24T20:07:15.595Z"
     },
     "https://www.limerickpost.ie/?p=362485": {
       "skipped": true,
@@ -23377,6 +23646,139 @@
       "rewrittenAt": "2026-11-24T16:13:37.289Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/01/court-order-gavel-tingey-injury-law-firm-veNb0DDegzE-unsplash-scaled.jpg",
       "imageCheckedAt": "2026-11-24T16:13:50.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364119": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364124",
+      "rewrittenAt": "2026-11-24T20:07:09.632Z"
+    },
+    "https://www.limerickpost.ie/?p=364025": {
+      "headline": "Askeaton Jockey Áine O’Connor Rides Ifuknowuknow to Punchestown Victory",
+      "summary": "Askeaton jockey Áine O'Connor secured a three-length victory aboard Ifuknowuknow in a competitive bumper at Punchestown over the weekend.",
+      "story": "Talented Askeaton jockey Áine O’Connor rode Ifuknowuknow to a decisive three-length victory in a competitive bumper at Punchestown over the weekend. Sent off at 4/1, the winner is owned by Sarah-Ann Madden and trained in County Kildare by Sonny Carey.\n\nThe successful partnership is already familiar with the winner's circle, having previously scored with Ifuknowuknow back in September at Downpatrick.\n\nMeanwhile, O’Connor’s family enjoyed further success on the track as her sister, Ciara, and her trainer-husband Harry Fry teamed up for a win earlier the same afternoon with Miss Goldfire (12/1) at Ascot.\n\nThe local racing spotlight now turns toward the upcoming four-day Mr Binman Christmas Racing Festival, which features a prize fund of €600,000.",
+      "localAngle": "The winning jockey, Áine O'Connor, hails from Askeaton in County Limerick.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Bumper win for Áine O’Connor",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/bumper-win-for-aine-oconnor/",
+      "publishedAt": "Tue, 24 Nov 2026 19:30:45 +0000",
+      "rewrittenAt": "2026-11-24T20:07:56.424Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/3.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:56.133Z"
+    },
+    "https://www.limerickpost.ie/?p=364028": {
+      "headline": "Limerick Council pays tribute to late boxer Lee Reeves",
+      "summary": "Limerick City and County Council has passed a vote of sympathy following the tragic passing of 31-year-old boxer Lee Reeves, three months after he suffered serious injuries in a bout at Dublin’s 3Arena.",
+      "story": "Limerick City and County Council has passed a formal vote of sympathy in tribute to local boxer Lee Reeves, who has passed away three months after sustaining serious injuries in a bout at Dublin’s 3Arena.\n\nElected representatives across the chamber paid emotional tributes to the 31-year-old southpaw at this week's council meeting. Fianna Fáil councillor Catherine Slattery, who previously hosted a civic reception for Reeves during her time as Príomh Chomhairleoir, remembered him for his extensive work with youths in sport and mental health advocacy. \n\nMayor John Moran and fellow councillors—including Sarah Beasley, Pádraigh Reale, and Sharon Benson—hailed Reeves as a charismatic and positive role model. They highlighted his dedication to local disadvantaged communities and ambassadorial work with Limerick Treaty Suicide Prevention.\n\nReeves was remembered not only as a sporting star and soldier, but as a devoted son, brother, grandson, and nephew who left a lasting, profound impact on the entire city of Limerick.",
+      "localAngle": "The story centers on a beloved Limerick boxer and the official tribute paid to him by the local municipal council.",
+      "section": "Council",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Local reps pays tribute to ‘inspirational’ Lee Reeves",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/local-reps-pays-tribute-to-inspirational-lee-reeves/",
+      "publishedAt": "Tue, 24 Nov 2026 18:00:31 +0000",
+      "rewrittenAt": "2026-11-24T20:08:16.813Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/07/Post-Three-Lee-Reeves.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:56.822Z"
+    },
+    "https://www.limerickpost.ie/?p=364129": {
+      "headline": "Limerick Education Support Centre Backs National Campaign to Put Nature in Schools",
+      "summary": "Limerick schools are being urged to sign up for 'Our Dúlra Agreement', a new national initiative designed to embed biodiversity into daily school life. The Limerick Education Support Centre is backing the scheme and offering free online training resources for local teachers.",
+      "story": "Limerick schools are being encouraged to give nature and biodiversity a greater place in the classroom under a new national initiative supported locally by the Limerick Education Support Centre (ESC).\n\n'Our Dúlra Agreement' was launched in Dublin on November 12 by Minister of State for Nature, Heritage and Biodiversity Christopher O’Sullivan. Developed by the Irish Schools Sustainability Network (ISSN), the agreement invites educational bodies to take practical steps to help nature thrive within school communities by making biodiversity a priority in school management and development.\n\nNorma O’Brien, Director of Limerick ESC, said local schools are already doing wonderful work connecting young people with nature and that the centre wants to help build on those efforts. \"There is increasing demand for professional learning and support in the areas of nature, biodiversity and climate education,\" Ms O’Brien said. \"We want to support teachers and schools in building their knowledge and confidence, and in creating meaningful opportunities for children and young people to engage with the natural world around them.\"\n\nTo support teachers locally, Limerick ESC is running a free 15-minute online session titled 'Bitesize Biodiversity' every Monday at 4pm, focusing on Irish plants, birds, insects, and mammals, alongside regular free webinars in conjunction with the ISSN. Teachers can register for the sessions through the Limerick ESC website, while further resources are available via the ISSN.",
+      "localAngle": "The Limerick Education Support Centre is actively encouraging local schools to adopt the new biodiversity agreement and is providing free training sessions for teachers across the region.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Limerick schools encouraged to make more room for nature",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/limerick-schools-encouraged-to-make-more-room-for-nature/",
+      "publishedAt": "Tue, 24 Nov 2026 16:59:30 +0000",
+      "rewrittenAt": "2026-11-24T20:09:58.231Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Spotlight-Education-Centre.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:57.063Z"
+    },
+    "https://www.limerickpost.ie/?p=363899": {
+      "headline": "People's Park wins prestigious UK noise award for peaceful environment",
+      "summary": "Limerick City and County Council has won a John Connell Local Authority Award for establishing the People's Park as a statutory quiet area. The accolade was presented at the Palace of Westminster in London.",
+      "story": "Limerick City and County Council has been recognised on an international stage, taking home the prestigious John Connell Local Authority Award for 2026 at a ceremony in London.\n\nThe accolade, presented at the Palace of Westminster, acknowledges the local authority's successful efforts to establish the People's Park in the city as a statutory quiet area. The annual honours, frequently referred to as the 'Noise Oscars', celebrate achievements in improving sound environments and reducing the impact of unnecessary noise.\n\nThe council earned the recognition following a comprehensive three-year project at the park. The initiative integrated acoustic measurements, active listening exercises, and community participation to better understand and protect the local soundscape.",
+      "localAngle": "The award directly recognises environmental work carried out at the People's Park in Limerick city.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Award recognises peace and quiet at People’s Park",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/award-recognises-peace-and-quiet-at-peoples-park/",
+      "publishedAt": "Tue, 24 Nov 2026 16:30:09 +0000",
+      "rewrittenAt": "2026-11-24T20:10:42.592Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/08/Krzysztof-Piotr-Luszczki-showing-us-the-Peoples-Park-from-a-different-perspective.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:57.282Z"
+    },
+    "https://www.limerickpost.ie/?p=364124": {
+      "headline": "Man Remanded in Custody Over Attempted Murder of Teenager in Limerick City",
+      "summary": "John Bourke appeared before Limerick District Court charged with the attempted murder of a 16-year-old boy on Parnell Street. The 39-year-old made no reply to the charge and was remanded in custody until December.",
+      "story": "A 39-year-old man has appeared in court charged with the attempted murder of a 16-year-old boy in Limerick City earlier this year.\n\nJohn Bourke, of no fixed abode in Limerick, appeared before Limerick District Court on Tuesday. Detective Garda Shane Kirwan of Roxboro Road Garda Station told the court that he arrested and charged Mr Bourke, noting that the accused “made no reply” to the charge. The court heard that the offence is alleged to have taken place on June 12, 2026, at Parnell Street, contrary to Common Law.\n\nMr Bourke faces an additional charge of possessing a knife with intent to cause injury at the same location on the same date, contrary to the Firearms and Offensive Weapons Act, 1990. Sergeant Aisling O’Neill informed the court that the Director of Public Prosecutions has directed a trial on indictment.\n\nDefence solicitor Sarah Ryan told the court that her client was not seeking bail. Judge Patricia Harney remanded Mr Bourke in custody to appear again before Limerick District Court on December 1 for the presentation of a book of evidence.",
+      "localAngle": "The case involves a serious alleged incident on Parnell Street in Limerick City and was heard at Limerick District Court.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Man charged with attempted murder of boy (16) in Limerick City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/man-charged-with-attempted-murder-of-boy-16-in-limerick-city/",
+      "publishedAt": "Tue, 24 Nov 2026 16:11:38 +0000",
+      "rewrittenAt": "2026-11-24T20:10:51.907Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/02/Interiors-Limerick-Circuit-Court_07-scaled.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:57.495Z"
+    },
+    "https://www.limerickpost.ie/?p=364116": {
+      "headline": "Limerick City and County Council Passes €1.6bn Budget with Four Per Cent Commercial Rate Hike",
+      "summary": "Limerick councillors have voted through a total €1.6bn Revenue and Capital Budget for 2027, which includes a four per cent increase in commercial rates. To offset the impact on small and medium enterprises, the Small and Medium Business Support Scheme grant will rise from 17.5 to 19 per cent.",
+      "story": "Limerick City and County Council agreed its 2027 budget on Monday evening, securing a total proposed Revenue and Capital Budget of €1.6bn with cross-party support. Often dubbed \"the Mayor’s budget\" by councillors, the financial plan focuses heavily on housing, infrastructure, community services, and the implementation of the 'More for Limerick' mayoral programme.\n\nWhile the budget introduces a four per cent increase in commercial rates, local officials have moved to cushion the blow for local businesses. The Small and Medium Business Support Scheme grant percentage will increase from 17.5 per cent to 19 per cent to mitigate the rising costs. The majority of the overall funding—€587 million—is allocated to the Housing Assistance Payment Shared Services Centre operated by Limerick on behalf of local authorities nationwide, alongside €321 million for day-to-day services and €681 million in anticipated capital expenditure.\n\nMajor capital projects slated in the programme include €327 million for social and affordable housing schemes such as cost rental, as well as continued development on strategic transport links including the Foynes to Limerick Road Project and the N/M20 Cork to Limerick Project. Local Property Tax rates remained unchanged after a proposal to raise them did not secure enough support from members earlier in the autumn.\n\n“When we ask businesses and residents to contribute more, they are entitled to see what that investment delivers,\" Mayor John Moran said following the vote. Council Director General Dr Pat Daly added that the financial framework will support over 700 council services and investments across transport, the public realm, and environmental services throughout the year ahead.",
+      "localAngle": "The newly passed €1.6bn budget directly dictates local spending on housing, roads, and municipal services across Limerick for the coming year.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 3,
+      "originalTitle": "Limerick Council delivers balanced budget despite the ‘elephants in the room’",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/limerick-council-delivers-balanced-budget-despite-the-elephants-in-the-room/",
+      "publishedAt": "Tue, 24 Nov 2026 14:33:44 +0000",
+      "rewrittenAt": "2026-11-24T20:12:12.550Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/09/Cash-stock-photo-money-immo-wegmann-scaled.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:57.687Z"
+    },
+    "https://www.limerickpost.ie/?p=363887": {
+      "headline": "Thomond Community College students open time-capsule letters from their past selves",
+      "summary": "Second-year students at Thomond Community College received letters they wrote to themselves at the start of first year as part of an An Post initiative. The return mail gave pupils a chance to reflect on their personal growth and goals.",
+      "story": "Second-year students at Thomond Community College recently received a special delivery of letters written by their past selves at the beginning of first year. The return of the mail was organised as part of the An Post Letter to My Future Self initiative.\n\nPupils used the opportunity to reflect on their personal journeys, looking back at the hopes, goals, and aspirations they had set down on paper a year prior. Students reviewed how much they have grown and considered whether they managed to achieve the targets they set for themselves when they first entered the school.\n\nEvaluation data from the initiative highlighted that writing the initial letters marked the first time over 50 per cent of the participants had ever written a physical letter. An overwhelming 86 per cent of the students reported feeling a sense of happiness and nostalgia upon reading their past messages, while also acknowledging the significant personal development they experienced over the school year.",
+      "localAngle": "Second-year students at Thomond Community College in Limerick reflected on their personal growth after receiving special return-to-sender post through an An Post initiative.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Special return to sender mail day at Limerick school",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/limerick-in-photos-special-return-to-sender-mail-day-at-limerick-school/",
+      "publishedAt": "Tue, 24 Nov 2026 13:30:37 +0000",
+      "rewrittenAt": "2026-11-24T20:12:20.572Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/13d8b521-b06c-47a7-9e7f-56ddb54d75cd.jpg",
+      "imageCheckedAt": "2026-11-24T20:13:57.882Z"
+    },
+    "https://www.limerickpost.ie/?p=363880": {
+      "headline": "Pádraic Collins appointed as new Mary Immaculate College hurling manager",
+      "summary": "All-Ireland winner Pádraic 'Podge' Collins has taken over as manager of the Mary Immaculate College senior hurling team, succeeding Jamie Wall ahead of the 2026/27 Fitzgibbon Cup campaign.",
+      "story": "All-Ireland winner Pádraic ‘Podge’ Collins has been named as the new manager of the Mary Immaculate College (MIC) senior hurling team. He steps into the role to succeed Jamie Wall, who departs following a hugely successful period in charge.\n\nCollins is already well-acquainted with the Limerick-based college's hurling setup, having previously served on the management team as head coach under Wall alongside Aidan Scott and Mark Gennery. An accomplished player with Cratloe, Collins won two All-Ireland Under-21 hurling titles in 2012 and 2013, before helping Clare secure the Liam MacCarthy Cup in 2013—a standout year that also earned him a GAA-GPA All-Star Award and The Sunday Game Player of the Year accolade.\n\nLooking ahead to the upcoming 2026/27 Fitzgibbon Cup campaign, Collins expressed enthusiasm for his new responsibilities. \"Having worked under Jamie as head coach for three years, I have learned a huge amount and am ready and excited for this new opportunity,\" he said.\n\n\"With a great bunch of players involved this year, along with a new backroom team, I’m looking forward to developing the squad further and bringing them on a journey where we continue to compete successfully at the highest level.\" MIC extended its thanks to Jamie Wall for his contributions and wished Collins success as he leads the college's hurling squad into its next chapter.",
+      "localAngle": "The appointment directly impacts Mary Immaculate College, a prominent third-level institution based in Limerick, as it prepares for the upcoming Fitzgibbon Cup campaign.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Podge named new MIC hurling boss",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/podge-named-new-mic-hurling-boss/",
+      "publishedAt": "Tue, 24 Nov 2026 09:00:37 +0000",
+      "rewrittenAt": "2026-11-24T20:13:49.628Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/IMG_1773.jpeg",
+      "imageCheckedAt": "2026-11-24T20:13:58.091Z"
     }
   }
 }
