@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-24T20:05:52.186Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-24T22:59:07.520Z",
+    "totalArticles": 38
   },
   "articles": {
     "8353171": {
@@ -4720,6 +4720,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-19T14:20:31.691Z"
     },
+    "9354120": {
+      "id": "9354120",
+      "title": "Limerick mental health intervention service has attended over 1,000 incidents since its inception ",
+      "link": "https://www.limerickleader.ie/news/limerick-mental-health-intervention-service-has-attended-over-1000-incidents-since-its-inception-9354120",
+      "description": "What makes the initiative one-of-a-kind are the post-incident callbacks and follow-ups as this offers emotional support during high-risk periods for a vulnerable person",
+      "pubDate": "Tue, 24 Nov 2026 20:00:33 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/14/15/Limerick-mental-health-intervention-service-has-attended-over-1-000-incidents-since-its-inception.jpg?width=1200&auto=webp&trim=0%2C2%2C0%2C0",
+      "imageCredit": "Alan Place",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T22:58:57.288Z"
+    },
     "9354198": {
       "id": "9354198",
       "title": "PICTURES: Remembering the life of Limerick’s Lee Reeves ",
@@ -6333,6 +6345,28 @@
       "imageCredit": "CAB",
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T20:05:42.577Z"
+    },
+    "9372176": {
+      "id": "9372176",
+      "title": "Gardaí seize vehicles, cash and four Rolex watches from organised crime group",
+      "link": "https://www.limerickleader.ie/national/gardai-seize-vehicles-cash-and-four-rolex-watches-from-organised-crime-group-9372176",
+      "description": "Officers targeted what they believe is an organised crime group involved in burglaries and theft throughout the Munster region and the UK.",
+      "pubDate": "Tue, 24 Nov 2026 20:22:43 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/20/cs-16dd65a1-1427-482f-9a1a-18469942d345.png?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T22:58:57.288Z"
+    },
+    "9372183": {
+      "id": "9372183",
+      "title": "Tories or Reform could unpick Windsor Framework if they win power – Leo Varadkar",
+      "link": "https://www.limerickleader.ie/national/tories-or-reform-could-unpick-windsor-framework-if-they-win-power-leo-varadkar-9372183",
+      "description": "The former taoiseach delivered a speech at an event as part of Ireland’s presidency of the EU, discussing the EU-UK summit in Brussels last week.",
+      "pubDate": "Tue, 24 Nov 2026 20:52:59 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/20/cs-a48657cf-d3bf-4b0b-abf4-df0f649296a5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T22:58:57.288Z"
     },
     "https://www.limerickpost.ie/?p=362492": {
       "id": "https://www.limerickpost.ie/?p=362492",
@@ -10745,6 +10779,16 @@
       "author": "David Raleigh",
       "source": "limerickpost",
       "scrapedAt": "2026-11-24T20:05:42.228Z"
+    },
+    "https://www.limerickpost.ie/?p=363772": {
+      "id": "https://www.limerickpost.ie/?p=363772",
+      "title": "LIMERICK IN PHOTOS: Successful luncheon for St Gabriel’s",
+      "link": "https://www.limerickpost.ie/2026/11/24/limerick-in-photos-successful-luncheon-for-st-gabriels/",
+      "description": "THE annual fundraising luncheon for St Gabriel’s was hosted at the Savoy Hotel in Limerick City.\nThe post LIMERICK IN PHOTOS: Successful luncheon for St Gabriel’s appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 21:00:11 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T22:58:56.798Z"
     }
   },
   "rewritten": {
@@ -15930,6 +15974,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/15/18/christmas-in-Limerick.jpg?width=1200&auto=webp&trim=0%2C48%2C0%2C19",
       "rewrittenAt": "2026-11-19T14:36:06.318Z"
     },
+    "9354120": {
+      "headline": "Limerick Mental Health Service Reaches 1,000 Incidents Milestone",
+      "summary": "A Limerick mental health intervention initiative has responded to more than 1,000 incidents since it began.",
+      "story": "The unique service is distinguished by its post-incident callbacks and follow-ups, which provide emotional support to vulnerable individuals during high-risk periods.",
+      "localAngle": "This vital intervention service operates directly within Limerick to support vulnerable individuals in the community.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick mental health intervention service has attended over 1,000 incidents since its inception ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/limerick-mental-health-intervention-service-has-attended-over-1000-incidents-since-its-inception-9354120",
+      "publishedAt": "Tue, 24 Nov 2026 20:00:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/16/14/15/Limerick-mental-health-intervention-service-has-attended-over-1-000-incidents-since-its-inception.jpg?width=1200&auto=webp&trim=0%2C2%2C0%2C0",
+      "imageCredit": "Alan Place",
+      "rewrittenAt": "2026-11-24T22:59:50.817Z"
+    },
     "9354198": {
       "headline": "Limerick mourns passing of popular boxer Lee Reeves",
       "summary": "Limerick is experiencing shock and sadness following the death of well-known boxer Lee Reeves.",
@@ -17813,6 +17874,27 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/19/08/Some-of-the-vehicles-seized-during-the-searches-carried-out-by-the-Criminal-Assets-Bureau-(CAB).jpeg?width=1200&auto=webp&trim=0%2C200%2C0%2C557",
       "imageCredit": "CAB",
       "rewrittenAt": "2026-11-24T20:07:15.595Z"
+    },
+    "9372176": {
+      "skipped": true,
+      "duplicateOf": "9372150",
+      "rewrittenAt": "2026-11-24T22:59:21.941Z"
+    },
+    "9372183": {
+      "headline": "Varadkar warns Tories or Reform might unravel Windsor Framework",
+      "summary": "Former taoiseach Leo Varadkar has stated that a future Tory or Reform government could potentially unpick the Windsor Framework.",
+      "story": "Speaking at an event during Ireland’s presidency of the EU, Varadkar discussed the recent EU-UK summit in Brussels and the potential risks to the agreement if those parties win power.",
+      "localAngle": "The comments by the former taoiseach on international relations and EU-UK agreements are of national interest to readers in Limerick.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Tories or Reform could unpick Windsor Framework if they win power – Leo Varadkar",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/tories-or-reform-could-unpick-windsor-framework-if-they-win-power-leo-varadkar-9372183",
+      "publishedAt": "Tue, 24 Nov 2026 20:52:59 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/20/cs-a48657cf-d3bf-4b0b-abf4-df0f649296a5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-24T22:59:37.651Z"
     },
     "https://www.limerickpost.ie/?p=362485": {
       "skipped": true,
@@ -23779,6 +23861,22 @@
       "rewrittenAt": "2026-11-24T20:13:49.628Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/IMG_1773.jpeg",
       "imageCheckedAt": "2026-11-24T20:13:58.091Z"
+    },
+    "https://www.limerickpost.ie/?p=363772": {
+      "headline": "Savoy Hotel hosts annual fundraising luncheon in support of St Gabriel's",
+      "summary": "Supporters gathered at Limerick City's Savoy Hotel for the annual fundraising luncheon in aid of St Gabriel's. Attendees enjoyed the event, captured in a series of photographs by Brendan Gleeson.",
+      "story": "The Savoy Hotel in Limerick City provided the venue for the annual fundraising luncheon in aid of St Gabriel's, drawing a large crowd of local supporters.\n\nAmong those in attendance at the city centre hotel were Lucia Randles, Caroline Hurley, Rita Geary, and Jean Wright, who were photographed by Brendan Gleeson as part of the day's proceedings.\n\nFurther groups spotted at the annual charity gathering included Lizett Marais, Aideen Shinnors, Maria Gormes, Susan Walsh, Patsy Lyons, Morna Mullally, Marion Barnes, and Aoife Kennedy.\n\nAdditional attendees captured at the event included Jackie Fox, Sandra Egan, Mary Considine, Jackie O'Dowd, Deborah Fitzpatrick, and Catherine O'Carroll, as the community turned out to support the local cause.",
+      "localAngle": "The annual fundraising event took place at the Savoy Hotel in Limerick City in aid of St Gabriel's.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Successful luncheon for St Gabriel’s",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/limerick-in-photos-successful-luncheon-for-st-gabriels/",
+      "publishedAt": "Tue, 24 Nov 2026 21:00:11 +0000",
+      "rewrittenAt": "2026-11-24T22:59:31.911Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/St-Gabriels-Luncheon-at-the-Savoy-Hotel-2.jpg",
+      "imageCheckedAt": "2026-11-24T22:59:51.186Z"
     }
   }
 }
