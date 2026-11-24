@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-24T00:44:26.236Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-24T15:45:02.555Z",
+    "totalArticles": 35
   },
   "articles": {
     "8353171": {
@@ -218,18 +218,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-27T10:27:19.789Z"
     },
-    "9307480": {
-      "id": "9307480",
-      "title": "Senior hurling the big prize as south Limerick rivals do battle ",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/senior-hurling-the-big-prize-as-south-limerick-rivals-do-battle-9307480",
-      "description": "Both clubs are looking to join Garryspillane and Monaleen as multiple winners of the Michael Fox Memorial Cup",
-      "pubDate": "Sun, 25 Oct 2026 08:30:48 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/6/53/Premier-IHC-Murroe-Boher-v-Dromin-Athlacca-5-(1).jpeg?width=1200&auto=webp&trim=381%2C810%2C481%2C84",
-      "imageCredit": "BRENDAN GLEESON",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-25T10:25:57.930Z"
-    },
     "9307537": {
       "id": "9307537",
       "title": "Hourglass's makeup palettes that would make a perfect Christmas gift are flying off shelves ",
@@ -253,30 +241,6 @@
       "imageCredit": "Jo Malone London",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
-    },
-    "9307993": {
-      "id": "9307993",
-      "title": "Limerick Senior Hurling Championship final: All you need to know",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/limerick-senior-hurling-championship-final-all-you-need-to-know-9307993",
-      "description": "Eighty-seven days after Na Piarsaigh opened their Whitebox Senior Hurling Championship defence with a defeat to Kilmallock, the pair renew their rivalry at the TUS Gaelic Grounds",
-      "pubDate": "Sun, 25 Oct 2026 10:00:50 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/22/47/Na-Piarsaigh-v-Kilmallock-in-the-Limerick-SHC-2-(1).jpeg?width=1200&auto=webp&trim=100%2C0%2C100%2C0",
-      "imageCredit": "BRENDAN GLEESON",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-25T10:25:57.929Z"
-    },
-    "9307998": {
-      "id": "9307998",
-      "title": "Brothers in arms: The family links in the Limerick hurling final",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/brothers-in-arms-the-family-links-in-the-limerick-hurling-final-9307998",
-      "description": "Come Sunday night, there will be plenty of happy households in either the north side of the city or the south end of the county. But for some families, it will be extra special",
-      "pubDate": "Sun, 25 Oct 2026 09:28:47 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/22/53/3590480.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-25T10:25:57.930Z"
     },
     "9308246": {
       "id": "9308246",
@@ -973,6 +937,18 @@
       "imageCredit": "3rd Party Image",
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T18:55:30.935Z"
+    },
+    "9318362": {
+      "id": "9318362",
+      "title": "This luxury weekend bag looks a million dollars – and it’s £112 cheaper for Black Friday ",
+      "link": "https://www.limerickleader.ie/recommended/carl-friedrik-black-friday-carl-friedrik-black-friday-2026-hackett-london-black-friday-carl-friedrik-x-hackett-london-carl-friedrik-30-off-compact-weekender-review-9370529",
+      "description": "With its gorgeous dark olive and chestnut colour combination, premium detailing and clever design, the Carl Friedrik x Hackett London Compact Weekender certainly looks the part. But is it worth snapping up with 30% off for Black Friday?",
+      "pubDate": "Tue, 24 Nov 2026 11:47:50 GMT",
+      "author": "Julie Bayley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/16/49/Luxury-Duffel-on-Marble-Steps.png?width=1200&auto=webp&trim=0%2C184%2C0%2C183",
+      "imageCredit": "Carl Friedrik x Hackett London",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
     "9318476": {
       "id": "9318476",
@@ -5289,6 +5265,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
     },
+    "9359480": {
+      "id": "9359480",
+      "title": "Viofo T330 3CH review: Features, footage and my honest verdict",
+      "link": "https://www.limerickleader.ie/recommended/viofo-dashcam-cameras-motoring-security-review-9370825",
+      "description": "With 4K front recording and separate rear and infrared cabin cameras, the Viofo T330 3CH offers comprehensive coverage. But its £399.95 price is only the starting point",
+      "pubDate": "Tue, 24 Nov 2026 12:47:13 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/34/T330-3CH-(3).jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Viofo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
     "9359576": {
       "id": "9359576",
       "title": "Four Munster Rugby players to start for Ireland U20s against Scotland",
@@ -5777,6 +5765,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-21T13:24:51.301Z"
     },
+    "9364253": {
+      "id": "9364253",
+      "title": "‘I was so stunned’ - Limerick retail manager (31) on shocking homophobic abuse ",
+      "link": "https://www.limerickleader.ie/news/i-was-so-stunned-limerick-retail-manager-31-on-shocking-homophobic-abuse-9364253",
+      "description": "Limerick retail manager (31) verbally and physically abused at work and in public because of his sexuality",
+      "pubDate": "Tue, 24 Nov 2026 12:56:27 GMT",
+      "author": "Rachel Kavanagh",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/14/42/Untitled-Design-2026-11-20T145011-779.png?width=1200&auto=webp&trim=0%2C157%2C0%2C98",
+      "imageCredit": "Supplied images",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
     "9364382": {
       "id": "9364382",
       "title": "Irish TDs hail ‘significant step forward’ in EU-UK relationship as deal agreed",
@@ -5822,6 +5822,18 @@
       "imageCredit": "Adrian Butler",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T21:00:24.221Z"
+    },
+    "9364467": {
+      "id": "9364467",
+      "title": "I tried the coffee machine that swaps wasteful pods for compostable balls",
+      "link": "https://www.limerickleader.ie/recommended/coffeeb-cosmos-coffee-review-compostable-pods-9371346",
+      "description": "Delicious coffee, compostable balls and a satisfying mechanical action make the CoffeeB Cosmos an appealing alternative to a conventional pod machine",
+      "pubDate": "Tue, 24 Nov 2026 15:00:16 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/35/TTP08416.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "CoffeeB",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
     "9364599": {
       "id": "9364599",
@@ -5997,6 +6009,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T21:10:44.671Z"
     },
+    "9367395": {
+      "id": "9367395",
+      "title": "Limerick teenager crowned World Youth Entrepreneurship champion",
+      "link": "https://www.limerickleader.ie/news/education/limerick-teenager-crowned-world-youth-entrepreneurship-champion-9367395",
+      "description": "17-year-old Sophie Keane from Newcastle West takes top international prize with innovative business Bed Bug Bait Box",
+      "pubDate": "Tue, 24 Nov 2026 10:00:08 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/10/42/5ebf79bb-482b-4297-8fe5-864d7f15b1a1.jpeg?width=1200&auto=webp&trim=251%2C0%2C553%2C6",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
     "9367493": {
       "id": "9367493",
       "title": "Exciting primary schools finals take place at TUS Gaelic Grounds",
@@ -6089,6 +6113,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.126Z"
     },
+    "9368729": {
+      "id": "9368729",
+      "title": "Limerick broadcaster hosts Cliona’s Foundation Christmas Gala fundraiser",
+      "link": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/limerick-broadcaster-hosts-clionas-foundation-christmas-gala-fundraiser-9368729",
+      "description": "The event was sponsored by Metis Ireland for the third year in a row, with all profits going towards helping the families supported by Cliona’s Foundation",
+      "pubDate": "Tue, 24 Nov 2026 14:00:50 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/33/Muireann-OConnell-Aoife-O-Reilly-MD-of-Metis-Ireland-Carl-Widger-Terry-Ring-Brendan-Ring.jpg?width=1200&auto=webp&trim=0%2C10%2C0%2C0",
+      "imageCredit": "Aidan Oliver",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
     "9368865": {
       "id": "9368865",
       "title": "Two men arrested in connection with fire that killed five in Waterford",
@@ -6112,35 +6148,110 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T21:10:44.671Z"
     },
-    "https://www.limerickpost.ie/?p=362395": {
-      "id": "https://www.limerickpost.ie/?p=362395",
-      "title": "From BBC Proms to the ICO: Yeol Eum Son brings Mozart to UCH",
-      "link": "https://www.limerickpost.ie/2026/10/25/from-bbc-proms-to-the-ico-yeol-eum-son-brings-mozart-to-uch/",
-      "description": "ACCLAIMED South Korean pianist Yeol Eum Son will perform at University Concert Hall on Friday November 20 as part of a three-date Irish tour with the Irish Chamber Orchestra (ICO). The concert, titled Mozart Illuminated, begins at 7.30pm. Tickets from www.irishchamberorchestra.com Son, whose recent appearances include a sold-out BBC Proms performance of Gershwin’s Piano Concerto [&#8230;]\nThe post From BBC Proms to the ICO: Yeol Eum Son brings Mozart to UCH appeared first on Limerick Post.",
-      "pubDate": "Sun, 25 Oct 2026 09:15:33 +0000",
-      "author": "Eric Fitzgerald",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-25T10:25:57.470Z"
+    "9369682": {
+      "id": "9369682",
+      "title": "Doon start - and finish - strong to reach Munster camogie final",
+      "link": "https://www.limerickleader.ie/sport/camogie/doon-start-and-finish-strong-to-reach-munster-camogie-final-9369682",
+      "description": "Doon raced into a 0-7 to no score lead in the first half- but needed a late flourish of scores to get reach the Mai O’Connell Munster Junior ‘A’ final",
+      "pubDate": "Tue, 24 Nov 2026 08:30:38 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/6/35/Emma-Kennedy-Doon-Camogie.jpeg?width=1200&auto=webp&trim=0%2C2%2C0%2C0",
+      "imageCredit": "MUNSTER CAMOGIE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
-    "https://www.limerickpost.ie/?p=362479": {
-      "id": "https://www.limerickpost.ie/?p=362479",
-      "title": "Film Column – Bloody Tennis",
-      "link": "https://www.limerickpost.ie/2026/10/25/film-column-bloody-tennis/",
-      "description": "BLOODY Tennis is horror&#8217;s answer to Suspiria if ballet shoes and tutus were swapped for moisture-absorbent lifestyle gear and performance trainers. Directed by Nikias Chryssos, the film opens with American girl Sophie (Sandra Guldberg) arriving at an elite tennis academy somewhere in Southern Europe. It&#8217;s here the Suspiria comparisons end as we quickly find ourselves [&#8230;]\nThe post Film Column &#8211; Bloody Tennis appeared first on Limerick Post.",
-      "pubDate": "Sun, 25 Oct 2026 09:00:02 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-25T10:25:57.471Z"
+    "9369949": {
+      "id": "9369949",
+      "title": "Ryanair introduces major change for passengers who do not pay to reserve a seat",
+      "link": "https://www.limerickleader.ie/national/ryanair-introduces-major-change-for-passengers-who-do-not-pay-to-reserve-a-seat-9369949",
+      "description": "Ryanair has defended its decision to change how and when passengers are allocated a seat ahead of their flight",
+      "pubDate": "Tue, 24 Nov 2026 10:15:02 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/9/54/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-24T093819-483.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
-    "https://limerickvoice.com/?p=53161": {
-      "id": "https://limerickvoice.com/?p=53161",
-      "title": "Treaty United Women bring club chapter to a close in season finale",
-      "link": "https://limerickvoice.com/sport/treaty-united-women-bring-club-chapter-to-a-close-in-season-finale/",
-      "description": "Treaty Women play final game of the season before Limerick FC return. TREATY United Women led DLR Waves 3-0 at half-time in their final game under the Treaty United name, with Katie Lawlee and Caroline Penner putting the hosts in control.  The fixture was moved from the Markets Field to the all-weather pitch at Aisling [&#8230;]\nThe post Treaty United Women bring club chapter to a close in season finale appeared first on .",
-      "pubDate": "Sun, 25 Oct 2026 08:00:50 +0000",
-      "author": "Emma Dineen",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-25T10:26:00.368Z"
+    "9370326": {
+      "id": "9370326",
+      "title": "Gardai to retain court prosecution role, says Department of Justice",
+      "link": "https://www.limerickleader.ie/national/gardai-to-retain-court-prosecution-role-says-department-of-justice-9370326",
+      "description": "Garda Commissioner Justin Kelly had said court presenting should not be a function of An Garda Síochána.",
+      "pubDate": "Tue, 24 Nov 2026 11:03:48 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/cs-2bbc6ee7-ec1e-44fa-a18c-1d54a0537616.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9370660": {
+      "id": "9370660",
+      "title": "Irish health watchdog warns of accidental hormone exposure risk to young children",
+      "link": "https://www.limerickleader.ie/national/irish-health-watchdog-warns-of-accidental-hormone-exposure-risk-to-young-children-9370660",
+      "description": "Accidental exposure to oestrogen sprays and gels can cause premature puberty and unexpected breast development in children",
+      "pubDate": "Tue, 24 Nov 2026 12:15:38 GMT",
+      "author": "By The Newsroom",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/12/51/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-24T120942-783.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371000": {
+      "id": "9371000",
+      "title": "UN vehicle ended up in Lebanese ‘danger area’, soldier’s inquest hears",
+      "link": "https://www.limerickleader.ie/national/un-vehicle-ended-up-in-lebanese-danger-area-soldiers-inquest-hears-9371000",
+      "description": "Private Sean Rooney was in the second Toyota Land Cruiser in a two-vehicle convoy heading to Beirut Airport.",
+      "pubDate": "Tue, 24 Nov 2026 13:33:31 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/13/cs-f8048533-6038-476b-9265-cc90e2397906.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371204": {
+      "id": "9371204",
+      "title": "Government ‘needs to come clean’ over HSE chief sacking, say opposition parties",
+      "link": "https://www.limerickleader.ie/national/government-needs-to-come-clean-over-hse-chief-sacking-say-opposition-parties-9371204",
+      "description": "Health minister Jennifer Carroll MacNeill said she agreed with the decision of the HSE board, but could not comment on the reasons behind it.",
+      "pubDate": "Tue, 24 Nov 2026 14:27:19 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/14/cs-c499eb61-59be-42d1-8f9b-d26d9bffd295.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371234": {
+      "id": "9371234",
+      "title": "‘Major win’ for Shannon Airport as new daily service is announced",
+      "link": "https://www.limerickleader.ie/news/business/major-win-for-shannon-airport-as-new-daily-service-is-announced-9371234",
+      "description": "New KLM service to Amsterdam is a ‘strong endorsement of the region's economic strength and growth potential’",
+      "pubDate": "Tue, 24 Nov 2026 14:36:47 GMT",
+      "author": "David Hurley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/14/40/Shannon-KLM-1.jpeg?width=1200&auto=webp&trim=0%2C1%2C23%2C0",
+      "imageCredit": "PICTURE: Arthur Ellis",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371414": {
+      "id": "9371414",
+      "title": "Condé Nast Traveller lists Limerick among best places to go in Europe for 2027",
+      "link": "https://www.limerickleader.ie/news/lifestyle/conde-nast-traveller-lists-limerick-among-best-places-to-go-in-europe-for-2027-9371414",
+      "description": "From the Albanian Alps to the Danish Riviera, Limerick is in good company on the list of  holiday destinations",
+      "pubDate": "Tue, 24 Nov 2026 15:20:18 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/18/iconic-upload-1524211962365.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
+    },
+    "9371485": {
+      "id": "9371485",
+      "title": "Limerick native propels Ireland U17s to World Cup win over Costa Rica",
+      "link": "https://www.limerickleader.ie/sport/soccer/limerick-native-propels-ireland-u17s-to-world-cup-win-over-costa-rica-9371485",
+      "description": "Ireland defeated Costa Rica 2-0 in Doha, keeping their dreams of group stage progression well and truly alive",
+      "pubDate": "Tue, 24 Nov 2026 15:27:49 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/15/37/3632400.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C100",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
     "https://www.limerickpost.ie/?p=362492": {
       "id": "https://www.limerickpost.ie/?p=362492",
@@ -10393,6 +10504,106 @@
       "author": "Zoey Tynan",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-23T21:10:45.380Z"
+    },
+    "https://www.limerickpost.ie/?p=363896": {
+      "id": "https://www.limerickpost.ie/?p=363896",
+      "title": "Super carer Fiona recognised for years of care, love, and deciation",
+      "link": "https://www.limerickpost.ie/2026/11/24/super-carer-fiona-recognised-for-years-of-care-love-and-deciation/",
+      "description": "ONE Limerick woman has been recognised for her years of care, love, and dedication. Family Carers Ireland announced Fiona Byrnes, from Pallasgreen, as the Limerick finalist in the 2026 Lidl Family Carer of the Year awards. Fiona cares for her son, Sean, who has spina bifida and uses a wheelchair, and her husband John, who [&#8230;]\nThe post Super carer Fiona recognised for years of care, love, and deciation appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 15:00:10 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.006Z"
+    },
+    "https://www.limerickpost.ie/?p=364121": {
+      "id": "https://www.limerickpost.ie/?p=364121",
+      "title": "KLM Royal treatment available for the first time from Shannon on new Amsterdam route",
+      "link": "https://www.limerickpost.ie/2026/11/24/klm-royal-treatment-available-for-the-first-time-from-shannon-on-new-amsterdam-route/",
+      "description": "SHANNON airport has announced that for the first time, KLM Royal Dutch Airlines will fly from Shannon, starting with a new daily service between Shannon and Amsterdam, starting on March 28. The new route will give customers from the West of Ireland the opportunity to explore the Netherlands or connect to one of the 160 [&#8230;]\nThe post KLM Royal treatment available for the first time from Shannon on new Amsterdam route appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 14:50:18 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=364116": {
+      "id": "https://www.limerickpost.ie/?p=364116",
+      "title": "Limerick Council delivers balanced budget despite the ‘elephants in the room’",
+      "link": "https://www.limerickpost.ie/2026/11/24/limerick-council-delivers-balanced-budget-despite-the-elephants-in-the-room/",
+      "description": "LIMERICK City and County Council this week agreed its 2027 budget, which sees an increase in commercial rates of four per cent. Deemed by councillors as &#8220;the Mayor&#8217;s budget&#8221;, a total proposed 2027 Revenue and Capital Budget of €1.6bn was passed on Monday evening by elected members from across the political divide. The focus for [&#8230;]\nThe post Limerick Council delivers balanced budget despite the &#8216;elephants in the room&#8217; appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 14:33:44 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=364110": {
+      "id": "https://www.limerickpost.ie/?p=364110",
+      "title": "Green light for new library at Mary Immaculate College",
+      "link": "https://www.limerickpost.ie/2026/11/24/green-light-for-new-library-at-mary-immaculate-college/",
+      "description": "MARY Immaculate College (MIC) welcomed approval to begin construction of its new library and learning resource centre at the heart of the Limerick campus, marking a major milestone in delivering this transformative project. Welcoming the announcement, Minister for Further and Higher Education, Research, Innovation, and Science, James Lawless TD, said: &#8220;The new facility will become [&#8230;]\nThe post Green light for new library at Mary Immaculate College appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 14:15:24 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=363887": {
+      "id": "https://www.limerickpost.ie/?p=363887",
+      "title": "LIMERICK IN PHOTOS: Special return to sender mail day at Limerick school",
+      "link": "https://www.limerickpost.ie/2026/11/24/limerick-in-photos-special-return-to-sender-mail-day-at-limerick-school/",
+      "description": "SECOND-year students at Thomond Community College recently received some very special post as part of the An Post Letter to My Future Self initiative. At the beginning of first year, students were invited to write letters to themselves, outlining their hopes, goals and aspirations for the future. Now, those letters were returned to the school, [&#8230;]\nThe post LIMERICK IN PHOTOS: Special return to sender mail day at Limerick school appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 13:30:37 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=364102": {
+      "id": "https://www.limerickpost.ie/?p=364102",
+      "title": "Prosecution evidence concluded in Scarlett Faulkner murder trial",
+      "link": "https://www.limerickpost.ie/2026/11/24/prosecution-evidence-concluded-in-scarlett-faulkner-murder-trial/",
+      "description": "EVIDENCE for the prosecution in the Scarlett Faulkner murder trial has concluded today (Tuesday, November 24) at the Central Criminal Court in Dublin. Ms Faulkner, with an address at Longpavement in Limerick, died on April 13 after an incident in Birdhill, County Tipperary, on March 21. A 17-year-old girl, who cannot be identified because she [&#8230;]\nThe post Prosecution evidence concluded in Scarlett Faulkner murder trial appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 13:00:49 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=364091": {
+      "id": "https://www.limerickpost.ie/?p=364091",
+      "title": "Former Post journalist to have his book adapted for new Spielberg film",
+      "link": "https://www.limerickpost.ie/2026/11/24/former-post-journalist-to-have-his-book-adapted-for-new-spielberg-film/",
+      "description": "FORMER Limerick Post journalist and acclaimed author, Kevin Barry, is to have one of his books given the Steven Spielberg treatment in a new film adaptation. Spielberg will direct an adaptation of Barry’s 2024 novel The Heart in Winter, scripted by multiple Oscar winner Paul Thomas Anderson. According to entertainment industry publication Deadline, the film [&#8230;]\nThe post Former Post journalist to have his book adapted for new Spielberg film appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 12:07:36 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=363885": {
+      "id": "https://www.limerickpost.ie/?p=363885",
+      "title": "T’is the season for Milk Market Christmas delights",
+      "link": "https://www.limerickpost.ie/2026/11/24/tis-the-season-for-milk-market-christmas-delights/",
+      "description": "T&#8217;IS the season to be shopping and the Limerick Milk Market has plenty of festive cheer in store from Saturday November 28 to Christmas Eve. A packed programme is promised of Christmas markets, Santa and his Elves, community events, live music, art, family entertainment, and seasonal experiences. From the Christmas opening weekend and Santa Paws [&#8230;]\nThe post T&#8217;is the season for Milk Market Christmas delights appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 12:00:11 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=363882": {
+      "id": "https://www.limerickpost.ie/?p=363882",
+      "title": "No bail for man accused of stealing toys on Christmas Day",
+      "link": "https://www.limerickpost.ie/2026/11/24/no-bail-for-man-accused-of-stealing-toys-on-christmas-day/",
+      "description": "A MAN, who it is alleged stole children&#8217;s toys on Christmas Day and allegedly robbed tips earned by hairdressing staff, was refused bail pending any trial or hearing in light of Garda objections. Judge Patricia Harney was hearing a bail application on behalf of Joseph Sheehan (37), of 40 Flood Street, Limerick, who stands accused [&#8230;]\nThe post No bail for man accused of stealing toys on Christmas Day appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 10:30:11 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
+    },
+    "https://www.limerickpost.ie/?p=363880": {
+      "id": "https://www.limerickpost.ie/?p=363880",
+      "title": "Podge named new MIC hurling boss",
+      "link": "https://www.limerickpost.ie/2026/11/24/podge-named-new-mic-hurling-boss/",
+      "description": "ALL-IRELAND winner Pádraic &#8216;Podge&#8217; Collins was named manager of Mary Immaculate College (MIC) senior hurling team. He succeeds Jamie Wall, who steps down following a hugely successful period in charge. A member of Clare&#8217;s 2013 All-Ireland Senior Hurling Championship-winning team, Podge is no stranger to the MIC set-up, having served on the college&#8217;s management team [&#8230;]\nThe post Podge named new MIC hurling boss appeared first on Limerick Post.",
+      "pubDate": "Tue, 24 Nov 2026 09:00:37 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-24T15:44:53.007Z"
     }
   },
   "rewritten": {
@@ -10663,22 +10874,6 @@
       "imageCredit": "PICTURE: ALAN PLACE",
       "rewrittenAt": "2026-10-27T10:28:41.467Z"
     },
-    "9307480": {
-      "headline": "South Limerick Rivals Clash for Michael Fox Memorial Cup and Senior Status",
-      "summary": "Two south Limerick clubs go head-to-head in the senior hurling final, both aiming to claim the Michael Fox Memorial Cup and join Garryspillane and Monaleen as multiple winners.",
-      "story": "The stage is set for a high-stakes hurling showdown in south Limerick this Sunday, as two fierce local rivals prepare to battle it out for the Michael Fox Memorial Cup.\n\nBoth clubs enter the fixture with their sights firmly fixed on the ultimate prize in the divisional competition. Victory would see either side cement their status alongside recent multiple winners Garryspillane and Monaleen in the tournament's roll of honour.\n\nWith local pride and championship silverware on the line, throw-in is expected to draw a significant crowd of supporters from across the region to witness the latest chapter in this intense south Limerick rivalry.",
-      "localAngle": "The match highlights the fierce local sporting rivalries and deep-rooted community passion for the GAA across south Limerick.",
-      "originalTitle": "Senior hurling the big prize as south Limerick rivals do battle ",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/sport/gaa/hurling/senior-hurling-the-big-prize-as-south-limerick-rivals-do-battle-9307480",
-      "publishedAt": "Sun, 25 Oct 2026 08:30:48 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/6/53/Premier-IHC-Murroe-Boher-v-Dromin-Athlacca-5-(1).jpeg?width=1200&auto=webp&trim=381%2C810%2C481%2C84",
-      "imageCredit": "BRENDAN GLEESON",
-      "rewrittenAt": "2026-10-25T10:26:56.773Z",
-      "section": "Sport",
-      "importance": 4,
-      "positivity": 4
-    },
     "9307537": {
       "headline": "Hourglass Launches 2026 Ambient Lighting Edit Unlocked Collection with Lauren Rubinski",
       "summary": "Hourglass has released its limited-edition 2026 Ambient Lighting Edit Unlocked collection in collaboration with jewellery designer Lauren Rubinski.",
@@ -10712,27 +10907,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/10/25/Jo-Malone-Pine-Eucalyptus-Holiday-Still-Life.png?width=1200&auto=webp&trim=0%2C183%2C0%2C183",
       "imageCredit": "Jo Malone London",
       "rewrittenAt": "2026-11-09T19:46:07.394Z"
-    },
-    "9307993": {
-      "skipped": true,
-      "duplicateOf": "9297190",
-      "rewrittenAt": "2026-10-25T10:26:23.607Z"
-    },
-    "9307998": {
-      "headline": "Family ties and sibling rivalries take centre stage in Limerick hurling final",
-      "summary": "Families across Limerick are facing divided loyalties as brothers and relatives prepare to face off on opposing sides in the county hurling final this Sunday.",
-      "story": "The build-up to this Sunday's Limerick hurling final brings an extra layer of personal drama for several local families, with brothers and close relatives set to line out on opposite sides of the pitch. \n\nWhile the showdown will ultimately crown a champion from either the north side of the city or the south end of the county, the encounter carries profound personal significance for the households whose members find themselves on opposing teams.\n\nCome Sunday night, celebrations are guaranteed for one side of the divide, but the fixture ensures a unique family dynamic as relatives compete directly against each other for the silverware.",
-      "localAngle": "The match pits communities from the north side of Limerick city against the south end of the county in a high-stakes local hurling showdown.",
-      "originalTitle": "Brothers in arms: The family links in the Limerick hurling final",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/sport/gaa/hurling/brothers-in-arms-the-family-links-in-the-limerick-hurling-final-9307998",
-      "publishedAt": "Sun, 25 Oct 2026 09:28:47 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/24/22/53/3590480.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "SPORTSFILE",
-      "rewrittenAt": "2026-10-25T10:26:29.954Z",
-      "section": "Sport",
-      "importance": 4,
-      "positivity": 4
     },
     "9308246": {
       "skipped": true,
@@ -11374,6 +11548,23 @@
       "skipped": true,
       "duplicateOf": "9315666",
       "rewrittenAt": "2026-10-31T20:30:28.613Z"
+    },
+    "9318362": {
+      "headline": "Carl Friedrik x Hackett London Weekender features Black Friday discount",
+      "summary": "The Carl Friedrik x Hackett London Compact Weekender is currently available with a 30% Black Friday discount.",
+      "story": "The luxury weekend bag features a dark olive and chestnut colour combination, premium detailing, and clever design. A review questions whether the item is worth purchasing at the reduced price.",
+      "localAngle": "This retail deal is being highlighted for local shoppers looking for Black Friday discounts.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "This luxury weekend bag looks a million dollars – and it’s £112 cheaper for Black Friday ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/carl-friedrik-black-friday-carl-friedrik-black-friday-2026-hackett-london-black-friday-carl-friedrik-x-hackett-london-carl-friedrik-30-off-compact-weekender-review-9370529",
+      "publishedAt": "Tue, 24 Nov 2026 11:47:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/30/16/49/Luxury-Duffel-on-Marble-Steps.png?width=1200&auto=webp&trim=0%2C184%2C0%2C183",
+      "imageCredit": "Carl Friedrik x Hackett London",
+      "rewrittenAt": "2026-11-24T16:12:46.988Z"
     },
     "9318476": {
       "skipped": true,
@@ -16250,6 +16441,23 @@
       "imageCredit": "Gareth Butterfield/Boxt",
       "rewrittenAt": "2026-11-20T14:03:22.816Z"
     },
+    "9359480": {
+      "headline": "Review of Viofo T330 3CH dash cam examines features and costs",
+      "summary": "A recent review explores the features, footage quality, and pricing of the Viofo T330 3CH dash cam system.",
+      "story": "The Viofo T330 3CH features 4K front recording alongside separate rear and infrared cabin cameras for comprehensive coverage, though the initial £399.95 price is only the starting point.",
+      "localAngle": "This product review is of general interest to motorists across the 061 region looking at vehicle security options.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Viofo T330 3CH review: Features, footage and my honest verdict",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/viofo-dashcam-cameras-motoring-security-review-9370825",
+      "publishedAt": "Tue, 24 Nov 2026 12:47:13 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/18/15/34/T330-3CH-(3).jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "Viofo",
+      "rewrittenAt": "2026-11-24T16:07:53.548Z"
+    },
     "9359576": {
       "headline": "Four Munster players selected for Ireland U20s to face Scotland",
       "summary": "Head Coach Cullie Tucker has named four Munster Rugby players in the starting XV to face Scotland U20s this Friday.",
@@ -16776,6 +16984,23 @@
       "imageCredit": "File photo",
       "rewrittenAt": "2026-11-21T13:26:45.298Z"
     },
+    "9364253": {
+      "headline": "Limerick Retail Manager Faces Homophobic Abuse at Work and in Public",
+      "summary": "A 31-year-old Limerick retail manager was verbally and physically abused because of his sexuality.",
+      "story": "The 31-year-old retail manager was subjected to both verbal and physical abuse in public and at his workplace due to his sexuality.",
+      "localAngle": "The incident directly impacts a local worker within the Limerick retail community.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘I was so stunned’ - Limerick retail manager (31) on shocking homophobic abuse ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/i-was-so-stunned-limerick-retail-manager-31-on-shocking-homophobic-abuse-9364253",
+      "publishedAt": "Tue, 24 Nov 2026 12:56:27 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/14/42/Untitled-Design-2026-11-20T145011-779.png?width=1200&auto=webp&trim=0%2C157%2C0%2C98",
+      "imageCredit": "Supplied images",
+      "rewrittenAt": "2026-11-24T16:07:15.939Z"
+    },
     "9364382": {
       "headline": "Irish TDs Welcome EU-UK Agreement Finalised in Brussels",
       "summary": "Irish TDs have praised a new EU-UK deal covering food exports, emissions trading, and a youth scheme agreed by Andy Burnham in Brussels.",
@@ -16818,6 +17043,23 @@
       "skipped": true,
       "duplicateOf": "https://limerickvoice.com/?p=53875",
       "rewrittenAt": "2026-11-20T21:01:02.831Z"
+    },
+    "9364467": {
+      "headline": "Review: CoffeeB Cosmos pod-free machine uses compostable balls",
+      "summary": "A reviewer tests the CoffeeB Cosmos, a coffee machine that replaces wasteful pods with compostable balls and a satisfying mechanical action.",
+      "story": "The review highlights that the CoffeeB Cosmos offers delicious coffee and an appealing alternative to conventional pod machines through its use of compostable balls and a satisfying mechanical action.",
+      "localAngle": "The review was published by the Limerick Leader, covering a product available to consumers.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "I tried the coffee machine that swaps wasteful pods for compostable balls",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/coffeeb-cosmos-coffee-review-compostable-pods-9371346",
+      "publishedAt": "Tue, 24 Nov 2026 15:00:16 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/20/15/35/TTP08416.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "CoffeeB",
+      "rewrittenAt": "2026-11-24T15:47:54.855Z"
     },
     "9364599": {
       "headline": "Limerick mother shares daughter’s story for Down Syndrome Ireland Jumper Day",
@@ -17143,6 +17385,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/14/cs-b632d560-16f7-46fe-986c-0e84f38ae519.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-23T16:10:28.697Z"
     },
+    "9368729": {
+      "headline": "Limerick Broadcaster Leads Annual Cliona's Foundation Christmas Gala",
+      "summary": "A Limerick broadcaster hosted the Cliona's Foundation Christmas Gala fundraiser, which was sponsored for the third consecutive year by Metis Ireland to benefit families supported by the charity.",
+      "story": "All profits from the event, sponsored by Metis Ireland for the third year running, will go toward helping the families supported by Cliona’s Foundation. Read the full story on the Limerick Leader.",
+      "localAngle": "The event was hosted by a Limerick broadcaster and supports families in the region through Cliona's Foundation.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick broadcaster hosts Cliona’s Foundation Christmas Gala fundraiser",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/limerick-broadcaster-hosts-clionas-foundation-christmas-gala-fundraiser-9368729",
+      "publishedAt": "Tue, 24 Nov 2026 14:00:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/33/Muireann-OConnell-Aoife-O-Reilly-MD-of-Metis-Ireland-Carl-Widger-Terry-Ring-Brendan-Ring.jpg?width=1200&auto=webp&trim=0%2C10%2C0%2C0",
+      "imageCredit": "Aidan Oliver",
+      "rewrittenAt": "2026-11-24T15:59:12.415Z"
+    },
     "9368865": {
       "headline": "Waterford Fire Investigation Leads to Two Arrests Following Five Deaths",
       "summary": "Two men have been arrested following an October fire in Waterford that resulted in the deaths of Kim and Phillip English and their sons, Callum and Jayden.",
@@ -17176,42 +17435,115 @@
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-23T21:19:59.253Z"
     },
-    "https://limerickvoice.com/?p=53161": {
+    "9369949": {
+      "headline": "Ryanair Defends New Seating Policy For Unreserved Passengers",
+      "summary": "Ryanair has defended its decision to alter how and when passengers are allocated seats before their flights if they do not pay to reserve them.",
+      "story": "The airline has defended its choice to modify the system for allocating seats to passengers who choose not to pay for a reservation ahead of travel.",
+      "localAngle": "Limerick travelers flying with Ryanair will be affected by this updated seating allocation process.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Ryanair introduces major change for passengers who do not pay to reserve a seat",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/ryanair-introduces-major-change-for-passengers-who-do-not-pay-to-reserve-a-seat-9369949",
+      "publishedAt": "Tue, 24 Nov 2026 10:15:02 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/9/54/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-24T093819-483.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "File Photo",
+      "rewrittenAt": "2026-11-24T16:13:44.335Z"
+    },
+    "9370326": {
+      "headline": "Department of Justice Confirms Gardai Will Keep Court Prosecution Role",
+      "summary": "The Department of Justice has stated that An Garda Síochána will retain its court prosecution role despite comments from the Garda Commissioner.",
+      "story": "The Department of Justice has stated that An Garda Síochána will retain its court prosecution role, following remarks by Garda Commissioner Justin Kelly that court presenting should not be a function of the force.",
+      "localAngle": "This national policing policy decision directly impacts how court prosecutions are handled by gardai across Limerick and the rest of the country.",
+      "section": "Courts",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Gardai to retain court prosecution role, says Department of Justice",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gardai-to-retain-court-prosecution-role-says-department-of-justice-9370326",
+      "publishedAt": "Tue, 24 Nov 2026 11:03:48 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/cs-2bbc6ee7-ec1e-44fa-a18c-1d54a0537616.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-24T16:12:56.739Z"
+    },
+    "9370660": {
+      "headline": "Health Watchdog Warns of Accidental Hormone Exposure Risks in Young Children",
+      "summary": "The Irish health watchdog has warned that accidental exposure to oestrogen sprays and gels can cause premature puberty and unexpected breast development in children.",
+      "story": "The warning highlights that oestrogen sprays and gels pose a risk of accidental exposure to young children. This exposure can lead to unexpected breast development and premature puberty.",
+      "localAngle": "This public health warning applies to families in Limerick and across Ireland regarding the safe use and handling of oestrogen treatments.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Irish health watchdog warns of accidental hormone exposure risk to young children",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/irish-health-watchdog-warns-of-accidental-hormone-exposure-risk-to-young-children-9370660",
+      "publishedAt": "Tue, 24 Nov 2026 12:15:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/12/51/NATIONAL-NEWS-BANNER-TEMPLATE-2026-11-24T120942-783.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Stock",
+      "rewrittenAt": "2026-11-24T16:09:57.117Z"
+    },
+    "9371000": {
+      "headline": "Inquest Hears Details on Private Sean Rooney's Convoy",
+      "summary": "An inquest has heard that Private Sean Rooney was travelling in the second vehicle of a two-vehicle UN convoy heading to Beirut Airport when it entered a Lebanese danger area.",
+      "story": "The inquest into the death of Private Sean Rooney heard that the UN vehicle ended up in a Lebanese danger area while travelling in a two-vehicle convoy to Beirut Airport.",
+      "localAngle": "The inquest details are of significant interest to readers in Limerick following the national reporting of the soldier's service.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "UN vehicle ended up in Lebanese ‘danger area’, soldier’s inquest hears",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/un-vehicle-ended-up-in-lebanese-danger-area-soldiers-inquest-hears-9371000",
+      "publishedAt": "Tue, 24 Nov 2026 13:33:31 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/13/cs-f8048533-6038-476b-9265-cc90e2397906.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-24T15:59:20.079Z"
+    },
+    "9371204": {
       "skipped": true,
-      "duplicateOf": "9300204",
-      "rewrittenAt": "2026-10-25T10:26:23.607Z"
+      "duplicateOf": "9368160",
+      "rewrittenAt": "2026-11-24T15:47:21.855Z"
     },
-    "https://www.limerickpost.ie/?p=362395": {
-      "headline": "Internationally Acclaimed Pianist Yeol Eum Son to Perform Mozart at UCH",
-      "summary": "South Korean pianist Yeol Eum Son will perform with the Irish Chamber Orchestra at the University Concert Hall on Friday, November 20. The 'Mozart Illuminated' concert begins at 7.30pm as part of a three-date Irish tour.",
-      "story": "Music fans across the 061 are in for a treat next month as renowned South Korean pianist Yeol Eum Son brings her upcoming Irish tour to the University Concert Hall (UCH). \n\nTaking place on Friday, November 20 at 7.30pm, the concert is titled 'Mozart Illuminated' and will feature Son performing as both soloist and director alongside the Irish Chamber Orchestra (ICO). The Limerick performance is part of a three-date national tour that also visits Dublin and Cork.\n\nLimerick audiences will see Son perform Mozart’s much-loved \"Elvira Madigan\" concerto (Piano Concerto No. 21) alongside the dramatic Piano Concerto No. 24 in C minor. The evening's programme will open with Mozart's Divertimento in D major, directed by ICO guest leader Hed Yaron Meyerson.\n\nSon is widely recognised for her international performing career, including a recent sold-out BBC Proms performance at the Royal Albert Hall. Her famous 2011 performance of Mozart’s Piano Concerto No. 21 has garnered over 32 million online views. Tickets for the Limerick concert are available directly from the Irish Chamber Orchestra website.",
-      "localAngle": "The concert brings a world-renowned classical music performance directly to Limerick's University Concert Hall as part of an exclusive three-date Irish tour.",
-      "originalTitle": "From BBC Proms to the ICO: Yeol Eum Son brings Mozart to UCH",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/25/from-bbc-proms-to-the-ico-yeol-eum-son-brings-mozart-to-uch/",
-      "publishedAt": "Sun, 25 Oct 2026 09:15:33 +0000",
-      "rewrittenAt": "2026-10-25T10:26:39.192Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/Yeol-Eum-Son003.jpg",
-      "imageCheckedAt": "2026-10-25T10:26:57.048Z",
-      "section": "Arts & Culture",
-      "importance": 2,
-      "positivity": 4
+    "9371234": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364121",
+      "rewrittenAt": "2026-11-24T15:47:21.855Z"
     },
-    "https://www.limerickpost.ie/?p=362479": {
-      "headline": "New Horror Film 'Bloody Tennis' Fails to Score in 2/5 Review",
-      "summary": "Nikias Chryssos's new horror-thriller 'Bloody Tennis' has received a disappointing two-star review after failing to deliver on its ambitious premise. The film follows an American teen at a brutal elite tennis academy in Southern Europe.",
-      "story": "Film critics have delivered a fault to new horror-thriller 'Bloody Tennis', panning the movie as an underdeveloped and unpleasant entry into the cannibalistic horror sub-genre. Directed by Nikias Chryssos, the film opens with American student Sophie, played by Sandra Guldberg, arriving at an elite tennis academy in Southern Europe.\n\nWhile initially drawing comparisons to 'Suspiria', the film quickly shifts into 'Saw' and 'Raw' territory as Sophie navigates a twisted bootcamp for aspiring tennis stars. However, reviewers noted that the movie struggles to build momentum, offering a half-hearted body count and weak-kneed attempts at man-eating horror.\n\nCritics also pointed to surreal clay court bouts and catfighting that ultimately overlook tension, leaving audiences with a disjointed narrative and an unsatisfying grand finale. Earning a lacklustre two-star rating, the film proves that even with high stakes on the court, this particular match lacks any real love.",
-      "localAngle": "Local film enthusiasts looking for their next cinema trip may want to skip this poorly received sports-horror crossover when it hits screens.",
-      "originalTitle": "Film Column – Bloody Tennis",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/25/film-column-bloody-tennis/",
-      "publishedAt": "Sun, 25 Oct 2026 09:00:02 +0000",
-      "rewrittenAt": "2026-10-25T10:26:48.224Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/bloody-tennis-2.webp",
-      "imageCheckedAt": "2026-10-25T10:26:57.716Z",
+    "9371414": {
+      "headline": "Condé Nast Traveller Names Limerick a Top 2027 European Destination",
+      "summary": "Limerick has been selected by Condé Nast Traveller as one of the best holiday destinations to visit in Europe for 2027.",
+      "story": "Condé Nast Traveller has listed Limerick among the top places to go in Europe for 2027, alongside destinations ranging from the Albanian Alps to the Danish Riviera. Read the full story on the Limerick Leader.",
+      "localAngle": "Limerick has been named by Condé Nast Traveller as one of the best holiday destinations in Europe for 2027.",
       "section": "Arts & Culture",
-      "importance": 1,
-      "positivity": 2
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Condé Nast Traveller lists Limerick among best places to go in Europe for 2027",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/lifestyle/conde-nast-traveller-lists-limerick-among-best-places-to-go-in-europe-for-2027-9371414",
+      "publishedAt": "Tue, 24 Nov 2026 15:20:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/18/iconic-upload-1524211962365.jpg?width=1200&auto=webp&crop=3%3A2",
+      "imageCredit": "LL",
+      "rewrittenAt": "2026-11-24T15:47:36.563Z"
+    },
+    "9371485": {
+      "headline": "Limerick Player Helps Ireland U17s Beat Costa Rica in Doha",
+      "summary": "Ireland secured a 2-0 victory over Costa Rica in Doha to keep their group stage hopes alive.",
+      "story": "A Limerick native played a key role in propelling the Ireland U17s to a 2-0 win against Costa Rica in Doha, keeping their dreams of group stage progression alive.",
+      "localAngle": "The match-winning performance came from a Limerick native playing for the national team.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick native propels Ireland U17s to World Cup win over Costa Rica",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/soccer/limerick-native-propels-ireland-u17s-to-world-cup-win-over-costa-rica-9371485",
+      "publishedAt": "Tue, 24 Nov 2026 15:27:49 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/15/37/3632400.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C100",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-24T15:47:27.574Z"
     },
     "https://www.limerickpost.ie/?p=362485": {
       "skipped": true,
@@ -22933,6 +23265,118 @@
       "rewrittenAt": "2026-11-24T00:44:40.732Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Step-into-Summer-with-healthy-feet.jpg",
       "imageCheckedAt": "2026-11-24T00:44:49.129Z"
+    },
+    "https://www.limerickpost.ie/?p=363896": {
+      "headline": "Pallasgreen carer Fiona Byrnes named Limerick finalist in national awards",
+      "summary": "Family Carers Ireland has announced Pallasgreen native Fiona Byrnes as the Limerick finalist in the 2026 Lidl Family Carer of the Year awards. She was recognised for providing round-the-clock care to her husband and son.",
+      "story": "A Pallasgreen woman has been named the Limerick finalist in the 2026 Lidl Family Carer of the Year awards by Family Carers Ireland.\n\nFiona Byrnes provides care for her son, Sean, who has spina bifida and uses a wheelchair, alongside her husband, John, who lives with a blood disorder. Sean described his mother as the anchor of the family, offering vital practical care, emotional support, and reassurance through daily challenges. Alongside her care work, she has served as his primary advocate in securing necessary services, support, and opportunities for an independent life.\n\nThe overall winners of this year’s Family Carer of the Year awards will be announced at a ceremony taking place on November 26.",
+      "localAngle": "Fiona Byrnes from Pallasgreen has been selected to represent County Limerick at the national Family Carer of the Year awards.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Super carer Fiona recognised for years of care, love, and deciation",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/super-carer-fiona-recognised-for-years-of-care-love-and-deciation/",
+      "publishedAt": "Tue, 24 Nov 2026 15:00:10 +0000",
+      "rewrittenAt": "2026-11-24T15:48:01.328Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Super-carer.jpg",
+      "imageCheckedAt": "2026-11-24T16:13:44.691Z"
+    },
+    "https://www.limerickpost.ie/?p=364121": {
+      "headline": "KLM launches first-ever direct daily Shannon to Amsterdam service starting March 28",
+      "summary": "KLM Royal Dutch Airlines will operate its first-ever flights from Shannon Airport next spring, offering a new daily service to Amsterdam from March 28. The route connects local travellers to 160 global destinations via Amsterdam Airport Schiphol.",
+      "story": "Shannon Airport has announced that KLM Royal Dutch Airlines will operate flights from the airport for the first time, beginning with a new daily service to Amsterdam on March 28. The route will be operated by KLM Cityhopper using Embraer E175 and E190 aircraft, with flight times varying by day and season alongside an adjusted schedule for the peak summer months.\n\nThe new connection gives passengers across the region direct access to the Netherlands and onward travel to 160 worldwide destinations through Amsterdam Airport Schiphol. Travellers can connect to key European cities including Brussels, Copenhagen, Geneva, Milan, Munich, Oslo, Prague, and Stockholm, as well as long-haul routes to North America, Africa, and Asia.\n\nRay O’Driscoll, CEO of The Shannon Airport Group, described the new route as a major win for the region that brings the airport's total number of operating routes from 40 to 44 in 2027. Jerome Salemi, Air France-General Manager for the UK and Ireland, expressed excitement over launching Shannon as KLM's third departure point in Ireland and stated that the service aims to contribute to regional economic, touristic, and cultural development.",
+      "localAngle": "The new daily KLM service directly boosts travel connectivity for passengers across Limerick and the wider West of Ireland.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "KLM Royal treatment available for the first time from Shannon on new Amsterdam route",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/klm-royal-treatment-available-for-the-first-time-from-shannon-on-new-amsterdam-route/",
+      "publishedAt": "Tue, 24 Nov 2026 14:50:18 +0000",
+      "rewrittenAt": "2026-11-24T15:50:48.893Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Shannon-KLM-2.jpg",
+      "imageCheckedAt": "2026-11-24T16:13:45.233Z"
+    },
+    "https://www.limerickpost.ie/?p=364110": {
+      "headline": "Construction on Mary Immaculate College's new 5,000 sq m Limerick library begins January",
+      "summary": "Mary Immaculate College has received final approval to start construction on its new 5,000 square metre library and learning resource centre at its Limerick campus, with works beginning on January 4, 2027.",
+      "story": "Construction is set to begin on January 4, 2027, for a major new library and learning resource centre at Mary Immaculate College (MIC) in Limerick. The approval marks a defining milestone for the campus, bringing together digital resources, creative practices, and distinctive collections into one central facility.\n\nMinister for Further and Higher Education, Research, Innovation, and Science, James Lawless TD, welcomed the announcement, noting that the facility will serve as a modern focal point for students to study and collaborate. The approximately 5,000 square metre development will feature flexible and inclusive study spaces, early education resources, media spaces, and a new public plaza with landscaped surroundings.\n\nMIC President Professor Dermot Nestor stated that the current library was built for a much smaller college with different academic needs. The new building aims to accommodate modern research and learning demands while remaining open to local schools and the wider Mid-West community. Sustainability and inclusivity have also been made central to the design of both the building and its surrounding environment.",
+      "localAngle": "The development represents a major educational infrastructure investment directly at the heart of Mary Immaculate College's Limerick campus, serving students and the local Mid-West community.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Green light for new library at Mary Immaculate College",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/green-light-for-new-library-at-mary-immaculate-college/",
+      "publishedAt": "Tue, 24 Nov 2026 14:15:24 +0000",
+      "rewrittenAt": "2026-11-24T15:58:21.563Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/CGI-01-MIC-library.jpg",
+      "imageCheckedAt": "2026-11-24T16:13:45.477Z"
+    },
+    "https://www.limerickpost.ie/?p=364102": {
+      "headline": "Prosecution Case Rests in Trial Over Death of Limerick Woman Scarlett Faulkner",
+      "summary": "The prosecution has concluded its evidence in the murder trial at the Central Criminal Court in Dublin. The case follows the death of Limerick woman Scarlett Faulkner after an incident in Tipperary earlier this year.",
+      "story": "The presentation of evidence by the prosecution in the Scarlett Faulkner murder trial concluded today at the Central Criminal Court in Dublin.\n\nMs Faulkner, who had an address at Longpavement in Limerick, passed away on April 13 following an incident in Birdhill, County Tipperary, on March 21. \n\nA 17-year-old girl, who cannot be identified due to her age, has pleaded not guilty to Ms Faulkner’s murder but has entered a guilty plea to manslaughter. Meanwhile, a 41-year-old woman has pleaded not guilty to murder, alongside separate charges of burglary, entering a building as a trespasser, and causing criminal damage at a Tipperary address on March 20. She has also entered a not guilty plea to a third charge of burglary and assault causing harm at an address in Limerick on March 21.\n\nNow in its third week, the trial before Mr Justice Kerida Naidoo and a 12-person jury has heard evidence from investigating Gardaí, witness testimony, and Garda interviews with the accused. The court case continues tomorrow.",
+      "localAngle": "The victim, Scarlett Faulkner, had an address at Longpavement in Limerick, and the charges include an alleged offence at a Limerick address.",
+      "section": "Courts",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "Prosecution evidence concluded in Scarlett Faulkner murder trial",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/prosecution-evidence-concluded-in-scarlett-faulkner-murder-trial/",
+      "publishedAt": "Tue, 24 Nov 2026 13:00:49 +0000",
+      "rewrittenAt": "2026-11-24T16:06:49.459Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/02/stock-gavel-court-tingey-injury-law-firm-nSpj-Z12lX0-unsplash.jpg",
+      "imageCheckedAt": "2026-11-24T16:13:45.715Z"
+    },
+    "https://www.limerickpost.ie/?p=364091": {
+      "headline": "Steven Spielberg to Direct Film Adaptation of Former Limerick Journalist's Novel",
+      "summary": "Hollywood director Steven Spielberg is adapting former Limerick Post journalist Kevin Barry's 2024 novel, The Heart in Winter. The 19th-century western will feature an all-star cast including Cillian Murphy and Jessie Buckley, with a script by Paul Thomas Anderson.",
+      "story": "Steven Spielberg is set to direct a new film adaptation of The Heart in Winter, a 2024 novel by acclaimed author and former Limerick Post journalist Kevin Barry. The project will feature a screenplay by multiple Oscar winner Paul Thomas Anderson.\n\nAccording to entertainment publication Deadline, the 19th-century western will boast an all-star cast of Oscar-winning actors, including Jessie Buckley, Cillian Murphy, and Mark Rylance. Set between Montana and California, the story follows Tom Rourke and Polly Gillespie as they go on the run. A release date is anticipated for 2028.\n\nSpielberg expressed enthusiasm for the project, telling Deadline that the story quickly became close to both his and Anderson's hearts. Barry, whose previous novel City of Bohane won the 2013 International Dublin Literary Award, previously reflected on how his childhood growing up in Limerick City in the 1970s and 80s influenced his writing, noting that his experiences have occasionally made their way into his westerns.",
+      "localAngle": "The book's author, Kevin Barry, is a former Limerick Post journalist who grew up in Limerick City.",
+      "section": "Arts & Culture",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Former Post journalist to have his book adapted for new Spielberg film",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/former-post-journalist-to-have-his-book-adapted-for-new-spielberg-film/",
+      "publishedAt": "Tue, 24 Nov 2026 12:07:36 +0000",
+      "rewrittenAt": "2026-11-24T16:11:17.893Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/77891-Limerick-Post-during-blackout-7.jpeg",
+      "imageCheckedAt": "2026-11-24T16:13:47.184Z"
+    },
+    "https://www.limerickpost.ie/?p=363885": {
+      "headline": "Limerick Milk Market Unveils Packed Festive Programme Starting November 28",
+      "summary": "The historic Limerick Milk Market has announced a month-long Christmas schedule running from November 28 to Christmas Eve, featuring local food, artisan crafts, live music, and charity events.",
+      "story": "The Limerick Milk Market is preparing for a busy festive season with a packed programme of events running from Saturday, November 28, through to Christmas Eve. Visitors can expect a range of seasonal experiences, including weekend festive food and craft markets, live music, art exhibitions, community events, and appearances from Santa and his elves.\n\nThe Christmas Main Series is supported by Limerick City and County Council alongside Lyons of Limerick, bringing together local organisations and businesses for the historic venue's celebrations. The opening weekend on November 28 will feature a charity Santa visit in aid of Limerick Suicide Watch, accompanied by Christmas Elves from Fidget Feet and live entertainment.\n\nAdditional highlights include a Christmas cupcake fundraising day for the Rising Together Training Centre on December 4, a Lego-inspired Santa's grotto, and an art fair with over 35 local stalls on December 5. Later in the month, the market will host the TY Student Enterprise Market, the Limerick Opera Festival, an Irish-German Christmas event on December 11, and the Christmas Ivory Elephant Market alongside the Boherbuoy Band Christmas Concert on December 13.\n\n“We’re thrilled to welcome everyone back for another magical Christmas series,” said David Fitzgerald, Manager of the Limerick Milk Market. “Our community spirit, local food, and festive atmosphere make the market a truly special place to celebrate Christmas in Limerick.”",
+      "localAngle": "The historic Limerick Milk Market serves as a central festive hub for the city, bringing together local traders, charities, and shoppers throughout the holiday season.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "T’is the season for Milk Market Christmas delights",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/tis-the-season-for-milk-market-christmas-delights/",
+      "publishedAt": "Tue, 24 Nov 2026 12:00:11 +0000",
+      "rewrittenAt": "2026-11-24T16:12:41.022Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/12/Christmas-At-the-Milk-Market-Alan-Place.webp",
+      "imageCheckedAt": "2026-11-24T16:13:48.782Z"
+    },
+    "https://www.limerickpost.ie/?p=363882": {
+      "headline": "Flood Street Man Denied Bail After Christmas Day Toy Theft and Salon Break-In",
+      "summary": "A 37-year-old Limerick man facing 15 charges, including stealing children's toys on Christmas Day and taking staff tips from a city salon, has been refused bail by the District Court.",
+      "story": "A 37-year-old Limerick man accused of stealing children’s toys from a car on Christmas Day and robbing staff tips from a city hair salon has been refused bail following Garda objections.\n\nJudge Patricia Harney presided over the Limerick District Court hearing for Joseph Sheehan, of 40 Flood Street, who faces a total of 15 charges relating to alleged thefts and burglaries across different dates and locations. Among the allegations, Gardaí stated that Mr Sheehan stole children’s toys, Brown Thomas vouchers, shoes, and a Munster rugby jacket from a car boot on December 25. None of the items have been recovered.\n\nThe court also heard allegations that Mr Sheehan broke into the Bellissimo beauty salon on December 16, making off with 40 envelopes containing staff tips totaling €2,000. Further charges include stealing a €725 bicycle, taking an Audi A3 without permission, causing €2,500 in damage to the door of Roberts Auctioneers on Henry Street, attempting to use a stolen bank card, and trying to escape from Garda custody while visiting University Hospital Limerick on March 9.\n\nGarda Shane Stanley objected to bail over fears the accused might commit further offences and fail to appear in court, noting Mr Sheehan had previously informed Gardaí of a chronic crack cocaine addiction. Defence representation argued that the accused had been in custody since March, remained drug-free, and would obey any imposed conditions. While acknowledging the presumption of innocence, Judge Harney ultimately refused the bail application.",
+      "localAngle": "The case involves alleged crimes committed at various locations across Limerick City, including a local salon, a Henry Street business, and University Hospital Limerick.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "No bail for man accused of stealing toys on Christmas Day",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/24/no-bail-for-man-accused-of-stealing-toys-on-christmas-day/",
+      "publishedAt": "Tue, 24 Nov 2026 10:30:11 +0000",
+      "rewrittenAt": "2026-11-24T16:13:37.289Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/01/court-order-gavel-tingey-injury-law-firm-veNb0DDegzE-unsplash-scaled.jpg",
+      "imageCheckedAt": "2026-11-24T16:13:50.241Z"
     }
   }
 }
