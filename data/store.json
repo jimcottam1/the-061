@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-25T15:29:47.632Z",
-    "totalArticles": 41
+    "lastScrape": "2026-11-25T19:07:01.223Z",
+    "totalArticles": 39
   },
   "articles": {
     "8353171": {
@@ -4130,6 +4130,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-13T17:07:40.888Z"
     },
+    "9350142": {
+      "id": "9350142",
+      "title": "Man admits possession of cartoon child porn and sexual exploitation of juvenile",
+      "link": "https://www.limerickleader.ie/news/crime-courts/man-admits-possession-of-cartoon-child-porn-and-sexual-exploitation-of-juvenile-9350142",
+      "description": "In addition to sexually exploiting a child via Snapchat, the man was also found to be in possession of Anime child pornography",
+      "pubDate": "Wed, 25 Nov 2026 17:00:57 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/06/12/23/Limerick-Courthouse-Mulgrave-Street.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T19:06:52.302Z"
+    },
     "9350226": {
       "id": "9350226",
       "title": "‘Ambitious’ proposal for Limerick village receives council support",
@@ -6217,6 +6229,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
     },
+    "9371373": {
+      "id": "9371373",
+      "title": "‘How has my perfectly healthy baby died?’ - Limerick inquest",
+      "link": "https://www.limerickleader.ie/news/how-has-my-perfectly-healthy-baby-died-limerick-inquest-9371373",
+      "description": "The inquest into the tragic death of a newborn baby girl at University Maternity Hospital Limerick was heard at the Limerick Coroner’s Court in Kilmallock",
+      "pubDate": "Wed, 25 Nov 2026 18:00:39 GMT",
+      "author": "Limerick Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T19:06:52.302Z"
+    },
     "9371414": {
       "id": "9371414",
       "title": "Condé Nast Traveller lists Limerick among best places to go in Europe for 2027",
@@ -6448,6 +6472,40 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/13/cs-15cf9d18-06cc-4600-910b-68bb2970bd95.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
+    },
+    "9374519": {
+      "id": "9374519",
+      "title": "Justice Minister launches pilot programme for electronic monitoring of prisoners",
+      "link": "https://www.limerickleader.ie/national/justice-minister-launches-pilot-programme-for-electronic-monitoring-of-prisoners-9374519",
+      "description": "The programme could see 30 to 50 electronic tags used in the first year to monitor between 90 and 150 prisoners on temporary release.",
+      "pubDate": "Wed, 25 Nov 2026 16:59:11 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/cs-b673e5a4-b815-42bf-9b7f-9c84bded37ca.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T19:06:52.302Z"
+    },
+    "9374567": {
+      "id": "9374567",
+      "title": "Ireland team named for key Nations Championship clash with Australia",
+      "link": "https://www.limerickleader.ie/sport/rugby/ireland-team-named-for-key-nations-championship-clash-with-australia-9374567",
+      "description": "Head Coach Andy Farrell has named the Ireland Match Day Squad for Friday night’s Nations Championship clash against Australia at Allianz Stadium, Twickenham (Kick-off 8.10pm).",
+      "pubDate": "Wed, 25 Nov 2026 17:15:48 GMT",
+      "author": "Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/03/3628189.jpeg?width=1200&auto=webp&trim=109%2C4%2C74%2C0",
+      "imageCredit": "SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T19:06:52.302Z"
+    },
+    "9374643": {
+      "id": "9374643",
+      "title": "Convoy separation was one of greatest mistakes of my life, captain tells inquest",
+      "link": "https://www.limerickleader.ie/national/convoy-separation-was-one-of-greatest-mistakes-of-my-life-captain-tells-inquest-9374643",
+      "description": "Private Sean Rooney was shot dead in Lebanon after the vehicle he was driving became separated from another peacekeeping vehicle.",
+      "pubDate": "Wed, 25 Nov 2026 17:53:23 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/cs-7e36a7f4-1886-498e-a436-6a809c60e591.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T19:06:52.302Z"
     },
     "https://www.limerickpost.ie/?p=362499": {
       "id": "https://www.limerickpost.ie/?p=362499",
@@ -10900,6 +10958,26 @@
       "author": "Adam Leahy",
       "source": "limerickpost",
       "scrapedAt": "2026-11-25T15:29:37.669Z"
+    },
+    "https://www.limerickpost.ie/?p=363905": {
+      "id": "https://www.limerickpost.ie/?p=363905",
+      "title": "Theatre Royal redevelopment progressing",
+      "link": "https://www.limerickpost.ie/2026/11/25/theatre-royal-redevelopment-progressing/",
+      "description": "INDEPENDENT councillor Maria Donoghue questioned Limerick Council on refurbishment and redevelopment works at the Theatre Royal to see the historic venue back in use. Cllr Donoghue was informed at November&#8217;s Metropolitan District meeting that the Council has engaged Limerick Twenty Thirty to project manage the refurbishment and redevelopment of the Theatre Royal on Cecil Street. [&#8230;]\nThe post Theatre Royal redevelopment progressing appeared first on Limerick Post.",
+      "pubDate": "Wed, 25 Nov 2026 18:00:57 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-25T19:06:51.841Z"
+    },
+    "https://www.limerickpost.ie/?p=363912": {
+      "id": "https://www.limerickpost.ie/?p=363912",
+      "title": "Limerick encouraged to take the dip for December",
+      "link": "https://www.limerickpost.ie/2026/11/25/limerick-encouraged-to-take-the-dip-for-december/",
+      "description": "TV personality Brendan Courtney braved the chilly Irish Sea as he urged everyone in Limerick to take a dozen plunges to raise vital funds for heart, stroke, and thrombosis patients. The TV presenter and fashion designer, whose father Frank died in 2017 following a stroke, is asking the public to take on the Irish Heart [&#8230;]\nThe post Limerick encouraged to take the dip for December appeared first on Limerick Post.",
+      "pubDate": "Wed, 25 Nov 2026 16:30:20 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-25T19:06:51.841Z"
     }
   },
   "rewritten": {
@@ -15441,6 +15519,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/13/15/15/Threebytwo-for-Flow-(53).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "rewrittenAt": "2026-11-13T17:09:33.499Z"
     },
+    "9350142": {
+      "headline": "Man Pleads Guilty to Child Sexual Exploitation and Anime Pornography Charges",
+      "summary": "A man has admitted to possessing anime child pornography and sexually exploiting a juvenile through Snapchat.",
+      "story": "Appearing before the courts, the man confessed to charges involving the possession of cartoon child porn alongside the sexual exploitation of a juvenile via Snapchat. The details were reported by the Limerick Leader.",
+      "localAngle": "This court case was reported by the Limerick Leader, keeping local readers informed of regional legal proceedings.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Man admits possession of cartoon child porn and sexual exploitation of juvenile",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/man-admits-possession-of-cartoon-child-porn-and-sexual-exploitation-of-juvenile-9350142",
+      "publishedAt": "Wed, 25 Nov 2026 17:00:57 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/06/12/23/Limerick-Courthouse-Mulgrave-Street.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-25T19:08:24.884Z"
+    },
     "9350226": {
       "headline": "Council Backs €22.5m Croom Plan to Expand Enterprise Centre and Renovate Building",
       "summary": "A €22.5m plan has received council support to quadruple the size of the Croom Community Enterprise Centre and renovate a derelict Main Street building.",
@@ -17900,6 +17995,23 @@
       "imageCredit": "ARTHUR ELLIS",
       "rewrittenAt": "2026-11-25T15:46:06.713Z"
     },
+    "9371373": {
+      "headline": "Limerick Inquest Examines Tragic Death of Newborn Baby Girl",
+      "summary": "An inquest has been opened at the Limerick Coroner’s Court in Kilmallock regarding the death of a newborn baby girl at University Maternity Hospital Limerick.",
+      "story": "The Limerick Coroner’s Court in Kilmallock recently heard the inquest into the tragic death of a newborn baby girl at University Maternity Hospital Limerick.",
+      "localAngle": "The inquest took place locally at the Limerick Coroner’s Court in Kilmallock following an event at University Maternity Hospital Limerick.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "‘How has my perfectly healthy baby died?’ - Limerick inquest",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/how-has-my-perfectly-healthy-baby-died-limerick-inquest-9371373",
+      "publishedAt": "Wed, 25 Nov 2026 18:00:39 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/09/16/11/16138746-library.jpeg?width=1200&auto=webp&trim=17%2C0%2C18%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-25T19:08:07.439Z"
+    },
     "9371414": {
       "headline": "Condé Nast Traveller Names Limerick a Top 2027 European Destination",
       "summary": "Limerick has been selected by Condé Nast Traveller as one of the best holiday destinations to visit in Europe for 2027.",
@@ -18152,6 +18264,44 @@
       "skipped": true,
       "duplicateOf": "9371000",
       "rewrittenAt": "2026-11-25T15:32:21.071Z"
+    },
+    "9374519": {
+      "headline": "Justice Minister Initiates Prisoner Electronic Tagging Pilot Scheme",
+      "summary": "A new pilot programme has been launched by the Justice Minister to pilot electronic tags for prisoners on temporary release.",
+      "story": "The initiative aims to use 30 to 50 electronic tags during its first year to monitor between 90 and 150 prisoners on temporary release. Further details of the rollout were published by the Limerick Leader.",
+      "localAngle": "This national justice policy change will impact prison management and temporary release procedures affecting the region.",
+      "section": "Courts",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Justice Minister launches pilot programme for electronic monitoring of prisoners",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/justice-minister-launches-pilot-programme-for-electronic-monitoring-of-prisoners-9374519",
+      "publishedAt": "Wed, 25 Nov 2026 16:59:11 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/cs-b673e5a4-b815-42bf-9b7f-9c84bded37ca.jpeg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-25T19:08:34.172Z"
+    },
+    "9374567": {
+      "headline": "Andy Farrell selects Ireland squad for Australia Twickenham showdown",
+      "summary": "Andy Farrell has revealed the Ireland match day squad to face Australia this Friday night at Allianz Stadium, Twickenham.",
+      "story": "Head Coach Andy Farrell has named the Ireland Match Day Squad for the Nations Championship clash against Australia, which kicks off at 8.10pm on Friday night. The fixture takes place at Allianz Stadium, Twickenham.",
+      "localAngle": "Rugby supporters across Limerick are following the Ireland squad selection closely ahead of Friday night's international fixture.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Ireland team named for key Nations Championship clash with Australia",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/ireland-team-named-for-key-nations-championship-clash-with-australia-9374567",
+      "publishedAt": "Wed, 25 Nov 2026 17:15:48 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/03/3628189.jpeg?width=1200&auto=webp&trim=109%2C4%2C74%2C0",
+      "imageCredit": "SPORTSFILE",
+      "rewrittenAt": "2026-11-25T19:08:15.867Z"
+    },
+    "9374643": {
+      "skipped": true,
+      "duplicateOf": "9371000",
+      "rewrittenAt": "2026-11-25T19:07:47.034Z"
     },
     "https://limerickgaa.ie/?p=142732": {
       "skipped": true,
@@ -24084,6 +24234,91 @@
       "rewrittenAt": "2026-11-25T15:37:34.707Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/kostal-strike.jpg",
       "imageCheckedAt": "2026-11-25T15:46:57.823Z"
+    },
+    "https://www.limerickpost.ie/?p=364174": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363885",
+      "rewrittenAt": "2026-11-25T19:07:47.034Z"
+    },
+    "https://www.limerickpost.ie/?p=363905": {
+      "headline": "Limerick Twenty Thirty Appointed to Manage €3m Theatre Royal Redevelopment",
+      "summary": "Limerick City and County Council has engaged Limerick Twenty Thirty to oversee the €3 million refurbishment of the historic Theatre Royal on Cecil Street, with early works and cultural use already underway.",
+      "story": "Plans to restore the historic Theatre Royal on Cecil Street have moved forward after Limerick City and County Council confirmed that Limerick Twenty Thirty has been appointed to project manage the redevelopment.\n\nIndependent councillor Maria Donoghue raised the issue at November’s Metropolitan District meeting, prompting an update on the €3 million capital project. Brendan Troy, Head of Economic and Tourism Development at the Council, outlined that the development will progress through a structured programme including feasibility work, investigative surveys, emergency works, and the procurement of an architect-led design team and planning consultant.\n\nFunding for the project includes a significant allocation from this year’s mayoral fund, with further applications planned in the coming years. While longer-term refurbishment works are being advanced, the Council confirmed that the building is already facilitating appropriate temporary cultural uses alongside initial works on site.\n\nBuilt in 1833, the Cecil Street venue has a rich history in Limerick life spanning more than 150 years. The building has previously served as an art school, lecture hall, library, theatre, cinema, and live music venue, hosting notable moments such as the filming of a *Father Ted* Eurovision episode, talks by Patrick Pearse and Oscar Wilde, and a post-million-sales performance by Limerick band The Cranberries.",
+      "localAngle": "The redevelopment of the historic Theatre Royal on Cecil Street brings a landmark city centre cultural venue back into focus for the local community.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Theatre Royal redevelopment progressing",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/theatre-royal-redevelopment-progressing/",
+      "publishedAt": "Wed, 25 Nov 2026 18:00:57 +0000",
+      "rewrittenAt": "2026-11-25T19:07:54.635Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2019/01/Theatre-Royal-Limerick52-254x300.jpg",
+      "imageCheckedAt": "2026-11-25T19:09:11.165Z"
+    },
+    "https://www.limerickpost.ie/?p=363912": {
+      "headline": "Brendan Courtney urges Limerick people to brave the cold for Irish Heart Foundation",
+      "summary": "TV presenter Brendan Courtney is calling on the Limerick public to complete 12 cold-water plunges in December to raise funds for heart, stroke, and thrombosis patients.",
+      "story": "TV personality and designer Brendan Courtney has launched the Irish Heart Foundation's '12 Dips in December' challenge, urging people across Limerick to take part in the chilly fundraiser.\n\nCourtney, whose father Frank died following a stroke in 2017, braved the Irish Sea to launch the campaign, which is supported by Daybreak. Organisers are asking participants to complete a dozen plunges next month to raise vital funds for patients affected by heart disease, stroke, and thrombosis.\n\nParticipants can choose how they complete the challenge to suit their circumstances. \"It can be a dip in the sea, a cold shower, a plunge pool, even an ice-bucket challenge 12 times next month, the most important thing is that people in Limerick raise what they can for such a deserving charity,\" Courtney said.\n\nThose interested in taking part can register for free by visiting the Irish Heart Foundation's website at irishheart.ie.",
+      "localAngle": "The campaign is actively calling on residents across Limerick to brave the cold water and raise funds for the national charity.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick encouraged to take the dip for December",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/limerick-encouraged-to-take-the-dip-for-december/",
+      "publishedAt": "Wed, 25 Nov 2026 16:30:20 +0000",
+      "rewrittenAt": "2026-11-25T19:08:43.328Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Hearty-dips-Brendan-Courtney1.jpg",
+      "imageCheckedAt": "2026-11-25T19:09:11.842Z"
+    },
+    "https://www.limerickpost.ie/?p=363909": {
+      "headline": "Author Michael Christopher Keane publishes new book on Limerick and Kerry families",
+      "summary": "Limerick author Michael Christopher Keane has released a new book exploring the history of the Spring Rice and Crosbie families at the turn of the last century. The publication is now available in local bookshops and online.",
+      "story": "A new book by Limerick author Michael Christopher Keane explores the history and tales of two prominent families at the turn of the last century.\n\nTitled *The Spring Rices and the Crosbies*, the publication focuses on the Spring Rices of Mount Trenchard in Foynes alongside their cousins, the Crosbies of Ardfest Abbey and Ballyheigue Castle in County Kerry.\n\nThe Spring Rices of Foynes trace their lineage to a marriage between the Springs of Castlemaine and the Rices of Dingle. According to the book, four members of the family went on to shape local, national, and international history.\n\nThe publication is currently available in bookshops across Limerick and Kerry, as well as online through Amazon.",
+      "localAngle": "The book details the history of the Spring Rice family of Mount Trenchard in Foynes, County Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "New book remembers prominent Limerick families",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/new-book-remembers-prominent-limerick-families/",
+      "publishedAt": "Wed, 25 Nov 2026 15:00:48 +0000",
+      "rewrittenAt": "2026-11-25T19:08:52.159Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/stock-books-library-unsplash-tom-hermans-9BoqXzEeQqM-unsplash.jpg",
+      "imageCheckedAt": "2026-11-25T19:09:12.162Z"
+    },
+    "https://www.limerickpost.ie/?p=364183": {
+      "headline": "Gardaí and Europol investigate emailed bomb hoaxes targeting Limerick schools",
+      "summary": "Garda Commissioner Justin Kelly has confirmed that local information is feeding into a Europol-led investigation after schools across Limerick and Ireland received emailed bomb threats on November 11. The generic warnings caused widespread distress and school evacuations, though none of the devices were found to be viable.",
+      "story": "Gardaí are contributing information to an ongoing Europol investigation into a series of hoax bomb threats that targeted schools and media outlets across Limerick and other parts of the country. \n\nThe latest wave of alerts occurred on November 11, when schools in Limerick county and nationwide received emailed warnings stating that a bomb had been hidden in a plastic bag on their grounds. Several media organisations were also targeted with the same generic message, prompting evacuations and significant distress before it was confirmed that none of the threats were viable.\n\nGarda Commissioner Justin Kelly told reporters that the European Union’s police cooperation agency is coordinating the international probe from The Hague, with Irish authorities actively supplying data. \n\n\"Europol in The Hague are co-ordinating a lot of that work, we’re obviously feeding into that ourselves,\" Commissioner Kelly said. He urged local businesses and educational institutions to remain vigilant and immediately contact An Garda Síochána if they receive similar alerts.",
+      "localAngle": "Schools across Limerick county were directly targeted by the emailed bomb threats, causing local evacuations and distress.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Gardaí linking into Europol probe into Limerick school bomb hoax alert",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/gardai-linking-into-europol-probe-into-limerick-school-bomb-hoax-alert/",
+      "publishedAt": "Wed, 25 Nov 2026 12:00:02 +0000",
+      "rewrittenAt": "2026-11-25T19:09:01.829Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/06/Garda-stock-pexels-paolo-t-6862-942029.jpg",
+      "imageCheckedAt": "2026-11-25T19:09:12.431Z"
+    },
+    "https://www.limerickpost.ie/?p=363903": {
+      "headline": "Shannon Airport Group honours 63 staff with nearly 2,000 years of service",
+      "summary": "Sixty-three employees across various departments at The Shannon Airport Group have been recognised at Long Service Award ceremonies for a combined 1,805 years of service, marking career milestones ranging from 25 to 45 years.",
+      "story": "Sixty-three employees of The Shannon Airport Group have been honoured for their long-standing commitment to the organisation during special Long Service Award ceremonies. The staff members recognised reached major career milestones of 25, 30, 35, 40, and 45 years of service, accounting for a combined total of 1,805 years.\n\nThe employees acknowledged come from multiple departments across the aviation hub, including airport operations, the Police Fire Service, the Search Unit, aviation development, retail, commercial properties, commercial services, and engineering.\n\nRay O’Driscoll, CEO of The Shannon Airport Group, praised the award recipients for their expertise and hard work. \"It was a great pleasure to recognise these 63 team members whose expertise, dedication and hard work have helped shape The Shannon Airport Group over many years and, in turn, have supported the growth and development of the wider region,\" he said.\n\nHR Director Chris O’Donovan added that the awards celebrate the relationships, knowledge, and experience built over decades. \"At The Shannon Airport Group, we are committed to supporting and developing our people, and seeing colleagues build long and successful careers here is something we are incredibly proud of,\" O’Donovan stated.",
+      "localAngle": "The awards celebrate long-serving staff at Shannon Airport, a crucial economic and transport driver for the Limerick and Mid-West region.",
+      "section": "Business",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Nearly 2,000 years of employees service celebrated at Shannon",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/nearly-2000-years-of-employees-service-celebrated-at-shannon/",
+      "publishedAt": "Wed, 25 Nov 2026 10:30:46 +0000",
+      "rewrittenAt": "2026-11-25T19:09:10.724Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Shannon-Airport-Exterior-1280x1280-1.jpg",
+      "imageCheckedAt": "2026-11-25T19:09:12.687Z"
     }
   }
 }
