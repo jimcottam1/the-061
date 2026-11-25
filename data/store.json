@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-25T19:07:01.223Z",
-    "totalArticles": 39
+    "lastScrape": "2026-11-25T22:24:25.592Z",
+    "totalArticles": 37
   },
   "articles": {
     "8353171": {
@@ -38,18 +38,6 @@
       "imageCredit": "Adrian Butler",
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T11:16:40.619Z"
-    },
-    "9298211": {
-      "id": "9298211",
-      "title": "Limerick artist shortlisted for RDS Visual Art Awards",
-      "link": "https://www.limerickleader.ie/community/limerick-artist-shortlisted-for-rds-visual-art-awards-9298211",
-      "description": "The Limerick-based artist is among 12 emerging artists selected for the inaugural exhibition at Gallery at RDS",
-      "pubDate": "Mon, 26 Oct 2026 14:00:12 GMT",
-      "author": "Claire Noonan",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/9/24/333A9505.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0",
-      "imageCredit": "PICTURE: RDS",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T21:44:55.965Z"
     },
     "9299295": {
       "id": "9299295",
@@ -99,29 +87,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T11:16:40.619Z"
     },
-    "9301843": {
-      "id": "9301843",
-      "title": "Bat colony discovered at former garda station in Limerick village",
-      "link": "https://www.limerickleader.ie/news/planning/bat-colony-discovered-at-former-garda-station-in-limerick-village-9301843",
-      "description": "Limerick City and County Council has begun the statutory process to convert the former garda station in Shanagolden into housing",
-      "pubDate": "Mon, 26 Oct 2026 18:00:35 GMT",
-      "author": "David Hurley",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/13/10/ILIM-former-Shanagolden-garda-station.jpeg?width=1200&auto=webp&trim=71%2C110%2C127%2C187",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T22:07:43.033Z"
-    },
-    "9302131": {
-      "id": "9302131",
-      "title": "Trial for man charged with money laundering and drugs offences in Limerick",
-      "link": "https://www.limerickleader.ie/news/crime-courts/trial-for-man-charged-with-money-laundering-and-drugs-offences-in-limerick-9302131",
-      "description": "A man from Newcastle West charged with money laundering and drugs offences is to face trial at Limerick Circuit Court",
-      "pubDate": "Mon, 26 Oct 2026 20:00:18 GMT",
-      "author": "Sandra Quinn",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/19/iconic-upload-GN4_DAT_9622746.jpg?width=1200&auto=webp&crop=3%3A2",
-      "imageCredit": "Iconic Media Group",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T22:07:43.033Z"
-    },
     "9303275": {
       "id": "9303275",
       "title": "Pour Moi's new autumn lingerie proves pretty can be practical ",
@@ -133,18 +98,6 @@
       "imageCredit": "Pour Moi",
       "source": "limerickleader",
       "scrapedAt": "2026-11-05T13:06:34.454Z"
-    },
-    "9303591": {
-      "id": "9303591",
-      "title": "Limerick-based artist who was victim of ‘racist attack’ shares insights at expert roundtable",
-      "link": "https://www.limerickleader.ie/news/limerick-based-artist-who-was-victim-of-racist-attack-shares-insights-at-expert-roundtable-9303591",
-      "description": "The event forms part of Doras’ wider work to develop the Racism Response Service Network, which aims to strengthen early response, referral, advocacy and victim-centred support for those experiencing racism",
-      "pubDate": "Mon, 26 Oct 2026 12:00:01 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/22/10/34/Limerick-based-artist-who-was-victim-of-racist-attack-shares-insights-at-expert-roundtable.jpeg?width=1200&auto=webp&trim=0%2C280%2C0%2C279",
-      "imageCredit": "Doras",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T21:44:55.965Z"
     },
     "9303649": {
       "id": "9303649",
@@ -253,30 +206,6 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T15:54:37.383Z"
-    },
-    "9309556": {
-      "id": "9309556",
-      "title": "Eagles see off Celtics in Basketball Super League Limerick derby",
-      "link": "https://www.limerickleader.ie/sport/basketball/eagles-see-off-celtics-in-basketball-super-league-limerick-derby-9309556",
-      "description": "Limerick Eagles pulled off a shock against top of the table Limerick Celtics in their Men’s Super League game at UL Arena",
-      "pubDate": "Mon, 26 Oct 2026 14:30:54 GMT",
-      "author": "Limerick Live Reporter",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/26/12/52/Limerick-Celtics-v-Limerick-Eagles-8.jpeg?width=1200&auto=webp&trim=0%2C0%2C200%2C0",
-      "imageCredit": "Brendan Gleeson",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T21:44:55.965Z"
-    },
-    "9309690": {
-      "id": "9309690",
-      "title": "‘Wow! Wow! Wow!’: Limerick hurlers and partners celebrate ‘mighty wedding’ of Tom Morrissey and Elaine Dolan",
-      "link": "https://www.limerickleader.ie/news/wow-wow-wow-limerick-hurlers-and-partners-celebrate-mighty-wedding-of-tom-morrissey-and-elaine-dolan-9309690",
-      "description": "The newlyweds were joined by family and friends for a reception at the idyllic Glasson Lakehouse resort on the shores of Lough Ree",
-      "pubDate": "Mon, 26 Oct 2026 12:52:01 GMT",
-      "author": "Reporter",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/26/12/44/Tom-Morrissey-and-bride-Elaine-Dolan-toast-their-nuptials.jpeg?width=1200&auto=webp&trim=342%2C0%2C261%2C0",
-      "imageCredit": "TOM MORRISSEY INSTAGRAM",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-26T21:44:55.965Z"
     },
     "9310943": {
       "id": "9310943",
@@ -6065,6 +5994,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
+    "9368813": {
+      "id": "9368813",
+      "title": "PICTURES: Limerick stars join Ciarán Carey in ‘Restoring Hope’",
+      "link": "https://www.limerickleader.ie/sport/gaa/pictures-limerick-stars-join-ciaran-carey-in-restoring-hope-9368813",
+      "description": "Limerick stars Cian Lynch and Kyle Hayes joined Carey, as well as Munster Rugby legend Keith Earls and Olive Foley",
+      "pubDate": "Wed, 25 Nov 2026 20:29:46 GMT",
+      "author": "Photographer Dave Gaynor",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/11/ILIM-19-11-2026-Ciaran-Carey-talk-1-9f156220.jpeg?width=1200&auto=webp&trim=0%2C18%2C0%2C67",
+      "imageCredit": "Ben Walsh",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T22:24:17.325Z"
+    },
     "9368865": {
       "id": "9368865",
       "title": "Two men arrested in connection with fire that killed five in Waterford",
@@ -6473,6 +6414,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
     },
+    "9374447": {
+      "id": "9374447",
+      "title": "‘I went skint a few times’: Limerick’s JP McManus on his sporting life and the road to Ryder Cup",
+      "link": "https://www.limerickleader.ie/news/i-went-skint-a-few-times-limericks-jp-mcmanus-on-his-sporting-life-and-the-road-to-ryder-cup-9374447",
+      "description": "From his early days as a young bookmaker, when success was far from guaranteed, to preparing to host the biggest sporting event in Limerick’s history, in this exclusive interview with the Limerick Leader, JP McManus reflects on a lifetime of sporting memories and the remarkable journey along the way, writes Áine Fitzgerald",
+      "pubDate": "Wed, 25 Nov 2026 20:02:38 GMT",
+      "author": "Áine Fitzgerald",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/16/22/JP-McManus-pictured-with-Filey-Bay-says-he-will-enjoy-every-day-between-now-and-the-Ryder-Cup-in-Sep.jpeg?width=1200&auto=webp&trim=378%2C0%2C182%2C1",
+      "imageCredit": "PICTURE: SPORTSFILE",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-25T22:24:17.325Z"
+    },
     "9374519": {
       "id": "9374519",
       "title": "Justice Minister launches pilot programme for electronic monitoring of prisoners",
@@ -6506,76 +6459,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/17/cs-7e36a7f4-1886-498e-a436-6a809c60e591.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T19:06:52.302Z"
-    },
-    "https://www.limerickpost.ie/?p=362499": {
-      "id": "https://www.limerickpost.ie/?p=362499",
-      "title": "Limerick TD represents Ireland at UN Food and Agriculture Committee",
-      "link": "https://www.limerickpost.ie/2026/10/26/limerick-td-represents-ireland-at-un-food-and-agriculture-committee/",
-      "description": "TD for County Limerick and Minister of State at the Department of Agriculture, Niall Collins, represented Ireland at the the UN&#8217;s Food and Agriculture Organisation&#8217;s (FAO) Committee on Forestry (COFO). Minister Collins delivered the keynote address for a session that discussed the forest-based bio-economy. The Minister highlighted the hugely important role forests play: &#8220;Sustainably managed [&#8230;]\nThe post Limerick TD represents Ireland at UN Food and Agriculture Committee appeared first on Limerick Post.",
-      "pubDate": "Mon, 26 Oct 2026 18:00:54 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-26T21:44:55.548Z"
-    },
-    "https://www.limerickpost.ie/?p=362497": {
-      "id": "https://www.limerickpost.ie/?p=362497",
-      "title": "Re-enactment of epic Limerick period takes place this Bank Holiday weekend",
-      "link": "https://www.limerickpost.ie/2026/10/26/re-enactment-of-epic-limerick-period-takes-place-this-bank-holiday-weekend/",
-      "description": "MICHAEL Hogan&#8217;s (the Bard of Thomond) best known epic is the story of Drunken Thady&#8217;s battle with the evil spirit known as the Bishop&#8217;s Lady and her efforts to dash him into the raging river at Thomond Bridge and capture his soul. A re-enactment of this epic in period costume will take place on Monday [&#8230;]\nThe post Re-enactment of epic Limerick period takes place this Bank Holiday weekend appeared first on Limerick Post.",
-      "pubDate": "Mon, 26 Oct 2026 15:00:09 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-26T21:44:55.549Z"
-    },
-    "https://www.limerickpost.ie/?p=362494": {
-      "id": "https://www.limerickpost.ie/?p=362494",
-      "title": "Well-known faces among first recipients of new Limerick themed stamp",
-      "link": "https://www.limerickpost.ie/2026/10/26/well-known-faces-among-first-recipients-of-new-limerick-themed-stamp/",
-      "description": "AN POST is issuing six new stamps featuring the Coats of Arms of Irish cities, including Limerick. The Coat of Arms stamp for Limerick features a castle with a central dome and cross on top, between two towers and a raised porticullis. And some of Limerick&#8217;s best known faces were among the first recipients of [&#8230;]\nThe post Well-known faces among first recipients of new Limerick themed stamp appeared first on Limerick Post.",
-      "pubDate": "Mon, 26 Oct 2026 12:00:16 +0000",
-      "author": "Sarah Coleman",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-26T21:44:55.549Z"
-    },
-    "https://limerickgaa.ie/?p=142732": {
-      "id": "https://limerickgaa.ie/?p=142732",
-      "title": "Senior Hurling Championship Final between Kilmallock and Na Piarsaigh:",
-      "link": "https://limerickgaa.ie/senior-hurling-championship-final-between-kilmallock-and-na-piarsaigh/",
-      "description": "Action shots from Sundays Whitebox Property Developments Ltd, Senior Hurling Championship Final between Kilmallock and Na Piarsaigh, Kilmallock came out on top by 3-19 to Na Piarsaigh 1-22, Referee John O Halloran (Bruree).",
-      "pubDate": "Mon, 26 Oct 2026 19:16:39 +0000",
-      "author": "PRO",
-      "source": "limerickgaa",
-      "scrapedAt": "2026-10-26T21:45:01.686Z"
-    },
-    "https://limerickgaa.ie/?p=142724": {
-      "id": "https://limerickgaa.ie/?p=142724",
-      "title": "Michael Sexton receives his County Referees Medal from County Board Officer Mary Hassett:",
-      "link": "https://limerickgaa.ie/michael-sexton-receives-his-county-referees-medal-from-county-board-officer-mary-hassett/",
-      "description": "Michael Sexton receives his County Referees Medal from County Board Officer Mary Hassett before Saturdays afternoon Woodlands House Hotel Adare, Premier Junior A Hurling Championship Final at Cappamore.",
-      "pubDate": "Mon, 26 Oct 2026 18:49:00 +0000",
-      "author": "PRO",
-      "source": "limerickgaa",
-      "scrapedAt": "2026-10-26T21:45:01.687Z"
-    },
-    "https://limerickgaa.ie/?p=142698": {
-      "id": "https://limerickgaa.ie/?p=142698",
-      "title": "Limerick U21 All Ireland winning Hurling team, management & county board officers of 2001:",
-      "link": "https://limerickgaa.ie/limerick-u21-all-ireland-winning-hurling-team-management-county-board-officers-of-2001/",
-      "description": "Limerick U21 All Ireland winning Hurling team, management &amp; county board officers of 2001 were honoured at half time at today’s County Senior Hurling Final at the TUS Gaelic Grounds",
-      "pubDate": "Sun, 25 Oct 2026 20:33:57 +0000",
-      "author": "PRO",
-      "source": "limerickgaa",
-      "scrapedAt": "2026-10-26T21:45:01.687Z"
-    },
-    "https://limerickchamber.ie/?p=38525": {
-      "id": "https://limerickchamber.ie/?p=38525",
-      "title": "Mid-West Businesses in the Spotlight as Limerick Chamber Unveils 2026 Regional Business Awards Shortlist",
-      "link": "https://limerickchamber.ie/limerick-chamber-unveils-2026-regional-business-awards-shortlist/?utm_source=rss&utm_medium=rss&utm_campaign=limerick-chamber-unveils-2026-regional-business-awards-shortlist",
-      "description": "14 October 2026: Limerick Chamber has announced the finalists for the 2026 Limerick Chamber Regional Business Awards, sponsored by the Technological University of the Shannon (TUS). This year’s shortlist recognises those businesses and organisations across the Mid-West that are demonstrating excellence, innovation, leadership and growth. Now in their 15th year, the awards celebrate achievements across\n  Read More\nThe post Mid-West Businesses in the Spotlight as Limerick Chamber Unveils 2026 Regional Business Awards Shortlist first appeared on Limerick Chamber.",
-      "pubDate": "Wed, 14 Oct 2026 12:29:46 +0000",
-      "author": "Suzan McCreadie",
-      "source": "limerickchamber",
-      "scrapedAt": "2026-10-26T21:45:12.812Z"
     },
     "https://www.limerickpost.ie/?p=362501": {
       "id": "https://www.limerickpost.ie/?p=362501",
@@ -10978,6 +10861,56 @@
       "author": "Bernie English",
       "source": "limerickpost",
       "scrapedAt": "2026-11-25T19:06:51.841Z"
+    },
+    "https://www.limerickpost.ie/?p=363818": {
+      "id": "https://www.limerickpost.ie/?p=363818",
+      "title": "LIMERICK IN PHOTOS: Christmas lights lit at the South Court Hotel",
+      "link": "https://www.limerickpost.ie/2026/11/25/limerick-in-photos-christmas-lights-lit-at-the-south-court-hotel/",
+      "description": "CHRISTMAS was in full swing at the South Court Hotel as Santa paid a special visit to turn on the Christmas lights – officially kicking off the season.\nThe post LIMERICK IN PHOTOS: Christmas lights lit at the South Court Hotel appeared first on Limerick Post.",
+      "pubDate": "Wed, 25 Nov 2026 21:00:23 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-25T22:24:17.061Z"
+    },
+    "https://www.limerickpost.ie/?p=364200": {
+      "id": "https://www.limerickpost.ie/?p=364200",
+      "title": "60 patient beds empty at Raheen facility while nearly 100 being treated on trolleys in UHL ED",
+      "link": "https://www.limerickpost.ie/2026/11/25/60-patient-beds-empty-at-raheen-facility-while-nearly-100-being-treated-on-trolleys-in-uhl-ed/",
+      "description": "AS SIXTY state-of-the-art en suite patient beds at a local healthcare facility remained empty this Wednesday (November 25), concerns around patient safety at University Hospital Limerick (UHL) grew in line with expectations of a traditional winter surge at the hospital. The 80-bed Raheen Lodge, owned by private operator Bartra Care, for the provision of intermediary/step-down [&#8230;]\nThe post 60 patient beds empty at Raheen facility while nearly 100 being treated on trolleys in UHL ED appeared first on Limerick Post.",
+      "pubDate": "Wed, 25 Nov 2026 20:15:43 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-25T22:24:17.061Z"
+    },
+    "https://www.limerickpost.ie/?p=364098": {
+      "id": "https://www.limerickpost.ie/?p=364098",
+      "title": "Junior Cup hat-trick for McNamara",
+      "link": "https://www.limerickpost.ie/2026/11/25/junior-cup-hat-trick-for-mcnamara/",
+      "description": "THOMOND easily defeated Scariff, 43-10, in the opening round of the Bank of Ireland Munster Junior Cup at Liam Fitzgerald Park. Inspirational captain Rian McNamara scored three tries for the home side, and Jack Butler, Jack Purcell and Paul Oyedeji grabbed one each. Aidan Ryan kicked three conversions, and Thomond were also awarded a penalty [&#8230;]\nThe post Junior Cup hat-trick for McNamara appeared first on Limerick Post.",
+      "pubDate": "Wed, 25 Nov 2026 19:30:27 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-25T22:24:17.062Z"
+    },
+    "https://limerickvoice.com/?p=53989": {
+      "id": "https://limerickvoice.com/?p=53989",
+      "title": "UL student named National University Athlete of the Year",
+      "link": "https://limerickvoice.com/sport/ul-student-named-national-university-athlete-of-the-year/",
+      "description": "The award recognised her achievements in throwing events and contribution to UL’s university championship success. UNIVERSITY of Limerick athlete Kotryna Pacerinskaite was named University Athlete of the Year at the National Athletics Awards following a successful season in university athletics.  Athletics Ireland announced the award on social media on November 25, recognising Pacerinskaite’s achievements in [&#8230;]\nThe post UL student named National University Athlete of the Year appeared first on .",
+      "pubDate": "Wed, 25 Nov 2026 19:46:10 +0000",
+      "author": "Leah Kirwan",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-25T22:24:18.082Z"
+    },
+    "https://limerickvoice.com/?p=53981": {
+      "id": "https://limerickvoice.com/?p=53981",
+      "title": "Limerick creatives showcase projects in aid of Limerick Animal Welfare",
+      "link": "https://limerickvoice.com/arts-and-culture/limerick-creatives-showcase-projects-in-aid-of-limerick-animal-welfare/",
+      "description": "&#8216;Lights, Camera, Fashion&#8217; will present the work of local Limerick photographers, artists, and fashion designers to fundraise for Limerick Animal Welfare. &#8216;LIGHTS, Camera, Fashion&#8217; will take place this Thursday evening at Limerick&#8217;s School of Art and Design.  The show will start at 6pm on Thursday, November 26, at LSAD&#8217;s Church Gallery. The event intends to [&#8230;]\nThe post Limerick creatives showcase projects in aid of Limerick Animal Welfare appeared first on .",
+      "pubDate": "Wed, 25 Nov 2026 19:15:10 +0000",
+      "author": "Aaliyah Popoola",
+      "source": "limerickvoice",
+      "scrapedAt": "2026-11-25T22:24:18.082Z"
     }
   },
   "rewritten": {
@@ -11029,22 +10962,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/19/20/05/ilim-How-Safe-are-Your-Kids-public-information-evening-in-Patrickswell-19-10-26-1-393695db.jpeg?width=1200&auto=webp&trim=63%2C0%2C63%2C0",
       "imageCredit": "Adrian Butler",
       "rewrittenAt": "2026-10-28T11:20:08.815Z"
-    },
-    "9298211": {
-      "headline": "Limerick Artist Shortlisted for RDS Visual Art Awards",
-      "summary": "A Limerick-based creator is among 12 emerging artists selected for the inaugural exhibition at the Gallery at RDS.",
-      "story": "A Limerick-based artist has secured a place on the shortlist for the RDS Visual Art Awards, organisers announced on Monday, October 26, 2026.\n\nThe local creator is one of 12 emerging artists chosen from across the country to feature in the very first exhibition hosted at the Gallery at RDS.\n\nThe selection places the Limerick artist in contention for the prestigious awards, highlighting the strong representation of local talent on a national platform.",
-      "localAngle": "The artist is based in Limerick, bringing local representation to a national exhibition and awards program.",
-      "originalTitle": "Limerick artist shortlisted for RDS Visual Art Awards",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/community/limerick-artist-shortlisted-for-rds-visual-art-awards-9298211",
-      "publishedAt": "Mon, 26 Oct 2026 14:00:12 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/20/9/24/333A9505.jpeg?width=1200&auto=webp&trim=0%2C0%2C1%2C0",
-      "imageCredit": "PICTURE: RDS",
-      "rewrittenAt": "2026-10-26T21:46:33.363Z",
-      "section": "Arts & Culture",
-      "importance": 2,
-      "positivity": 4
     },
     "9299295": {
       "headline": "Review of Devolo BE6500 WiFi System Examines Affordable Home Upgrade",
@@ -11101,37 +11018,6 @@
       "duplicateOf": "https://limerickvoice.com/?p=53234",
       "rewrittenAt": "2026-10-28T11:18:23.773Z"
     },
-    "9301843": {
-      "headline": "Shanagolden Garda Station slated for housing conversion after bat discovery",
-      "summary": "Limerick City and County Council has officially started the statutory process to transform the disused Shanagolden garda station into residential housing.",
-      "story": "Plans to redevelop the former garda station in Shanagolden have taken a major step forward after Limerick City and County Council initiated the statutory process for the site.\n\nThe local authority is moving ahead with proposals to convert the vacant building into much-needed housing for the area, following the recent discovery of a bat colony at the property.\n\nThe statutory process marks the official commencement of the planning and development procedures required to bring the former police station back into active use as residential accommodation.",
-      "localAngle": "The project directly impacts local housing supply by repurposing a vacant state building in the West Limerick village of Shanagolden.",
-      "section": "Council",
-      "originalTitle": "Bat colony discovered at former garda station in Limerick village",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/planning/bat-colony-discovered-at-former-garda-station-in-limerick-village-9301843",
-      "publishedAt": "Mon, 26 Oct 2026 18:00:35 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/21/13/10/ILIM-former-Shanagolden-garda-station.jpeg?width=1200&auto=webp&trim=71%2C110%2C127%2C187",
-      "rewrittenAt": "2026-10-26T22:08:19.654Z",
-      "importance": 3,
-      "positivity": 4
-    },
-    "9302131": {
-      "headline": "Newcastle West man to face Limerick Circuit Court trial over drugs and money laundering",
-      "summary": "A West Limerick man charged in connection with drugs and money laundering offences has been sent forward for trial at Limerick Circuit Court. The case will proceed following legal processes in the county.",
-      "story": "A man from Newcastle West is facing trial at Limerick Circuit Court after being charged with a series of serious drugs and money laundering offences.\n\nThe accused, whose case was processed following initial proceedings, has been formally sent forward to the higher court to face the charges.\n\nNo further details regarding a trial date or specific pleas have been confirmed at this stage as legal preparations continue.\n\nThe matters will now be dealt with before Limerick Circuit Court, where further hearings in the prosecution case are scheduled to take place.",
-      "localAngle": "The case involves a local resident from Newcastle West and will be heard before Limerick Circuit Court.",
-      "section": "Courts",
-      "originalTitle": "Trial for man charged with money laundering and drugs offences in Limerick",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/crime-courts/trial-for-man-charged-with-money-laundering-and-drugs-offences-in-limerick-9302131",
-      "publishedAt": "Mon, 26 Oct 2026 20:00:18 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/04/30/19/iconic-upload-GN4_DAT_9622746.jpg?width=1200&auto=webp&crop=3%3A2",
-      "imageCredit": "Iconic Media Group",
-      "rewrittenAt": "2026-10-26T22:08:09.977Z",
-      "importance": 3,
-      "positivity": 2
-    },
     "9303275": {
       "headline": "Pour Moi's Autumn Lingerie Line Combines Style With Comfort",
       "summary": "Two matching sets from Pour Moi's new autumn collection show that stylish underwear can also be comfortable.",
@@ -11148,22 +11034,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/22/10/48/Pour-Moi-Atelier-Lace-Set-pourmoi-co-uk.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Pour Moi",
       "rewrittenAt": "2026-11-05T13:23:23.498Z"
-    },
-    "9303591": {
-      "headline": "Limerick Artist Targeted in Racist Attack Advises at Doras Roundtable",
-      "summary": "A Limerick-based artist who survived a racist attack shared their experiences at an expert roundtable hosted by Doras. The event supports the development of a new network to improve victim support and responses to racism.",
-      "story": "A Limerick-based artist who was the victim of a racist attack has shared their firsthand insights at an expert roundtable event in the city. The discussion was organized as part of ongoing efforts by migrant rights organization Doras to address racism in the region.\n\nThe roundtable forms a key part of Doras’ work to develop the Racism Response Service Network. This initiative is designed to strengthen early responses, referrals, advocacy, and victim-centred support for individuals who experience racism in the community.\n\nBy incorporating the direct experiences of those affected, the network aims to build a more effective support system locally. The initiative focuses on ensuring that victims receive immediate and targeted assistance through established referral pathways.",
-      "localAngle": "The roundtable event was held in Limerick as part of local migrant rights group Doras' ongoing efforts to develop better support services for victims of racism across the city and county.",
-      "originalTitle": "Limerick-based artist who was victim of ‘racist attack’ shares insights at expert roundtable",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/limerick-based-artist-who-was-victim-of-racist-attack-shares-insights-at-expert-roundtable-9303591",
-      "publishedAt": "Mon, 26 Oct 2026 12:00:01 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/22/10/34/Limerick-based-artist-who-was-victim-of-racist-attack-shares-insights-at-expert-roundtable.jpeg?width=1200&auto=webp&trim=0%2C280%2C0%2C279",
-      "imageCredit": "Doras",
-      "rewrittenAt": "2026-10-26T21:46:51.767Z",
-      "section": "News",
-      "importance": 3,
-      "positivity": 2
     },
     "9303669": {
       "headline": "Boots adds eight new beauty brands to its product range",
@@ -11298,27 +11168,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/25/18/28/2851187.jpeg?width=1200&auto=webp&trim=0%2C198%2C110%2C198",
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-01T11:50:54.647Z"
-    },
-    "9309556": {
-      "headline": "Limerick Eagles Upset Table-Toppers Celtics in Super League Derby at UL Arena",
-      "summary": "Limerick Eagles pulled off a major upset against league leaders Limerick Celtics in their Men’s Super League clash. The dramatic local derby took place at the UL Arena.",
-      "story": "Limerick Eagles secured a stunning victory over top-of-the-table Limerick Celtics in a thrilling Men’s Super League local derby at the UL Arena. Going into the fixture as clear underdogs against the league leaders, the Eagles delivered a disciplined and high-intensity performance to claim the unexpected win.\n\nThe encounter at the UL Arena drew strong local interest as the city's two rival sides faced off in top-flight basketball action. The Celtics entered the game sitting at the summit of the league standings, but were unable to fend off a determined challenge from the Eagles.\n\nThis crucial result shakes up the Men’s Super League standings and provides a major confidence boost for the Eagles as the season progresses. Both teams will now look ahead to their upcoming fixtures following this high-stakes Limerick showdown.",
-      "localAngle": "The match brought together two of Limerick's top basketball sides for a high-stakes local derby at the UL Arena.",
-      "originalTitle": "Eagles see off Celtics in Basketball Super League Limerick derby",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/sport/basketball/eagles-see-off-celtics-in-basketball-super-league-limerick-derby-9309556",
-      "publishedAt": "Mon, 26 Oct 2026 14:30:54 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/26/12/52/Limerick-Celtics-v-Limerick-Eagles-8.jpeg?width=1200&auto=webp&trim=0%2C0%2C200%2C0",
-      "imageCredit": "Brendan Gleeson",
-      "rewrittenAt": "2026-10-26T21:46:24.671Z",
-      "section": "Sport",
-      "importance": 3,
-      "positivity": 4
-    },
-    "9309690": {
-      "skipped": true,
-      "duplicateOf": "9307767",
-      "rewrittenAt": "2026-10-26T21:45:58.808Z"
     },
     "9310943": {
       "headline": "Graeme Mulcahy makes history as Kilmallock claim Limerick SHC title",
@@ -17784,6 +17633,23 @@
       "imageCredit": "Aidan Oliver",
       "rewrittenAt": "2026-11-24T15:59:12.415Z"
     },
+    "9368813": {
+      "headline": "Limerick and rugby stars rally around Ciarán Carey for 'Restoring Hope'",
+      "summary": "Limerick sporting figures recently gathered alongside Ciarán Carey for the 'Restoring Hope' initiative.",
+      "story": "Limerick hurlers Cian Lynch and Kyle Hayes joined Ciarán Carey, alongside Munster Rugby legend Keith Earls and Olive Foley, for the 'Restoring Hope' event. Photographs from the gathering were published by the Limerick Leader.",
+      "localAngle": "The event features prominent sporting figures from Limerick, including local hurling stars and rugby legends.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: Limerick stars join Ciarán Carey in ‘Restoring Hope’",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/pictures-limerick-stars-join-ciaran-carey-in-restoring-hope-9368813",
+      "publishedAt": "Wed, 25 Nov 2026 20:29:46 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/11/ILIM-19-11-2026-Ciaran-Carey-talk-1-9f156220.jpeg?width=1200&auto=webp&trim=0%2C18%2C0%2C67",
+      "imageCredit": "Ben Walsh",
+      "rewrittenAt": "2026-11-25T22:25:23.280Z"
+    },
     "9368865": {
       "headline": "Waterford Fire Investigation Leads to Two Arrests Following Five Deaths",
       "summary": "Two men have been arrested following an October fire in Waterford that resulted in the deaths of Kim and Phillip English and their sons, Callum and Jayden.",
@@ -18265,6 +18131,23 @@
       "duplicateOf": "9371000",
       "rewrittenAt": "2026-11-25T15:32:21.071Z"
     },
+    "9374447": {
+      "headline": "JP McManus reflects on his life in sport and upcoming Ryder Cup",
+      "summary": "In an exclusive interview, Limerick's JP McManus looks back on his sporting life from his early days as a young bookmaker to preparing to host the Ryder Cup.",
+      "story": "Writing for the Limerick Leader, Áine Fitzgerald spoke with JP McManus about his journey from a young bookmaker to preparing to host the biggest sporting event in Limerick’s history. During the interview, McManus reflected on facing financial struggles along the way and shared a lifetime of sporting memories.",
+      "localAngle": "The interview features Limerick figure JP McManus discussing his journey and the upcoming Ryder Cup event in Limerick.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "‘I went skint a few times’: Limerick’s JP McManus on his sporting life and the road to Ryder Cup",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/i-went-skint-a-few-times-limericks-jp-mcmanus-on-his-sporting-life-and-the-road-to-ryder-cup-9374447",
+      "publishedAt": "Wed, 25 Nov 2026 20:02:38 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/16/22/JP-McManus-pictured-with-Filey-Bay-says-he-will-enjoy-every-day-between-now-and-the-Ryder-Cup-in-Sep.jpeg?width=1200&auto=webp&trim=378%2C0%2C182%2C1",
+      "imageCredit": "PICTURE: SPORTSFILE",
+      "rewrittenAt": "2026-11-25T22:25:29.598Z"
+    },
     "9374519": {
       "headline": "Justice Minister Initiates Prisoner Electronic Tagging Pilot Scheme",
       "summary": "A new pilot programme has been launched by the Justice Minister to pilot electronic tags for prisoners on temporary release.",
@@ -18302,85 +18185,6 @@
       "skipped": true,
       "duplicateOf": "9371000",
       "rewrittenAt": "2026-11-25T19:07:47.034Z"
-    },
-    "https://limerickgaa.ie/?p=142732": {
-      "skipped": true,
-      "duplicateOf": "9308453",
-      "rewrittenAt": "2026-10-26T21:45:58.808Z"
-    },
-    "https://www.limerickpost.ie/?p=362497": {
-      "skipped": true,
-      "duplicateOf": "https://www.limerickpost.ie/?p=362487",
-      "rewrittenAt": "2026-10-26T21:45:58.808Z"
-    },
-    "https://limerickchamber.ie/?p=38525": {
-      "skipped": true,
-      "duplicateOf": "https://www.limerickpost.ie/?p=362455",
-      "rewrittenAt": "2026-10-26T21:45:58.808Z"
-    },
-    "https://limerickgaa.ie/?p=142724": {
-      "headline": "Michael Sexton Honoured with County Referees Medal in Cappamore",
-      "summary": "County Board Officer Mary Hassett presented Michael Sexton with his County Referees Medal ahead of the Premier Junior A Hurling Championship Final in Cappamore.",
-      "story": "Limerick referee Michael Sexton was officially presented with his County Referees Medal prior to the weekend's hurling action. \n\nCounty Board Officer Mary Hassett handed over the accolade to Sexton on Saturday afternoon. The presentation took place ahead of the Woodlands House Hotel Adare Premier Junior A Hurling Championship Final, which was held in Cappamore.",
-      "localAngle": "The presentation highlights the recognition of local match officials within the Limerick GAA county championship structure.",
-      "originalTitle": "Michael Sexton receives his County Referees Medal from County Board Officer Mary Hassett:",
-      "originalSource": "limerickgaa",
-      "originalLink": "https://limerickgaa.ie/michael-sexton-receives-his-county-referees-medal-from-county-board-officer-mary-hassett/",
-      "publishedAt": "Mon, 26 Oct 2026 18:49:00 +0000",
-      "rewrittenAt": "2026-10-26T21:46:06.597Z",
-      "imageUrl": null,
-      "imageCheckedAt": "2026-10-26T21:47:00.832Z",
-      "section": "Sport",
-      "importance": 3,
-      "positivity": 4
-    },
-    "https://www.limerickpost.ie/?p=362499": {
-      "headline": "County Limerick TD Niall Collins addresses UN forestry committee in Rome",
-      "summary": "County Limerick TD and Minister of State Niall Collins represented Ireland at the UN Food and Agriculture Organisation's Committee on Forestry, delivering a keynote address on the forest-based bio-economy.",
-      "story": "County Limerick TD and Minister of State at the Department of Agriculture, Niall Collins, represented Ireland on the international stage this week at the United Nations Food and Agriculture Organisation's (FAO) Committee on Forestry (COFO).\n\nDuring the high-level session, Minister Collins delivered the keynote address focusing on the forest-based bio-economy. Addressing the international committee, the Limerick politician emphasized the critical contributions that well-managed woodlands make to modern economies and environmental goals.\n\n\"Sustainably managed forests provide renewable materials, support rural communities and livelihoods, contribute to climate action and biodiversity objectives, and underpin increasingly diverse and innovative value chains,\" Minister Collins told the assembly. He also drew attention to his recent domestic work in advancing the recommendations put forward by the Timber in Construction Steering Group.",
-      "localAngle": "County Limerick TD and Minister of State Niall Collins represented Ireland at the international UN forestry committee.",
-      "originalTitle": "Limerick TD represents Ireland at UN Food and Agriculture Committee",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/26/limerick-td-represents-ireland-at-un-food-and-agriculture-committee/",
-      "publishedAt": "Mon, 26 Oct 2026 18:00:54 +0000",
-      "rewrittenAt": "2026-10-26T21:46:15.578Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/08/Christmas-cards-scaled.jpg",
-      "imageCheckedAt": "2026-10-26T21:47:02.717Z",
-      "section": "Council",
-      "importance": 3,
-      "positivity": 3
-    },
-    "https://www.limerickpost.ie/?p=362494": {
-      "headline": "Limerick Faces Receive New An Post Coat of Arms Stamp",
-      "summary": "An Post has launched a new set of six city-themed stamps featuring Limerick's coat of arms, with local figures Ava Crean and Pádraig O'Callaghan among the first to receive them.",
-      "story": "Limerick's rich heritage is now being stamped across the island of Ireland following the release of a new An Post collection featuring the Coats of Arms of Irish cities. The Limerick stamp depicts a traditional castle design featuring a central dome and cross flanked by two towers with a raised porticullis.\n\nLocal sporting and cultural figures were handed some of the very first copies of the new stamp against the backdrop of King John's Castle. Among the initial recipients were long-distance runner and marathon winner Ava Crean, alongside 'Paudcast' star and Limerick personality Pádraig O'Callaghan.\n\nThe new issue forms part of a wider six-stamp collection capturing the origins and history of cities including Dublin, Cork, Galway, Kilkenny, and Waterford. Designed by Donegal-based heraldic artist Philip Mackey, the stamps are valued at the 'N' rate of €1.85 to cover domestic postage.\n\nMr Mackey expressed hope that native and new Limerick residents alike would take pride in seeing the city represented. \"I hope, too, that people will be inspired to learn more about where they live as they become more aware of the symbols on buildings, and so on, that they frequently pass,\" he said. The stamps are available now in sheetlets of four online, at local post offices in the featured cities, and at selected locations nationwide.",
-      "localAngle": "The new An Post stamp directly honours Limerick's distinct heritage by featuring its historic coat of arms alongside other major Irish cities.",
-      "originalTitle": "Well-known faces among first recipients of new Limerick themed stamp",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/26/well-known-faces-among-first-recipients-of-new-limerick-themed-stamp/",
-      "publishedAt": "Mon, 26 Oct 2026 12:00:16 +0000",
-      "rewrittenAt": "2026-10-26T21:46:42.972Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/AVA_PADRAIG-029A5051.jpg",
-      "imageCheckedAt": "2026-10-26T21:47:03.368Z",
-      "section": "Arts & Culture",
-      "importance": 3,
-      "positivity": 4
-    },
-    "https://limerickgaa.ie/?p=142698": {
-      "headline": "2001 Limerick All-Ireland Winning U21 Hurling Team Honoured at Gaelic Grounds",
-      "summary": "Limerick's 2001 U21 All-Ireland winning hurling team, management, and county board officers were celebrated at half-time during the County Senior Hurling Final at the TUS Gaelic Grounds.",
-      "story": "The heroes of Limerick hurling from a quarter-century ago received a special homecoming on Sunday afternoon. The 2001 U21 All-Ireland winning panel, alongside their management team and county board officers, were publicly recognised during the interval of the County Senior Hurling Final.\n\nSupporters gathered at the TUS Gaelic Grounds to applaud the historic group as they were presented to the crowd. The half-time ceremony brought together the faces behind one of the county's notable underage successes from the turn of the millennium.\n\nThe tribute offered a moment of nostalgia for local hurling enthusiasts, bridging generations of Limerick GAA success as the current club finalists vied for the modern county title on the same sod.",
-      "localAngle": "The event celebrated a historic milestone for Limerick hurling, bringing back the county's successful 2001 U21 squad to the TUS Gaelic Grounds in front of local supporters.",
-      "originalTitle": "Limerick U21 All Ireland winning Hurling team, management & county board officers of 2001:",
-      "originalSource": "limerickgaa",
-      "originalLink": "https://limerickgaa.ie/limerick-u21-all-ireland-winning-hurling-team-management-county-board-officers-of-2001/",
-      "publishedAt": "Sun, 25 Oct 2026 20:33:57 +0000",
-      "rewrittenAt": "2026-10-26T21:47:00.640Z",
-      "imageUrl": null,
-      "imageCheckedAt": "2026-10-26T21:47:03.562Z",
-      "section": "Sport",
-      "importance": 3,
-      "positivity": 4
     },
     "https://www.limerickpost.ie/?p=362501": {
       "headline": "Gardaí Issue Fraud Warning After Limerick Women Targetted in Phone Scams",
@@ -24319,6 +24123,75 @@
       "rewrittenAt": "2026-11-25T19:09:10.724Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/05/Shannon-Airport-Exterior-1280x1280-1.jpg",
       "imageCheckedAt": "2026-11-25T19:09:12.687Z"
+    },
+    "https://www.limerickpost.ie/?p=364200": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363907",
+      "rewrittenAt": "2026-11-25T22:25:03.654Z"
+    },
+    "https://www.limerickpost.ie/?p=363818": {
+      "headline": "Santa visits South Court Hotel to switch on Christmas lights",
+      "summary": "Festive season officially begins at the South Court Hotel as Santa Claus drops by to turn on the Christmas lights. Locals and visitors gathered for the celebration, which featured musical performances and special guests.",
+      "story": "The festive season is officially underway in Limerick following a special visit from Santa Claus to the South Court Hotel to switch on the annual Christmas lights.\n\nA large crowd gathered at the hotel to witness the seasonal kickoff, which included performances by The Fame Factory. Local attendees spotted enjoying the evening festivities included Ryan O'Shaughnessy, Iwona Pietruszkiewicz, Bernie Fitzgerald, Tara Meehan, Niall McKeogh, Stefan Maidment, Louise Moriarty, Arya Clohessy, and Noreen Clohessy.\n\nPhotographer Gareth Williams was on hand to capture the moments as families and community members celebrated the start of the holiday period.",
+      "localAngle": "The Christmas season kicked off locally with a festive light-switching ceremony held at the South Court Hotel.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Christmas lights lit at the South Court Hotel",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/limerick-in-photos-christmas-lights-lit-at-the-south-court-hotel/",
+      "publishedAt": "Wed, 25 Nov 2026 21:00:23 +0000",
+      "rewrittenAt": "2026-11-25T22:25:14.333Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Christmas-Lights-Switch-On-South-Court-Hotel-1.jpg",
+      "imageCheckedAt": "2026-11-25T22:26:05.729Z"
+    },
+    "https://limerickvoice.com/?p=53989": {
+      "headline": "UL's Kotryna Pacerinskaite Named National University Athlete of the Year",
+      "summary": "University of Limerick student Kotryna Pacerinskaite has been named University Athlete of the Year at the National Athletics Awards following a stellar season in throwing events that included multiple titles, records, and a national record.",
+      "story": "University of Limerick athlete Kotryna Pacerinskaite has been named University Athlete of the Year at the National Athletics Awards. Athletics Ireland announced the accolade on November 25, honouring the student's exceptional performances across throwing events that helped secure historic university championship success for UL.\n\nPacerinskaite’s standout season was marked by multiple Irish Universities Athletics Association (IUAA) titles and records. The Lithuania-born athlete also claimed a national record at the Senior Outdoor Championships, throwing 8.64 metres in the Senior Women’s 28lb Weight for Distance event to finish nearly two metres ahead of the competition. Earlier in the year, she broke her own national record at the Indoor Championships in the same discipline with an 8.70-metre throw, alongside winning three gold medals at the National U23 Track and Field Championships in July.\n\nReflecting on the recognition, the ULAC women’s captain expressed her gratitude for a successful campaign both individually and as a team. \"This award is very special to me, it is always very nice to get an award, but this one in particular, as it was an acknowledgement for everything that I have done for ULAC last year,\" Pacerinskaite said. \"Last year my university season was one of my best, and as a team we did phenomenal.\"\n\nAthletics Ireland praised the athlete's dominance in the field events throughout the season, highlighting her contribution to the university's collective achievements. The award ceremony was supported by 123.ie, capping off a record-breaking year for the UL student on the national stage.",
+      "localAngle": "The award celebrates the sporting success of a standout student representing the University of Limerick on the national stage.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "UL student named National University Athlete of the Year",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/sport/ul-student-named-national-university-athlete-of-the-year/",
+      "publishedAt": "Wed, 25 Nov 2026 19:46:10 +0000",
+      "rewrittenAt": "2026-11-25T22:25:43.521Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/UL-Arena-landscape_Mairead-Hughes-scaled.jpg",
+      "imageCheckedAt": "2026-11-25T22:26:06.616Z"
+    },
+    "https://www.limerickpost.ie/?p=364098": {
+      "headline": "Rian McNamara Scores Hat-Trick as Thomond Rout Scariff 43-10 in Munster Junior Cup",
+      "summary": "Thomond secured a comfortable 43-10 victory over Scariff in the opening round of the Bank of Ireland Munster Junior Cup at Liam Fitzgerald Park, led by a three-try performance from captain Rian McNamara.",
+      "story": "Thomond made a dominant start to their Bank of Ireland Munster Junior Cup campaign with a commanding 43-10 win over Scariff at Liam Fitzgerald Park.\n\nInspirational captain Rian McNamara led the charge for the home side, crossing the whitewash for an impressive hat-trick of tries. Further scores from Jack Butler, Jack Purcell, and Paul Oyedeji added to the tally, alongside a penalty try awarded to Thomond. Kicker Aidan Ryan contributed three conversions to round out the 43-point victory.\n\nElsewhere in the opening round, fellow Limerick side Bruff suffered a 19-7 defeat at the hands of Waterford City, while Galbally fell to a heavy home loss against Clonmel. In the remaining fixtures, Abbeyfeale are set to host Old Crescent on December 12, with the second round scheduled for the start of February.",
+      "localAngle": "The match took place at Liam Fitzgerald Park as local Limerick rugby clubs begin their campaigns in the Munster Junior Cup.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Junior Cup hat-trick for McNamara",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/25/junior-cup-hat-trick-for-mcnamara/",
+      "publishedAt": "Wed, 25 Nov 2026 19:30:27 +0000",
+      "rewrittenAt": "2026-11-25T22:25:54.129Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/05/Rugby-ball.jpg",
+      "imageCheckedAt": "2026-11-25T22:26:07.313Z"
+    },
+    "https://limerickvoice.com/?p=53981": {
+      "headline": "LSAD students host 'Lights, Camera, Fashion' fundraiser for Limerick Animal Welfare",
+      "summary": "Local photographers, artists, and fashion students are showcasing their work at LSAD's Church Gallery this Thursday to raise funds for abandoned animals.",
+      "story": "Limerick creatives are joining forces this Thursday evening to host 'Lights, Camera, Fashion' at the Limerick School of Art and Design in aid of Limerick Animal Welfare. \n\nKickstarting at 6pm at LSAD's Church Gallery, the ambitious showcase brings together 15 fashion designs from students, 28 photographs from six local snappers, and an art auction featuring 12 donated pieces. Organised as part of an event planning module for creative broadcast and film production, a team of 11 students reached out across the city via Instagram, lecturers, and class reps to unite local talent.\n\n\"You’ll have a chance to mingle and chat to other creatives in the city,\" said Dara McCormack, head of communications and one of the exhibiting photographers for the event, which promises an eclectic mix of local work alongside an interactive model experience.\n\nAttendees can also use a photo prop wall in exchange for a donation to the charity, which provides homes for neglected animals across the county. All proceeds from ticket sales—available on Eventbrite—and the event will go directly to Limerick Animal Welfare, with refreshments provided on the night.",
+      "localAngle": "The event brings together local Limerick artists, fashion designers, and photographers at LSAD to raise vital funds for Limerick Animal Welfare.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick creatives showcase projects in aid of Limerick Animal Welfare",
+      "originalSource": "limerickvoice",
+      "originalLink": "https://limerickvoice.com/arts-and-culture/limerick-creatives-showcase-projects-in-aid-of-limerick-animal-welfare/",
+      "publishedAt": "Wed, 25 Nov 2026 19:15:10 +0000",
+      "rewrittenAt": "2026-11-25T22:26:05.349Z",
+      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/original-912B3DCB-1986-41F3-82F2-DB66AB109E84.jpeg",
+      "imageCheckedAt": "2026-11-25T22:26:07.941Z"
     }
   }
 }
