@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-25T22:24:25.592Z",
-    "totalArticles": 37
+    "lastScrape": "2026-11-26T15:02:35.609Z",
+    "totalArticles": 31
   },
   "articles": {
     "8353171": {
@@ -62,18 +62,6 @@
       "imageCredit": "Cartwright & Butler and Prestige Hampers",
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
-    },
-    "9301144": {
-      "id": "9301144",
-      "title": "Homeowners urged to take precautions after County Limerick shed break-ins ",
-      "link": "https://www.limerickleader.ie/news/crime-courts/homeowners-urged-to-take-precautions-after-county-limerick-shed-break-ins-9301144",
-      "description": "A Crime Prevention Officer at Henry Street Garda Station said these offences serve as a reminder that garden sheds need the same attention to security as the main house",
-      "pubDate": "Tue, 27 Oct 2026 09:00:37 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/15/9/11/Gardai-Kildare-Newbridge-crime-news-criminal-damage-tyres-vehicle-car.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C84",
-      "imageCredit": "File Photograph",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-27T10:27:19.789Z"
     },
     "9301329": {
       "id": "9301329",
@@ -159,18 +147,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.423Z"
     },
-    "9307184": {
-      "id": "9307184",
-      "title": "‘Incredibly rewarding’: Limerick students contribute 66,000 hours of volunteer work",
-      "link": "https://www.limerickleader.ie/news/school-education/incredibly-rewarding-limerick-students-contribute-66000-hours-of-volunteer-work-9307184",
-      "description": "UL PVA recognises students who demonstrate a commitment to volunteering, both on and off campus, throughout the academic year",
-      "pubDate": "Tue, 27 Oct 2026 07:00:23 GMT",
-      "author": "Abigail Hayden",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/16/29/UL-PVA-Awards-015.jpeg?width=1200&auto=webp&trim=7%2C0%2C7%2C0",
-      "imageCredit": "PICTURE: ALAN PLACE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-27T10:27:19.789Z"
-    },
     "9307537": {
       "id": "9307537",
       "title": "Hourglass's makeup palettes that would make a perfect Christmas gift are flying off shelves ",
@@ -206,42 +182,6 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-10-28T15:54:37.383Z"
-    },
-    "9310943": {
-      "id": "9310943",
-      "title": "How Graeme Mulcahy created history in Kilmallock's SHC win",
-      "link": "https://www.limerickleader.ie/sport/gaa/hurling/how-graeme-mulcahy-created-history-in-kilmallocks-shc-win-9310943",
-      "description": "The list of men to captain Kilmallock to a Limerick Senior Hurling Championship is an impressive one",
-      "pubDate": "Tue, 27 Oct 2026 08:23:49 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/8/55/County-Senior-Hurling-Championships-in-Kilmallock-7.jpeg?width=1200&auto=webp&trim=99%2C0%2C167%2C0",
-      "imageCredit": "BRENDAN GLEESON",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-27T10:27:19.789Z"
-    },
-    "9311112": {
-      "id": "9311112",
-      "title": "Limerick gardai make several arrests for suspected drug driving over bank holiday weekend",
-      "link": "https://www.limerickleader.ie/news/crime-courts/limerick-gardai-make-several-arrests-for-suspected-drug-driving-over-bank-holiday-weekend-9311112",
-      "description": "During the bank holiday policing operation, Bruff and Kilmallock gardai seized six vehicles while carrying out checkpoints",
-      "pubDate": "Tue, 27 Oct 2026 10:00:18 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/9/04/Limerick-gardai-make-several-arrests-for-suspected-drug-driving-over-bank-holiday-weekend.jpeg?width=1200&auto=webp&trim=78%2C0%2C79%2C0",
-      "imageCredit": "gardainsta_limerick",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-27T10:27:19.789Z"
-    },
-    "9311153": {
-      "id": "9311153",
-      "title": "RIP: Pedestrian in her 60s tragically killed in road collision near shopping centre ",
-      "link": "https://www.limerickleader.ie/national/rip-pedestrian-in-her-60s-tragically-killed-in-road-collision-near-shopping-centre-9311153",
-      "description": "Gardaí are appealing for witnesses to a fatal road traffic collision in which a pedestrian was killed",
-      "pubDate": "Tue, 27 Oct 2026 10:10:42 GMT",
-      "author": "By The Newsroom",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/9/17/NATIONAL-NEWS-BANNER-TEMPLATE-(51).png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "File photo",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-27T10:27:19.789Z"
     },
     "9311853": {
       "id": "9311853",
@@ -5925,6 +5865,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.126Z"
     },
+    "9368121": {
+      "id": "9368121",
+      "title": "PICTURES: 1XBet Irish St Leger 550 Final at Limerick Greyhound Stadium",
+      "link": "https://www.limerickleader.ie/sport/other-sport/pictures-1xbet-irish-st-leger-550-final-at-limerick-greyhound-stadium-9368121",
+      "description": "Ballymac Deniro cemented his reputation as one of the sport's brightest stars with a sensational display in the final of the 2026 1XBet Irish St. Leger at Limerick Greyhound Stadium on Saturday night, equalling his own track record on the way to a dominant five-length victory",
+      "pubDate": "Thu, 26 Nov 2026 14:29:01 GMT",
+      "author": "By Photographer Brendan Gleeson",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/12/44/MixCollage-23-Nov-2026-12-10-PM-3462-4e38f972.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
     "9368160": {
       "id": "9368160",
       "title": "Ousted HSE chief to ‘vigorously challenge’ removal",
@@ -6017,6 +5969,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.125Z"
     },
+    "9368927": {
+      "id": "9368927",
+      "title": "Project strengthens links between the EU and Limerick communities",
+      "link": "https://www.limerickleader.ie/news/project-strengthens-links-between-the-eu-and-limerick-communities-9368927",
+      "description": "Ballyhoura Development hosted the CITICESS conference with delegates from the European Union visiting Limerick projects",
+      "pubDate": "Thu, 26 Nov 2026 09:00:31 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/08/CITICESSConference18Nov26SpeakersWithKatrionaOSullivan.jpeg?width=1200&auto=webp&trim=0%2C4%2C7%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
     "9368984": {
       "id": "9368984",
       "title": "Limerick scout group lights up Oíche na hÓige - with a surprise visit!",
@@ -6087,6 +6051,18 @@
       "imageCredit": "KEITH WISEMAN",
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
+    },
+    "9370455": {
+      "id": "9370455",
+      "title": "Limerick primary schools invited to register for 2027 Our World Awards",
+      "link": "https://www.limerickleader.ie/news/eco-live/limerick-primary-schools-invited-to-register-for-2027-our-world-awards-9370455",
+      "description": "Participating schools can access free classroom resources and enter projects spanning art, storytelling, music, video, digital content, engineering and design",
+      "pubDate": "Thu, 26 Nov 2026 07:00:33 GMT",
+      "author": "Limerick Leader Reporter",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/21/Capture-t.JPG?width=1200&auto=webp&trim=0%2C144%2C0%2C97",
+      "imageCredit": "Irish Aid",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
     },
     "9370478": {
       "id": "9370478",
@@ -6309,6 +6285,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
     },
+    "9372742": {
+      "id": "9372742",
+      "title": "Limerick hurlers visit school to celebrate one year of Voluntary Smartphone Agreement",
+      "link": "https://www.limerickleader.ie/news/education/limerick-hurlers-visit-school-to-celebrate-one-year-of-voluntary-smartphone-agreement-9372742",
+      "description": "County hurling stars and past pupils Nickie Quaid and Patrick O’Donovan joined pupils and staff at Scoil Mhuire, Effin, to celebrate the first anniversary of the school’s Voluntary Smartphone Agreement",
+      "pubDate": "Thu, 26 Nov 2026 08:00:37 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/10/12/unnamed-(4).jpeg?width=1200&auto=webp&trim=80%2C2%2C135%2C0",
+      "imageCredit": "PICTURE: SCOIL MHUIRE EFFIN",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
     "9372847": {
       "id": "9372847",
       "title": "Treaty United duo named in PFA Premier Division Team of the Year",
@@ -6414,6 +6402,42 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
     },
+    "9373777": {
+      "id": "9373777",
+      "title": "I’ve found three Beauty of Joseon skincare favourites in the iHerb Black Friday sale - they’re worth a look ",
+      "link": "https://www.limerickleader.ie/recommended/beauty-of-joseon-skincare-iherb-black-friday-sale-deal-9375456",
+      "description": "I've been using Beauty of Joseon for a while and love how my skin looks, so I was excited to find these K-Beauty products included in iHerb's Black Friday sale.",
+      "pubDate": "Thu, 26 Nov 2026 10:44:51 GMT",
+      "author": "Natalie Dixon",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/14/01/Ive-found-three-Beauty-of-Joseon-skincare-favourites-in-the-iHerb-Black-Friday-sale-and-theyre-worth.png?width=1200&auto=webp&trim=0%2C8%2C0%2C0",
+      "imageCredit": "Canva",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
+    "9374017": {
+      "id": "9374017",
+      "title": "This Citizen watch can charge under a lamp and H Samuel has knocked £200 off ",
+      "link": "https://www.limerickleader.ie/recommended/citizen-eco-drive-watch-deal-h-samuel-citizen-watch-deal-citizen-sport-eco-drive-chronograph-citizen-at2511-55e-light-powered-watch-9375466",
+      "description": "If you’re buying for someone who always wears a watch, this sporty 43mm Citizen has a stainless steel bracelet, luminous hands and a movement that does away with routine battery changes",
+      "pubDate": "Thu, 26 Nov 2026 10:47:07 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/02/Landscape-watch-with-blue-jacket-and-cufflinks-2.png?width=1200&auto=webp&trim=67%2C2%2C55%2C0",
+      "imageCredit": "H Samuel",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
+    "9374080": {
+      "id": "9374080",
+      "title": "e.l.f. Power Grip Primer vs Gold Drip: What’s the difference and which one should you choose?",
+      "link": "https://www.limerickleader.ie/recommended/elf-power-grip-primer-vs-gold-drip-deal-9375240",
+      "description": "If you've spotted e.l.f.'s Power Grip Gold Drip Primer and wondered how it compares with the bestselling original, there's one key difference.",
+      "pubDate": "Thu, 26 Nov 2026 11:57:03 GMT",
+      "author": "Natalie Dixon",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/15/17/e-l-f--Power-Grip-Primer-vs-Gold-Drip-Whats-the-difference-and-which-one-should-you-choose.png?width=1200&auto=webp&trim=0%2C0%2C0%2C8",
+      "imageCredit": "e.l.f",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
     "9374447": {
       "id": "9374447",
       "title": "‘I went skint a few times’: Limerick’s JP McManus on his sporting life and the road to Ryder Cup",
@@ -6460,15 +6484,51 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T19:06:52.302Z"
     },
-    "https://www.limerickpost.ie/?p=362501": {
-      "id": "https://www.limerickpost.ie/?p=362501",
-      "title": "Garda warning after woman scammed in fake call",
-      "link": "https://www.limerickpost.ie/2026/10/27/garda-warning-after-woman-scammed-in-fake-call/",
-      "description": "GARDAÍ are warning against giving bank or credit card details over the phone after one woman was scammed out of money and another had a close call. Crime Prevention Office, Sergeant Michelle O&#8217;Halloran said that a woman in her seventies received a phonecall claiming her Visa card had been ‘hacked’ and money had been taken [&#8230;]\nThe post Garda warning after woman scammed in fake call appeared first on Limerick Post.",
-      "pubDate": "Tue, 27 Oct 2026 09:00:49 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-27T10:27:19.490Z"
+    "9375480": {
+      "id": "9375480",
+      "title": "HSE board must face committee and explain Anne O’Connor sacking, says Tánaiste",
+      "link": "https://www.limerickleader.ie/national/hse-board-must-face-committee-and-explain-anne-oconnor-sacking-says-tanaiste-9375480",
+      "description": "The chief executive was dismissed earlier this week and she claims it was an ‘unlawful termination’.",
+      "pubDate": "Thu, 26 Nov 2026 12:20:08 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/12/cs-aac74e67-4495-4810-9623-88ab6b1de798.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
+    "9376049": {
+      "id": "9376049",
+      "title": "O’Farrells ‘disappointed’ over department decision to retain garda court duties",
+      "link": "https://www.limerickleader.ie/national/ofarrells-disappointed-over-department-decision-to-retain-garda-court-duties-9376049",
+      "description": "The family of Shane O’Farrell are ‘disappointed’ the Department of Justice does not intend to remove court presenting duties from gardaí.",
+      "pubDate": "Thu, 26 Nov 2026 13:00:03 GMT",
+      "author": "Cillian Sherlock and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/13/cs-5b0ddd68-3c98-4675-a488-c46904b76016.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
+    "9376071": {
+      "id": "9376071",
+      "title": "New medieval and global choir set to perform at historic Limerick venue",
+      "link": "https://www.limerickleader.ie/news/new-medieval-and-global-choir-set-to-perform-at-historic-limerick-venue-9376071",
+      "description": "Limerick’s new medieval and global choir Eala will perform a concert in St John’s Cathedral on Monday, November 30",
+      "pubDate": "Thu, 26 Nov 2026 14:00:25 GMT",
+      "author": "Sandra Quinn",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/13/12/IMG-20261124-WA0008.jpeg?width=1200&auto=webp&trim=37%2C2%2C97%2C0",
+      "imageCredit": "Iconic Media Group",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
+    },
+    "9376256": {
+      "id": "9376256",
+      "title": "‘Proud moment’ as historic landmark announces role in upcoming film",
+      "link": "https://www.limerickleader.ie/whats-on/proud-moment-as-historic-landmark-announces-role-in-upcoming-film-9376256",
+      "description": "Starring Downton Abbey's Laura Carmichael and The O.C star Adam Brody, the film is set in England in 1943",
+      "pubDate": "Thu, 26 Nov 2026 14:15:16 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/14/42/Screenshot-2026-11-26-140658.png?width=1200&auto=webp&trim=0%2C1%2C1%2C0",
+      "imageCredit": "PICTURE: INSTAGRAM",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T15:02:26.669Z"
     },
     "https://www.limerickpost.ie/?p=362514": {
       "id": "https://www.limerickpost.ie/?p=362514",
@@ -10911,6 +10971,106 @@
       "author": "Aaliyah Popoola",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-25T22:24:18.082Z"
+    },
+    "https://www.limerickpost.ie/?p=363922": {
+      "id": "https://www.limerickpost.ie/?p=363922",
+      "title": "Two artists, two exhibitions at People’s Museum of Limerick",
+      "link": "https://www.limerickpost.ie/2026/11/26/two-artists-two-exhibitions-at-peoples-museum-of-limerick/",
+      "description": "TWO artists, two exhibitions. That’s twice the culture at the People’s Museum of Limerick from November 26 to December 10, as two Shannon artist’s exhibit their carefully crafted works. Michelle Hickey Legge and Christina Bennett host their solo shows in tandem at the People’s Museum, exploring “the complexities of cultural identity, memory, and lived experience”. [&#8230;]\nThe post Two artists, two exhibitions at People&#8217;s Museum of Limerick appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 15:00:45 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.449Z"
+    },
+    "https://www.limerickpost.ie/?p=364240": {
+      "id": "https://www.limerickpost.ie/?p=364240",
+      "title": "Jurors handed weapon to feel the weight of instrument used on Scarlett",
+      "link": "https://www.limerickpost.ie/2026/11/26/jurors-handed-weapon-to-feel-the-weight-of-instrument-used-on-scarlett/",
+      "description": "MEMBERS of the jury in the Scarlett Faulkner murder trial were invited to feel “the sheer weight” of the weapon allegedly used to attack the Limerick mother, at the conclusion of evidence in a trial at the Central Criminal Court in Dublin.  During closing arguments this morning, Senior Counsel for the Prosecution, Seoirse Ó’Dunlaíng said [&#8230;]\nThe post Jurors handed weapon to feel the weight of instrument used on Scarlett appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 14:27:03 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=363921": {
+      "id": "https://www.limerickpost.ie/?p=363921",
+      "title": "‘Echoes of Grace’ to fill John the Baptist Church with song",
+      "link": "https://www.limerickpost.ie/2026/11/26/echoes-of-grace-to-fill-john-the-baptist-church-with-song/",
+      "description": "‘ECHOES of Grace’, an evening of orchestra music and song, will take place in John the Baptist church, Hospital, on Friday November 27. The Thomond Wind Ensemble, tenors Shane Barriscale, Joe Roche, and soprano Polly Roche, along with the JTBCS school choir, will perform on the night. It promises to be a fantastic night of [&#8230;]\nThe post &#8216;Echoes of Grace&#8217; to fill John the Baptist Church with song appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 13:30:43 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=364235": {
+      "id": "https://www.limerickpost.ie/?p=364235",
+      "title": "Breaking the Solar Barrier: How Irish Households Can Now Go Green for Just €99 Upfront",
+      "link": "https://www.limerickpost.ie/2026/11/26/breaking-the-solar-barrier-how-irish-households-can-now-go-green-for-just-e99-upfront/",
+      "description": "While thousands of Irish households want to embrace renewable energy, the upfront financial leap has kept rooftop panels out of reach for many. Bord Gáis Energy has partnered with Finance Ireland to launch Ireland’s first 0% interest residential solar finance solution. Valerie Hand, Bord Gáis Energy Retrofit Manager, explains how this initiative is removing the [&#8230;]\nThe post Breaking the Solar Barrier: How Irish Households Can Now Go Green for Just €99 Upfront appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 13:15:02 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=364154": {
+      "id": "https://www.limerickpost.ie/?p=364154",
+      "title": "ICO brings Christmas Magic to St Joseph’s Church",
+      "link": "https://www.limerickpost.ie/2026/11/26/ico-brings-christmas-magic-to-st-josephs-church/",
+      "description": "Soprano Ava Dodd and the Irish Youth Choir join the orchestra for an evening of festive favourites on Wednesday December 16 The Irish Chamber Orchestra (ICO) will present Christmas Magic, a programme of carols and seasonal classics, at St Joseph’s Church on Wednesday December 16. The concert, which begins at 7.30pm, will be the first [&#8230;]\nThe post ICO brings Christmas Magic to St Joseph’s Church appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 12:28:07 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=363919": {
+      "id": "https://www.limerickpost.ie/?p=363919",
+      "title": "Senator speaks out on long waiting lists for HIV prevention",
+      "link": "https://www.limerickpost.ie/2026/11/26/senator-speaks-out-on-long-waiting-lists-for-hiv-prevention/",
+      "description": "THERE are currently 119 people on a waiting list for vital PrEP appointments in relation to HIV prevention in Limerick and Ennis. That&#8217;s according to Senator Dee Ryan, who called for urgent action to improve access to HIV prevention in the Mid West. Senator Ryan raised the issue in the Seanad, highlighting that both clinics [&#8230;]\nThe post Senator speaks out on long waiting lists for HIV prevention appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 12:00:38 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=363917": {
+      "id": "https://www.limerickpost.ie/?p=363917",
+      "title": "Limerick Council drives on with ‘proper solution’ to Parkway Roundabout congestion",
+      "link": "https://www.limerickpost.ie/2026/11/26/limerick-council-drives-on-with-proper-solution-to-parkway-roundabout-congestion/",
+      "description": "CONTINUED efforts to tackle serious traffic management and safety issues at the Parkway Roundabout are moving towards a positive outcome. That&#8217;s according to Fine Gael councillor Sarah Kiely, who asked for an update on progress on the detailed design and timescale of the project at the Parkway at November&#8217;s Metropolitan District meeting of Limerick Council. [&#8230;]\nThe post Limerick Council drives on with &#8216;proper solution&#8217; to Parkway Roundabout congestion appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 10:30:29 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=363915": {
+      "id": "https://www.limerickpost.ie/?p=363915",
+      "title": "Councillor quizzes Council on discovery of human remains at Mount Saint Lawrence Cemetery",
+      "link": "https://www.limerickpost.ie/2026/11/26/councillor-quizzes-council-on-discovery-of-human-remains-at-mount-saint-lawrence-cemetery/",
+      "description": "FIANNA Fáil councillor Catherine Slattery asked Limerick Council to explain why human remains were found on a spoil area at Mount Saint Lawrence Cemetery &#8211; two kilometres from their original burial place. The remains, including a human skull and several other bones thought to have been laid to rest in the mid-1800s, were discovered amongst [&#8230;]\nThe post Councillor quizzes Council on discovery of human remains at Mount Saint Lawrence Cemetery appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 09:00:48 +0000",
+      "author": "Alan Jacques",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=364160": {
+      "id": "https://www.limerickpost.ie/?p=364160",
+      "title": "Limerick soprano to host candlelit remembrance concert for ALONE",
+      "link": "https://www.limerickpost.ie/2026/11/26/limerick-soprano-to-host-candlelit-remembrance-concert-for-alone/",
+      "description": "A candlelit concert of remembrance in aid of ALONE will take place at St Joseph’s Church this Sunday November 29 at 7.30pm. “Remember Me” is a joint venture between Limerick soprano Eve Stafford and C. Thompsons Funeral Directors, and this year’s proceeds will support the charity’s services across the Mid-West. The evening is designed as [&#8230;]\nThe post Limerick soprano to host candlelit remembrance concert for ALONE appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 08:45:43 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
+    },
+    "https://www.limerickpost.ie/?p=364094": {
+      "id": "https://www.limerickpost.ie/?p=364094",
+      "title": "SPORT ROUND-UP: Limerick sporting stalwarts mourned, a Season of Sundays ’26 launches, and more",
+      "link": "https://www.limerickpost.ie/2026/11/26/sport-round-up-limerick-sporting-stalwarts-mourned-a-season-of-sundays-26-launches-and-more/",
+      "description": "GAA: THE 30th edition of ‘A Season of Sundays’ is an attractive gift for GAA followers over the upcoming festive period. There’s plenty of pictorial coverage from the hugely successful 2026 of Limerick senior hurlers, winners of the National League and Munster and All-Ireland Championships. On the very first edition back in 1996, the cover [&#8230;]\nThe post SPORT ROUND-UP: Limerick sporting stalwarts mourned, a Season of Sundays &#8217;26 launches, and more appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 08:15:01 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T15:02:26.450Z"
     }
   },
   "rewritten": {
@@ -10996,22 +11156,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/22/10/44/Luxury-Christmas-Gift-Hampers.png?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "Cartwright & Butler and Prestige Hampers",
       "rewrittenAt": "2026-11-09T19:46:16.345Z"
-    },
-    "9301144": {
-      "headline": "Gardaí issue security warning following recent shed break-ins across County Limerick",
-      "summary": "Property owners in County Limerick are being urged to secure garden sheds following a spate of recent break-ins. Officers at Henry Street Garda Station advise that outbuildings require the same level of security as main residences.",
-      "story": "Property owners in County Limerick are being urged to review their security measures following a series of recent break-ins targeting garden sheds across the county.\n\nAuthorities at Henry Street Garda Station have issued a public warning in the wake of the offences. A Crime Prevention Officer stated that the recent incidents serve as a timely reminder that outbuildings and garden sheds require the exact same level of attention to security as the main residential house.\n\nLocal homeowners are being advised to ensure that all sheds and outbuildings are properly locked, monitored, and fitted with adequate security hardware to deter opportunistic thieves.",
-      "localAngle": "The security warning was issued by gardaí at Henry Street following break-ins affecting properties across County Limerick.",
-      "section": "News",
-      "importance": 3,
-      "positivity": 2,
-      "originalTitle": "Homeowners urged to take precautions after County Limerick shed break-ins ",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/crime-courts/homeowners-urged-to-take-precautions-after-county-limerick-shed-break-ins-9301144",
-      "publishedAt": "Tue, 27 Oct 2026 09:00:37 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/15/9/11/Gardai-Kildare-Newbridge-crime-news-criminal-damage-tyres-vehicle-car.jpeg?width=1200&auto=webp&trim=0%2C84%2C0%2C84",
-      "imageCredit": "File Photograph",
-      "rewrittenAt": "2026-10-27T10:28:23.800Z"
     },
     "9301329": {
       "skipped": true,
@@ -11102,22 +11246,6 @@
       "imageCredit": "RTE",
       "rewrittenAt": "2026-11-01T11:50:27.621Z"
     },
-    "9307184": {
-      "headline": "University of Limerick Students Log 66,000 Volunteer Hours",
-      "summary": "Students at the University of Limerick contributed 66,000 hours of volunteer work across campus and the wider community over the academic year through the President's Volunteer Award.",
-      "story": "Students at the University of Limerick contributed a total of 66,000 hours of voluntary work throughout the academic year, both on and off campus.\n\nThe hours were logged through the President's Volunteer Award (PVA), which formally recognises students who commit their time and effort to community and campus volunteering initiatives.\n\nParticipants described the experience as incredibly rewarding as they balanced their academic commitments with supporting various local projects and university programmes.",
-      "localAngle": "The volunteering efforts directly benefit communities and organisations across Limerick through thousands of hours of student support.",
-      "section": "News",
-      "importance": 2,
-      "positivity": 4,
-      "originalTitle": "‘Incredibly rewarding’: Limerick students contribute 66,000 hours of volunteer work",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/school-education/incredibly-rewarding-limerick-students-contribute-66000-hours-of-volunteer-work-9307184",
-      "publishedAt": "Tue, 27 Oct 2026 07:00:23 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/16/29/UL-PVA-Awards-015.jpeg?width=1200&auto=webp&trim=7%2C0%2C7%2C0",
-      "imageCredit": "PICTURE: ALAN PLACE",
-      "rewrittenAt": "2026-10-27T10:28:41.467Z"
-    },
     "9307537": {
       "headline": "Hourglass Launches 2026 Ambient Lighting Edit Unlocked Collection with Lauren Rubinski",
       "summary": "Hourglass has released its limited-edition 2026 Ambient Lighting Edit Unlocked collection in collaboration with jewellery designer Lauren Rubinski.",
@@ -11168,43 +11296,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/25/18/28/2851187.jpeg?width=1200&auto=webp&trim=0%2C198%2C110%2C198",
       "imageCredit": "SPORTSFILE",
       "rewrittenAt": "2026-11-01T11:50:54.647Z"
-    },
-    "9310943": {
-      "headline": "Graeme Mulcahy makes history as Kilmallock claim Limerick SHC title",
-      "summary": "Graeme Mulcahy has cemented his place in local hurling history by captaining Kilmallock to victory in the Limerick Senior Hurling Championship.",
-      "story": "Graeme Mulcahy has written his name into the history books after captaining Kilmallock to a memorable victory in the Limerick Senior Hurling Championship.\n\nMulcahy joins an illustrious and impressive list of men who have previously captained the club to county senior hurling glory, adding another chapter to Kilmallock's storied GAA tradition.\n\nThe triumph sees the club lift the silverware once again, etching the current panel into local sporting folklore following a successful campaign in the county championship.",
-      "localAngle": "The victory adds a historic new chapter to club hurling in County Limerick, celebrating one of the county's most prominent players.",
-      "section": "Sport",
-      "importance": 4,
-      "positivity": 4,
-      "originalTitle": "How Graeme Mulcahy created history in Kilmallock's SHC win",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/sport/gaa/hurling/how-graeme-mulcahy-created-history-in-kilmallocks-shc-win-9310943",
-      "publishedAt": "Tue, 27 Oct 2026 08:23:49 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/8/55/County-Senior-Hurling-Championships-in-Kilmallock-7.jpeg?width=1200&auto=webp&trim=99%2C0%2C167%2C0",
-      "imageCredit": "BRENDAN GLEESON",
-      "rewrittenAt": "2026-10-27T10:28:32.683Z"
-    },
-    "9311112": {
-      "headline": "Gardaí seize six vehicles and arrest drivers for suspected drug driving in Limerick",
-      "summary": "Bruff and Kilmallock Gardaí seized six vehicles and made multiple arrests for suspected drug driving during a bank holiday policing operation.",
-      "story": "Motorists across south Limerick were targeted over the bank holiday weekend as part of a targeted local policing operation. Gardaí stationed in Bruff and Kilmallock carried out a series of checkpoints aimed at detecting intoxicants behind the wheel.\n\nDuring the enforcement operation, officers arrested several individuals on suspicion of driving under the influence of drugs. In addition to the arrests, Gardaí seized six vehicles from motorists encountered during the roadside checks.\n\nThe operation formed part of high-visibility patrols mounted by local Garda units over the holiday period to promote road safety and deter dangerous driving practices on county roads.",
-      "localAngle": "The enforcement operations were carried out by Gardaí in the Bruff and Kilmallock districts over the bank holiday weekend.",
-      "section": "News",
-      "importance": 3,
-      "positivity": 2,
-      "originalTitle": "Limerick gardai make several arrests for suspected drug driving over bank holiday weekend",
-      "originalSource": "limerickleader",
-      "originalLink": "https://www.limerickleader.ie/news/crime-courts/limerick-gardai-make-several-arrests-for-suspected-drug-driving-over-bank-holiday-weekend-9311112",
-      "publishedAt": "Tue, 27 Oct 2026 10:00:18 GMT",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/9/04/Limerick-gardai-make-several-arrests-for-suspected-drug-driving-over-bank-holiday-weekend.jpeg?width=1200&auto=webp&trim=78%2C0%2C79%2C0",
-      "imageCredit": "gardainsta_limerick",
-      "rewrittenAt": "2026-10-27T10:28:05.659Z"
-    },
-    "9311153": {
-      "skipped": true,
-      "duplicateOf": "https://limerickvoice.com/?p=53174",
-      "rewrittenAt": "2026-10-27T10:27:59.656Z"
     },
     "9311853": {
       "headline": "Man Arrested in Dublin Following Discovery of Woman's Body in Finglas",
@@ -17534,6 +17625,23 @@
       "imageCredit": "University of Limerick",
       "rewrittenAt": "2026-11-23T16:13:24.195Z"
     },
+    "9368121": {
+      "headline": "Ballymac Deniro Wins 2026 1XBet Irish St Leger Final at Limerick",
+      "summary": "Ballymac Deniro secured a five-length victory and equalled the track record in the 2026 1XBet Irish St Leger final at Limerick Greyhound Stadium.",
+      "story": "Ballymac Deniro delivered a dominant five-length victory in the 2026 1XBet Irish St. Leger final at Limerick Greyhound Stadium on Saturday night, equalling his own track record.",
+      "localAngle": "The event took place at Limerick Greyhound Stadium.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: 1XBet Irish St Leger 550 Final at Limerick Greyhound Stadium",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/other-sport/pictures-1xbet-irish-st-leger-550-final-at-limerick-greyhound-stadium-9368121",
+      "publishedAt": "Thu, 26 Nov 2026 14:29:01 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/12/44/MixCollage-23-Nov-2026-12-10-PM-3462-4e38f972.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-26T15:04:59.629Z"
+    },
     "9368160": {
       "headline": "Anne O’Connor to fight dismissal as HSE chief executive",
       "summary": "The health service board announced on Monday that it has ended Anne O’Connor’s term as CEO.",
@@ -17666,6 +17774,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/cs-7d2b6e5c-8eff-4914-8dab-a40f4120e96b.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-23T16:04:49.758Z"
     },
+    "9368927": {
+      "headline": "Ballyhoura Development Hosts EU Delegates for Limerick CITICESS Conference",
+      "summary": "Ballyhoura Development recently hosted the CITICESS conference, welcoming European Union delegates to visit various projects in Limerick.",
+      "story": "Delegates from the European Union travelled to Limerick to visit local projects as part of the CITICESS conference hosted by Ballyhoura Development.",
+      "localAngle": "The event directly involved local communities and projects across Limerick being visited by European Union delegates.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Project strengthens links between the EU and Limerick communities",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/project-strengthens-links-between-the-eu-and-limerick-communities-9368927",
+      "publishedAt": "Thu, 26 Nov 2026 09:00:31 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/15/08/CITICESSConference18Nov26SpeakersWithKatrionaOSullivan.jpeg?width=1200&auto=webp&trim=0%2C4%2C7%2C0",
+      "imageCredit": "Iconic Media Group",
+      "rewrittenAt": "2026-11-26T15:07:13.087Z"
+    },
     "9368984": {
       "headline": "Limerick scout group celebrates Oíche na hÓige with traditional campfire and surprise guest",
       "summary": "A local Limerick scout group recently celebrated Oíche na hÓige featuring a traditional campfire, songs, sketches, and a surprise visit.",
@@ -17766,6 +17891,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/13/19-11-2026-Limerick-and-Germany-1709-2026-57.jpeg?width=1200&auto=webp&trim=0%2C8%2C5%2C0",
       "imageCredit": "KEITH WISEMAN",
       "rewrittenAt": "2026-11-25T15:34:20.365Z"
+    },
+    "9370455": {
+      "headline": "Registration Open for Limerick Primary Schools in 2027 Our World Awards",
+      "summary": "Primary schools in Limerick are being invited to register for the 2027 Our World Awards, which offer free classroom resources and project entries across multiple creative and technical formats.",
+      "story": "Participating schools can access free classroom resources and enter projects spanning art, storytelling, music, video, digital content, engineering, and design. Registration is now open for the initiative.",
+      "localAngle": "This initiative directly invites primary schools located in Limerick to participate in the 2027 awards.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick primary schools invited to register for 2027 Our World Awards",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/eco-live/limerick-primary-schools-invited-to-register-for-2027-our-world-awards-9370455",
+      "publishedAt": "Thu, 26 Nov 2026 07:00:33 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/21/Capture-t.JPG?width=1200&auto=webp&trim=0%2C144%2C0%2C97",
+      "imageCredit": "Irish Aid",
+      "rewrittenAt": "2026-11-26T15:07:47.741Z"
     },
     "9370478": {
       "headline": "Kilmallock champions secure popular management duo for 2027",
@@ -18027,6 +18169,23 @@
       "imageCredit": "Stock",
       "rewrittenAt": "2026-11-25T15:43:11.140Z"
     },
+    "9372742": {
+      "headline": "Limerick Hurlers Mark School's Smartphone Ban Anniversary",
+      "summary": "County hurling stars Nickie Quaid and Patrick O'Donovan visited Scoil Mhuire in Effin to mark one year of the school's Voluntary Smartphone Agreement.",
+      "story": "The past pupils joined staff and students to celebrate the first anniversary of the policy at the Effin school. The Limerick Leader has the full story.",
+      "localAngle": "The event took place at Scoil Mhuire in Effin with local county hurling stars.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick hurlers visit school to celebrate one year of Voluntary Smartphone Agreement",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/education/limerick-hurlers-visit-school-to-celebrate-one-year-of-voluntary-smartphone-agreement-9372742",
+      "publishedAt": "Thu, 26 Nov 2026 08:00:37 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/10/12/unnamed-(4).jpeg?width=1200&auto=webp&trim=80%2C2%2C135%2C0",
+      "imageCredit": "PICTURE: SCOIL MHUIRE EFFIN",
+      "rewrittenAt": "2026-11-26T15:07:40.690Z"
+    },
     "9372847": {
       "headline": "Treaty United Players Make PFA Team of the Year",
       "summary": "Katie Lawlee and Madison McGuane of Treaty United have earned places in the 2026 PFA Ireland Women’s Premier Division Team of the Year.",
@@ -18131,6 +18290,57 @@
       "duplicateOf": "9371000",
       "rewrittenAt": "2026-11-25T15:32:21.071Z"
     },
+    "9373777": {
+      "headline": "Beauty of Joseon Skincare Featured in iHerb Black Friday Sale",
+      "summary": "A shopper has highlighted three Beauty of Joseon skincare products featured in the current iHerb Black Friday sale.",
+      "story": "The reviewer, who has been using the K-Beauty brand for a while and is pleased with the results, expressed excitement at finding the items discounted in the sale.",
+      "localAngle": "This online shopping find is being shared with readers in Limerick looking for Black Friday skincare deals.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "I’ve found three Beauty of Joseon skincare favourites in the iHerb Black Friday sale - they’re worth a look ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/beauty-of-joseon-skincare-iherb-black-friday-sale-deal-9375456",
+      "publishedAt": "Thu, 26 Nov 2026 10:44:51 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/14/01/Ive-found-three-Beauty-of-Joseon-skincare-favourites-in-the-iHerb-Black-Friday-sale-and-theyre-worth.png?width=1200&auto=webp&trim=0%2C8%2C0%2C0",
+      "imageCredit": "Canva",
+      "rewrittenAt": "2026-11-26T15:06:12.292Z"
+    },
+    "9374017": {
+      "headline": "H Samuel discounts 43mm Citizen watch by £200",
+      "summary": "High street jeweller H Samuel has slashed £200 off a sporty 43mm Citizen watch that features a stainless steel bracelet, luminous hands, and a light-powered movement.",
+      "story": "The timepiece features a stainless steel bracelet, luminous hands, and a movement that eliminates the need for routine battery changes by charging under a lamp. Readers can view the original article on the Limerick Leader website for more details.",
+      "localAngle": "This retail deal was reported by the Limerick Leader for local shoppers.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "This Citizen watch can charge under a lamp and H Samuel has knocked £200 off ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/citizen-eco-drive-watch-deal-h-samuel-citizen-watch-deal-citizen-sport-eco-drive-chronograph-citizen-at2511-55e-light-powered-watch-9375466",
+      "publishedAt": "Thu, 26 Nov 2026 10:47:07 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/11/02/Landscape-watch-with-blue-jacket-and-cufflinks-2.png?width=1200&auto=webp&trim=67%2C2%2C55%2C0",
+      "imageCredit": "H Samuel",
+      "rewrittenAt": "2026-11-26T15:06:03.991Z"
+    },
+    "9374080": {
+      "headline": "Comparing e.l.f.'s Power Grip Primer and the Gold Drip version",
+      "summary": "Shoppers wondering how the e.l.f. Power Grip Gold Drip Primer compares to the original bestseller can find out the key difference.",
+      "story": "A new comparison examines how e.l.f.'s Power Grip Gold Drip Primer differs from the bestselling original version.",
+      "localAngle": "Local beauty enthusiasts looking to buy cosmetics in Limerick can check how the two e.l.f. primers compare before making a purchase.",
+      "section": "Business",
+      "importance": 1,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "e.l.f. Power Grip Primer vs Gold Drip: What’s the difference and which one should you choose?",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/recommended/elf-power-grip-primer-vs-gold-drip-deal-9375240",
+      "publishedAt": "Thu, 26 Nov 2026 11:57:03 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/15/17/e-l-f--Power-Grip-Primer-vs-Gold-Drip-Whats-the-difference-and-which-one-should-you-choose.png?width=1200&auto=webp&trim=0%2C0%2C0%2C8",
+      "imageCredit": "e.l.f",
+      "rewrittenAt": "2026-11-26T15:05:55.229Z"
+    },
     "9374447": {
       "headline": "JP McManus reflects on his life in sport and upcoming Ryder Cup",
       "summary": "In an exclusive interview, Limerick's JP McManus looks back on his sporting life from his early days as a young bookmaker to preparing to host the Ryder Cup.",
@@ -18186,21 +18396,36 @@
       "duplicateOf": "9371000",
       "rewrittenAt": "2026-11-25T19:07:47.034Z"
     },
-    "https://www.limerickpost.ie/?p=362501": {
-      "headline": "Gardaí Issue Fraud Warning After Limerick Women Targetted in Phone Scams",
-      "summary": "Limerick Gardaí are urging the public to protect their financial details following two separate telephone scams, including one where a woman in her 70s was defrauded of money.",
-      "story": "Gardaí in Limerick have issued a stark warning against sharing bank or credit card details over the phone following two recent fraudulent incidents in the county.\n\nAccording to the Crime Prevention Office, a woman in her seventies received a call claiming her Visa card had been hacked and money stolen from her account. She was instructed to download an app and transfer funds, complying with the directions before growing suspicious when a further payment was demanded. In a separate incident in Caherconlish, another woman handed over her Visa debit card details and security code after receiving a call from someone falsely claiming to represent her internet service provider, resulting in unauthorized transfers from her account.\n\nSergeant Michelle O’Halloran warned that fraudsters frequently rely on creating panic and pressure to force quick decisions. “Be suspicious of unexpected calls claiming there is a problem with your bank account, card or internet service,” Sgt O’Halloran said, reminding the public never to disclose PINs, passwords, one-time passcodes, or security details to unexpected callers.\n\nGardaí emphasize that legitimate banks will never ask customers to transfer money to a supposedly safe account or direct them to download an app to protect funds. Anyone who receives a suspicious call is advised to hang up immediately and contact their bank directly using a trusted number from an official website or bank card, and to report any financial losses to Gardaí without delay.",
-      "localAngle": "Local Gardaí across Limerick are warning residents to remain vigilant against telephone fraudsters targeting bank accounts and personal details in the area.",
+    "9375480": {
+      "headline": "Tánaiste Calls for HSE Board to Explain Chief Executive's Dismissal",
+      "summary": "The Tánaiste stated that the HSE board must face a committee to explain the sacking of chief executive Anne O’Connor, who claims her termination was unlawful.",
+      "story": "Anne O’Connor was dismissed from her role as chief executive earlier this week and claims her termination was unlawful. The Tánaiste has now said the HSE board must face a committee to explain the sacking.",
+      "localAngle": "This national health administration story is of public interest to readers in Limerick following reports from the Limerick Leader.",
       "section": "News",
-      "importance": 3,
+      "importance": 4,
       "positivity": 2,
-      "originalTitle": "Garda warning after woman scammed in fake call",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/27/garda-warning-after-woman-scammed-in-fake-call/",
-      "publishedAt": "Tue, 27 Oct 2026 09:00:49 +0000",
-      "rewrittenAt": "2026-10-27T10:28:15.057Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/01/Sergeant-Michelle-OHalloran-e1737364232610.jpg",
-      "imageCheckedAt": "2026-10-27T10:28:41.812Z"
+      "brief": true,
+      "originalTitle": "HSE board must face committee and explain Anne O’Connor sacking, says Tánaiste",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/hse-board-must-face-committee-and-explain-anne-oconnor-sacking-says-tanaiste-9375480",
+      "publishedAt": "Thu, 26 Nov 2026 12:20:08 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/12/cs-aac74e67-4495-4810-9623-88ab6b1de798.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-26T15:05:36.358Z"
+    },
+    "9376049": {
+      "skipped": true,
+      "duplicateOf": "9370326",
+      "rewrittenAt": "2026-11-26T15:04:41.759Z"
+    },
+    "9376071": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=363905",
+      "rewrittenAt": "2026-11-26T15:04:41.759Z"
+    },
+    "9376256": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364091",
+      "rewrittenAt": "2026-11-26T15:04:41.759Z"
     },
     "https://limerickgaa.ie/?p=142759": {
       "skipped": true,
@@ -24192,6 +24417,155 @@
       "rewrittenAt": "2026-11-25T22:26:05.349Z",
       "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/11/original-912B3DCB-1986-41F3-82F2-DB66AB109E84.jpeg",
       "imageCheckedAt": "2026-11-25T22:26:07.941Z"
+    },
+    "https://www.limerickpost.ie/?p=364240": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364102",
+      "rewrittenAt": "2026-11-26T15:04:41.759Z"
+    },
+    "https://www.limerickpost.ie/?p=363922": {
+      "headline": "Shannon artists launch tandem solo exhibitions at People's Museum of Limerick",
+      "summary": "Two Shannon artists are running simultaneous solo exhibitions at the People's Museum of Limerick from November 26 to December 10, exploring themes of cultural identity and memory.",
+      "story": "Art enthusiasts in Limerick have a double-bill of culture to take in over the coming weeks as the People's Museum hosts concurrent solo exhibitions by two Shannon artists.\n\nRunning from November 26 to December 10, the exhibitions feature works by Michelle Hickey Legge and Christina Bennett. The artists' collections explore the complexities of cultural identity, memory, and lived experience through their carefully crafted pieces.\nvisitors to the museum will find the collections split across two distinct spaces. Michelle Hickey Legge’s exhibition, titled What Tomorrow Inherits, is on display in the Coach House. Meanwhile, Christina Bennett’s exhibition, Tiocfaidh na Mná (The Women Will Come), is being hosted in the Blue Room.",
+      "localAngle": "The People's Museum of Limerick is hosting the concurrent solo exhibitions by the two Shannon artists.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Two artists, two exhibitions at People’s Museum of Limerick",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/two-artists-two-exhibitions-at-peoples-museum-of-limerick/",
+      "publishedAt": "Thu, 26 Nov 2026 15:00:45 +0000",
+      "rewrittenAt": "2026-11-26T15:04:49.629Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Two-artists.jpeg",
+      "imageCheckedAt": "2026-11-26T15:07:48.274Z"
+    },
+    "https://www.limerickpost.ie/?p=363921": {
+      "headline": "Thomond Wind Ensemble and choir to headline 'Echoes of Grace' in Hospital",
+      "summary": "John the Baptist Church in Hospital will host an evening of orchestral music and song on Friday, November 27, to raise funds for inclusive student spaces.",
+      "story": "Music lovers in East Limerick are in for a festive treat this week as John the Baptist Church in Hospital hosts 'Echoes of Grace' on Friday, November 27.\n\nThe line-up features performances from the Thomond Wind Ensemble, tenors Shane Barriscale and Joe Roche, soprano Polly Roche, and the John the Baptist Community School (JTBCS) choir.\n\nAll proceeds raised on the night will go directly toward funding inclusive spaces for students within the school. Tickets for the festive concert can be purchased through local posters or via the school's website.",
+      "localAngle": "The concert brings together local musicians, school choirs, and residents in Hospital to support inclusive educational spaces in the community.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "‘Echoes of Grace’ to fill John the Baptist Church with song",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/echoes-of-grace-to-fill-john-the-baptist-church-with-song/",
+      "publishedAt": "Thu, 26 Nov 2026 13:30:43 +0000",
+      "rewrittenAt": "2026-11-26T15:05:09.331Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/audience-crowd-theatre-gathering-stock-davide-ragusa-gcDwzUGuUoI-unsplash-1.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:48.921Z"
+    },
+    "https://www.limerickpost.ie/?p=364235": {
+      "headline": "Bord Gáis Launches Ireland's First Zero-Percent Solar Finance Scheme with €99 Deposit",
+      "summary": "Bord Gáis Energy and Finance Ireland have launched the country's first 0% interest residential solar finance package, allowing homeowners to install rooftop panels with a €99 deposit and borrow up to €10,500.",
+      "story": "High upfront costs and borrowing rates have long kept rooftop solar panels out of reach for many households, but a new initiative aims to clear those financial hurdles. Bord Gáis Energy has partnered with Finance Ireland to introduce Ireland's first widely available 0% APR residential solar finance solution.\n\nUnder the new scheme, homeowners can kickstart their transition to renewable energy with an initial deposit of just €99. Customers are able to borrow between €4,000 and €10,500 over a two- to four-year term with zero percent interest, as Bord Gáis Energy covers the borrowing costs. Research conducted by the energy provider indicates that nearly two-thirds of prospective solar customers cite initial expenses as their primary obstacle.\n\nAccording to Valerie Hand, Bord Gáis Energy Retrofit Manager, a standard domestic solar PV system combined with Sustainable Energy Authority of Ireland (SEAI) grant support and an appropriately sized battery can slash annual electricity bills by up to 70 per cent. Many installations take only a single day to complete, allowing households to immediately begin generating their own power and selling excess generation back to the electricity grid.\n\nThe financing option is open to all Irish homeowners, meaning applicants do not need to be existing Bord Gáis Energy customers. Additionally, customers who pay their €99 deposit between November 13 and December 31, 2026, will automatically be entered into a draw to win €2,500 off their installation.",
+      "localAngle": "This national solar financing initiative is available to homeowners across Limerick, providing local residents with a low-cost entry point to install rooftop panels and reduce household energy bills.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Breaking the Solar Barrier: How Irish Households Can Now Go Green for Just €99 Upfront",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/breaking-the-solar-barrier-how-irish-households-can-now-go-green-for-just-e99-upfront/",
+      "publishedAt": "Thu, 26 Nov 2026 13:15:02 +0000",
+      "rewrittenAt": "2026-11-26T15:05:21.389Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Bord-Gais-solar-sky-12-1.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:49.178Z"
+    },
+    "https://www.limerickpost.ie/?p=364154": {
+      "headline": "Irish Chamber Orchestra to debut at St Joseph’s Church for Christmas concert",
+      "summary": "The Irish Chamber Orchestra will perform its first-ever concert at St Joseph’s Church on O’Connell Avenue on December 16. The festive programme features soprano Ava Dodd and the Irish Youth Choir.",
+      "story": "The Irish Chamber Orchestra (ICO) is bringing its annual festive programme to a new venue in the city this winter. St Joseph’s Church on O’Connell Avenue will host the orchestra for the first time for 'Christmas Magic' on Wednesday, December 16, starting at 7.30pm.\n\nTickets are already selling briskly for the seasonal evening of carols and classics. The orchestra will be joined on the night by soprano Ava Dodd and the Irish Youth Choir, under the direction of conductors Patrick Barrett and Lynsey Callaghan. Joel Bardolet will perform as guest leader and violin.\n\nThe musical programme opens with Corelli’s Christmas Concerto and includes Mozart’s Exsultate, Jubilate, John Rutter’s Angels’ Carol, and Humperdinck’s Evening Prayer from Hansel and Gretel. Audiences will also hear traditional favourites such as We Three Kings, Santa Lucia, Silent Night, O Holy Night, and The Wexford Carol.\n\nTickets for the December 16 concert are available directly through the Irish Chamber Orchestra.",
+      "localAngle": "The Irish Chamber Orchestra is staging its debut performance at St Joseph’s Church on O’Connell Avenue in Limerick.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "ICO brings Christmas Magic to St Joseph’s Church",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/ico-brings-christmas-magic-to-st-josephs-church/",
+      "publishedAt": "Thu, 26 Nov 2026 12:28:07 +0000",
+      "rewrittenAt": "2026-11-26T15:05:27.721Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/ICO-WEB-Ava-Dodd-photo-copy.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:49.426Z"
+    },
+    "https://www.limerickpost.ie/?p=363919": {
+      "headline": "119 People Waiting for PrEP in Limerick and Ennis Amid Clinic Closures",
+      "summary": "Senator Dee Ryan has called for urgent action after revealing that 119 people are on waiting lists for HIV prevention appointments in Limerick and Ennis, with both clinics closed to routine self-referrals.",
+      "story": "A total of 119 people are currently stuck on waiting lists for vital PrEP appointments across Limerick and Ennis, according to Fianna Fáil Senator Dee Ryan. Raising the issue in the Seanad, the local politician warned that clinics in the Mid West have closed their doors to routine self-referrals and are now only accepting urgent cases.\n\nPrEP, or pre-exposure prophylaxis, is a medication that is approximately 99 per cent effective at preventing the transmission of HIV through sex when taken as prescribed. Since the national programme was rolled out in 2019, more than 11,000 people have accessed the service nationwide.\n\nHowever, Senator Ryan highlighted a stark regional disparity in access, noting that out of 50 approved GP PrEP providers in Ireland, 45 are located in Dublin, with currently zero operating across Limerick, Clare, and North Tipperary. “These are people taking a responsible step to protect their health and they should be supported in doing so,” she said.\n\nWhile welcoming confirmation that a GP in Nenagh is currently undertaking training to become an approved provider, the Senator stressed that further investment and expanded services are urgently required to clear the Mid West backlog.",
+      "localAngle": "The story directly impacts residents in Limerick, Clare, and North Tipperary who face regional barriers and clinic restrictions when trying to access vital HIV prevention services.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Senator speaks out on long waiting lists for HIV prevention",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/senator-speaks-out-on-long-waiting-lists-for-hiv-prevention/",
+      "publishedAt": "Thu, 26 Nov 2026 12:00:38 +0000",
+      "rewrittenAt": "2026-11-26T15:05:46.224Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/05/Dee-Ryan-on-the-Campaign-Trail-for-First-Election-Mayor-for-Limerick-2-scaled.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:49.668Z"
+    },
+    "https://www.limerickpost.ie/?p=363917": {
+      "headline": "Limerick Council Eyes 2027 Funding for Parkway Roundabout Fix",
+      "summary": "Limerick City and County Council hopes to secure capital funding from the National Transport Authority in 2027 to advance a permanent design solution for the busy Parkway Roundabout.",
+      "story": "Limerick City and County Council's Active Travel team has engaged with the National Transport Authority (NTA) regarding a permanent solution to persistent traffic and safety issues at the Parkway Roundabout on the Dublin Road.\n\nProviding an update at November’s Metropolitan District meeting, local authority officials informed Fine Gael Councillor Sarah Kiely that the council is hopeful capital funding will be allocated in 2027. A definitive project timeline will be established once the NTA confirms the funding.\n\nCllr Kiely, who raised the query, emphasized that the busy junction impacts thousands of motorists daily with delays and pedestrian safety concerns. \"While there is still work to be done, this is an important development and a step in the right direction,\" she said after the meeting.\n\n\"I have always believed that Parkway Roundabout needs a proper, permanent solution rather than temporary measures. The congestion, frustration, and safety concerns experienced by motorists and pedestrians cannot continue indefinitely,\" Cllr Kiely added, vowing to keep the project on the agenda.",
+      "localAngle": "The proposed infrastructure project targets a major bottleneck on the Dublin Road in Limerick City, affecting thousands of local motorists and pedestrians daily.",
+      "section": "Council",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Limerick Council drives on with ‘proper solution’ to Parkway Roundabout congestion",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/limerick-council-drives-on-with-proper-solution-to-parkway-roundabout-congestion/",
+      "publishedAt": "Thu, 26 Nov 2026 10:30:29 +0000",
+      "rewrittenAt": "2026-11-26T15:06:24.504Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/12/Parkway-Roundabout.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:49.890Z"
+    },
+    "https://www.limerickpost.ie/?p=363915": {
+      "headline": "Cousin Slattery Demands Answers After Historic Human Bones Found in Cemetery Rubble",
+      "summary": "Fianna Fáil Councillor Catherine Slattery has questioned Limerick City and County Council after mid-1800s human remains were discovered on a spoil heap at Mount Saint Lawrence Cemetery, two kilometres from their original burial place.",
+      "story": "Fianna Fáil Councillor Catherine Slattery has pressed Limerick City and County Council for answers following the discovery of human remains amongst a mound of rubble at Mount Saint Lawrence Cemetery. \n\nThe remains—which included a human skull and several other bones believed to date back to the mid-1800s—were found in September by a member of the public out walking at Mount Saint Oliver Cemetery. The startling discovery meant the bones were located two kilometres away from their original resting place, raising serious concerns over how they were unwittingly exhumed and moved.\n\nRaising the issue at the November Metropolitan District meeting, Cllr Slattery demanded to know what safeguards the local authority is implementing to ensure such an incident does not happen again. \n\nIn response, Limerick Council acknowledged the discovery and apologised for any distress caused to the public. The local authority explained that during the excavation of old graves by mechanical means, bone fragments can occasionally be transported away with excess material. The Council confirmed that cemetery staff are now carrying out regular inspections of excess digging material to ensure any bone fragments are sensitively removed and reinterred.",
+      "localAngle": "The incident involves historic human remains discovered across two prominent Limerick burial sites, Mount Saint Lawrence Cemetery and Mount Saint Oliver Cemetery.",
+      "section": "Council",
+      "importance": 3,
+      "positivity": 2,
+      "originalTitle": "Councillor quizzes Council on discovery of human remains at Mount Saint Lawrence Cemetery",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/councillor-quizzes-council-on-discovery-of-human-remains-at-mount-saint-lawrence-cemetery/",
+      "publishedAt": "Thu, 26 Nov 2026 09:00:48 +0000",
+      "rewrittenAt": "2026-11-26T15:06:35.404Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/06/Mount-Saint-Lawrence-Cemetery.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:50.131Z"
+    },
+    "https://www.limerickpost.ie/?p=364160": {
+      "headline": "Limerick soprano Eve Stafford to host sold-out candlelit remembrance concert for ALONE",
+      "summary": "Limerick soprano Eve Stafford and C. Thompsons Funeral Directors are hosting the sold-out \"Remember Me\" candlelit concert at St Joseph’s Church this Sunday, November 29, to raise funds for older persons' charity ALONE.",
+      "story": "A candlelit concert of remembrance offering a quiet space for families to reflect ahead of the festive season takes place at St Joseph’s Church this Sunday, November 29, at 7.30pm. Organised as a joint venture between Limerick soprano Eve Stafford and C. Thompsons Funeral Directors, all 400 complimentary seats for the \"Remember Me\" event were claimed within three days of release.\n\nProceeds from donations collected on the night will support ALONE’s services across the Mid-West. The evening's programme includes gentle classics such as Silent Night, O Holy Night, You Raise Me Up, The Room Next Door, and Patrick Cassidy’s Mise Éire. Organisers have confirmed that the concert will become an annual November tradition in Limerick, supporting a different local charity each year.\n\nFor Ms Stafford, supporting ALONE is a personal choice following five years of working with older audiences and people living with dementia through the National Concert Hall’s outreach programmes in Limerick, alongside fundraising for the charity during her 2025 tenure as President of Network Ireland Limerick. \"November can be a lonely, dark month when many are carrying grief in their hearts and approaching the festive period feels difficult,\" she said. ALONE volunteer Caroline Conroy O’Malley will also speak during the event to share her volunteering experiences.",
+      "localAngle": "The concert supports local services across the Mid-West provided by the charity ALONE and is hosted at St Joseph’s Church in Limerick city.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick soprano to host candlelit remembrance concert for ALONE",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/limerick-soprano-to-host-candlelit-remembrance-concert-for-alone/",
+      "publishedAt": "Thu, 26 Nov 2026 08:45:43 +0000",
+      "rewrittenAt": "2026-11-26T15:07:23.949Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Eve-Stafford-Charity-Remembrance-Concert-on-the-29th-of-November-2.jpg",
+      "imageCheckedAt": "2026-11-26T15:07:50.364Z"
+    },
+    "https://www.limerickpost.ie/?p=364094": {
+      "headline": "Limerick Hurlers Featured as 'Season of Sundays' Marks 30th Edition",
+      "summary": "The milestone 30th edition of the GAA photography book 'A Season of Sundays' has launched, featuring extensive pictorial coverage of Limerick's 2026 senior hurling championship success.",
+      "story": "GAA followers looking for a festive gift can now purchase the 30th edition of 'A Season of Sundays', which captures Limerick's hugely successful 2026 season. The senior hurlers secured the National League alongside the Munster and All-Ireland Championships, leading to prominent pictorial coverage in the new publication.\n\nGAA President Jarlath Burns praised the work of Sportsfile photographer Ray McManus. “Under Ray McManus, Sportsfile’s unique images that cut to the essence of our games make this publication a collector’s item and must-have for legions of Gaelic games followers, year in, year out,” he commented.\n\nWhile Mayo All-Ireland winning senior football captain Jack Coyne features on the cover of the 2026 edition, Limerick has a long-standing history with the publication. The very first edition back in 1996 featured Limerick’s Stephen McDonogh alongside Tipperary's Aidan Flanagan on the cover.",
+      "localAngle": "The new publication highlights Limerick's senior hurlers following their 2026 championship wins, continuing a deep connection to the photography book that dates back to its first cover in 1996.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "SPORT ROUND-UP: Limerick sporting stalwarts mourned, a Season of Sundays ’26 launches, and more",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/sport-round-up-limerick-sporting-stalwarts-mourned-a-season-of-sundays-26-launches-and-more/",
+      "publishedAt": "Thu, 26 Nov 2026 08:15:01 +0000",
+      "rewrittenAt": "2026-11-26T15:07:30.371Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/10/Sliotar.jpeg",
+      "imageCheckedAt": "2026-11-26T15:07:50.620Z"
     }
   }
 }
