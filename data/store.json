@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-26T18:56:54.290Z",
-    "totalArticles": 32
+    "lastScrape": "2026-11-26T22:14:45.005Z",
+    "totalArticles": 31
   },
   "articles": {
     "8353171": {
@@ -6540,6 +6540,17 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-26T18:56:45.577Z"
     },
+    "9377306": {
+      "id": "9377306",
+      "title": "Gardaí who died on active duty remembered in Co Monaghan ceremony",
+      "link": "https://www.limerickleader.ie/national/gardai-who-died-on-active-duty-remembered-in-co-monaghan-ceremony-9377306",
+      "description": "Garda Nathy Cawley and Garda Patrick Ruttledge died in February 1982, while Garda John (Séamus) Martin Lally died in October 1951.",
+      "pubDate": "Thu, 26 Nov 2026 21:51:28 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/21/cs-c4ca8599-5438-4442-8ed3-3d7071c4aec5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-26T22:14:33.826Z"
+    },
     "https://www.limerickpost.ie/?p=362563": {
       "id": "https://www.limerickpost.ie/?p=362563",
       "title": "Things to Do in Limerick: Halloween Events & Live Music, 29 October–4 November",
@@ -10981,6 +10992,26 @@
       "author": "Adam Leahy",
       "source": "limerickpost",
       "scrapedAt": "2026-11-26T18:56:45.188Z"
+    },
+    "https://www.limerickpost.ie/?p=363819": {
+      "id": "https://www.limerickpost.ie/?p=363819",
+      "title": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "link": "https://www.limerickpost.ie/2026/11/26/limerick-in-photos-out-and-about-in-limerick-city-42/",
+      "description": "IT’S beginning to look a lot like Christmas in the Treaty City as the Limerick Post photographer got out and about to soak up the festive scenes. Do you know someone snapped enjoying the first of the season? Share and let them know.\nThe post LIMERICK IN PHOTOS: Out and about in Limerick City appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 21:00:24 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T22:14:33.362Z"
+    },
+    "https://www.limerickpost.ie/?p=364100": {
+      "id": "https://www.limerickpost.ie/?p=364100",
+      "title": "Local GAA clubs seek silverware in Munster",
+      "link": "https://www.limerickpost.ie/2026/11/26/local-gaa-clubs-seek-silverware-in-munster/",
+      "description": "THERE are a couple of tasty Munster Club Hurling Finals from a Limerick viewpoint this weekend. First up is Caherline against Kilsannig (Cork) in the Silver Anniversary Junior decider at Semple Stadium, Thurles on Saturday, 1pm. Referee: Ciaran O’Donovan, Tipperary. On Sunday (1pm), Dromin/Athlacca, DA, bump into St Mary’s (Clonmel, Tipperary) in the Intermediate showpiece [&#8230;]\nThe post Local GAA clubs seek silverware in Munster appeared first on Limerick Post.",
+      "pubDate": "Thu, 26 Nov 2026 19:30:02 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-26T22:14:33.363Z"
     }
   },
   "rewritten": {
@@ -18333,6 +18364,22 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/18/cs-f454396e-e31a-4e3a-b798-21369c921808.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-26T18:57:33.199Z"
     },
+    "9377306": {
+      "headline": "Co Monaghan Ceremony Honors Fallen Gardaí",
+      "summary": "Three fallen Gardaí have been remembered in a recent ceremony held in County Monaghan.",
+      "story": "Garda Nathy Cawley and Garda Patrick Ruttledge died in February 1982, while Garda John (Séamus) Martin Lally passed away in October 1951.",
+      "localAngle": "While this ceremony took place in County Monaghan, remembering fallen members of An Garda Síochána is a matter of national significance for readers across Limerick and the country.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 1,
+      "brief": true,
+      "originalTitle": "Gardaí who died on active duty remembered in Co Monaghan ceremony",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/gardai-who-died-on-active-duty-remembered-in-co-monaghan-ceremony-9377306",
+      "publishedAt": "Thu, 26 Nov 2026 21:51:28 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/21/cs-c4ca8599-5438-4442-8ed3-3d7071c4aec5.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-26T22:15:00.412Z"
+    },
     "https://limerickgaa.ie/?p=142779": {
       "skipped": true,
       "duplicateOf": "9308453",
@@ -24356,6 +24403,27 @@
       "rewrittenAt": "2026-11-26T18:58:00.736Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2023/06/Rathkeale-Church-Aerial-scaled-1.jpg",
       "imageCheckedAt": "2026-11-26T18:58:12.143Z"
+    },
+    "https://www.limerickpost.ie/?p=364100": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364094",
+      "rewrittenAt": "2026-11-26T22:14:54.763Z"
+    },
+    "https://www.limerickpost.ie/?p=363819": {
+      "headline": "Photographer captures festive scenes as Christmas season kicks off in Limerick City",
+      "summary": "Photographer Brendan Gleeson has captured early festive scenes across Limerick City as locals enjoy the start of the Christmas season. A series of photographs highlights familiar faces spotted out and about in local venues.",
+      "story": "The festive season is officially underway in the Treaty City, and local photographer Brendan Gleeson has been out capturing the atmosphere.\n\nA new photo gallery published this week features residents enjoying the start of the Christmas period at city spots including Fordes and Mother Mac's. Among those snapped by the lens were Rob and Annmarie McNamara, Edel McNamara, Claire Hanly, Chloe Kiely, Killian Kilcoyne, Alessia Bascone, and Barry Kiely.\n\nLocals who spot someone they know in the newly released images are being encouraged to share the gallery and let them know.",
+      "localAngle": "The gallery captures Limerick residents enjoying the festive atmosphere at popular spots across Limerick City.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "LIMERICK IN PHOTOS: Out and about in Limerick City",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/26/limerick-in-photos-out-and-about-in-limerick-city-42/",
+      "publishedAt": "Thu, 26 Nov 2026 21:00:24 +0000",
+      "rewrittenAt": "2026-11-26T22:15:09.761Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Fordes-12.jpg",
+      "imageCheckedAt": "2026-11-26T22:15:10.128Z"
     }
   }
 }
