@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-27T14:56:54.917Z",
-    "totalArticles": 30
+    "lastScrape": "2026-11-27T18:50:09.025Z",
+    "totalArticles": 28
   },
   "articles": {
     "8353171": {
@@ -123,18 +123,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-09T19:43:14.700Z"
     },
-    "9308583": {
-      "id": "9308583",
-      "title": "'I try to be myself as much as possible' - Simon Zebo on new book ",
-      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/simon-zebo-on-his-new-book-life-after-rugby-and-the-world-of-punditry-9308583",
-      "description": "The former Munster and Ireland international will be signing copies of his new book ‘Zeebs’ in O’Mahony’s Bookstore on O’Connell Street this Saturday, October 31 at 1pm",
-      "pubDate": "Wed, 28 Oct 2026 14:30:06 GMT",
-      "author": "Oisín Nolan",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/25/18/28/2851187.jpeg?width=1200&auto=webp&trim=0%2C198%2C110%2C198",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T15:54:37.383Z"
-    },
     "9311960": {
       "id": "9311960",
       "title": "Gym drops weights on ground to measure noise levels after complaint",
@@ -183,30 +171,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T11:20:30.346Z"
     },
-    "9313286": {
-      "id": "9313286",
-      "title": "Why Na Piarsaigh are far from finished despite final heartbreak",
-      "link": "https://www.limerickleader.ie/sport/hurling/why-na-piarsaigh-are-far-from-finished-after-final-heartbreak-9313286",
-      "description": "When William O’Donoghue powered through for an incredible goal it almost seemed inevitable that the champions would retain their crown",
-      "pubDate": "Wed, 28 Oct 2026 11:30:54 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/8/39/3602437.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T15:54:37.383Z"
-    },
-    "9313655": {
-      "id": "9313655",
-      "title": "Hiring in the Mid-West: free careers fair comes to Limerick this November",
-      "link": "https://www.limerickleader.ie/sponsored-content/hiring-in-the-mid-west-free-careers-fair-comes-to-limerick-this-november-9316697",
-      "description": "Jobs Expo Limerick returns to The Greenhills Hotel on Saturday 7th November, with employers recruiting across healthcare, engineering, technology, hospitality and the public sector. Entry is free.",
-      "pubDate": "Wed, 28 Oct 2026 16:37:00 GMT",
-      "author": "Jayde Maher",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/9/48/Jos-expo.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "Jos expo",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T18:47:39.259Z"
-    },
     "9314861": {
       "id": "9314861",
       "title": "PICTURES: Students show support for Fr Casey's ahead of Limerick football final",
@@ -218,17 +182,6 @@
       "imageCredit": "LL",
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T18:32:44.956Z"
-    },
-    "9314966": {
-      "id": "9314966",
-      "title": "Tánaiste confirms he made ‘routine’ call to Patrick O’Donovan on day he fell ill",
-      "link": "https://www.limerickleader.ie/national/tanaiste-confirms-he-made-routine-call-to-patrick-odonovan-on-day-he-fell-ill-9314966",
-      "description": "Simon Harris rejected a suggestion he had asked the Culture Minister to consider his position in the phone call.",
-      "pubDate": "Wed, 28 Oct 2026 10:56:35 GMT",
-      "author": "Cate McCurry and David Young and  Press Association",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/cs-0c27fb93-be34-47ec-8566-7a3d7ff851a7.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T15:54:37.383Z"
     },
     "9315010": {
       "id": "9315010",
@@ -242,18 +195,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-31T20:27:10.822Z"
     },
-    "9315631": {
-      "id": "9315631",
-      "title": "PICTURES: Spooky fun at Limerick's Halloween festivities",
-      "link": "https://www.limerickleader.ie/news/video-and-photogallery/pictures-spooky-fun-at-limericks-halloween-festivities-9315631",
-      "description": "With events for all the family, Home of Halloween and Limerick Harvest Festival certainly got Limerick in the Halloween spirit",
-      "pubDate": "Wed, 28 Oct 2026 18:00:11 GMT",
-      "author": "Photographer Kieran Ryan-Benson",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/10/52/KRB-25-10-2026-LCCC-Home-of-Halloween-502-926be7e0.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "PICTURE: KIERAN RYAN-BENSON",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T18:47:39.258Z"
-    },
     "9315666": {
       "id": "9315666",
       "title": "PICTURES: Limerick's Halloween festivities bring spooktacular fun for all the family",
@@ -265,18 +206,6 @@
       "imageCredit": "PICTURE: KIERAN RYAN-BENSON",
       "source": "limerickleader",
       "scrapedAt": "2026-10-30T15:48:10.071Z"
-    },
-    "9315676": {
-      "id": "9315676",
-      "title": "Then and now: Kilmallock duo celebrate glory 12 years apart",
-      "link": "https://www.limerickleader.ie/sport/hurling/then-and-now-kilmallock-duo-celebrate-glory-12-years-apart-9315676",
-      "description": "Jackie Dwane, along with the likes of Shane O’Brien, Pierce Connery and Gearoid Enright won their first SHC title on Sunday while the experienced Mulcahy picked up a fifth winners’ medal at the weekend",
-      "pubDate": "Wed, 28 Oct 2026 17:30:17 GMT",
-      "author": "Joel Slattery",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/12/25/Graeme-and-Jackie.jpeg?width=1200&auto=webp&trim=326%2C0%2C474%2C0",
-      "imageCredit": "FACEBOOK / KILMALLOCK GAA",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T18:47:39.259Z"
     },
     "9315796": {
       "id": "9315796",
@@ -290,18 +219,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-31T15:15:17.795Z"
     },
-    "9315927": {
-      "id": "9315927",
-      "title": "Limerick woman's accomplice wrote letter 'taking the hit' for crimes, court hears",
-      "link": "https://www.limerickleader.ie/news/crime-courts/limerick-womans-accomplice-wrote-letter-taking-the-hit-for-crimes-court-hears-9315927",
-      "description": "Defence Barrister Erin O’Hagan said these offences “tell a tale” of a woman who was struggling with addiction",
-      "pubDate": "Wed, 28 Oct 2026 18:30:36 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/13/14/43/Screenshot-2026-07-13-154552.png?width=1200&auto=webp&trim=0%2C1%2C0%2C1",
-      "imageCredit": "Iconic",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T18:47:39.258Z"
-    },
     "9316083": {
       "id": "9316083",
       "title": "O'Donoghue looking to finish opening URC block in positive fashion",
@@ -313,17 +230,6 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T11:27:59.423Z"
-    },
-    "9316213": {
-      "id": "9316213",
-      "title": "Sinn Fein TD backs Ó Snodaigh who chairs charity in money laundering probe",
-      "link": "https://www.limerickleader.ie/national/sinn-fein-td-backs-o-snodaigh-who-chairs-charity-in-money-laundering-probe-9316213",
-      "description": "There is no suggestion of wrongdoing on Aengus Ó Snodaigh’s behalf and the Dublin TD is not under criminal investigation.",
-      "pubDate": "Wed, 28 Oct 2026 15:17:08 GMT",
-      "author": "Cate McCurry and  Press Association",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/cs-79f49915-1c2d-4cb5-bafc-93649fdd60f6.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-28T15:54:37.383Z"
     },
     "9316342": {
       "id": "9316342",
@@ -5854,6 +5760,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-24T15:44:53.385Z"
     },
+    "9370267": {
+      "id": "9370267",
+      "title": "All-Ireland League action resumes after three-week break",
+      "link": "https://www.limerickleader.ie/sport/rugby/all-ireland-league-action-resumes-after-three-week-break-9370267",
+      "description": "ENERGIA All-Ireland League action returns this weekend with all seven sides from the Treaty County back in action.",
+      "pubDate": "Fri, 27 Nov 2026 17:30:50 GMT",
+      "author": "Oisín Nolan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/10/12/Old-Crescent-v-Thomond-in-the-AIL-Division-2B-South-8.jpeg?width=1200&auto=webp&trim=75%2C3%2C127%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-27T18:49:55.824Z"
+    },
     "9370326": {
       "id": "9370326",
       "title": "Gardai to retain court prosecution role, says Department of Justice",
@@ -6517,75 +6435,28 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-27T14:56:46.132Z"
     },
-    "https://www.limerickpost.ie/?p=362543": {
-      "id": "https://www.limerickpost.ie/?p=362543",
-      "title": "Update sought on communication boards in Limerick council ran spaces",
-      "link": "https://www.limerickpost.ie/2026/10/28/update-sought-on-communication-boards-in-limerick-council-ran-spaces/",
-      "description": "SOCIAL Democrats councillor Shane Hickey-O&#8217;Mara has asked Limerick Council for an update on the procurement and roll-out of communication boards in local authority run spaces as well as the time line for their installation. Cllr Hickey-O&#8217;Mara was informed that the charity organisations who promote this service were consulted and the product samples were received and [&#8230;]\nThe post Update sought on communication boards in Limerick council ran spaces appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 15:00:36 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T15:54:36.645Z"
+    "9379270": {
+      "id": "9379270",
+      "title": "Illicit drugs shipped from United States seized at Shannon Airport",
+      "link": "https://www.limerickleader.ie/news/crime-courts/illicit-drugs-shipped-from-united-states-seized-at-shannon-airport-9379270",
+      "description": "The drugs were found in a shipment originating from the USA and were destined for an address in the west of the country",
+      "pubDate": "Fri, 27 Nov 2026 16:03:48 GMT",
+      "author": "David Hurley",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/15/16/Image-1-seized-herbal-cannabis-(1).jpeg?width=1200&auto=webp&trim=744%2C4%2C366%2C0",
+      "imageCredit": "Revenue",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-27T18:49:55.824Z"
     },
-    "https://www.limerickpost.ie/?p=362541": {
-      "id": "https://www.limerickpost.ie/?p=362541",
-      "title": "Another horse seized by Limerick council",
-      "link": "https://www.limerickpost.ie/2026/10/28/another-horse-seized-by-limerick-council/",
-      "description": "A HORSE was seized by Limerick City and County Council in a busy residential area in Limerick City. A statement from Limerick Council said that the local authority seized a 1.5-year-old brown and while male horse on October 6 at Collivet Court in John Carew Park, Limerick City. According to the Council, the owners or [&#8230;]\nThe post Another horse seized by Limerick council appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 13:30:44 +0000",
-      "author": "Adam Leahy",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T15:54:36.645Z"
-    },
-    "https://www.limerickpost.ie/?p=362539": {
-      "id": "https://www.limerickpost.ie/?p=362539",
-      "title": "Dedicated Bus Éireann communication office on Cllr wishlist",
-      "link": "https://www.limerickpost.ie/2026/10/28/dedicated-bus-eireann-communication-office-on-cllr-wishlist/",
-      "description": "THE establishment of a dedicated Bus Éireann communication office in Limerick is on the wish-list of Independent councillor Elena Secas. The need for a direct contact in Limerick, the City East representative explained, comes following ongoing difficulties experienced by parents in contacting and obtaining responses to school transport queries. &#8220;Currently, one must contact the Bus [&#8230;]\nThe post Dedicated Bus Éireann communication office on Cllr wishlist appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 12:00:42 +0000",
-      "author": "Alan Jacques",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T15:54:36.645Z"
-    },
-    "https://www.limerickpost.ie/?p=362547": {
-      "id": "https://www.limerickpost.ie/?p=362547",
-      "title": "Winning start for Limerick in Oscar Traynor",
-      "link": "https://www.limerickpost.ie/2026/10/28/winning-start-for-limerick-in-oscar-traynor/",
-      "description": "LIMERICK District League scored a merited 5-2 away win over the Desmond League in the Oscar Traynor Trophy at Mick Hanly Park, Askeaton mid-week. In the group phase, there is also involvement from Cork and North Tipperary. On Wednesday, the goals for John Lysaght’s team came from Joel Coustrain (2, Aisling Annacotty), Filip Mostowy (Regional [&#8230;]\nThe post Winning start for Limerick in Oscar Traynor appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 18:00:10 +0000",
-      "author": "Mal Keaveney",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T18:47:38.624Z"
-    },
-    "https://www.limerickpost.ie/?p=362590": {
-      "id": "https://www.limerickpost.ie/?p=362590",
-      "title": "Dead pensioner had broken bones in her neck and almost 50 bruises on her body",
-      "link": "https://www.limerickpost.ie/2026/10/28/dead-pensioner-had-broken-bones-in-her-neck-and-almost-50-bruises-on-her-body/",
-      "description": "A PENSIONER allegedly strangled and smothered in her home, suffered two broken bones in her neck and almost 50 bruises to her body in the attack, a court heard Wednesday. Josephine “Josie” Ray, (89), was found dead in her bed, at her home, at St Joseph’s Park, Nenagh, Co Tipperary, on August 4, 2024. The [&#8230;]\nThe post Dead pensioner had broken bones in her neck and almost 50 bruises on her body appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 16:51:51 +0000",
-      "author": "David Raleigh",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T18:47:38.624Z"
-    },
-    "https://www.limerickpost.ie/?p=362545": {
-      "id": "https://www.limerickpost.ie/?p=362545",
-      "title": "Limerick Gardaí warn of theft of home heating oil as colder months set in",
-      "link": "https://www.limerickpost.ie/2026/10/28/limerick-gardai-warn-of-theft-of-home-heating-oil-as-colder-months-set-in/",
-      "description": "GARDAÍ in Abbeyfeale are investigating the theft of home heating oil from a property which had been vacant for two weeks. When the homeowners returned, they discovered oil was siphoned from the tank. Crime Prevention Officer Sergeant Michelle O&#8217;Halloran said: &#8220;This is a good reminder, particularly as we approach the winter months, to make sure [&#8230;]\nThe post Limerick Gardaí warn of theft of home heating oil as colder months set in appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 16:30:36 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-28T18:47:38.624Z"
-    },
-    "https://limerickvoice.com/?p=53246": {
-      "id": "https://limerickvoice.com/?p=53246",
-      "title": "Music and community at the heart of Limerick Dementia Social Club this season",
-      "link": "https://limerickvoice.com/news/music-and-community-at-the-heart-of-limerick-dementia-social-club-this-season/",
-      "description": "The Limerick Dementia Social Club has announced a programme of activities for the next several weeks.  ON the first Wednesday of each month, Limerick Dementia Social Club meets at Our Lady of Lourdes Community Centre, Childers Road, from 6.30pm to 8.45pm.  The social club provides an opportunity for people with dementia and their carers to [&#8230;]\nThe post Music and community at the heart of Limerick Dementia Social Club this season appeared first on .",
-      "pubDate": "Wed, 28 Oct 2026 16:00:02 +0000",
-      "author": "Anna Kissane",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-28T18:47:39.931Z"
+    "9379506": {
+      "id": "9379506",
+      "title": "‘End of an era’ as Irish peacekeepers return home from Lebanon",
+      "link": "https://www.limerickleader.ie/national/end-of-an-era-as-irish-peacekeepers-return-home-from-lebanon-9379506",
+      "description": "The families of soldiers crowded the arrivals area at Dublin Airport on Friday as 128th Infantry Battalion returned in time for Christmas.",
+      "pubDate": "Fri, 27 Nov 2026 18:01:27 GMT",
+      "author": "Cate McCurry and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/18/cs-e60463eb-ee42-413a-a160-e49a2bb3bf97.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-27T18:49:55.824Z"
     },
     "https://www.limerickpost.ie/?p=362602": {
       "id": "https://www.limerickpost.ie/?p=362602",
@@ -11008,6 +10879,66 @@
       "author": "Khushi Verma",
       "source": "limerickvoice",
       "scrapedAt": "2026-11-27T14:56:46.965Z"
+    },
+    "https://www.limerickpost.ie/?p=364318": {
+      "id": "https://www.limerickpost.ie/?p=364318",
+      "title": "Retiring judge slams ‘sexual’ slurs aimed at court-appointed Gardaí",
+      "link": "https://www.limerickpost.ie/2026/11/27/retiring-judge-slams-sexual-slurs-aimed-at-court-appointed-gardai/",
+      "description": "LIMERICK District Court judge Patricia Harney, on her retirement on Thursday (November 26), said she was shocked at the amount of “misogynistic” and “unacceptable sexual” verbal abuse slung by offenders at female Gardaí who are working at the court. Judge Harney praised the court-appointed Gardaí, particularly female members, who, she said, continued to conduct themselves [&#8230;]\nThe post Retiring judge slams ‘sexual’ slurs aimed at court-appointed Gardaí appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 18:00:48 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=364370": {
+      "id": "https://www.limerickpost.ie/?p=364370",
+      "title": "Tredwell going from strength to strength",
+      "link": "https://www.limerickpost.ie/2026/11/27/tredwell-going-from-strength-to-strength/",
+      "description": "FOUNDED by Stefan Uhlemann in his humble garage in Limerick in 1991, Tredwell Electrical has grown to become an international company renowned for products that are synonymous with quality, reliability, and performance. Over the last three decades, the company has evolved into a trailblazer in lean manufacturing, specializing in electrical control panels and system integration. [&#8230;]\nThe post Tredwell going from strength to strength appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 17:56:59 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=364334": {
+      "id": "https://www.limerickpost.ie/?p=364334",
+      "title": "Jury in Scarlett Faulkner murder trial to begin deliberations next week",
+      "link": "https://www.limerickpost.ie/2026/11/27/jury-in-scarlett-faulkner-murder-trial-to-begin-deliberations-next-week/",
+      "description": "THE jury in the Scarlett Faulkner murder trial at the Central Criminal Court in Dublin have been sent home for the weekend and are expected to begin deliberations on Monday (November 30). A 17-year-old teenage girl, who cannot be identified because she is a minor, has pleaded not guilty to murdering Ms Faulkner but guilty [&#8230;]\nThe post Jury in Scarlett Faulkner murder trial to begin deliberations next week appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 17:11:33 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=363673": {
+      "id": "https://www.limerickpost.ie/?p=363673",
+      "title": "Court hears man had knife taped to arm for own protection",
+      "link": "https://www.limerickpost.ie/2026/11/27/court-hears-man-had-knife-taped-to-arm-for-own-protection/",
+      "description": "A MAN who walked into Henry Street Garda Station with a knife strapped to his arm told Gardaí he had it for his own protection. David Kelly (42), of no fixed abode, pleaded guilty in Limerick District Court to a charge under the Firearms Act for possession of the knife on March 28 last. He [&#8230;]\nThe post Court hears man had knife taped to arm for own protection appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 16:30:26 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=364330": {
+      "id": "https://www.limerickpost.ie/?p=364330",
+      "title": "Shipment of cannabis from USA seized at Shannon Airport",
+      "link": "https://www.limerickpost.ie/2026/11/27/shipment-of-cannabis-from-usa-seized-at-shannon-airport/",
+      "description": "REVENUE Customs officers and Gardaí seized a large shipment of cannabis at Shannon Airport this Friday (November 27). The seizure came as part of routine operations from Revenue officers at Shannon Airport, with the assistance of colleagues based in Galway. 10kg of herbal cannabis worth an estimated €140,000 was seized from a shipment originating from [&#8230;]\nThe post Shipment of cannabis from USA seized at Shannon Airport appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 16:11:33 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=363937": {
+      "id": "https://www.limerickpost.ie/?p=363937",
+      "title": "Community Finance Ireland celebrates €2m in funding for Limerick at 25th anniversary",
+      "link": "https://www.limerickpost.ie/2026/11/27/community-finance-ireland-celebrates-e2m-in-funding-for-limerick-at-25th-anniversary/",
+      "description": "ALMOST €2m in funding has been spread across Limerick communities for over two decades. Community Finance Ireland (CFI) are celebrating 25 years giving back to community-led organisations in Limerick (€1.9m) and across Ireland (€134m). Since its first loan in 2001 as the Ulster Community Investment Trust (UCIT), CFI has evolved from a Northern Ireland-focused lender [&#8230;]\nThe post Community Finance Ireland celebrates €2m in funding for Limerick at 25th anniversary appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 15:00:47 +0000",
+      "author": "Sarah Coleman",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T18:49:55.435Z"
     }
   },
   "rewritten": {
@@ -11253,11 +11184,6 @@
       "imageCredit": "freelance",
       "rewrittenAt": "2026-10-31T20:32:13.891Z"
     },
-    "9313286": {
-      "skipped": true,
-      "duplicateOf": "9308453",
-      "rewrittenAt": "2026-10-28T15:56:02.409Z"
-    },
     "9313655": {
       "headline": "Free Jobs Expo Returns to Limerick This November",
       "summary": "The Jobs Expo Limerick careers fair is taking place at The Greenhills Hotel on Saturday 7th November with free entry for attendees.",
@@ -11297,11 +11223,6 @@
       "imageCredit": "PICTURE: ADRIAN BUTLER",
       "rewrittenAt": "2026-10-31T20:30:44.030Z"
     },
-    "9315631": {
-      "skipped": true,
-      "duplicateOf": "https://www.limerickpost.ie/?p=362563",
-      "rewrittenAt": "2026-10-28T18:49:09.685Z"
-    },
     "9315666": {
       "headline": "Family Fun Abounds at Limerick's Halloween and Harvest Festivals",
       "summary": "Limerick's Halloween and Harvest festivals have delivered family-friendly celebrations across the city.",
@@ -11318,11 +11239,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/11/48/KRB-25-10-2026-LCCC-Home-of-Halloween-113-81b769b5.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "PICTURE: KIERAN RYAN-BENSON",
       "rewrittenAt": "2026-10-31T20:31:47.018Z"
-    },
-    "9315676": {
-      "skipped": true,
-      "duplicateOf": "9310943",
-      "rewrittenAt": "2026-10-28T18:49:09.686Z"
     },
     "9315796": {
       "skipped": true,
@@ -17653,6 +17569,23 @@
       "imageCredit": "File Photo",
       "rewrittenAt": "2026-11-24T16:13:44.335Z"
     },
+    "9370267": {
+      "headline": "Treaty County Rugby Teams Prepare For All-Ireland League Return",
+      "summary": "All seven Limerick sides return to Energia All-Ireland League action this weekend following a three-week break.",
+      "story": "Energia All-Ireland League action resumes this weekend after a three-week break, with all seven teams from the Treaty County back on the pitch.",
+      "localAngle": "All seven Limerick-based sides in the Energia All-Ireland League are returning to action this weekend after a three-week break.",
+      "section": "Sport",
+      "importance": 2,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "All-Ireland League action resumes after three-week break",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/rugby/all-ireland-league-action-resumes-after-three-week-break-9370267",
+      "publishedAt": "Fri, 27 Nov 2026 17:30:50 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/24/10/12/Old-Crescent-v-Thomond-in-the-AIL-Division-2B-South-8.jpeg?width=1200&auto=webp&trim=75%2C3%2C127%2C0",
+      "imageCredit": "Brendan Gleeson",
+      "rewrittenAt": "2026-11-27T18:51:09.317Z"
+    },
     "9370326": {
       "headline": "Department of Justice Confirms Gardai Will Keep Court Prosecution Role",
       "summary": "The Department of Justice has stated that An Garda Síochána will retain its court prosecution role despite comments from the Garda Commissioner.",
@@ -18418,106 +18351,26 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/14/cs-c2e6ad06-342e-4593-b4ab-c016fdcc3e64.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-27T14:58:27.090Z"
     },
-    "https://www.limerickpost.ie/?p=362543": {
-      "headline": "Limerick Council Rolls Out Communication Boards Across 16 County Libraries",
-      "summary": "Following a query from Social Democrats Councillor Shane Hickey-O'Mara, Limerick City and County Council confirmed that new communication boards have been delivered, wall-mounted, and distributed to all 16 library branches across the county.",
-      "story": "New communication boards have been successfully rolled out across all 16 library branches in Limerick city and county, local authority officials have confirmed.\n\nThe update was provided following a query from Social Democrats councillor Shane Hickey-O’Mara, who had asked the Council for details regarding the procurement, timeline, and rollout of the accessibility tools in local authority-run spaces.\n\nIn response, the Council revealed that relevant charity organisations were consulted during the process. Product samples were subsequently reviewed, leading to an order being placed to meet the anticipated needs of the library service.\n\nThe selected communication boards have now been delivered and distributed across all 16 branches. The local authority confirmed that wall-mounted signs have been installed, alongside A4 laminated boards designed for individuals of different abilities to use.",
-      "localAngle": "The new accessibility boards have been installed in all 16 library branches across Limerick city and county.",
-      "section": "Council",
-      "importance": 3,
-      "positivity": 4,
-      "originalTitle": "Update sought on communication boards in Limerick council ran spaces",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/update-sought-on-communication-boards-in-limerick-council-ran-spaces/",
-      "publishedAt": "Wed, 28 Oct 2026 15:00:36 +0000",
-      "rewrittenAt": "2026-10-28T15:57:12.937Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/08/Cllr-Shane-Hickey-OMara-5-scaled-e1723196424541.jpg",
-      "imageCheckedAt": "2026-10-28T15:59:16.814Z"
-    },
-    "https://www.limerickpost.ie/?p=362541": {
-      "headline": "Limerick City and County Council seizes abandoned horse in John Carew Park",
-      "summary": "Limerick City and County Council has seized an abandoned 1.5-year-old horse in the John Carew Park area of the city. The animal will be re-homed outside of Limerick if not claimed within five days.",
-      "story": "Limerick City and County Council has removed an abandoned horse from a busy residential area in Limerick City.\n\nAccording to a statement from the local authority, the 1.5-year-old brown and white male horse was seized on October 6 at Collivet Court in John Carew Park. \n\nThe Council confirmed that the owners or keepers of the animal are currently unknown. Under local procedures, seized horses that remain unclaimed after a five-day period are re-homed to shelters outside of Limerick.",
-      "localAngle": "The incident involves the removal of an abandoned animal from a residential neighbourhood in Limerick City by the local authority.",
-      "section": "Council",
-      "importance": 3,
-      "positivity": 3,
-      "originalTitle": "Another horse seized by Limerick council",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/another-horse-seized-by-limerick-council/",
-      "publishedAt": "Wed, 28 Oct 2026 13:30:44 +0000",
-      "rewrittenAt": "2026-10-28T15:58:03.269Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/03/horse-Irina-Beletskaya-unsplash-irina-beletskaya-P5vrA1pQ5xg-unsplash.jpg",
-      "imageCheckedAt": "2026-10-28T15:59:17.515Z"
-    },
-    "https://www.limerickpost.ie/?p=362539": {
-      "headline": "Cllr Elena Secas calls for dedicated Bus Éireann office in Limerick",
-      "summary": "Independent Councillor Elena Secas is pushing for a dedicated Bus Éireann communication office in Limerick to resolve ongoing delays faced by parents dealing with school transport queries.",
-      "story": "Independent Councillor Elena Secas has called for the establishment of a dedicated Bus Éireann communication office in Limerick. The City East representative raised the issue following persistent difficulties experienced by local parents trying to contact the transport provider regarding school transport queries.\n\nAccording to Cllr Secas, families are currently forced to deal exclusively with the main Bus Éireann office in Dublin, with no direct contact route available for the Limerick branch. She stated that repeated phone calls, emails, and online forms are frequently left unanswered for weeks at a time.\n\n\"This lack of communication makes it extremely difficult to support families and resolve problems in a timely manner,\" Cllr Secas said, adding that the delays carry serious consequences for local households and cause widespread frustration.",
-      "localAngle": "The proposed communication office would directly benefit Limerick families struggling to resolve school transport issues with the national provider.",
-      "section": "Council",
-      "importance": 3,
-      "positivity": 2,
-      "originalTitle": "Dedicated Bus Éireann communication office on Cllr wishlist",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/dedicated-bus-eireann-communication-office-on-cllr-wishlist/",
-      "publishedAt": "Wed, 28 Oct 2026 12:00:42 +0000",
-      "rewrittenAt": "2026-10-28T15:58:38.820Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/10/Elena-secas-Last-ful-Co-Meeting-scaled.webp",
-      "imageCheckedAt": "2026-10-28T15:59:17.780Z"
-    },
-    "https://www.limerickpost.ie/?p=362590": {
+    "9379270": {
       "skipped": true,
-      "duplicateOf": "9311853",
-      "rewrittenAt": "2026-10-28T18:49:09.686Z"
+      "duplicateOf": "https://www.limerickpost.ie/?p=364330",
+      "rewrittenAt": "2026-11-27T18:50:45.826Z"
     },
-    "https://www.limerickpost.ie/?p=362547": {
-      "headline": "Limerick District League kick off Oscar Traynor campaign with 5-2 win over Desmond League",
-      "summary": "John Lysaght's Limerick side secured a 5-2 away victory against the Desmond League at Mick Hanly Park in Askeaton on Wednesday. Goals from Joel Coustrain, Filip Mostowy, Vinny Ryan, and James Fitzgerald got the campaign off to a winning start.",
-      "story": "The Limerick District League made a winning start to their Oscar Traynor Trophy campaign this week, securing a 5-2 away victory over the Desmond League at Mick Hanly Park in Askeaton.\n\nManaged by John Lysaght, the Limerick team found the net five times mid-week to claim the opening points in a group phase that also features Cork and North Tipperary.\n\nThe goals came courtesy of a brace from Aisling Annacotty's Joel Coustrain, alongside strikes from Filip Mostowy of Regional United, Ballynanty Rovers player Vinny Ryan, and James Fitzgerald of Geraldines.\n\nLimerick will be looking to build on this strong opening performance as they aim to capture the competition outright for the first time since 2019.",
-      "localAngle": "The Limerick District League side represents local soccer clubs in the region as they compete in the inter-league Oscar Traynor Trophy.",
-      "section": "Sport",
-      "importance": 3,
-      "positivity": 4,
-      "originalTitle": "Winning start for Limerick in Oscar Traynor",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/winning-start-for-limerick-in-oscar-traynor/",
-      "publishedAt": "Wed, 28 Oct 2026 18:00:10 +0000",
-      "rewrittenAt": "2026-10-28T18:49:30.919Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/LDL.jpg",
-      "imageCheckedAt": "2026-10-28T18:50:09.295Z"
-    },
-    "https://www.limerickpost.ie/?p=362545": {
-      "headline": "Abbeyfeale Homeowners Targeted as Thieves Siphon Heating Oil From Vacant Property",
-      "summary": "Gardaí in Abbeyfeale have launched an investigation after thieves siphoned home heating oil from a property left vacant for two weeks. Authorities have issued a security warning to homeowners across Limerick as colder weather arrives.",
-      "story": "Gardaí in Abbeyfeale are investigating the theft of home heating oil from a local property after thieves targeted a house that had been vacant for just two weeks. When the homeowners returned to the premises, they discovered that the oil had been siphoned directly from their tank.\n\nIn response to the incident, Crime Prevention Officer Sergeant Michelle O’Halloran has issued a timely warning to residents across Limerick as temperatures begin to drop. She urged homeowners to ensure their oil tanks are properly secured ahead of the winter months.\n\n\"If possible, consider installing a lockable tank cover or security cage, and make sure the tank is positioned in a secure and well-lit area,\" Sergeant O’Halloran said. She added that external lighting, CCTV systems, and house alarms can also serve as effective deterrents against fuel theft.\n\nAuthorities have also advised residents who plan on leaving their homes vacant for any period of time to ask a trusted neighbour to keep a watchful eye on the property and immediately report any suspicious activity to local Gardaí.",
-      "localAngle": "The incident occurred at a property in Abbeyfeale, prompting local Gardaí to issue a winter security warning for homeowners across Limerick.",
-      "section": "News",
-      "importance": 3,
-      "positivity": 2,
-      "originalTitle": "Limerick Gardaí warn of theft of home heating oil as colder months set in",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/limerick-gardai-warn-of-theft-of-home-heating-oil-as-colder-months-set-in/",
-      "publishedAt": "Wed, 28 Oct 2026 16:30:36 +0000",
-      "rewrittenAt": "2026-10-28T18:49:53.325Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2022/05/IMG_3-4iE-Underfloor-Heating-operated-by-phone-World-of-Tiles-scaled.jpg",
-      "imageCheckedAt": "2026-10-28T18:50:09.901Z"
-    },
-    "https://limerickvoice.com/?p=53246": {
-      "headline": "Limerick Dementia Social Club Announces Autumn and Winter Programme of Activities",
-      "summary": "The Limerick Dementia Social Club has released its upcoming schedule of events at Our Lady of Lourdes Community Centre on Childers Road, offering music, choirs, and support sessions for people living with dementia and their carers.",
-      "story": "The Limerick Dementia Social Club has announced its new schedule of activities for the coming months, offering a regular meeting space for people living with dementia and their carers on the first Wednesday of every month.\n\nHeld at Our Lady of Lourdes Community Centre on Childers Road from 6.30pm to 8.45pm, the club aims to provide a non-judgemental space to socialise and combat isolation. Established in 2018 by Mags O’Sullivan and her co-workers, the initiative connects members with local performers, including a planned ‘Fleming Ball’ and a ‘Craic agus Ceol’ session on Wednesday, November 4. Professional music therapist Cathy McGlynn also leads the ‘Melodies Memory Choir’ every third Wednesday.\n\nMs O’Sullivan noted the profound impact of music on attendees, particularly those experiencing communication difficulties. \"We have people in the club that have difficulty with communication and expressive language, yet when we sing together, they may remember a whole verse of a song,\" she said. In addition to music, monthly gatherings feature guest speakers providing practical advice on nutrition, mobility, and care strategies for carers.\n\nThe club will host a Christmas Festive Evening and fundraiser with a raffle and spot prizes on Wednesday, December 2. Anyone seeking further information on the upcoming schedule can contact Mags O’Sullivan via email at limerickdementiasc@gmail.com.",
-      "localAngle": "The club provides vital social and support services for dementia patients and their carers at Our Lady of Lourdes Community Centre on Childers Road.",
+    "9379506": {
+      "headline": "Irish Peacekeepers Arrive Home From Lebanon for Christmas",
+      "summary": "Families welcomed the 128th Infantry Battalion at Dublin Airport on Friday as they returned from Lebanon.",
+      "story": "The families of soldiers crowded the arrivals area at Dublin Airport on Friday as the 128th Infantry Battalion returned home in time for Christmas.",
+      "localAngle": "Local families and soldiers from the region are among those affected by the return of the 128th Infantry Battalion from Lebanon.",
       "section": "News",
       "importance": 3,
       "positivity": 4,
-      "originalTitle": "Music and community at the heart of Limerick Dementia Social Club this season",
-      "originalSource": "limerickvoice",
-      "originalLink": "https://limerickvoice.com/news/music-and-community-at-the-heart-of-limerick-dementia-social-club-this-season/",
-      "publishedAt": "Wed, 28 Oct 2026 16:00:02 +0000",
-      "rewrittenAt": "2026-10-28T18:50:08.971Z",
-      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/10/Limerick-Dementia-Social-Club-Killaloe-Trip_Anna-Kissane.jpg",
-      "imageCheckedAt": "2026-10-28T18:50:10.146Z"
+      "brief": true,
+      "originalTitle": "‘End of an era’ as Irish peacekeepers return home from Lebanon",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/end-of-an-era-as-irish-peacekeepers-return-home-from-lebanon-9379506",
+      "publishedAt": "Fri, 27 Nov 2026 18:01:27 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/18/cs-e60463eb-ee42-413a-a160-e49a2bb3bf97.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-27T18:50:51.511Z"
     },
     "https://www.limerickpost.ie/?p=362585": {
       "skipped": true,
@@ -24521,6 +24374,80 @@
       "rewrittenAt": "2026-11-27T15:01:01.075Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/03/Rising-Stars-e1774618853162.jpg",
       "imageCheckedAt": "2026-11-27T15:01:12.616Z"
+    },
+    "https://www.limerickpost.ie/?p=364318": {
+      "skipped": true,
+      "duplicateOf": "9376586",
+      "rewrittenAt": "2026-11-27T18:50:45.826Z"
+    },
+    "https://www.limerickpost.ie/?p=364334": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364324",
+      "rewrittenAt": "2026-11-27T18:50:45.826Z"
+    },
+    "https://www.limerickpost.ie/?p=364370": {
+      "headline": "Tredwell Electrical marks 35 years with new 18,000 sq ft Shannon facility",
+      "summary": "Founded in a Limerick garage in 1991, Tredwell Electrical has expanded its operations with a new manufacturing facility in Clare, bringing its total footprint to 37,200 square feet.",
+      "story": "Tredwell Electrical is celebrating its 35th anniversary by opening a new 18,000 square-foot manufacturing facility in Shannon, County Clare. The company, which specializes in electrical control panels and system integration, was originally founded by Stefan Uhlemann in a humble garage in Limerick in 1991.\n\nMinister of State Timmy Dooley TD officially opened the new site at the Shannon Airport Business Park, which is supported by The Shannon Airport Group. The new facility complements Tredwell’s existing 19,200 square-foot operation in Limerick, bringing the company's total manufacturing footprint to 37,200 square feet.\n\nGlenn Bain, General Manager of Tredwell Electrical, said: “আমরা very excited to open the new state of the art facility in Shannon, to help meet future expansion and production requirements.”\n\nThe expansion significantly increases the firm's production capacity to support future growth. The investment in the Shannon Airport Business Park—home to over 300 companies and 10,000 employees—reinforces the wider Mid West region's reputation as a center for engineering and advanced manufacturing while supporting local employment.",
+      "localAngle": "The company was originally founded in Limerick in 1991 and maintains its existing 19,200sq/ft operation in the city alongside its new Clare facility.",
+      "section": "Business",
+      "importance": 4,
+      "positivity": 4,
+      "originalTitle": "Tredwell going from strength to strength",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/27/tredwell-going-from-strength-to-strength/",
+      "publishedAt": "Fri, 27 Nov 2026 17:56:59 +0000",
+      "rewrittenAt": "2026-11-27T18:51:01.091Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/DSC_0729.jpg",
+      "imageCheckedAt": "2026-11-27T18:51:37.461Z"
+    },
+    "https://www.limerickpost.ie/?p=363673": {
+      "headline": "Limerick Man Handed Suspended Sentence After Walking into Garda Station with Taped Knife",
+      "summary": "David Kelly walked into Henry Street Garda Station asking for an ambulance with a Stanley knife taped to his arm. He pleaded guilty to weapons and theft charges at Limerick District Court and received a four-week suspended sentence.",
+      "story": "A 42-year-old man who walked into Henry Street Garda Station with a Stanley knife strapped to his arm told Gardaí he was carrying it for his own protection, a court has heard. David Kelly, of no fixed abode, appeared before Limerick District Court where he pleaded guilty to a charge under the Firearms Act for possession of the knife on March 28.\n\nDuring the hearing, evidence was presented that Mr Kelly had entered the city centre Garda station seeking help and stating that he required an ambulance. A Garda witness told Judge Patricia Harney that the defendant had the knife taped directly to his arm, and when questioned about it, replied that it was for self-protection.\n\nAlongside the weapons charge, Mr Kelly also entered guilty pleas for two separate retail thefts in the city. He admitted to stealing €45 worth of goods from Mace on William Street and €190 worth of goods from Dunnes Stores on March 26.\n\nThe court heard that Mr Kelly has 27 previous convictions on his record, which include seven for theft, one for handling stolen goods, and one for burglary. His solicitor informed the judge that his client is currently undertaking a course with Slaintecare. Judge Harney sentenced Mr Kelly to four weeks in prison, which was suspended for a full year.",
+      "localAngle": "The incident occurred at Henry Street Garda Station and involved retail thefts on William Street and at Dunnes Stores in Limerick City.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Court hears man had knife taped to arm for own protection",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/27/court-hears-man-had-knife-taped-to-arm-for-own-protection/",
+      "publishedAt": "Fri, 27 Nov 2026 16:30:26 +0000",
+      "rewrittenAt": "2026-11-27T18:51:19.531Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/10/Limerick-Court-1200x900-1.jpg",
+      "imageCheckedAt": "2026-11-27T18:51:38.494Z"
+    },
+    "https://www.limerickpost.ie/?p=364330": {
+      "headline": "Revenue and Gardaí seize €140,000 in herbal cannabis at Shannon Airport",
+      "summary": "Customs officers seized 10kg of herbal cannabis originating from the USA during routine operations at Shannon Airport on Friday. The illicit shipment, valued at €140,000, was destined for an address in the west of the country.",
+      "story": "Revenue Customs officers and Gardaí intercepted a large shipment of illegal drugs at Shannon Airport on Friday (November 27), seizing 10kg of herbal cannabis with an estimated street value of €140,000.\n\nThe discovery was made during routine operations carried out by Revenue personnel at the airport, who were assisted by colleagues based in Galway. According to authorities, the drug shipment originated in the United States and was addressed for delivery to the west of Ireland.\n\nRevenue confirmed that investigations into the seizure are currently ongoing. The interception forms part of ongoing operations by customs authorities aimed at targeting the illegal importation of drugs into the country.\n\nAuthorities have appealed to members of the public and businesses who may have information regarding drug smuggling to come forward. Informants can contact Revenue in confidence through their confidential phone line at 1800 295 295.",
+      "localAngle": "The significant drug seizure was made at Shannon Airport, a key international transport hub serving the Limerick and Mid-West region.",
+      "section": "News",
+      "importance": 4,
+      "positivity": 2,
+      "originalTitle": "Shipment of cannabis from USA seized at Shannon Airport",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/27/shipment-of-cannabis-from-usa-seized-at-shannon-airport/",
+      "publishedAt": "Fri, 27 Nov 2026 16:11:33 +0000",
+      "rewrittenAt": "2026-11-27T18:51:28.111Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/Image-1-a%C2%80%C2%93-seized-herbal-cannabis.jpg",
+      "imageCheckedAt": "2026-11-27T18:51:38.806Z"
+    },
+    "https://www.limerickpost.ie/?p=363937": {
+      "headline": "Community Finance Ireland Marks 25 Years with €1.9m Invested in Limerick",
+      "summary": "Community Finance Ireland has celebrated its 25th anniversary by revealing that nearly €2 million has been distributed to community-led groups, sports clubs, and social enterprises across County Limerick since 2001.",
+      "story": "Community Finance Ireland (CFI) has marked a quarter of a century in operation by highlighting a total of €1.9 million invested into community-led organisations, sports clubs, and social enterprises across County Limerick over the last two decades.\n\nOriginally established in 2001 as the Ulster Community Investment Trust (UCIT), the organisation has grown from its initial Northern Ireland-focused roots to become the only all-island social finance provider. Across the country, CFI has distributed a total of €134 million to various community initiatives.\n\nLocal groups in Limerick looking to access similar funding are being directed to the organisation's website to find out if a social finance loan could benefit their specific community organisation.",
+      "localAngle": "The funding highlights two decades of financial support distributed directly to community groups, sports clubs, and social enterprises across County Limerick.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "Community Finance Ireland celebrates €2m in funding for Limerick at 25th anniversary",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/27/community-finance-ireland-celebrates-e2m-in-funding-for-limerick-at-25th-anniversary/",
+      "publishedAt": "Fri, 27 Nov 2026 15:00:47 +0000",
+      "rewrittenAt": "2026-11-27T18:51:36.931Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/12/Counterfeit-cash-scaled.jpg",
+      "imageCheckedAt": "2026-11-27T18:51:39.099Z"
     }
   }
 }
