@@ -1,6 +1,6 @@
 {
   "meta": {
-    "lastScrape": "2026-11-27T18:50:09.025Z",
+    "lastScrape": "2026-11-27T21:54:28.484Z",
     "totalArticles": 28
   },
   "articles": {
@@ -5572,6 +5572,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-23T15:53:27.126Z"
     },
+    "9367906": {
+      "id": "9367906",
+      "title": "PICTURES: TUS Gaelic Grounds hosts Cumann na mBunscoil finals",
+      "link": "https://www.limerickleader.ie/sport/gaa/pictures-tus-gaelic-grounds-hosts-cumann-na-mbunscoil-finals-9367906",
+      "description": "Holders South Limerick retained the girl’s football title and captured the Larkin Shield while the City took home the Sarsfield Cup",
+      "pubDate": "Fri, 27 Nov 2026 20:30:18 GMT",
+      "author": "Pictures; Adrian Butler",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/11/45/MixCollage-23-Nov-2026-11-52-AM-345-12313f32.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Adrian Butler",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-27T21:54:19.320Z"
+    },
     "9368097": {
       "id": "9368097",
       "title": "Limerick university researcher secures €1m award for emergency healthcare work",
@@ -6204,6 +6216,18 @@
       "imageCredit": "PICTURE: SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T22:24:17.325Z"
+    },
+    "9374459": {
+      "id": "9374459",
+      "title": "Vacant properties targeted by thieves in County Limerick",
+      "link": "https://www.limerickleader.ie/news/crime-courts/vacant-properties-targeted-by-thieves-in-county-limerick-9374459",
+      "description": "A homeowner in Newcastle West returned to her property and discovered two males in a car in her driveway",
+      "pubDate": "Fri, 27 Nov 2026 20:00:34 GMT",
+      "author": "Ellie McCarthy",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/21/19/Iconicstockimage_backs-of-two-gardai-(new-uniforms).png?width=1200&auto=webp&trim=0%2C31%2C0%2C57",
+      "imageCredit": "File photo",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-27T21:54:19.320Z"
     },
     "9374519": {
       "id": "9374519",
@@ -10939,6 +10963,16 @@
       "author": "Sarah Coleman",
       "source": "limerickpost",
       "scrapedAt": "2026-11-27T18:49:55.435Z"
+    },
+    "https://www.limerickpost.ie/?p=364228": {
+      "id": "https://www.limerickpost.ie/?p=364228",
+      "title": "New sports sponsor at MIC",
+      "link": "https://www.limerickpost.ie/2026/11/27/new-sports-sponsor-at-mic/",
+      "description": "ACROSS many sports, teams representing Limerick’s Mary Immaculate College (MIC) will wear new jerseys in 2027. It comes on the back of a three-year deal inked with Comhar Linn INO Teachers’ Credit Union. Feargal O’Callaghan, newly appointed Director of Sport at MIC, welcomed the partnership, highlighting it’s significance for the college’s sporting ambitions. “It will [&#8230;]\nThe post New sports sponsor at MIC appeared first on Limerick Post.",
+      "pubDate": "Fri, 27 Nov 2026 19:30:20 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-27T21:54:19.003Z"
     }
   },
   "rewritten": {
@@ -17300,6 +17334,23 @@
       "skipped": true,
       "duplicateOf": "9368160",
       "rewrittenAt": "2026-11-23T16:04:41.147Z"
+    },
+    "9367906": {
+      "headline": "TUS Gaelic Grounds Welcomes Cumann na mBunscoil Finals",
+      "summary": "South Limerick and the City secured titles at the recent Cumann na mBunscoil finals held at the TUS Gaelic Grounds.",
+      "story": "Holders South Limerick successfully defended their girl’s football title and won the Larkin Shield, while the City claimed the Sarsfield Cup at the TUS Gaelic Grounds.",
+      "localAngle": "The primary schools finals took place at the TUS Gaelic Grounds in Limerick, featuring teams from across South Limerick and the City.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "PICTURES: TUS Gaelic Grounds hosts Cumann na mBunscoil finals",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/gaa/pictures-tus-gaelic-grounds-hosts-cumann-na-mbunscoil-finals-9367906",
+      "publishedAt": "Fri, 27 Nov 2026 20:30:18 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/23/11/45/MixCollage-23-Nov-2026-11-52-AM-345-12313f32.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+      "imageCredit": "Adrian Butler",
+      "rewrittenAt": "2026-11-27T21:54:43.760Z"
     },
     "9368097": {
       "headline": "UL Researcher Professor Rose Galvin Secures €1m Emergency Healthcare Award",
@@ -24448,6 +24499,22 @@
       "rewrittenAt": "2026-11-27T18:51:36.931Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2024/12/Counterfeit-cash-scaled.jpg",
       "imageCheckedAt": "2026-11-27T18:51:39.099Z"
+    },
+    "https://www.limerickpost.ie/?p=364228": {
+      "headline": "MIC Teams to Don New Jerseys in Three-Year Comhar Linn Sponsorship Deal",
+      "summary": "Mary Immaculate College has signed a three-year sponsorship agreement with Comhar Linn INO Teachers' Credit Union, bringing new jerseys to teams across multiple sports in 2027. The partnership coincides with ongoing expansions to the college's sports facilities, including a new gym scheduled to open in spring 2027.",
+      "story": "Teams representing Limerick’s Mary Immaculate College (MIC) will step out in new jerseys next year following a newly inked three-year partnership with Comhar Linn INO Teachers’ Credit Union. The agreement will see the credit union back student athletes across a range of sports starting in 2027.\n\nFeargal O’Callaghan, the newly appointed Director of Sport at MIC, welcomed the collaboration as a major boost for the college's athletic ambitions. \"It will provide valuable support to our teams, helping to enhance the student sporting experience and foster a strong sense of identity and pride among our players,\" he said.\n\nO'Callaghan also pointed to broader developments on campus, noting that the Sports Office is expanding alongside new student initiatives. Construction is currently underway on a new college gym expected to open in spring 2027, which will serve both MIC teams and the wider student body. Sean Murray of Comhar Linn added that the partnership builds on the organization's commitment to supporting future teachers, leaders, and communities across Ireland.\n\nMIC currently offers a range of scholarships and bursaries to support its student population.",
+      "localAngle": "The partnership directly supports student athletes and sports facilities at Limerick's Mary Immaculate College.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 4,
+      "originalTitle": "New sports sponsor at MIC",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/27/new-sports-sponsor-at-mic/",
+      "publishedAt": "Fri, 27 Nov 2026 19:30:20 +0000",
+      "rewrittenAt": "2026-11-27T21:55:02.618Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/IMG_0443.jpg",
+      "imageCheckedAt": "2026-11-27T21:55:03.054Z"
     }
   }
 }
