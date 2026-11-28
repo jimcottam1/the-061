@@ -1,7 +1,7 @@
 {
   "meta": {
-    "lastScrape": "2026-11-27T21:54:28.484Z",
-    "totalArticles": 28
+    "lastScrape": "2026-11-28T14:06:13.122Z",
+    "totalArticles": 27
   },
   "articles": {
     "8353171": {
@@ -86,18 +86,6 @@
       "imageCredit": "Humphrey Bolton CC",
       "source": "limerickleader",
       "scrapedAt": "2026-11-22T13:15:58.775Z"
-    },
-    "9306943": {
-      "id": "9306943",
-      "title": "Crime gang with Limerick links plotted daring museum heists",
-      "link": "https://www.limerickleader.ie/news/crime-courts/crime-gang-with-limerick-links-plotted-daring-museum-heists-9306943",
-      "description": "14 members of the organised crime group were charged and received combined sentences of 71 years’ imprisonment for their involvement in the burglaries",
-      "pubDate": "Wed, 28 Oct 2026 19:00:54 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/23/15/03/Rathkeale-rovers-The-gang-linked-to-international-rhino-horns-thefts.png?width=1200&auto=webp&trim=386%2C0%2C1550%2C0",
-      "imageCredit": "RTE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.423Z"
     },
     "9307537": {
       "id": "9307537",
@@ -219,18 +207,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-10-31T15:15:17.795Z"
     },
-    "9316083": {
-      "id": "9316083",
-      "title": "O'Donoghue looking to finish opening URC block in positive fashion",
-      "link": "https://www.limerickleader.ie/sport/rugby/munster-rugby/odonoghue-looking-to-finish-opening-urc-block-in-positive-fashion-9316083",
-      "description": "Munster play the Sharks in their last URC fixture before the Autumn Internationals halt the competition until early December",
-      "pubDate": "Thu, 29 Oct 2026 08:30:56 GMT",
-      "author": "John Keogh",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/14/24/3598722.jpeg?width=1200&auto=webp&trim=136%2C0%2C1680%2C0",
-      "imageCredit": "SPORTSFILE",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.423Z"
-    },
     "9316342": {
       "id": "9316342",
       "title": "‘The sap burned the skin off my hand’: Limerick’s battle against invasive species",
@@ -241,18 +217,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/28/15/47/IMG20260627120926.jpg?width=1200&auto=webp&trim=1249%2C0%2C1249%2C0",
       "source": "limerickleader",
       "scrapedAt": "2026-11-20T13:57:50.911Z"
-    },
-    "9316641": {
-      "id": "9316641",
-      "title": "Final programme confirmed for Limerick winter festival 'unlike any other'",
-      "link": "https://www.limerickleader.ie/whats-on/arts-and-entertainment/final-programme-confirmed-for-limerick-winter-festival-unlike-any-other-9316641",
-      "description": "The programme brings together some of Ireland's most celebrated performers alongside international favourites and emerging talent",
-      "pubDate": "Thu, 29 Oct 2026 10:00:26 GMT",
-      "author": "Abigail Hayden",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/07/09/14/36/The-Stunning-jpg-Clifden-Arts-Festival-2026-returns-to-Connemara-from-1727-September-2026-with-a-pro.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "LL",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.422Z"
     },
     "9317031": {
       "id": "9317031",
@@ -266,18 +230,6 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T19:25:37.090Z"
     },
-    "9317045": {
-      "id": "9317045",
-      "title": "'Slow down': Limerick driver caught speeding during major garda roads operation",
-      "link": "https://www.limerickleader.ie/news/crime-courts/slow-down-limerick-driver-caught-speeding-during-major-garda-roads-operation-9317045",
-      "description": "An Garda Síochána and the Road Safety Authority are continuing to urge all road users to support their efforts in keeping people safe",
-      "pubDate": "Wed, 28 Oct 2026 21:30:55 GMT",
-      "author": "Ellie McCarthy",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/27/15/57/Iconicstockimage_gardai-light-in-front-of-trees-(autumn).jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "FILE PHOTO",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.423Z"
-    },
     "9317106": {
       "id": "9317106",
       "title": "'If we can help people, we will': Limerick motorcycle group doing good in community",
@@ -289,17 +241,6 @@
       "imageCredit": ".",
       "source": "limerickleader",
       "scrapedAt": "2026-11-02T13:25:09.331Z"
-    },
-    "9317250": {
-      "id": "9317250",
-      "title": "More than a quarter of adults have experienced sexual violence – report",
-      "link": "https://www.limerickleader.ie/national/more-than-a-quarter-of-adults-have-experienced-sexual-violence-report-9317250",
-      "description": "Women, younger adults, bisexual individuals and gay men face significantly higher risks, while most perpetrators are known to victims, it found.",
-      "pubDate": "Thu, 29 Oct 2026 00:01:00 GMT",
-      "author": "Cate McCurry and  Press Association",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/00/cs-a617d0ce-b501-4759-b941-9ca79debf6da.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.423Z"
     },
     "9317345": {
       "id": "9317345",
@@ -324,29 +265,6 @@
       "imageCredit": "SPORTSFILE",
       "source": "limerickleader",
       "scrapedAt": "2026-10-29T15:59:44.057Z"
-    },
-    "9317612": {
-      "id": "9317612",
-      "title": "New Limerick train service nears completion as live testing begins",
-      "link": "https://www.limerickleader.ie/news/new-limerick-train-service-nears-completion-as-live-testing-begins-9317612",
-      "description": "The test unit will return to the line regularly over the coming weeks to support driver route training",
-      "pubDate": "Thu, 29 Oct 2026 10:15:26 GMT",
-      "author": "Abigail Hayden",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/10/58/Limerick-Foynes-Commissioning-1.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-      "imageCredit": "PICTURE: IARNRÓD ÉIREANN",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.422Z"
-    },
-    "9317698": {
-      "id": "9317698",
-      "title": "Simon Harris rejects ‘characterisation’ of phone call with Patrick O’Donovan",
-      "link": "https://www.limerickleader.ie/national/simon-harris-rejects-characterisation-of-phone-call-with-patrick-odonovan-9317698",
-      "description": "The Tánaiste confirmed he spoke to the culture minister shortly before Mr O’Donovan fell ill at a conference in Limerick and was taken to hospital.",
-      "pubDate": "Thu, 29 Oct 2026 10:30:44 GMT",
-      "author": "Cate McCurry and  Press Association",
-      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/10/cs-bc93014c-3f0a-4c74-8152-c04ef99a60cb.jpg?width=1200&auto=webp&crop=3%3A2",
-      "source": "limerickleader",
-      "scrapedAt": "2026-10-29T11:27:59.422Z"
     },
     "9317720": {
       "id": "9317720",
@@ -6135,6 +6053,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
     },
+    "9373154": {
+      "id": "9373154",
+      "title": "Limerick students ‘shine’ at Rotary Ireland Youth Leadership Club final",
+      "link": "https://www.limerickleader.ie/news/school-education/limerick-students-shine-at-rotary-ireland-youth-leadership-club-final-9373154",
+      "description": "Limerick secondary school students showcased their public speaking and leadership skills at a Rotary Ireland competition",
+      "pubDate": "Sat, 28 Nov 2026 14:00:32 GMT",
+      "author": "Claire Noonan",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/50/DSC_1583.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: PAUL MULLINS",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
+    },
     "9373178": {
       "id": "9373178",
       "title": "Opposition’s false Hezbollah claims put troops at risk – Irish Defence Forces",
@@ -6145,6 +6075,30 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/cs-c6f7766a-884f-4835-9ff0-9a1b60d84336.jpg?width=1200&auto=webp&crop=3%3A2",
       "source": "limerickleader",
       "scrapedAt": "2026-11-25T15:29:37.940Z"
+    },
+    "9373205": {
+      "id": "9373205",
+      "title": "Limerick organisations to benefit from Analog Devices’ €200k in donations",
+      "link": "https://www.limerickleader.ie/community/limerick-organisations-to-benefit-from-analog-devices-eur200k-in-donations-9373205",
+      "description": "A wide variety of organisations across Limerick, Cork, Clare, Galway and beyond will benefit from this year's awards",
+      "pubDate": "Sat, 28 Nov 2026 12:00:19 GMT",
+      "author": "Abigail Hayden",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/59/Analog-Community-Awards-027.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: BRIAN ARTHUR",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
+    },
+    "9373288": {
+      "id": "9373288",
+      "title": "SMEs urged to strengthen climate resilience amid ‘significant gaps’",
+      "link": "https://www.limerickleader.ie/news/eco-live/smes-urged-to-strengthen-climate-resilience-amid-significant-gaps-9373288",
+      "description": "News research has highlighted the need to equip businesses and their people for climate-related disruptions",
+      "pubDate": "Sat, 28 Nov 2026 07:00:00 GMT",
+      "author": "Azra Dervish",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/12/24/004-Launch-of-the-Enterprise-Climate-Readiness-2026-Report.jpg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "3rd Party Image",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
     },
     "9373576": {
       "id": "9373576",
@@ -6357,6 +6311,18 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-27T14:56:46.132Z"
     },
+    "9376785": {
+      "id": "9376785",
+      "title": "Caherline looking for rare Limerick success in Munster JHC",
+      "link": "https://www.limerickleader.ie/sport/hurling/caherline-looking-for-rare-limerick-success-in-munster-jhc-9376785",
+      "description": "If Caherline are to follow in the footsteps of the Blackrock team of 2009, they will have to knock over Cork Premier Junior champions Kilshannig",
+      "pubDate": "Sat, 28 Nov 2026 08:30:27 GMT",
+      "author": "Joel Slattery",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/16/19/Caherline-v-Dr-Crokes-4.jpeg?width=1200&auto=webp&trim=50%2C3%2C152%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
+    },
     "9377124": {
       "id": "9377124",
       "title": "Captain ‘assumed the worst’ after hearing gunshots, peacekeeper’s inquest hears",
@@ -6482,75 +6448,38 @@
       "source": "limerickleader",
       "scrapedAt": "2026-11-27T18:49:55.824Z"
     },
-    "https://www.limerickpost.ie/?p=362602": {
-      "id": "https://www.limerickpost.ie/?p=362602",
-      "title": "Cocaine and heroin valued €644,000 seized in Limerick",
-      "link": "https://www.limerickpost.ie/2026/10/29/cocaine-and-heroin-valued-e644000-seized-in-limerick/",
-      "description": "GARDAI attached to the Limerick Divisional Drug Unit have seized cocaine and heroin with an estimated street value of approximately €644,000 in Limerick. The seizure was made on Wednesday 28th October 2026 as part of an operation targeting the distribution of controlled drugs in the Mid-West region. A search was conducted under warrant at a [&#8230;]\nThe post Cocaine and heroin valued €644,000 seized in Limerick appeared first on Limerick Post.",
-      "pubDate": "Thu, 29 Oct 2026 10:54:21 +0000",
-      "author": "Bernie English",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
+    "9379831": {
+      "id": "9379831",
+      "title": "Opposition TDs urge leaders to rethink backing for Health Minister in HSE row",
+      "link": "https://www.limerickleader.ie/national/opposition-tds-urge-leaders-to-rethink-backing-for-health-minister-in-hse-row-9379831",
+      "description": "It comes after claims from former HSE boss Anne O’Connor in an ‘explosive’ letter sent by her legal team.",
+      "pubDate": "Fri, 27 Nov 2026 23:17:48 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/23/cs-547c7700-2f4d-4bfc-816b-40546d797da6.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
     },
-    "https://www.limerickpost.ie/?p=362585": {
-      "id": "https://www.limerickpost.ie/?p=362585",
-      "title": "Jail sentence for dodgy box conviction",
-      "link": "https://www.limerickpost.ie/2026/10/29/jail-sentence-for-dodgy-box-conviction/",
-      "description": "A LIMERICK man who admitted laundering money for an international criminal enterprise behind so-called illegal ‘dodgy box’ streaming services, has received a fully suspended two-year jail sentence. Aidan Galvin, (53), Galvone Road, Kennedy Park, pleaded guilty at Limerick Circuit Criminal Court to laundering €28,000, through his bank account, to criminals involved in a €750,000 illegal [&#8230;]\nThe post Jail sentence for dodgy box conviction appeared first on Limerick Post.",
-      "pubDate": "Thu, 29 Oct 2026 10:30:35 +0000",
-      "author": "Editor",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
+    "9379840": {
+      "id": "9379840",
+      "title": "‘Devastating loss’ as Irish comedian and presenter PJ Gallagher dies aged 51",
+      "link": "https://www.limerickleader.ie/national/devastating-loss-as-irish-comedian-and-presenter-pj-gallagher-dies-aged-51-9379840",
+      "description": "Taoiseach Micheál Martin and Tánaiste Simon Harris were among those who paid tribute to Gallagher on Friday.",
+      "pubDate": "Sat, 28 Nov 2026 09:21:26 GMT",
+      "author": "Mícheál Ó Scannáil and  Press Association",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/28/09/cs-2dfc945f-d3e0-4588-bdef-bf7f56c29f56.jpg?width=1200&auto=webp&crop=3%3A2",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
     },
-    "https://www.limerickpost.ie/?p=362571": {
-      "id": "https://www.limerickpost.ie/?p=362571",
-      "title": "Spiegeltent Pavilion to bring winter of live music and entertainment to the city centre",
-      "link": "https://www.limerickpost.ie/2026/10/29/spiegeltent-pavilion-to-bring-winter-of-live-music-and-entertainment-to-the-city-centre/",
-      "description": "The Proclaimers, Paul Brady and Sharon Shannon among acts lined up for new city centre venue from Dolans DOLANS will bring the Spiegeltent Pavilion to the North Circular Road this winter, with a programme of concerts, comedy, magic and wrestling running from mid-November into December. Live at the Spiegeltent Pavilion, opposite the Cleeves Factory, is [&#8230;]\nThe post Spiegeltent Pavilion to bring winter of live music and entertainment to the city centre appeared first on Limerick Post.",
-      "pubDate": "Thu, 29 Oct 2026 10:20:43 +0000",
-      "author": "Eric Fitzgerald",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
-    },
-    "https://www.limerickpost.ie/?p=362583": {
-      "id": "https://www.limerickpost.ie/?p=362583",
-      "title": "Limerick bus drivers “terrorised” in run up to Halloween",
-      "link": "https://www.limerickpost.ie/2026/10/29/limerick-bus-drivers-terrorised-in-run-up-to-halloween/",
-      "description": "BUS drivers in parts of Limerick are being &#8220;terrorised&#8221; in the run up to Halloween with gangs of young people throwing fireworks into their vehicles. Some services have been temporarily suspended as a result, mainly impacting the 303 Route serving Pineview to Kilmallock Road and Expressway Route 13 (Limerick-Tralee). Aontú Cllr Sarah Beasley said a [&#8230;]\nThe post Limerick bus drivers &#8220;terrorised&#8221; in run up to Halloween appeared first on Limerick Post.",
-      "pubDate": "Thu, 29 Oct 2026 09:00:00 +0000",
-      "author": "Sarah Coleman",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
-    },
-    "https://www.limerickpost.ie/?p=362567": {
-      "id": "https://www.limerickpost.ie/?p=362567",
-      "title": "Halloween takes over Twilight Thursday with fancy-dress 5km and late-night openings",
-      "link": "https://www.limerickpost.ie/2026/10/29/halloween-takes-over-twilight-thursday-with-fancy-dress-5km-and-late-night-openings/",
-      "description": "Limerick city centre will go into full Halloween mode on Thursday October 29, when Twilight Thursday returns with a packed programme of family events, culture, live music, food offers and late-night openings. Twilight Thursdays take place on the last Thursday of every month, bringing together cultural events, live entertainment and late-night business openings. Family fun [&#8230;]\nThe post Halloween takes over Twilight Thursday with fancy-dress 5km and late-night openings appeared first on Limerick Post.",
-      "pubDate": "Thu, 29 Oct 2026 08:25:32 +0000",
-      "author": "Eric Fitzgerald",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
-    },
-    "https://www.limerickpost.ie/?p=362551": {
-      "id": "https://www.limerickpost.ie/?p=362551",
-      "title": "IN PHOTOS: Catherine McAuley School Halloween party",
-      "link": "https://www.limerickpost.ie/2026/10/28/in-photos-catherine-mcauley-school-halloween-party/",
-      "description": "THIS years Halloween Party at Catherine McAuley School was full of trick or treating, spooky costumes and lots of fun.\nThe post IN PHOTOS: Catherine McAuley School Halloween party appeared first on Limerick Post.",
-      "pubDate": "Wed, 28 Oct 2026 19:30:45 +0000",
-      "author": "Sarah Coleman",
-      "source": "limerickpost",
-      "scrapedAt": "2026-10-29T11:27:59.114Z"
-    },
-    "https://limerickvoice.com/?p=53250": {
-      "id": "https://limerickvoice.com/?p=53250",
-      "title": "Limerick striker stars in shock Carabao Cup upset over Arsenal",
-      "link": "https://limerickvoice.com/sport/ronan-coughlan-fleetwood-town-arsenal-carabao-cup/",
-      "description": "The Limerick-born striker scored in the penalty shootout as Fleetwood Town dumped Premier League champions Arsenal out of the Carabao Cup. RONAN Coughlan’s football career has taken him from Mungret Regional to English Football, and on Tuesday night he aided his team in a memorable result against Arsenal. The 30-year-old scored a penalty as Fleetwood [&#8230;]\nThe post Limerick striker stars in shock Carabao Cup upset over Arsenal appeared first on .",
-      "pubDate": "Wed, 28 Oct 2026 20:21:49 +0000",
-      "author": "Kerry Sheehan",
-      "source": "limerickvoice",
-      "scrapedAt": "2026-10-29T11:28:00.062Z"
+    "9379878": {
+      "id": "9379878",
+      "title": "Read our Fiat 600 Petrol Manual Long-term test: Report 1, getting to know you ",
+      "link": "https://www.limerickleader.ie/lifestyle/cars/fiat-600-petrol-long-term-test-fiat-600-la-prima-review-fiat-600-petrol-manual-fiat-600-trim-levels-fiat-600-la-prima-equipment-car-review-9379880",
+      "description": "Two weeks in, I’m sold on the massage seat and the proper buttons, but sharing the Fiat with my wife has exposed one feature I wish it had",
+      "pubDate": "Sat, 28 Nov 2026 10:25:10 GMT",
+      "author": "Gareth Butterfield",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/28/8/43/Rainy-Fiat-600-with-Android-Auto-inset.png?width=1200&auto=webp&trim=0%2C261%2C0%2C0",
+      "source": "limerickleader",
+      "scrapedAt": "2026-11-28T14:06:06.396Z"
     },
     "https://www.limerickpost.ie/?p=362612": {
       "id": "https://www.limerickpost.ie/?p=362612",
@@ -10973,6 +10902,86 @@
       "author": "Mal Keaveney",
       "source": "limerickpost",
       "scrapedAt": "2026-11-27T21:54:19.003Z"
+    },
+    "https://www.limerickpost.ie/?p=364245": {
+      "id": "https://www.limerickpost.ie/?p=364245",
+      "title": "Limerick North Munster Rotary to erect Rembrance Tree on Monday",
+      "link": "https://www.limerickpost.ie/2026/11/28/limerick-north-munster-rotary-to-erect-rembrance-tree-on-monday/",
+      "description": "LIMERICK North Munster Rotary Club will erect its annual Remembrance Tree this coming Monday (November 30) at Bedford Row. The tree is the focus for collecting for local charities. Cuan Mhuire, the Limerick branch of the Red Cross and Midwest Simon are the beneficiaries this year. Members of the Rotary Club and charity volunteers will [&#8230;]\nThe post Limerick North Munster Rotary to erect Rembrance Tree on Monday appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 13:00:45 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.240Z"
+    },
+    "https://www.limerickpost.ie/?p=364328": {
+      "id": "https://www.limerickpost.ie/?p=364328",
+      "title": "Limerick Garda policing plan for the naughty and nice this Christmas",
+      "link": "https://www.limerickpost.ie/2026/11/28/limerick-garda-policing-plan-for-the-naughty-and-nice-this-christmas/",
+      "description": "ENHANCED resournces, additional policing hours, and community policing initiatives will form the cornerstone of the Limerick City Centre Christmas Policing Plan. That’s according to a statement from An Garda Síochána as the city’s Christmas plan to crack down on crime was launched. According to Gardaí, the plan will “strengthen crime prevention measures as people enjoy [&#8230;]\nThe post Limerick Garda policing plan for the naughty and nice this Christmas appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 11:45:24 +0000",
+      "author": "Adam Leahy",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364373": {
+      "id": "https://www.limerickpost.ie/?p=364373",
+      "title": "Final call issued to Limerick businesses for Ryder Cup 2027 opportunities",
+      "link": "https://www.limerickpost.ie/2026/11/28/final-call-issued-to-limerick-businesses-for-ryder-cup-2027-opportunities/",
+      "description": "LOCAL businesses hoping to secure a role in the delivery of one of the world&#8217;s biggest sporting events are being urged to act now, as the deadline to register interest in Ryder Cup 2027 subcontracting opportunities is fast approaching. The Ryder Cup 2027, which will take place at Adare Manor, County Limerick in September 2027, [&#8230;]\nThe post Final call issued to Limerick businesses for Ryder Cup 2027 opportunities appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 11:01:39 +0000",
+      "author": "Staff Reporter",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364231": {
+      "id": "https://www.limerickpost.ie/?p=364231",
+      "title": "Man found not guilty of attempted murder but guilty of arson following petrol attack",
+      "link": "https://www.limerickpost.ie/2026/11/28/man-found-not-guilty-of-attempted-murder-but-guilty-of-arson-following-petrol-attack/",
+      "description": "A LIMERICK jury acquitted a man of a charge of the attempted murder of another man who told a court he was doused in petrol and set on fire. Chad Allan (28), of Cahir, County Tipperary, was found not guilty following his trial at the Central Criminal Court, sitting in Limerick, of the attempted murder [&#8230;]\nThe post Man found not guilty of attempted murder but guilty of arson following petrol attack appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 11:00:58 +0000",
+      "author": "David Raleigh",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364167": {
+      "id": "https://www.limerickpost.ie/?p=364167",
+      "title": "Limerick singer-songwriter Louise O’Flanagan follows debut single with tender ballad A Broken Heart",
+      "link": "https://www.limerickpost.ie/2026/11/28/limerick-singer-songwriter-louise-oflanagan-follows-debut-single-with-tender-ballad-a-broken-heart/",
+      "description": "Limerick singer-songwriter Louise O’Flanagan has followed her debut single with ‘A Broken Heart’, the second release from her six-song project Where the Heart Listens. O’Flanagan, who divides her time between Limerick and Kilkee, County Clare, released her debut single ‘Crooked Crown’ in September after more than three decades of songwriting. A Broken Heart is a [&#8230;]\nThe post Limerick singer-songwriter Louise O’Flanagan follows debut single with tender ballad A Broken Heart appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 09:20:39 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364196": {
+      "id": "https://www.limerickpost.ie/?p=364196",
+      "title": "14 women murdered in Limerick since 1996 as gender violence numbers soar",
+      "link": "https://www.limerickpost.ie/2026/11/28/14-women-murdered-in-limerick-since-1996-as-gender-violence-numbers-soar/",
+      "description": "THE NUMBER of women who were murdered in Limerick since 1996 stands at 14, the fourth highest number in the country. That&#8217;s according to a new report from Women&#8217;s Aid, which shows that femicides have almost doubled nationally in the last year. The Femicide Watch Report, published by Women&#8217;s Aid, revealed there was a nearly [&#8230;]\nThe post 14 women murdered in Limerick since 1996 as gender violence numbers soar appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 09:00:29 +0000",
+      "author": "Bernie English",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364137": {
+      "id": "https://www.limerickpost.ie/?p=364137",
+      "title": "Limerick artist Peter Donnelly to open solo exhibition",
+      "link": "https://www.limerickpost.ie/2026/11/28/limerick-artist-peter-donnelly-to-open-solo-exhibition/",
+      "description": "Limerick artist, musician and songwriter Peter Donnelly will open a new solo exhibition, &#8216;Unbroken Threads&#8217;, on Friday December 4. The show, the first physical exhibition in some time from the frontman of The O&#8217;Malley&#8217;s, runs until Saturday December 19 at At 6s &#38; 7s Gallery on Davis Street, Tipperary Town. Donnelly describes his art and [&#8230;]\nThe post Limerick artist Peter Donnelly to open solo exhibition appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 08:50:38 +0000",
+      "author": "Eric Fitzgerald",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
+    },
+    "https://www.limerickpost.ie/?p=364336": {
+      "id": "https://www.limerickpost.ie/?p=364336",
+      "title": "Outstanding Cillian Murphy helps ROI into knock-outs at World Cup",
+      "link": "https://www.limerickpost.ie/2026/11/28/outstanding-cillian-murphy-helps-roi-into-knock-outs-at-world-cup/",
+      "description": "LIMERICK’S Cillian Murphy is a key member of the Republic of Ireland squad that has qualified, as group runners-up, for the knock-out stages of the 2026 U-17 World Cup in Qatar, Dubai. Narrowly beaten 2-1 by mighty Brazil, subsequent group winners, in the opening fixture, John Cotter’s side have since beaten both Costa Rica (2-0) [&#8230;]\nThe post Outstanding Cillian Murphy helps ROI into knock-outs at World Cup appeared first on Limerick Post.",
+      "pubDate": "Sat, 28 Nov 2026 07:30:09 +0000",
+      "author": "Mal Keaveney",
+      "source": "limerickpost",
+      "scrapedAt": "2026-11-28T14:06:06.241Z"
     }
   },
   "rewritten": {
@@ -11355,11 +11364,6 @@
       "imageCredit": "LL",
       "rewrittenAt": "2026-11-02T19:27:46.660Z"
     },
-    "9317045": {
-      "skipped": true,
-      "duplicateOf": "https://limerickvoice.com/?p=53174",
-      "rewrittenAt": "2026-10-29T11:29:09.022Z"
-    },
     "9317106": {
       "headline": "Limerick Motorcycle Club Focuses on Community Support",
       "summary": "A Limerick motorcycling club meets monthly in the city to help people in the community.",
@@ -11419,11 +11423,6 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/10/29/10/58/Limerick-Foynes-Commissioning-1.jpeg?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
       "imageCredit": "PICTURE: IARNRÓD ÉIREANN",
       "rewrittenAt": "2026-11-01T11:50:00.458Z"
-    },
-    "9317698": {
-      "skipped": true,
-      "duplicateOf": "9314966",
-      "rewrittenAt": "2026-10-29T11:29:09.021Z"
     },
     "9317720": {
       "headline": "Five family-friendly LEGO sets recommended for winter evenings",
@@ -18047,6 +18046,23 @@
       "imageCredit": "PICTURE: JASON CLARKE PHOTOGRAPHY",
       "rewrittenAt": "2026-11-25T15:34:11.302Z"
     },
+    "9373154": {
+      "headline": "Limerick pupils stand out at Rotary Ireland Youth Leadership event",
+      "summary": "Secondary school students from Limerick demonstrated their public speaking and leadership abilities during the Rotary Ireland competition.",
+      "story": "Limerick secondary school students showcased their public speaking and leadership skills at the Rotary Ireland youth leadership club final.",
+      "localAngle": "The event featured secondary school students from Limerick taking part in the Rotary Ireland competition.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick students ‘shine’ at Rotary Ireland Youth Leadership Club final",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/school-education/limerick-students-shine-at-rotary-ireland-youth-leadership-club-final-9373154",
+      "publishedAt": "Sat, 28 Nov 2026 14:00:32 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/50/DSC_1583.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: PAUL MULLINS",
+      "rewrittenAt": "2026-11-28T14:07:26.646Z"
+    },
     "9373178": {
       "headline": "Defence Forces state opposition Hezbollah claims endanger Irish troops",
       "summary": "Irish Defence Forces warn that false Hezbollah claims made by the opposition put troops at risk following a Dáil vote.",
@@ -18062,6 +18078,28 @@
       "publishedAt": "Wed, 25 Nov 2026 11:49:29 GMT",
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/cs-c6f7766a-884f-4835-9ff0-9a1b60d84336.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-25T15:39:26.581Z"
+    },
+    "9373205": {
+      "headline": "Analog Devices distributes €200,000 to organizations in Limerick and surrounding areas",
+      "summary": "Analog Devices has announced a total of €200,000 in donations to various organizations across Limerick, Cork, Clare, and Galway.",
+      "story": "A wide variety of organizations in Limerick and beyond are set to benefit from this year's awards funded by Analog Devices. The funding is part of a €200k donation initiative spanning multiple counties.",
+      "localAngle": "Limerick organizations are among the recipients of this year's €200k funding awards from Analog Devices.",
+      "section": "Business",
+      "importance": 3,
+      "positivity": 4,
+      "brief": true,
+      "originalTitle": "Limerick organisations to benefit from Analog Devices’ €200k in donations",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/community/limerick-organisations-to-benefit-from-analog-devices-eur200k-in-donations-9373205",
+      "publishedAt": "Sat, 28 Nov 2026 12:00:19 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/11/59/Analog-Community-Awards-027.jpeg?width=1200&auto=webp&trim=0%2C1%2C0%2C0",
+      "imageCredit": "PICTURE: BRIAN ARTHUR",
+      "rewrittenAt": "2026-11-28T14:07:44.777Z"
+    },
+    "9373288": {
+      "skipped": true,
+      "duplicateOf": "https://www.limerickpost.ie/?p=364196",
+      "rewrittenAt": "2026-11-28T14:07:21.211Z"
     },
     "9373576": {
       "headline": "Travel Advice Issued Following Serious Fire at Limerick Business",
@@ -18152,6 +18190,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/25/16/22/JP-McManus-pictured-with-Filey-Bay-says-he-will-enjoy-every-day-between-now-and-the-Ryder-Cup-in-Sep.jpeg?width=1200&auto=webp&trim=378%2C0%2C182%2C1",
       "imageCredit": "PICTURE: SPORTSFILE",
       "rewrittenAt": "2026-11-25T22:25:29.598Z"
+    },
+    "9374459": {
+      "headline": "County Limerick Homeowner Finds Thieves Targeting Vacant Property",
+      "summary": "A homeowner in Newcastle West returned to her vacant property to discover two males in a car in her driveway.",
+      "story": "A Newcastle West homeowner returned to her property to find two males sitting in a car in her driveway as vacant properties in County Limerick are targeted by thieves.",
+      "localAngle": "This incident occurred at a property in Newcastle West, County Limerick.",
+      "section": "News",
+      "importance": 3,
+      "positivity": 2,
+      "brief": true,
+      "originalTitle": "Vacant properties targeted by thieves in County Limerick",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/news/crime-courts/vacant-properties-targeted-by-thieves-in-county-limerick-9374459",
+      "publishedAt": "Fri, 27 Nov 2026 20:00:34 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/19/21/19/Iconicstockimage_backs-of-two-gardai-(new-uniforms).png?width=1200&auto=webp&trim=0%2C31%2C0%2C57",
+      "imageCredit": "File photo",
+      "rewrittenAt": "2026-11-28T14:09:55.792Z"
     },
     "9374519": {
       "headline": "Justice Minister Initiates Prisoner Electronic Tagging Pilot Scheme",
@@ -18277,6 +18332,23 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/15/21/Tapo-Vacuum-in-a-Bright-Living-Room-1.png?width=1200&auto=webp&trim=0%2C232%2C0%2C29",
       "imageCredit": "Tapo",
       "rewrittenAt": "2026-11-27T15:00:14.926Z"
+    },
+    "9376785": {
+      "headline": "Caherline face Kilshannig in Munster JHC clash",
+      "summary": "Caherline are aiming to emulate Blackrock's 2009 success as they prepare to face Cork Premier Junior champions Kilshannig in the Munster JHC.",
+      "story": "Caherline take on Cork Premier Junior champions Kilshannig as they look to secure a rare Limerick victory in the Munster JHC, mirroring Blackrock's achievement from 2009.",
+      "localAngle": "Caherline are carrying Limerick hopes in the provincial club hurling championship.",
+      "section": "Sport",
+      "importance": 3,
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Caherline looking for rare Limerick success in Munster JHC",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/sport/hurling/caherline-looking-for-rare-limerick-success-in-munster-jhc-9376785",
+      "publishedAt": "Sat, 28 Nov 2026 08:30:27 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/26/16/19/Caherline-v-Dr-Crokes-4.jpeg?width=1200&auto=webp&trim=50%2C3%2C152%2C0",
+      "imageCredit": "BRENDAN GLEESON",
+      "rewrittenAt": "2026-11-28T14:09:37.811Z"
     },
     "9377124": {
       "skipped": true,
@@ -18423,84 +18495,42 @@
       "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/27/18/cs-e60463eb-ee42-413a-a160-e49a2bb3bf97.jpg?width=1200&auto=webp&crop=3%3A2",
       "rewrittenAt": "2026-11-27T18:50:51.511Z"
     },
-    "https://www.limerickpost.ie/?p=362585": {
+    "9379831": {
       "skipped": true,
-      "duplicateOf": "9312786",
-      "rewrittenAt": "2026-10-29T11:29:09.022Z"
+      "duplicateOf": "9375480",
+      "rewrittenAt": "2026-11-28T14:07:21.211Z"
     },
-    "https://www.limerickpost.ie/?p=362571": {
-      "skipped": true,
-      "duplicateOf": "https://www.limerickpost.ie/?p=362563",
-      "rewrittenAt": "2026-10-29T11:29:09.022Z"
-    },
-    "https://www.limerickpost.ie/?p=362567": {
-      "skipped": true,
-      "duplicateOf": "https://www.limerickpost.ie/?p=362563",
-      "rewrittenAt": "2026-10-29T11:29:09.022Z"
-    },
-    "https://www.limerickpost.ie/?p=362602": {
-      "headline": "Gardaí seize €644,000 of cocaine and heroin during Old Singland Road search",
-      "summary": "Limerick Gardaí arrested a woman in her 40s after uncovering €490,000 of cocaine and €154,000 of heroin at a residential property on Wednesday.",
-      "story": "Gardaí in Limerick have seized a significant quantity of illegal drugs with an estimated street value of €644,000 following a search on the city's east side.\n\nOfficers attached to the Limerick Divisional Drug Unit carried out the search under warrant at a residential property on Old Singland Road on Wednesday, October 28. During the operation, which formed part of an ongoing targeted campaign against drug distribution in the Mid-West region, officers uncovered €490,000 worth of cocaine alongside €154,000 of heroin.\n\nA woman aged in her 40s was arrested at the scene in connection with the intelligence-led seizure. She is currently being held in Garda custody in the Limerick area under the provisions of Section 2 of the Criminal Justice Act 1996.\n\nGardaí have confirmed that the investigation remains ongoing as officers continue to target the supply of controlled substances across the region.",
-      "localAngle": "The major drugs seizure took place at a residential property on Old Singland Road as part of an operation targeting criminal networks across the Mid-West.",
-      "section": "News",
+    "9379840": {
+      "headline": "Comedian and Presenter PJ Gallagher Passes Away at Age 51",
+      "summary": "Irish comedian and presenter PJ Gallagher has died at the age of 51, drawing tributes from political leaders including Taoiseach Micheál Martin and Tánaiste Simon Harris.",
+      "story": "Taoiseach Micheál Martin and Tánaiste Simon Harris were among those who paid tribute to Gallagher following his death on Friday.",
+      "localAngle": "As a prominent national figure and broadcaster, his passing has prompted nationwide reaction, including from readers across the 061 region.",
+      "section": "Arts & Culture",
       "importance": 5,
-      "positivity": 2,
-      "originalTitle": "Cocaine and heroin valued €644,000 seized in Limerick",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/29/cocaine-and-heroin-valued-e644000-seized-in-limerick/",
-      "publishedAt": "Thu, 29 Oct 2026 10:54:21 +0000",
-      "rewrittenAt": "2026-10-29T11:29:18.731Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/LIMERICK-SEIZURE.jpg",
-      "imageCheckedAt": "2026-10-29T11:30:36.943Z"
-    },
-    "https://www.limerickpost.ie/?p=362583": {
-      "headline": "Limerick Bus Drivers Targeted as Fireworks Thrown into Vehicles Ahead of Halloween",
-      "summary": "Bus services in Limerick, including the 303 and Expressway Route 13, have faced temporary suspensions after gangs threw fireworks into vehicles, terrifying passengers and drivers.",
-      "story": "Bus drivers operating in parts of Limerick are facing dangerous conditions in the run-up to Halloween, with gangs of youths throwing fireworks directly into vehicles. The disruption has forced the temporary suspension of certain services, predominantly impacting the 303 route between Pineview and Kilmallock Road, as well as Expressway Route 13 connecting Limerick and Tralee.\n\nAontú Councillor Sarah Beasley said drivers have contacted her at their wits' end. One driver reported that a firework exploded inside a bus, leaving an elderly passenger terrified. Cllr Beasley noted that drivers are naturally reluctant to enter certain estates after dark, resulting in significant inconvenience for regular public transport users who rely on the services.\n\nBus Éireann confirmed that services have experienced recent anti-social behaviour and will be curtailed wherever there is a risk to safety. Additional security has been arranged across Limerick for the Halloween period, and the company is liaising closely with An Garda Síochána. Officials have also reiterated that the possession, sale, or use of unlicensed fireworks is illegal, carrying penalties of up to €10,000 in fines and five years in prison.\n\nThe recent transport incidents follow an earlier occurrence this month on the 303 route, where child vandals concealed Stanley-type blades in bus seats, causing extensive damage to the upholstery and putting passengers at serious risk.",
-      "localAngle": "Public transport routes across Limerick City and surrounding areas are experiencing severe disruptions and safety hazards due to anti-social behaviour ahead of Halloween.",
-      "section": "News",
-      "importance": 4,
       "positivity": 1,
-      "originalTitle": "Limerick bus drivers “terrorised” in run up to Halloween",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/29/limerick-bus-drivers-terrorised-in-run-up-to-halloween/",
-      "publishedAt": "Thu, 29 Oct 2026 09:00:00 +0000",
-      "rewrittenAt": "2026-10-29T11:29:45.975Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/04/Bus-Eireann-Limerick-City-bus-service_2.jpg",
-      "imageCheckedAt": "2026-10-29T11:30:37.428Z"
+      "brief": true,
+      "originalTitle": "‘Devastating loss’ as Irish comedian and presenter PJ Gallagher dies aged 51",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/national/devastating-loss-as-irish-comedian-and-presenter-pj-gallagher-dies-aged-51-9379840",
+      "publishedAt": "Sat, 28 Nov 2026 09:21:26 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/28/09/cs-2dfc945f-d3e0-4588-bdef-bf7f56c29f56.jpg?width=1200&auto=webp&crop=3%3A2",
+      "rewrittenAt": "2026-11-28T14:09:01.874Z"
     },
-    "https://limerickvoice.com/?p=53250": {
-      "headline": "Limerick striker Ronan Coughlan helps Fleetwood Town knock Arsenal out of Carabao Cup",
-      "summary": "Limerick-born Ronan Coughlan scored in a penalty shootout as League Two side Fleetwood Town pulled off a shock Carabao Cup win against Premier League champions Arsenal.",
-      "story": "Limerick native Ronan Coughlan played a pivotal role on Tuesday night as Fleetwood Town pulled off a major upset, eliminating Premier League champions Arsenal from the Carabao Cup at Highbury Stadium.\n\nThe 30-year-old striker stepped up to score the first penalty in a 5-3 shootout victory after the match ended 1-1 following 120 minutes of play. Aaron Loupalo-Bi had opened the scoring for Fleetwood in the 21st minute before Viktor Gyökeres equalised for Arsenal. The Premier League side was reduced to ten players in the 85th minute when 16-year-old Max Dowman received a red card. Belfast-born teenager Conor Haughey scored the decisive penalty to secure the quarter-final spot for the League Two club.\n\nCoughlan's football journey began locally with Mungret Regional before he progressed to Limerick FC and subsequently moved to English side Huddersfield Town. After spells with Bray Wanderers, Cork City, Sligo Rovers, St Patrick’s Athletic—where he won the 2021 FAI Cup—and Waterford, he joined Fleetwood Town in 2024.",
-      "localAngle": "Limerick-born striker Ronan Coughlan helped secure Fleetwood Town's shock Carabao Cup victory over Arsenal, bringing national attention back to his footballing roots in Mungret Regional.",
-      "section": "Sport",
-      "importance": 4,
-      "positivity": 4,
-      "originalTitle": "Limerick striker stars in shock Carabao Cup upset over Arsenal",
-      "originalSource": "limerickvoice",
-      "originalLink": "https://limerickvoice.com/sport/ronan-coughlan-fleetwood-town-arsenal-carabao-cup/",
-      "publishedAt": "Wed, 28 Oct 2026 20:21:49 +0000",
-      "rewrittenAt": "2026-10-29T11:30:12.554Z",
-      "imageUrl": "https://limerickvoice.com/wp-content/uploads/2026/10/IMG_0550-e1793217146490.jpeg",
-      "imageCheckedAt": "2026-10-29T11:30:37.628Z"
-    },
-    "https://www.limerickpost.ie/?p=362551": {
-      "headline": "Students at Catherine McAuley School celebrate Halloween with fancy dress",
-      "summary": "Students and staff at the Catherine McAuley School marked the mid-term season with a Halloween party featuring costumes and trick-or-treating.",
-      "story": "Students and staff at the Catherine McAuley School recently marked the Halloween season with a festive school party filled with traditional celebrations.\n\nThe event featured a range of spooky costumes worn by students, alongside activities including trick-or-treating.\n\nPhotographs from the day captured the celebrations as the school community gathered to mark the occasion ahead of the mid-term break.",
-      "localAngle": "The event brought together students and staff at the local Limerick school for annual Halloween celebrations.",
+    "9379878": {
+      "headline": "First Report Issued on Long-Term Fiat 600 Petrol Manual Test",
+      "summary": "After two weeks, the reviewer likes the massage seat and proper buttons of the Fiat 600, though sharing it with their wife revealed one missing feature.",
+      "story": "Two weeks into the long-term test of the Fiat 600 petrol manual, the reviewer highlights appreciation for the massage seat and proper buttons while noting a drawback discovered when sharing the vehicle with their wife.",
+      "localAngle": "This motoring review is of interest to drivers across the 061 region following new vehicle reports.",
       "section": "News",
       "importance": 2,
-      "positivity": 4,
-      "originalTitle": "IN PHOTOS: Catherine McAuley School Halloween party",
-      "originalSource": "limerickpost",
-      "originalLink": "https://www.limerickpost.ie/2026/10/28/in-photos-catherine-mcauley-school-halloween-party/",
-      "publishedAt": "Wed, 28 Oct 2026 19:30:45 +0000",
-      "rewrittenAt": "2026-10-29T11:30:23.755Z",
-      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/10/IMG_20261023_190509.jpg",
-      "imageCheckedAt": "2026-10-29T11:30:38.298Z"
+      "positivity": 3,
+      "brief": true,
+      "originalTitle": "Read our Fiat 600 Petrol Manual Long-term test: Report 1, getting to know you ",
+      "originalSource": "limerickleader",
+      "originalLink": "https://www.limerickleader.ie/lifestyle/cars/fiat-600-petrol-long-term-test-fiat-600-la-prima-review-fiat-600-petrol-manual-fiat-600-trim-levels-fiat-600-la-prima-equipment-car-review-9379880",
+      "publishedAt": "Sat, 28 Nov 2026 10:25:10 GMT",
+      "imageUrl": "https://www.limerickleader.ie/jpim-static/image/2026/11/28/8/43/Rainy-Fiat-600-with-Android-Auto-inset.png?width=1200&auto=webp&trim=0%2C261%2C0%2C0",
+      "rewrittenAt": "2026-11-28T14:08:02.850Z"
     },
     "https://limerickvoice.com/?p=53266": {
       "skipped": true,
@@ -24515,6 +24545,112 @@
       "rewrittenAt": "2026-11-27T21:55:02.618Z",
       "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/IMG_0443.jpg",
       "imageCheckedAt": "2026-11-27T21:55:03.054Z"
+    },
+    "https://www.limerickpost.ie/?p=364328": {
+      "skipped": true,
+      "duplicateOf": "9377841",
+      "rewrittenAt": "2026-11-28T14:07:21.210Z"
+    },
+    "https://www.limerickpost.ie/?p=364373": {
+      "skipped": true,
+      "duplicateOf": "9374447",
+      "rewrittenAt": "2026-11-28T14:07:21.211Z"
+    },
+    "https://www.limerickpost.ie/?p=364245": {
+      "headline": "Mayor John Moran to open Limerick's annual Bedford Row Remembrance Tree",
+      "summary": "The Limerick North Munster Rotary Club will erect its annual Remembrance Tree on Bedford Row this Monday, November 30. Mayor John Moran will officially open the charity collection appeal at 4pm.",
+      "story": "Limerick's Bedford Row will host the annual North Munster Rotary Club Remembrance Tree starting this Monday, November 30. The fixture serves as the focal point for local fundraising efforts throughout the festive season.\n\nThis year's initiative will raise funds for three designated beneficiaries: Cuan Mhuire, the Limerick branch of the Red Cross, and the Midwest Simon Community. Members of the Rotary Club and charity volunteers will be present at the tree daily from 10.30am to 4.30pm to accept donations from the public.\n\nMayor of Limerick, John Moran, is scheduled to officially cut the ribbon on the annual appeal on Monday afternoon at 4pm.",
+      "localAngle": "The annual Remembrance Tree on Bedford Row raises vital funds for local Limerick charities including Cuan Mhuire, the Red Cross, and Midwest Simon.",
+      "section": "News",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick North Munster Rotary to erect Rembrance Tree on Monday",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/limerick-north-munster-rotary-to-erect-rembrance-tree-on-monday/",
+      "publishedAt": "Sat, 28 Nov 2026 13:00:45 +0000",
+      "rewrittenAt": "2026-11-28T14:07:36.035Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2017/01/dont-throw-out-your-broken-bulbs-turn-them-into-better-christmas-tree-ornaments.w1456.jpg",
+      "imageCheckedAt": "2026-11-28T14:09:56.173Z"
+    },
+    "https://www.limerickpost.ie/?p=364231": {
+      "headline": "Chad Allan cleared of attempted murder but convicted of arson in Limerick trial",
+      "summary": "A Central Criminal Court jury sitting in Limerick has cleared 28-year-old Chad Allan of attempted murder, but found him guilty of arson following a petrol attack near Cahir in October 2025.",
+      "story": "A Limerick jury has acquitted 28-year-old Chad Allan of the attempted murder of a man who testified he was doused in petrol and set on fire. The Central Criminal Court trial, sitting in Limerick, concluded with the jury returning a unanimous guilty verdict against Mr Allan on a single charge of arson regarding a car driven by the victim, Patrick Williams, on the night of October 11, 2025.\n\nAlong with the attempted murder charge, Mr Allan, of Cahir, County Tipperary, was also cleared of assaulting Mr Williams to cause serious harm, and of stealing petrol from a filling station on the same date. Mr Allan had denied all four charges brought against him. He was remanded in custody to appear for sentencing at the Criminal Courts of Justice in Dublin next Monday.\n\nDuring the trial, Mr Williams told the court he went \"up in flames\" and suffered severe agony after his car was rammed near Cahir. CCTV footage played to the jury showed two separate fireballs exploding in a yard, followed by a man screaming in distress. Mr Williams recounted managing to put out the flames by rolling on the ground and removing his burning clothes before fleeing naked to a nearby house. \n\nAnother man, 29-year-old Luke Caplice of Knockane, Ballylooby, County Tipperary, previously pleaded guilty to the attempted murder of Mr Williams at the same location and date, and is currently awaiting sentence.",
+      "localAngle": "The trial took place at the Central Criminal Court sitting in Limerick, where the jury deliberated and delivered its verdicts.",
+      "section": "Courts",
+      "importance": 4,
+      "positivity": 1,
+      "originalTitle": "Man found not guilty of attempted murder but guilty of arson following petrol attack",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/man-found-not-guilty-of-attempted-murder-but-guilty-of-arson-following-petrol-attack/",
+      "publishedAt": "Sat, 28 Nov 2026 11:00:58 +0000",
+      "rewrittenAt": "2026-11-28T14:07:54.567Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/05/pexels-boko-shots-812604874-33678872.jpg",
+      "imageCheckedAt": "2026-11-28T14:09:56.592Z"
+    },
+    "https://www.limerickpost.ie/?p=364167": {
+      "headline": "Limerick Singer-Songwriter Louise O'Flanagan Releases New Single 'A Broken Heart'",
+      "summary": "Limerick and Clare-based singer-songwriter Louise O'Flanagan has released her second single, 'A Broken Heart', following her debut in September after three decades of songwriting.",
+      "story": "Limerick singer-songwriter Louise O'Flanagan has released her second single, 'A Broken Heart', continuing her six-song musical project titled Where the Heart Listens.\n\nThe tender acoustic ballad is built around an unhurried melody and a soft, recurring vocal motif. The track traces a journey through heartbreak and distrust towards trusting in love again. O'Flanagan wrote and composed the song, which was produced by Jon O'Connell.\n\nRecording for the track took place at Malbay Studios in County Clare, engineered by Martin O'Malley. The single was subsequently mastered by Richard Dowling at WAV Mastering.\n\nO'Flanagan, who divides her time between Limerick and Kilkee, County Clare, previously released her debut single 'Crooked Crown' in September. That release marked a milestone following more than three decades of songwriting.",
+      "localAngle": "The artist divides her time between Limerick and County Clare, with her latest project continuing her local musical endeavours.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick singer-songwriter Louise O’Flanagan follows debut single with tender ballad A Broken Heart",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/limerick-singer-songwriter-louise-oflanagan-follows-debut-single-with-tender-ballad-a-broken-heart/",
+      "publishedAt": "Sat, 28 Nov 2026 09:20:39 +0000",
+      "rewrittenAt": "2026-11-28T14:09:11.319Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/LOUISE-O-FLAN-artworks-OkYqrNmMzArCnoZw-YMWm3w-t500x500.jpg",
+      "imageCheckedAt": "2026-11-28T14:09:56.800Z"
+    },
+    "https://www.limerickpost.ie/?p=364196": {
+      "headline": "Limerick Records 14 Femicide Deaths Since 1996 as National Figures Surge",
+      "summary": "A new report from Women's Aid reveals that 14 women have died violently in Limerick since 1996, marking the fourth highest total in the country as national femicide figures nearly double.",
+      "story": "Limerick has recorded 14 violent deaths of women since 1996, according to the latest Femicide Watch Report published by Women’s Aid. The figure places Limerick as having the fourth highest total for women murdered in the country over the last three decades.\n\nNationally, the report shows a nearly 50 per cent increase in women killed so far this year, with fatalities rising from seven in 2025 to 13 in 2026. Across the 30-year period since Women's Aid began tracking, 291 women have died violently in Ireland. Dublin recorded the highest total at 86, followed by Cork with 30, and Galway with 16.\n\nData from resolved cases indicates that 57 per cent of victims were killed by a current or former partner, while 89 per cent were killed by a man they knew. Furthermore, two in three women were killed in their own homes.\n\n“Our findings match what UN and EU data show: the most dangerous place for a woman is her own home, and the most likely killer is a man she knows, very often a current or former partner,” said Women’s Aid CEO Sarah Benson. “Intimate partner femicide rarely comes out of nowhere. Separation, coercive control, non-fatal strangulation, threats to kill and stalking are all known warning signs.”\n\nFor anyone affected by domestic abuse, Women’s Aid operates a 24-hour helpline at 1800 341 900.",
+      "localAngle": "Limerick accounts for 14 of the 291 violent deaths of women recorded nationally since 1996, giving the county the fourth highest total in Ireland.",
+      "section": "News",
+      "importance": 5,
+      "positivity": 1,
+      "originalTitle": "14 women murdered in Limerick since 1996 as gender violence numbers soar",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/14-women-murdered-in-limerick-since-1996-as-gender-violence-numbers-soar/",
+      "publishedAt": "Sat, 28 Nov 2026 09:00:29 +0000",
+      "rewrittenAt": "2026-11-28T14:09:20.618Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2025/02/Domestic-abuse-woman-dark-violence-scaled.avif",
+      "imageCheckedAt": "2026-11-28T14:09:56.975Z"
+    },
+    "https://www.limerickpost.ie/?p=364137": {
+      "headline": "Limerick artist and musician Peter Donnelly launches new solo exhibition in Tipperary",
+      "summary": "Limerick singer-songwriter Peter Donnelly opens his new solo exhibition, 'Unbroken Threads', at At 6s & 7s Gallery on Davis Street in Tipperary Town. The physical exhibition runs from December 4 until December 19.",
+      "story": "Limerick artist, musician, and songwriter Peter Donnelly is set to open a new solo exhibition titled 'Unbroken Threads' on Friday, December 4.\n\nRunning until Saturday, December 19, the showcase marks the first physical exhibition in some time from the frontman of The O'Malley's. The collection is being hosted at the At 6s & 7s Gallery on Davis Street in Tipperary Town.\n\nDonnelly's artwork explores humanity's oldest tradition of self-expression alongside his music. The exhibition's title and theme draw inspiration from a theory by physicist Richard Feynman regarding patterns of atoms and energy forming the universe.\n\n\"We are like a wave in the sea, where the molecules change constantly, but the shape of the wave remains the same as it finds land,\" Donnelly said.",
+      "localAngle": "Limerick musician and artist Peter Donnelly is launching his first physical exhibition in some time, bringing his work from Treaty City shores to neighbouring Tipperary Town.",
+      "section": "Arts & Culture",
+      "importance": 2,
+      "positivity": 4,
+      "originalTitle": "Limerick artist Peter Donnelly to open solo exhibition",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/limerick-artist-peter-donnelly-to-open-solo-exhibition/",
+      "publishedAt": "Sat, 28 Nov 2026 08:50:38 +0000",
+      "rewrittenAt": "2026-11-28T14:09:29.193Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2026/11/peter-o-malley-copy.jpg",
+      "imageCheckedAt": "2026-11-28T14:09:57.152Z"
+    },
+    "https://www.limerickpost.ie/?p=364336": {
+      "headline": "Limerick's Cillian Murphy fires Republic of Ireland into U-17 World Cup knock-outs",
+      "summary": "Ballybricken native Cillian Murphy scored three goals as the Republic of Ireland U-17 squad advanced to the knockout stages of the World Cup in Qatar as group runners-up.",
+      "story": "Limerick teenager Cillian Murphy has played a starring role in helping the Republic of Ireland secure their place in the knockout stages of the 2026 U-17 World Cup in Qatar. \n\nJohn Cotter’s side bounced back from a narrow 2-1 defeat against group winners Brazil in their opening fixture to secure crucial victories over Costa Rica (2-0) and Tanzania (3-1). Murphy has emerged as Ireland's standout performer of the tournament, netting three goals across the recent fixtures, including a crucial double in Friday's win against Tanzania.\n\nThe Ballybricken youngster arrives on the international stage following a breakthrough season with League of Ireland Premier Division side Cork City. His impressive form has already caught the attention of European heavyweights Arsenal and Borussia Dortmund ahead of an expected major transfer when he turns 18 next summer.\n\nIreland will now prepare for a last-32 tie, which is scheduled for Monday and will be broadcast live on RTÉ2 television.",
+      "localAngle": "Ballybricken native Cillian Murphy is starring for the Republic of Ireland at the U-17 World Cup.",
+      "section": "Sport",
+      "importance": 5,
+      "positivity": 4,
+      "originalTitle": "Outstanding Cillian Murphy helps ROI into knock-outs at World Cup",
+      "originalSource": "limerickpost",
+      "originalLink": "https://www.limerickpost.ie/2026/11/28/outstanding-cillian-murphy-helps-roi-into-knock-outs-at-world-cup/",
+      "publishedAt": "Sat, 28 Nov 2026 07:30:09 +0000",
+      "rewrittenAt": "2026-11-28T14:09:47.389Z",
+      "imageUrl": "https://www.limerickpost.ie/site/wp-content/uploads/2020/05/Junior-Soccer-Stock-0002-1080x720-1.jpg",
+      "imageCheckedAt": "2026-11-28T14:09:57.315Z"
     }
   }
 }
